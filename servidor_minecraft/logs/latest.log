@@ -1917,3 +1917,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [19Dec2024 23:21:35.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
 [19Dec2024 23:21:49.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has reached the goal [The Ray Cat Solution]
 [19Dec2024 23:21:49.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Best Friends Forever]
+[19Dec2024 23:23:17.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Gassed Up]
+[19Dec2024 23:23:27.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Gassed Up]
+[19Dec2024 23:24:56.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[19Dec2024 23:26:11.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
+[19Dec2024 23:31:14.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind

@@ -4904,6 +4904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 23:28:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 22:42:37 +0000"
@@ -4994,6 +5000,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2024-12-19 23:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-19 21:57:47 +0000"
@@ -5012,9 +5024,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2024-12-19 23:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-19 22:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-19 23:21:49 +0000"
     },
     "done": true
   },
@@ -5069,6 +5093,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2024-12-19 21:57:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2024-12-19 23:28:57 +0000"
     },
     "done": true
   },
@@ -5129,6 +5159,12 @@
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 22:42:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_shrub": {
+    "criteria": {
+      "has_jungle_sapling": "2024-12-19 23:30:32 +0000"
     },
     "done": true
   },
@@ -5263,6 +5299,12 @@
       "green_soylent": "2024-12-19 23:14:00 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 23:28:57 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {

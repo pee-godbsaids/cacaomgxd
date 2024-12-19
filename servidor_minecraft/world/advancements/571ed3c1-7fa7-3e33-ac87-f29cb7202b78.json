@@ -6804,6 +6804,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 23:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-19 23:30:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/orange_maple_shrub": {
     "criteria": {
       "has_orange_maple_sapling": "2024-12-19 22:24:20 +0000"
@@ -6819,6 +6831,12 @@
   "alexscaves:alexscaves/uranium": {
     "criteria": {
       "uranium": "2024-12-19 22:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-19 23:30:09 +0000"
     },
     "done": true
   },
@@ -6840,9 +6858,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:30:19 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/pale": {
     "criteria": {
       "has_planks": "2024-12-19 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2024-12-19 23:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:30:19 +0000"
     },
     "done": true
   },
@@ -6864,9 +6900,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:30:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/yellow_dye_from_tall_yellow_bioshroom": {
     "criteria": {
       "has_tall_yellow_bioshroom": "2024-12-19 20:20:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2024-12-19 23:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:30:19 +0000"
     },
     "done": true
   },
@@ -6888,6 +6948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:30:19 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/bricks_from_etched": {
     "criteria": {
       "has_item": "2024-12-19 21:01:44 +0000"
@@ -6897,6 +6963,12 @@
   "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
     "criteria": {
       "has_logs": "2024-12-19 22:40:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_shrub": {
+    "criteria": {
+      "has_jungle_sapling": "2024-12-19 23:30:08 +0000"
     },
     "done": true
   },
@@ -6942,6 +7014,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:30:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "pants": "2024-12-19 23:22:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:30:19 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/netherdepthsupgrade/fortress_grouper_plate": {
     "criteria": {
       "has_fortress_grouper": "2024-12-19 20:20:36 +0000"
@@ -6955,6 +7045,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 23:30:08 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/soul_soil_layer": {
     "criteria": {
       "has_item": "2024-12-19 21:01:57 +0000"
@@ -6967,9 +7063,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2024-12-19 23:21:09 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/uranium_rod": {
     "criteria": {
       "limestone": "2024-12-19 23:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:30:19 +0000"
     },
     "done": true
   },
