@@ -1,0 +1,86 @@
+
+#Server options
+[server]
+	#Specifies if a warning should be printed out to server operators if flying is disabled.
+	#Default: true
+	flyingEnabledWarning = true
+
+	#Playing dead
+	[server.playing_dead]
+		revivalPlayerProtection = 4
+
+	#Misc
+	[server.misc]
+		#Specifies the rotation speed of the Wither Storm.
+		#Default: 0.1
+		#Range: 0.1 ~ 1.0
+		rotationSpeed = 0.3
+		#Specifies if only the end of phase five can be formidibombed, instead of all of phase 5.
+		#Default: false
+		endOfPhaseFiveBombableExclusively = true
+		#Specifies the phase the Wither Storm should be set to when resummoned by a withered beacon.
+		#Default: 4
+		#Range: 0 ~ 7
+		resummonedPhase = 5
+		#Toggle to enable/disable Wither Storm chunk loading when no players are online.
+		#Default: false
+		shouldChunkLoadWhenNoPlayers = false
+		#Specifies the invulnerability time when the Wither Storm has been summoned, in seconds. When invulnerable, the Wither Storm doesn't move and can't be attacked.
+		#Default: 50
+		#Range: 1 ~ 320
+		invulnerabilityTime = 50
+		#Specifies the height the Wither Storm will fly at during phase 4 and up.
+		#Default: 75
+		#Range: 10 ~ 150
+		flyingHeight = 75
+		#Makes the Wither Storm randomly adjust it's flying height itself between 40 and 80.
+		#Default: false
+		dynamicFlyingHeight = false
+		#The time (in seconds) that the Wither Storm should take before adjusting it's dynamic flying height.
+		#Default: 60
+		#Range: 15 ~ 1200
+		dynamicFlyingHeightTime = 60
+		#If the Wither Storm's ultimate target has a command block tool and the Wither Storm is at phase 7, a timer specified by this value (in minutes) + random will countdown until the hole will automatically appear.
+		#Default: 6
+		#Range: 1 ~ 30
+		tillShouldShowHole = 6
+		#Specifies if the bowels entrance hole in the Wither Storm's mass at the end of phase 7 should be available or not.
+		#Default: true
+		shouldShowHole = true
+		#Specifies if the Wither Storm should regenerate its health and be melee attackable.
+		#Default: true
+		witherStormInvulnerability = true
+		#The Wither Storm's bossbar and boss music will automatically toggle based on whether the player is underground or not. Disable to revert back to default bossbar/boss theme logic.
+		#Default: true
+		smartBossbar = true
+		#Specifies if players should spawn somewhere random when entering the bowels. Disable to revert to a static entrance position.
+		#Default: true
+		randomBowelsEntrance = true
+		#Specifies if crossbows should be able to also shoot ender pearls. Disable if facing compatibility issues.
+		#Default: true
+		crossbowsSupportEnderPearls = true
+		#Specifies if players should temporarily respawn away from the Wither Storm when they die to it, if their respawn point is near the Storm.
+		#Default: true
+		preventWitherStormCamping = true
+		#Specifies if max strength damange resistance should be given to the player when falling out of the bowels, to mitigate fall damage.
+		#Default: true
+		bowelsFallResistance = true
+		#Specifies if the Wither Storm's heads can be attacked.
+		#Default: true
+		canAttackHeads = true
+		#Specifies if global sounds made by the Wither Storm (e.x. evolve sound) should play cross dimensionally.
+		#Default: false
+		shouldPlayGlobalSoundsCrossDimensionally = false
+		#Makes the Wither Storm attempt to only grab blocks that were tagged in the Tractor Distractions json.
+		#Default: false
+		onlyTryPickingUpTractorTagged = false
+		#CAUTION THIS WILL BE EXTREMELY LAGGY, THIS SETS THE WITHER STORM TO HAVE NO SMALL CLUSTER COOLDOWN.
+		#Default: false
+		constantBlackhole = false
+		#Specifies if a Wither Storm head should immediately kill the player upon biting them. Does not apply to heads inside the bowels.
+		#Default: false
+		instantChomp = false
+		#Specifies if the Wither Storm should heal whenever it eats a mob (determined by half the mob's max health).
+		#Default: false
+		healFromChomp = false
+

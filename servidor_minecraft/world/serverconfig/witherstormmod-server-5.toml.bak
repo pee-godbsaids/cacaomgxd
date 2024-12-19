@@ -1,0 +1,35 @@
+
+#Server options
+[server]
+	#Specifies if a warning should be printed out to server operators if flying is disabled.
+	#Default: true
+	flyingEnabledWarning = true
+
+	#Misc
+	[server.misc]
+		rotationSpeed = 0.3
+		endOfPhaseFiveBombableExclusively = true
+		resummonedPhase = 5
+
+	#Playing dead
+	[server.playing_dead]
+		#Specifies the time (in minutes) after being revived that the Wither Storm should ignore players.
+		#Default: 3
+		#Range: 1 ~ 40
+		revivalPlayerProtection = 4
+		#Specifies if the Wither Storm should automatically revive if not found after a period of time.
+		#Default: true
+		revivalTimer = true
+		#Specifies when (in minutes) the Wither Storm will automatically revive when playing dead.
+		#Default: 60
+		#Range: 1 ~ 120
+		revivalTimeMinutes = 1
+
+	[server.roaring]
+		minimumRoarInterval = 10
+		maximumRoarInterval = 20
+
+	[server.flaming_skulls]
+		flamingSkullExplosionSize = 7.0
+		flamingSkullSpeedModifier = 1.2
+
