@@ -7518,3 +7518,63 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [19Dec2024 22:19:39.071] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
 [19Dec2024 22:19:45.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 22:19:45.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:22:32.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[19Dec2024 22:22:40.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[19Dec2024 22:23:15.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19Dec2024 22:23:34.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3933ms or 78 ticks behind
+[19Dec2024 22:23:42.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Magic Writing]
+[19Dec2024 22:24:03.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[19Dec2024 22:24:21.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3390ms or 67 ticks behind
+[19Dec2024 22:24:27.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 22:24:32.310] [Worker-Main-126/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[19Dec2024 22:24:32.320] [Worker-Main-126/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[19Dec2024 22:24:32.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[19Dec2024 22:24:38.176] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[19Dec2024 22:24:38.792] [Worker-Main-126/DEBUG] [ModernFix/]: Structure terralith:regular/glacial/interior1 is being run through DFU (hash 177372923eb6a9e054ad90ce38060773071dda764cda7ec65d128eaf3642ed6f), this will cause launch time delays
+[19Dec2024 22:24:43.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 4.5800348158145425,-1.3693736602695026,8.824295265550973
+[19Dec2024 22:24:43.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6428ms or 128 ticks behind
+[19Dec2024 22:24:47.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 22:24:48.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 22:24:49.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 22:25:02.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 22:25:05.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7452ms or 149 ticks behind
+[19Dec2024 22:25:13.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 22:25:13.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:25:13.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 5.5252247878679555,0.41999998688697815,8.351673636233045
+[19Dec2024 22:25:34.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13536ms or 270 ticks behind
+[19Dec2024 22:25:34.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 1.1746034897360005,-0.2712241076924897,10.025126693270522
+[19Dec2024 22:25:40.890] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[19Dec2024 22:25:48.465] [Worker-Main-132/DEBUG] [ModernFix/]: Structure terralith:regular/glacial/interior216 is being run through DFU (hash def980a590938a160cf7d587e79b8970eedf518c4a8dfdc0d865db9f0dc65ce8), this will cause launch time delays
+[19Dec2024 22:27:11.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [...And My Axe!]
+[19Dec2024 22:27:15.131] [Worker-Main-132/DEBUG] [ModernFix/]: Structure terralith:regular/glacial/interior2 is being run through DFU (hash 6dedf627f70e92d0c4de628846bbc67f90a7607bd719158f74232f99848480ba), this will cause launch time delays
+[19Dec2024 22:27:31.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[19Dec2024 22:28:12.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 22:28:27.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[19Dec2024 22:28:33.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 22:28:35.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 22:28:36.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 22:28:39.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 22:28:39.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[19Dec2024 22:29:00.438] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[19Dec2024 22:29:18.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[19Dec2024 22:30:24.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 22:30:24.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:30:24.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 1.7665469340654454,0.0,10.020912821391192
+[19Dec2024 22:30:24.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 1.8121081324734405,0.0,10.279363241520088
+[19Dec2024 22:30:24.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 1.8531132099542447,0.0,10.511968613474153
+[19Dec2024 22:30:24.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 1.8900177787099892,0.0,10.721313442687062
+[19Dec2024 22:30:24.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 1.9232318897102232,0.0,10.909723783987516
+[19Dec2024 22:30:24.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 1.9531245888183548,0.0,11.07929308666587
+[19Dec2024 22:30:24.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 1.9800280173030842,0.0,11.23190545503354
+[19Dec2024 22:30:24.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 2.004241102297783,0.0,11.369256582925885
+[19Dec2024 22:30:24.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 2.0260328782160286,0.0,11.492872594754289
+[19Dec2024 22:30:24.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 2.0456454760224005,0.0,11.604127002452628
+[19Dec2024 22:30:24.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 2.063296813580564,0.0,11.704255966728624
+[19Dec2024 22:30:24.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 2.079183016961906,0.0,11.794372032189756
+[19Dec2024 22:30:24.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 2.093480599626673,0.0,11.875476488956224
+[19Dec2024 22:30:24.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 2.106348423683812,0.0,11.948470498112385
+[19Dec2024 22:30:24.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 2.1179294650282827,0.0,12.014165104612601
+[19Dec2024 22:30:24.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 2.1283524019627293,0.0,12.073290248896512
+[19Dec2024 22:30:24.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of quipit0s) moved too quickly! 2.1377330449549845,0.0,12.126502877342375
+[19Dec2024 22:30:24.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19Dec2024 22:30:58.923] [Worker-Main-133/DEBUG] [ModernFix/]: Structure terralith:village/fortified/start_castle is being run through DFU (hash 6f4590aebb6753de05226c0d12fb8db277493b3c90da83f6e18fd394b95a53d5), this will cause launch time delays
