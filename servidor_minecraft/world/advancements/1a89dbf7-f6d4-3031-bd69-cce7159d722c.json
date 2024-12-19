@@ -2415,6 +2415,7 @@
       "autumnal_maple_forest": "2024-12-15 00:51:27 +0000",
       "frozen_tundra": "2024-12-15 00:56:15 +0000",
       "redstone_caves": "2024-12-16 22:56:37 +0000",
+      "scorching_caves": "2024-12-19 20:52:42 +0000",
       "rocky_meadow": "2024-12-15 02:57:33 +0000",
       "mycotoxic_undergrowth": "2024-12-15 01:34:07 +0000",
       "ochard": "2024-12-17 01:57:09 +0000",
@@ -3279,7 +3280,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "redstone_caves": "2024-12-16 22:56:37 +0000"
+      "redstone_caves": "2024-12-16 22:56:37 +0000",
+      "scorching_caves": "2024-12-19 20:52:42 +0000"
     },
     "done": false
   },
@@ -4646,6 +4648,42 @@
     },
     "done": true
   },
+  "witherstormmod:main/activate_super_beacon": {
+    "criteria": {
+      "activate_super_beacon": "2024-12-19 19:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-19 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-19 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-19 19:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 19:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-19 19:52:54 +0000"
@@ -4664,27 +4702,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
-    "criteria": {
-      "has_log": "2024-12-19 19:52:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-19 19:55:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-19 19:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-19 19:52:41 +0000"
     },
     "done": true
   },
@@ -4700,15 +4720,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-19 19:52:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 19:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-19 19:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 19:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 19:52:57 +0000"
     },
     "done": true
   },
@@ -4718,39 +4750,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
-    "criteria": {
-      "has_log": "2024-12-19 20:01:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-19 19:52:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-12-19 20:01:46 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:main/activate_super_beacon": {
-    "criteria": {
-      "activate_super_beacon": "2024-12-19 19:37:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-19 19:52:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-19 20:01:46 +0000"
     },
     "done": true
   },
@@ -4763,12 +4765,6 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-19 19:52:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/oak_shrub": {
-    "criteria": {
-      "has_oak_sapling": "2024-12-19 20:02:01 +0000"
     },
     "done": true
   },
@@ -4796,15 +4792,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_log": "2024-12-19 19:52:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-19 19:52:42 +0000"
+      "slept_in_bed": "2024-12-19 19:55:17 +0000"
     },
     "done": true
   },
@@ -4814,15 +4804,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
-      "has_planks": "2024-12-19 19:52:54 +0000"
+      "has_log": "2024-12-19 20:01:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_planks": "2024-12-19 19:52:54 +0000"
+      "has_logs": "2024-12-19 20:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 20:01:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-19 20:02:01 +0000"
     },
     "done": true
   },

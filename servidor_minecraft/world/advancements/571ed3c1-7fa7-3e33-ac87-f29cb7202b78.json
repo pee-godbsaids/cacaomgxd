@@ -6773,5 +6773,53 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2024-12-19 20:39:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/yellow_dye_from_tall_yellow_bioshroom": {
+    "criteria": {
+      "has_tall_yellow_bioshroom": "2024-12-19 20:20:09 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2024-12-19 20:47:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2024-12-19 20:39:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_snack": {
+    "criteria": {
+      "earlight": "2024-12-19 20:19:31 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/fortress_grouper_plate": {
+    "criteria": {
+      "has_fortress_grouper": "2024-12-19 20:20:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/yellow_bioshroom_from_tall_yellow_bioshroom": {
+    "criteria": {
+      "has_tall_yellow_bioshroom": "2024-12-19 20:20:09 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2024-12-19 20:47:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
