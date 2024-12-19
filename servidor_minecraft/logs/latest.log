@@ -1901,3 +1901,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [19Dec2024 22:58:07.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Bath Bomb]
 [19Dec2024 23:00:57.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
 [19Dec2024 23:01:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[19Dec2024 23:06:00.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
+[19Dec2024 23:11:03.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2561ms or 51 ticks behind
+[19Dec2024 23:11:38.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Bath Bomb]
+[19Dec2024 23:11:42.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ was slain by Brainiac
+[19Dec2024 23:11:42.404] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerRCJ with unique ID travelersbackpack.blaze_19.12.2024-23.11.42.dat
+[19Dec2024 23:11:42.415] [Server thread/INFO] [tombstone/]: The player GamerRCJ has successfully been saved
+[19Dec2024 23:12:38.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Brains and Brawn]
+[19Dec2024 23:13:39.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Hot Rod]
+[19Dec2024 23:16:06.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2774ms or 55 ticks behind
+[19Dec2024 23:16:06.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Smelly Situation]
+[19Dec2024 23:20:44.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[19Dec2024 23:21:09.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Crisis Adverted]
+[19Dec2024 23:21:09.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3440ms or 68 ticks behind
+[19Dec2024 23:21:35.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[19Dec2024 23:21:49.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has reached the goal [The Ray Cat Solution]
+[19Dec2024 23:21:49.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Best Friends Forever]

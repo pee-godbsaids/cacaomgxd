@@ -5060,6 +5060,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2024-12-19 23:11:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2024-12-19 21:57:47 +0000"
@@ -5137,12 +5143,6 @@
       "has_stone_bricks": "2024-12-19 21:38:23 +0000"
     },
     "done": true
-  },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2024-12-19 22:54:21 +0000"
-    },
-    "done": false
   },
   "regions_unexplored:recipes/decorations/eucalyptus_shrub": {
     "criteria": {
@@ -5258,6 +5258,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "green_soylent": "2024-12-19 23:14:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-19 21:57:47 +0000"
@@ -5282,6 +5288,43 @@
     },
     "done": true
   },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit8": "2024-12-19 23:11:32 +0000",
+      "nbit3": "2024-12-19 23:11:32 +0000",
+      "nbit15": "2024-12-19 23:11:32 +0000",
+      "nbit5": "2024-12-19 23:11:32 +0000",
+      "nbit0": "2024-12-19 23:11:32 +0000",
+      "nbit17": "2024-12-19 23:11:32 +0000",
+      "nbit2": "2024-12-19 23:11:32 +0000",
+      "nbit22": "2024-12-19 23:11:32 +0000",
+      "nbit21": "2024-12-19 23:11:32 +0000",
+      "bit20": "2024-12-19 23:11:32 +0000",
+      "nbit26": "2024-12-19 23:11:32 +0000",
+      "nbit25": "2024-12-19 23:11:32 +0000",
+      "nbit24": "2024-12-19 23:11:32 +0000",
+      "nbit23": "2024-12-19 23:11:32 +0000",
+      "nbit29": "2024-12-19 23:11:32 +0000",
+      "nbit28": "2024-12-19 23:11:32 +0000",
+      "nbit27": "2024-12-19 23:11:32 +0000",
+      "nbit31": "2024-12-19 23:11:32 +0000",
+      "nbit30": "2024-12-19 23:11:32 +0000",
+      "bit9": "2024-12-19 23:11:32 +0000",
+      "bit18": "2024-12-19 23:11:32 +0000",
+      "bit19": "2024-12-19 23:11:32 +0000",
+      "bit7": "2024-12-19 23:11:32 +0000",
+      "bit16": "2024-12-19 23:11:32 +0000",
+      "bit14": "2024-12-19 23:11:32 +0000",
+      "bit6": "2024-12-19 23:11:32 +0000",
+      "bit4": "2024-12-19 23:11:32 +0000",
+      "bit1": "2024-12-19 23:11:32 +0000",
+      "nbit10": "2024-12-19 23:11:32 +0000",
+      "bit12": "2024-12-19 23:11:32 +0000",
+      "bit13": "2024-12-19 23:11:32 +0000",
+      "bit11": "2024-12-19 23:11:32 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/sulfur_dust": {
     "criteria": {
       "sulfur_dust": "2024-12-19 22:51:56 +0000"
@@ -5297,6 +5340,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-19 21:38:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2024-12-19 23:12:38 +0000"
     },
     "done": true
   },

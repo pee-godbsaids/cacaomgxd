@@ -6948,9 +6948,28 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "green_soylent": "2024-12-19 23:13:51 +0000",
+      "spelunkie": "2024-12-19 23:14:05 +0000"
+    },
+    "done": false
+  },
   "netherexp:recipes/misc/soul_soil_layer": {
     "criteria": {
       "has_item": "2024-12-19 21:01:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2024-12-19 23:16:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2024-12-19 23:13:39 +0000"
     },
     "done": true
   },
