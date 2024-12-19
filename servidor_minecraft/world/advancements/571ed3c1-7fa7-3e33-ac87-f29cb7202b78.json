@@ -6773,6 +6773,55 @@
     },
     "done": true
   },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit9": "2024-12-19 21:03:52 +0000",
+      "nbit15": "2024-12-19 21:03:52 +0000",
+      "nbit3": "2024-12-19 21:03:52 +0000",
+      "nbit14": "2024-12-19 21:03:52 +0000",
+      "nbit4": "2024-12-19 21:03:52 +0000",
+      "nbit5": "2024-12-19 21:03:52 +0000",
+      "nbit13": "2024-12-19 21:03:52 +0000",
+      "nbit12": "2024-12-19 21:03:52 +0000",
+      "nbit0": "2024-12-19 21:03:52 +0000",
+      "nbit17": "2024-12-19 21:03:52 +0000",
+      "nbit1": "2024-12-19 21:03:52 +0000",
+      "nbit22": "2024-12-19 21:03:52 +0000",
+      "nbit21": "2024-12-19 21:03:52 +0000",
+      "bit20": "2024-12-19 21:03:52 +0000",
+      "nbit26": "2024-12-19 21:03:52 +0000",
+      "nbit25": "2024-12-19 21:03:52 +0000",
+      "nbit24": "2024-12-19 21:03:52 +0000",
+      "nbit23": "2024-12-19 21:03:52 +0000",
+      "nbit29": "2024-12-19 21:03:52 +0000",
+      "nbit28": "2024-12-19 21:03:52 +0000",
+      "nbit27": "2024-12-19 21:03:52 +0000",
+      "nbit31": "2024-12-19 21:03:52 +0000",
+      "nbit30": "2024-12-19 21:03:52 +0000",
+      "bit18": "2024-12-19 21:03:52 +0000",
+      "bit19": "2024-12-19 21:03:52 +0000",
+      "bit7": "2024-12-19 21:03:52 +0000",
+      "bit16": "2024-12-19 21:03:52 +0000",
+      "bit8": "2024-12-19 21:03:52 +0000",
+      "bit6": "2024-12-19 21:03:52 +0000",
+      "bit2": "2024-12-19 21:03:52 +0000",
+      "nbit10": "2024-12-19 21:03:52 +0000",
+      "bit11": "2024-12-19 21:03:52 +0000"
+    },
+    "done": false
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2024-12-19 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2024-12-19 21:01:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2024-12-19 20:39:00 +0000"
@@ -6782,6 +6831,30 @@
   "regions_unexplored:recipes/misc/yellow_dye_from_tall_yellow_bioshroom": {
     "criteria": {
       "has_tall_yellow_bioshroom": "2024-12-19 20:20:09 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2024-12-19 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2024-12-19 21:01:44 +0000"
     },
     "done": true
   },
@@ -6803,9 +6876,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2024-12-19 21:01:44 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/netherdepthsupgrade/fortress_grouper_plate": {
     "criteria": {
       "has_fortress_grouper": "2024-12-19 20:20:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2024-12-19 21:01:57 +0000"
     },
     "done": true
   },
