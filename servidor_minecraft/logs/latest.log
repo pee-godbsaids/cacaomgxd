@@ -1894,3 +1894,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [19Dec2024 22:50:06.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
 [19Dec2024 22:50:52.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2673ms or 53 ticks behind
 [19Dec2024 22:51:56.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Smelly Situation]
+[19Dec2024 22:53:17.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [THE OOOOOOOOZE]
+[19Dec2024 22:53:28.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [THE OOOOOOOOZE]
+[19Dec2024 22:53:56.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[19Dec2024 22:55:55.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2595ms or 51 ticks behind
+[19Dec2024 22:58:07.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Bath Bomb]
+[19Dec2024 23:00:57.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[19Dec2024 23:01:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]

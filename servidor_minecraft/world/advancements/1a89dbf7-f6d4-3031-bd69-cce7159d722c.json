@@ -5138,6 +5138,12 @@
     },
     "done": true
   },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2024-12-19 22:54:21 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/decorations/eucalyptus_shrub": {
     "criteria": {
       "has_eucalyptus_sapling": "2024-12-19 22:40:26 +0000"
@@ -5276,6 +5282,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2024-12-19 22:51:56 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 22:42:37 +0000"
@@ -5297,6 +5309,12 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone": {
     "criteria": {
       "has_stone": "2024-12-19 21:38:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2024-12-19 22:53:28 +0000"
     },
     "done": true
   },
