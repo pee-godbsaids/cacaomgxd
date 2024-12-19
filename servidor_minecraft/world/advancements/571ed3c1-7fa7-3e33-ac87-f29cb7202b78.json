@@ -6773,15 +6773,41 @@
     },
     "done": true
   },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit12": "2024-12-19 21:54:15 +0000",
+      "nbit6": "2024-12-19 21:54:15 +0000",
+      "bit20": "2024-12-19 21:54:15 +0000",
+      "bit9": "2024-12-19 21:54:15 +0000",
+      "bit7": "2024-12-19 21:54:15 +0000",
+      "bit16": "2024-12-19 21:54:15 +0000",
+      "bit3": "2024-12-19 21:54:15 +0000",
+      "bit13": "2024-12-19 21:54:15 +0000",
+      "bit10": "2024-12-19 21:54:15 +0000"
+    },
+    "done": false
+  },
   "netherexp:recipes/soul_slate/jagged": {
     "criteria": {
       "has_planks": "2024-12-19 21:01:44 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-19 21:48:07 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/pale": {
     "criteria": {
       "has_planks": "2024-12-19 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-19 21:47:10 +0000"
     },
     "done": true
   },

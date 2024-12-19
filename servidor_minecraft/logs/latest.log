@@ -1827,3 +1827,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [19Dec2024 21:36:42.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
 [19Dec2024 21:39:34.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 9.75600510928416,-2.7305273689129663,-0.576867381563261
 [19Dec2024 21:39:34.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
+[19Dec2024 21:47:10.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Lorem Ipsum]
+[19Dec2024 21:48:07.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The Journey Begins]
+[19Dec2024 21:48:14.435] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -5025 -58 3629 in 4s
+[19Dec2024 21:54:36.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
+[19Dec2024 21:59:38.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
