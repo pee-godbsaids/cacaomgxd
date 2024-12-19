@@ -17,7 +17,10 @@
       "minecraft:snowy_taiga": "2024-12-15 02:33:10 +0000",
       "minecraft:forest": "2024-12-19 22:25:45 +0000",
       "minecraft:lush_caves": "2024-12-19 20:57:04 +0000",
+      "minecraft:desert": "2024-12-19 22:37:07 +0000",
       "minecraft:ocean": "2024-12-19 22:29:56 +0000",
+      "minecraft:windswept_savanna": "2024-12-19 22:37:26 +0000",
+      "minecraft:warm_ocean": "2024-12-19 22:38:14 +0000",
       "minecraft:meadow": "2024-11-16 22:30:01 +0000",
       "minecraft:plains": "2024-11-16 22:06:26 +0000"
     },
@@ -2421,20 +2424,29 @@
       "ancient_delta": "2024-12-19 20:56:59 +0000",
       "willow_forest": "2024-12-19 22:27:04 +0000",
       "frozen_tundra": "2024-12-15 00:56:15 +0000",
+      "barley_fields": "2024-12-19 22:35:45 +0000",
+      "rocky_reef": "2024-12-19 22:38:31 +0000",
       "redstone_caves": "2024-12-16 22:56:37 +0000",
+      "grassy_beach": "2024-12-19 22:32:29 +0000",
       "scorching_caves": "2024-12-19 20:52:42 +0000",
       "rocky_meadow": "2024-12-15 02:57:33 +0000",
       "mycotoxic_undergrowth": "2024-12-15 01:34:07 +0000",
       "ochard": "2024-12-17 01:57:09 +0000",
       "flower_fields": "2024-12-17 20:17:08 +0000",
       "highland_fields": "2024-12-15 00:55:20 +0000",
+      "tropical_river": "2024-12-19 22:39:01 +0000",
+      "eucalyptus_forest": "2024-12-19 22:40:26 +0000",
       "magnolia_highlands": "2024-12-19 22:26:19 +0000",
+      "outback": "2024-12-19 22:39:36 +0000",
+      "deciduous_forest": "2024-12-19 22:33:17 +0000",
       "boreal_forest": "2024-12-15 02:35:28 +0000",
       "glistering_meadow": "2024-12-15 01:35:39 +0000",
       "blackstone_basin": "2024-12-15 01:16:41 +0000",
       "infernal_holt": "2024-12-17 01:14:22 +0000",
       "temperate_grove": "2024-12-19 22:24:41 +0000",
-      "cold_river": "2024-12-19 22:23:49 +0000"
+      "cold_river": "2024-12-19 22:23:49 +0000",
+      "baobab_savanna": "2024-12-19 22:36:06 +0000",
+      "prairie": "2024-12-19 22:33:26 +0000"
     },
     "done": false
   },
@@ -2445,14 +2457,23 @@
       "autumnal_maple_forest": "2024-12-15 00:51:27 +0000",
       "willow_forest": "2024-12-19 22:27:04 +0000",
       "frozen_tundra": "2024-12-15 00:56:15 +0000",
+      "barley_fields": "2024-12-19 22:35:45 +0000",
+      "rocky_reef": "2024-12-19 22:38:31 +0000",
+      "grassy_beach": "2024-12-19 22:32:29 +0000",
       "rocky_meadow": "2024-12-15 02:57:33 +0000",
       "ochard": "2024-12-17 01:57:09 +0000",
       "flower_fields": "2024-12-17 20:17:08 +0000",
       "highland_fields": "2024-12-15 00:55:20 +0000",
+      "tropical_river": "2024-12-19 22:39:01 +0000",
+      "eucalyptus_forest": "2024-12-19 22:40:26 +0000",
       "magnolia_highlands": "2024-12-19 22:26:19 +0000",
+      "outback": "2024-12-19 22:39:36 +0000",
+      "deciduous_forest": "2024-12-19 22:33:17 +0000",
       "boreal_forest": "2024-12-15 02:35:28 +0000",
       "temperate_grove": "2024-12-19 22:24:41 +0000",
-      "cold_river": "2024-12-19 22:23:49 +0000"
+      "cold_river": "2024-12-19 22:23:49 +0000",
+      "baobab_savanna": "2024-12-19 22:36:06 +0000",
+      "prairie": "2024-12-19 22:33:26 +0000"
     },
     "done": false
   },
@@ -4855,6 +4876,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/acacia_shrub": {
+    "criteria": {
+      "has_acacia_sapling": "2024-12-19 22:37:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/stone_grass_block": {
     "criteria": {
       "has_stone": "2024-12-19 21:38:13 +0000"
@@ -4921,6 +4948,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/food/barley_smelting": {
+    "criteria": {
+      "has_barley": "2024-12-19 22:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-19 21:38:23 +0000"
@@ -4936,6 +4969,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2024-12-19 21:57:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/food/barley_smoking": {
+    "criteria": {
+      "has_barley": "2024-12-19 22:35:51 +0000"
     },
     "done": true
   },
@@ -4972,6 +5011,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-19 21:38:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_shrub": {
+    "criteria": {
+      "has_eucalyptus_sapling": "2024-12-19 22:40:26 +0000"
     },
     "done": true
   },
@@ -5058,6 +5103,43 @@
       "has_stone": "2024-12-19 21:38:13 +0000"
     },
     "done": true
+  },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit8": "2024-12-19 22:39:18 +0000",
+      "nbit9": "2024-12-19 22:39:18 +0000",
+      "nbit3": "2024-12-19 22:39:18 +0000",
+      "nbit15": "2024-12-19 22:39:18 +0000",
+      "nbit4": "2024-12-19 22:39:18 +0000",
+      "nbit14": "2024-12-19 22:39:18 +0000",
+      "nbit5": "2024-12-19 22:39:18 +0000",
+      "nbit13": "2024-12-19 22:39:18 +0000",
+      "nbit6": "2024-12-19 22:39:18 +0000",
+      "nbit12": "2024-12-19 22:39:18 +0000",
+      "nbit19": "2024-12-19 22:39:18 +0000",
+      "nbit0": "2024-12-19 22:39:18 +0000",
+      "nbit18": "2024-12-19 22:39:18 +0000",
+      "nbit17": "2024-12-19 22:39:18 +0000",
+      "nbit16": "2024-12-19 22:39:18 +0000",
+      "nbit22": "2024-12-19 22:39:18 +0000",
+      "nbit21": "2024-12-19 22:39:18 +0000",
+      "nbit20": "2024-12-19 22:39:18 +0000",
+      "nbit26": "2024-12-19 22:39:18 +0000",
+      "nbit25": "2024-12-19 22:39:18 +0000",
+      "nbit24": "2024-12-19 22:39:18 +0000",
+      "nbit23": "2024-12-19 22:39:18 +0000",
+      "nbit29": "2024-12-19 22:39:18 +0000",
+      "nbit28": "2024-12-19 22:39:18 +0000",
+      "nbit27": "2024-12-19 22:39:18 +0000",
+      "nbit31": "2024-12-19 22:39:18 +0000",
+      "nbit30": "2024-12-19 22:39:18 +0000",
+      "bit7": "2024-12-19 22:39:18 +0000",
+      "bit1": "2024-12-19 22:39:18 +0000",
+      "bit2": "2024-12-19 22:39:18 +0000",
+      "nbit11": "2024-12-19 22:39:18 +0000",
+      "nbit10": "2024-12-19 22:39:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
