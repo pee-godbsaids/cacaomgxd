@@ -16,6 +16,7 @@
       "minecraft:badlands": "2024-11-16 19:56:13 +0000",
       "minecraft:savanna_plateau": "2024-11-16 20:09:31 +0000",
       "minecraft:beach": "2024-12-08 01:34:01 +0000",
+      "minecraft:sparse_jungle": "2024-12-19 22:45:42 +0000",
       "minecraft:river": "2024-11-16 06:46:29 +0000",
       "minecraft:snowy_plains": "2024-11-16 06:25:02 +0000",
       "minecraft:stony_shore": "2024-11-16 08:20:29 +0000",
@@ -28,6 +29,7 @@
       "minecraft:lush_caves": "2024-12-08 03:37:09 +0000",
       "minecraft:ice_spikes": "2024-12-08 03:35:58 +0000",
       "minecraft:desert": "2024-11-16 20:00:52 +0000",
+      "minecraft:jungle": "2024-12-19 22:45:15 +0000",
       "minecraft:ocean": "2024-12-19 22:29:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-11-16 20:51:43 +0000",
       "minecraft:windswept_savanna": "2024-12-19 22:37:24 +0000",
@@ -4611,7 +4613,8 @@
       "cold_river": "2024-12-14 23:01:58 +0000",
       "pumpkin_fields": "2024-12-08 03:29:55 +0000",
       "baobab_savanna": "2024-12-19 22:36:01 +0000",
-      "prairie": "2024-12-19 22:33:20 +0000"
+      "prairie": "2024-12-19 22:33:20 +0000",
+      "redwoods": "2024-12-19 22:44:35 +0000"
     },
     "done": false
   },
@@ -4659,7 +4662,8 @@
       "cold_river": "2024-12-14 23:01:58 +0000",
       "pumpkin_fields": "2024-12-08 03:29:55 +0000",
       "baobab_savanna": "2024-12-19 22:36:01 +0000",
-      "prairie": "2024-12-19 22:33:20 +0000"
+      "prairie": "2024-12-19 22:33:20 +0000",
+      "redwoods": "2024-12-19 22:44:35 +0000"
     },
     "done": false
   },
@@ -6812,6 +6816,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2024-12-19 22:49:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
     "criteria": {
       "has_log": "2024-12-19 22:40:26 +0000"
@@ -6821,6 +6831,12 @@
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2024-12-19 21:48:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2024-12-19 22:47:22 +0000"
     },
     "done": true
   },
@@ -6851,6 +6867,12 @@
   "netherexp:recipes/soul_slate/slab": {
     "criteria": {
       "has_planks": "2024-12-19 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
+    "criteria": {
+      "has_waratah": "2024-12-19 22:43:18 +0000"
     },
     "done": true
   },
