@@ -306,6 +306,7 @@
     "criteria": {
       "cooked_porkchop": "2024-11-16 22:59:25 +0000",
       "baked_potato": "2024-12-16 23:37:04 +0000",
+      "tropical_fish": "2024-12-19 21:05:09 +0000",
       "spider_eye": "2024-11-16 22:33:20 +0000",
       "potato": "2024-11-16 22:22:18 +0000",
       "bread": "2024-11-16 22:05:18 +0000",
@@ -4828,6 +4829,24 @@
   "regions_unexplored:recipes/decorations/oak_shrub": {
     "criteria": {
       "has_oak_sapling": "2024-12-19 20:02:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-19 21:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-19 21:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-19 21:13:07 +0000"
     },
     "done": true
   },
