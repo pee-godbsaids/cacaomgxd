@@ -5475,6 +5475,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/decorations/tainted_glass_pane": {
+    "criteria": {
+      "has_tainted_glass": "2024-12-22 03:22:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2024-12-22 02:15:30 +0000"
