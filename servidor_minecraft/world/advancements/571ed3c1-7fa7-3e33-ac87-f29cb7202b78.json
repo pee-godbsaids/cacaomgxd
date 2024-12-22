@@ -4615,6 +4615,7 @@
       "pumpkin_fields": "2024-12-08 03:29:55 +0000",
       "baobab_savanna": "2024-12-19 22:36:01 +0000",
       "prairie": "2024-12-19 22:33:20 +0000",
+      "grassland": "2024-12-22 00:47:50 +0000",
       "redwoods": "2024-12-19 22:44:35 +0000"
     },
     "done": false
@@ -4664,6 +4665,7 @@
       "pumpkin_fields": "2024-12-08 03:29:55 +0000",
       "baobab_savanna": "2024-12-19 22:36:01 +0000",
       "prairie": "2024-12-19 22:33:20 +0000",
+      "grassland": "2024-12-22 00:47:50 +0000",
       "redwoods": "2024-12-19 22:44:35 +0000"
     },
     "done": false
@@ -7109,6 +7111,18 @@
   "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
     "criteria": {
       "has_redwood_shrub": "2024-12-19 23:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-12-22 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-12-22 00:52:17 +0000"
     },
     "done": true
   },

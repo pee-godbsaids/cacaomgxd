@@ -292,3 +292,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [22Dec2024 00:47:26.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
 [22Dec2024 00:47:36.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GamerRCJ[/127.120.131.94:38869] logged in with entity id 2346 at (-5073.541058332562, 64.0, 3027.5372809698956)
 [22Dec2024 00:47:36.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ joined the game
+[22Dec2024 00:48:04.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[22Dec2024 00:48:29.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9997ms or 199 ticks behind
+[22Dec2024 00:48:31.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was killed
+[22Dec2024 00:48:31.362] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_22.12.2024-00.48.31.dat
+[22Dec2024 00:48:31.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Killed quipit0s]
+[22Dec2024 00:48:31.463] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[22Dec2024 00:48:33.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> xd
+[22Dec2024 00:48:53.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> -5577 -2179
+[22Dec2024 00:48:57.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> 64
+[22Dec2024 00:48:59.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[22Dec2024 00:49:09.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[22Dec2024 00:49:39.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to 0.500000, 50.000000, 0.500000]
+[22Dec2024 00:49:50.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3000ms or 60 ticks behind
+[22Dec2024 00:50:15.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[22Dec2024 00:51:27.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -5071.500000, 64.000000, 3018.500000]
+[22Dec2024 00:51:42.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[22Dec2024 00:51:59.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2654ms or 53 ticks behind
+[22Dec2024 00:52:17.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[22Dec2024 00:52:35.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
+[22Dec2024 00:52:55.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4869ms or 97 ticks behind
+[22Dec2024 00:53:14.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4498ms or 89 ticks behind
+[22Dec2024 00:53:15.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> aea
+[22Dec2024 00:53:23.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> no puedo p wbon
+[22Dec2024 00:53:29.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> pqno
+[22Dec2024 00:53:32.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> tengo audifonos
+[22Dec2024 00:53:34.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4831ms or 96 ticks behind
+[22Dec2024 00:53:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> no como leo
+[22Dec2024 00:53:37.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> xd
+[22Dec2024 00:53:54.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4812ms or 96 ticks behind
+[22Dec2024 00:54:17.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[22Dec2024 00:54:34.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[22Dec2024 00:55:19.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[22Dec2024 00:55:34.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -6.789995130697434,0.756759288177264,-7.531369951571435
+[22Dec2024 00:55:48.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14071ms or 281 ticks behind
+[22Dec2024 00:55:57.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Toxic Alloy]
+[22Dec2024 00:56:06.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[22Dec2024 00:56:23.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[22Dec2024 00:56:43.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4669ms or 93 ticks behind
+[22Dec2024 00:56:48.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to -5576.500000, 64.000000, -2178.500000]
+[22Dec2024 00:57:43.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [The Ray Cat Solution]
