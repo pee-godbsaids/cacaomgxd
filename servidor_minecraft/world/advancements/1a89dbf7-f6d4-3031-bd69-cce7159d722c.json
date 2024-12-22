@@ -2424,6 +2424,7 @@
       "shrubland": "2024-12-15 00:52:31 +0000",
       "redstone_abyss": "2024-12-15 01:12:11 +0000",
       "autumnal_maple_forest": "2024-12-15 00:51:27 +0000",
+      "prismachasm": "2024-12-22 02:58:48 +0000",
       "ancient_delta": "2024-12-19 20:56:59 +0000",
       "willow_forest": "2024-12-19 22:27:04 +0000",
       "frozen_tundra": "2024-12-15 00:56:15 +0000",
@@ -3323,6 +3324,7 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2024-12-16 22:56:37 +0000",
+      "prismachasm": "2024-12-22 02:58:48 +0000",
       "scorching_caves": "2024-12-19 20:52:42 +0000",
       "ancient_delta": "2024-12-19 20:56:59 +0000"
     },
@@ -5485,9 +5487,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2024-12-22 02:58:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2024-12-22 02:58:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-22 01:25:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/hanging_prismarite": {
+    "criteria": {
+      "has_prismarite": "2024-12-22 02:58:48 +0000"
     },
     "done": true
   },
@@ -5497,11 +5517,11 @@
     },
     "done": true
   },
-  "cwsplus:on_hit": {
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
     "criteria": {
-      "not_target": "2024-12-22 02:38:42 +0000"
+      "has_raw_redstone_block": "2024-12-22 02:58:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
@@ -5518,6 +5538,24 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-22 02:00:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2024-12-22 02:58:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
+    "criteria": {
+      "has_prismarite": "2024-12-22 02:58:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/acid_create_rust": {
+    "criteria": {
+      "rust": "2024-12-22 03:15:19 +0000"
     },
     "done": true
   },
