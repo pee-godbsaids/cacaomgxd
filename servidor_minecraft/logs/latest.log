@@ -349,3 +349,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [22Dec2024 01:22:49.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to -5576.500000, 64.000000, -2178.500000]
 [22Dec2024 01:26:08.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.151141530476707,-1.753986201738769,4.370359949312842
 [22Dec2024 01:26:08.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
+[22Dec2024 01:29:45.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[22Dec2024 01:31:14.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 3.7112661559312983,0.8800391385729398,-9.47616263348391
+[22Dec2024 01:31:14.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3497ms or 69 ticks behind
+[22Dec2024 01:32:12.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Isn't It Iron Pick]
+[22Dec2024 01:33:45.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> leche verde
+[22Dec2024 01:36:17.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3558ms or 71 ticks behind
+[22Dec2024 01:38:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [3.6 Roentgen]
+[22Dec2024 01:40:49.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -5576.500000, 64.000000, -2178.500000]
+[22Dec2024 01:46:20.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
