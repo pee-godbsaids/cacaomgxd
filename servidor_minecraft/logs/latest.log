@@ -442,3 +442,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [22Dec2024 03:37:00.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
 [22Dec2024 03:42:37.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3385ms or 67 ticks behind
 [22Dec2024 03:47:40.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3355ms or 67 ticks behind
+[22Dec2024 03:57:43.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
