@@ -332,3 +332,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [22Dec2024 00:56:43.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4669ms or 93 ticks behind
 [22Dec2024 00:56:48.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to -5576.500000, 64.000000, -2178.500000]
 [22Dec2024 00:57:43.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [The Ray Cat Solution]
+[22Dec2024 00:58:55.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Dec2024 01:00:54.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.216298676572478,-3.7183453849448433,2.9351729708951098
+[22Dec2024 01:00:54.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3478ms or 69 ticks behind
+[22Dec2024 01:02:18.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The One Who Knocks]
+[22Dec2024 01:05:13.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Shelf Life]
+[22Dec2024 01:05:20.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Brains and Brawn]
+[22Dec2024 01:05:57.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -4.587957948274379,-1.0,8.867089190276602
+[22Dec2024 01:05:57.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
+[22Dec2024 01:11:00.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3012ms or 60 ticks behind
+[22Dec2024 01:13:17.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> te saliste
+[22Dec2024 01:14:02.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=82, z=-469} BlockPos{x=-685, y=81, z=-468}
+[22Dec2024 01:16:04.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3468ms or 69 ticks behind
+[22Dec2024 01:21:06.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[22Dec2024 01:21:46.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[22Dec2024 01:22:49.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to -5576.500000, 64.000000, -2178.500000]
+[22Dec2024 01:26:08.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.151141530476707,-1.753986201738769,4.370359949312842
+[22Dec2024 01:26:08.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
