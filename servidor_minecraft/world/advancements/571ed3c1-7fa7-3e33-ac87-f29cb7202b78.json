@@ -7136,9 +7136,45 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-22 02:24:25 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/nuclear_furnace_component": {
     "criteria": {
       "raygun": "2024-12-22 01:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-22 02:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-22 02:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-22 02:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-22 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-22 02:24:25 +0000"
     },
     "done": true
   },
@@ -7148,9 +7184,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-22 02:06:11 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_brainiac": {
     "criteria": {
       "killed": "2024-12-22 01:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-22 02:06:11 +0000"
     },
     "done": true
   },
