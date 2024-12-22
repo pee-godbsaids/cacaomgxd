@@ -5745,3 +5745,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [22Dec2024 04:02:07.716] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
 [22Dec2024 04:02:44.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 04:02:44.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 04:07:45.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 04:07:45.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 04:07:45.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2487ms or 49 ticks behind
+[22Dec2024 04:11:26.166] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[22Dec2024 04:11:57.878] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[22Dec2024 04:12:48.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 04:12:48.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 04:12:48.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
