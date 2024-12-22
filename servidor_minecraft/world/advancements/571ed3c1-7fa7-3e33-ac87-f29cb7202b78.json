@@ -7244,6 +7244,12 @@
     },
     "done": true
   },
+  "nethers_exoticism:kiwano_tools_adv": {
+    "criteria": {
+      "kiwano_tools_adv": "2024-12-22 04:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2024-12-22 04:17:57 +0000"
