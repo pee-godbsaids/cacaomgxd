@@ -436,3 +436,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [22Dec2024 03:27:33.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2884ms or 57 ticks behind
 [22Dec2024 03:28:38.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ lost connection: Disconnected
 [22Dec2024 03:28:38.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ left the game
+[22Dec2024 03:36:49.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
+[22Dec2024 03:36:49.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[22Dec2024 03:37:00.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:60555] logged in with entity id 65444 at (-5594.5, 64.0, -2177.5)
+[22Dec2024 03:37:00.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
