@@ -3,7 +3,7 @@
 [server]
 	#Specifies if a warning should be printed out to server operators if flying is disabled.
 	#Default: true
-	flyingEnabledWarning = true
+	flyingEnabledWarning = false
 
 	#Playing dead
 	[server.playing_dead]
