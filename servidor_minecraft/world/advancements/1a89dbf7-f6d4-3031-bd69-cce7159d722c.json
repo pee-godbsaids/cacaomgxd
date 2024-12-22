@@ -5497,6 +5497,12 @@
     },
     "done": true
   },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2024-12-22 02:38:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-12-22 01:26:57 +0000"
