@@ -424,3 +424,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [23Dec2024 22:28:29.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3346ms or 66 ticks behind
 [23Dec2024 22:29:16.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Chattering Teeth]
 [23Dec2024 22:29:41.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Chattering Teeth]
+[23Dec2024 22:31:35.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[23Dec2024 22:32:25.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[23Dec2024 22:33:23.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[23Dec2024 22:33:32.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 3.4204026245897694,-4.4353036342312535,-8.316158351601189
+[23Dec2024 22:33:32.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
+[23Dec2024 22:33:38.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to -5576.500000, 64.000000, -2178.500000]
+[23Dec2024 22:34:05.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[23Dec2024 22:34:15.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -8322.500000, -2.000000, -4756.500000]
+[23Dec2024 22:34:17.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[23Dec2024 22:34:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[23Dec2024 22:34:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[23Dec2024 22:34:42.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Hans Moleman]
+[23Dec2024 22:34:48.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Knives Out]
+[23Dec2024 22:37:57.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Knives Out]
+[23Dec2024 22:38:34.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23Dec2024 22:38:53.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [It Belongs in a Museum]

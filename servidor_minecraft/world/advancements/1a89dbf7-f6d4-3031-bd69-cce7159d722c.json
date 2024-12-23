@@ -5656,6 +5656,7 @@
       "nbit27": "2024-12-23 22:18:40 +0000",
       "nbit31": "2024-12-23 22:18:40 +0000",
       "nbit30": "2024-12-23 22:18:40 +0000",
+      "bit9": "2024-12-23 22:34:42 +0000",
       "bit18": "2024-12-23 22:18:40 +0000",
       "bit19": "2024-12-23 22:18:40 +0000",
       "bit7": "2024-12-23 22:20:53 +0000",
@@ -5665,6 +5666,7 @@
       "bit14": "2024-12-23 22:13:44 +0000",
       "bit6": "2024-12-23 22:23:23 +0000",
       "bit15": "2024-12-23 22:18:40 +0000",
+      "bit3": "2024-12-23 22:31:27 +0000",
       "bit4": "2024-12-23 22:18:40 +0000",
       "bit1": "2024-12-23 22:20:53 +0000",
       "bit2": "2024-12-23 22:20:53 +0000",
@@ -5672,10 +5674,23 @@
       "nbit11": "2024-12-23 22:18:40 +0000",
       "nbit10": "2024-12-23 22:20:53 +0000",
       "bit12": "2024-12-23 22:18:40 +0000",
+      "bit13": "2024-12-23 22:34:42 +0000",
       "bit10": "2024-12-23 22:18:40 +0000",
       "bit11": "2024-12-23 22:23:23 +0000"
     },
     "done": false
+  },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2024-12-23 22:38:03 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-23 22:29:16 +0000"
+    },
+    "done": true
   },
   "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
     "criteria": {
@@ -5686,6 +5701,12 @@
   "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
       "killed": "2024-12-23 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2024-12-23 22:37:57 +0000"
     },
     "done": true
   },
@@ -5758,6 +5779,12 @@
   "galosphere:recipes/building_blocks/smooth_amethyst": {
     "criteria": {
       "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2024-12-23 22:34:42 +0000"
     },
     "done": true
   },

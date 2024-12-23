@@ -7394,6 +7394,7 @@
       "nbit5": "2024-12-23 21:51:55 +0000",
       "nbit13": "2024-12-23 21:51:55 +0000",
       "nbit6": "2024-12-23 22:20:42 +0000",
+      "nbit12": "2024-12-23 22:34:35 +0000",
       "nbit19": "2024-12-23 21:51:55 +0000",
       "nbit0": "2024-12-23 21:51:55 +0000",
       "nbit17": "2024-12-23 21:51:55 +0000",
@@ -7431,6 +7432,7 @@
       "nbit11": "2024-12-23 22:16:50 +0000",
       "nbit10": "2024-12-23 21:51:55 +0000",
       "bit12": "2024-12-23 21:51:55 +0000",
+      "bit13": "2024-12-23 22:34:35 +0000",
       "bit10": "2024-12-23 22:20:42 +0000",
       "bit11": "2024-12-23 21:51:55 +0000"
     },
@@ -7496,6 +7498,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-23 22:29:41 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-23 22:15:16 +0000"
@@ -7505,6 +7513,12 @@
   "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
       "killed": "2024-12-23 22:25:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2024-12-23 22:34:48 +0000"
     },
     "done": true
   },
@@ -7535,6 +7549,12 @@
   "alexscaves:alexscaves/guano": {
     "criteria": {
       "guano": "2024-12-23 22:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-12-23 22:29:41 +0000"
     },
     "done": true
   },
