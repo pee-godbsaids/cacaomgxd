@@ -5625,52 +5625,22 @@
   },
   "cwsplus:on_hurt": {
     "criteria": {
-      "nbit7": "2024-12-23 21:30:10 +0000",
-      "nbit8": "2024-12-23 21:32:37 +0000",
-      "nbit9": "2024-12-23 21:32:37 +0000",
-      "nbit3": "2024-12-23 21:32:37 +0000",
-      "nbit15": "2024-12-23 21:32:37 +0000",
-      "nbit4": "2024-12-23 21:32:37 +0000",
-      "nbit14": "2024-12-23 21:32:37 +0000",
-      "nbit5": "2024-12-23 21:32:37 +0000",
-      "nbit13": "2024-12-23 21:32:37 +0000",
-      "nbit6": "2024-12-23 21:32:37 +0000",
-      "nbit12": "2024-12-23 21:32:37 +0000",
-      "nbit19": "2024-12-23 21:32:37 +0000",
-      "nbit0": "2024-12-23 21:32:37 +0000",
-      "nbit18": "2024-12-23 21:32:37 +0000",
-      "nbit17": "2024-12-23 21:32:37 +0000",
-      "nbit16": "2024-12-23 21:32:37 +0000",
-      "nbit22": "2024-12-23 21:32:37 +0000",
-      "nbit21": "2024-12-23 21:32:37 +0000",
-      "nbit20": "2024-12-23 21:32:37 +0000",
-      "bit20": "2024-12-23 21:30:10 +0000",
-      "nbit26": "2024-12-23 21:32:37 +0000",
-      "nbit25": "2024-12-23 21:32:37 +0000",
-      "nbit24": "2024-12-23 21:32:37 +0000",
-      "nbit23": "2024-12-23 21:32:37 +0000",
-      "nbit29": "2024-12-23 21:32:37 +0000",
-      "nbit28": "2024-12-23 21:32:37 +0000",
-      "nbit27": "2024-12-23 21:32:37 +0000",
-      "nbit31": "2024-12-23 21:32:37 +0000",
-      "nbit30": "2024-12-23 21:32:37 +0000",
-      "bit9": "2024-12-23 21:30:10 +0000",
-      "bit18": "2024-12-23 21:30:10 +0000",
-      "bit19": "2024-12-23 21:30:10 +0000",
-      "bit7": "2024-12-23 21:32:37 +0000",
-      "bit8": "2024-12-23 21:30:10 +0000",
-      "bit17": "2024-12-23 21:30:10 +0000",
-      "bit6": "2024-12-23 21:30:10 +0000",
-      "bit15": "2024-12-23 21:30:10 +0000",
-      "bit3": "2024-12-23 21:30:10 +0000",
-      "bit1": "2024-12-23 21:32:37 +0000",
-      "bit2": "2024-12-23 21:32:37 +0000",
-      "nbit11": "2024-12-23 21:32:37 +0000",
-      "nbit10": "2024-12-23 21:32:37 +0000",
-      "bit12": "2024-12-23 21:30:10 +0000",
-      "bit11": "2024-12-23 21:30:10 +0000"
+      "nbit2": "2024-12-23 22:13:44 +0000",
+      "bit14": "2024-12-23 22:13:44 +0000"
     },
     "done": false
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-23 22:15:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
@@ -5684,9 +5654,27 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:spear": {
     "criteria": {
       "has_spear": "2024-12-23 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-23 22:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-23 22:15:28 +0000"
     },
     "done": true
   },
@@ -5702,9 +5690,33 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-23 21:47:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
     },
     "done": true
   },
@@ -5714,9 +5726,57 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2024-12-23 22:16:11 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-23 22:15:28 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-12-23 21:36:22 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 22:15:30 +0000"
     },
     "done": true
   },
