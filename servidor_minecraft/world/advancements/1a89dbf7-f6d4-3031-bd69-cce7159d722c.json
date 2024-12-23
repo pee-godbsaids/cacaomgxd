@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-23 22:05:21 +0000",
       "minecraft:frozen_river": "2024-11-16 22:14:33 +0000",
       "minecraft:cherry_grove": "2024-12-17 01:49:53 +0000",
       "minecraft:sunflower_plains": "2024-12-17 01:52:34 +0000",
@@ -14,10 +15,13 @@
       "minecraft:sparse_jungle": "2024-12-19 22:45:47 +0000",
       "minecraft:river": "2024-12-17 20:18:22 +0000",
       "minecraft:snowy_plains": "2024-11-16 21:57:41 +0000",
+      "minecraft:stony_shore": "2024-12-23 22:04:23 +0000",
       "minecraft:dripstone_caves": "2024-12-15 01:05:13 +0000",
       "minecraft:snowy_taiga": "2024-12-15 02:33:10 +0000",
+      "minecraft:cold_ocean": "2024-12-23 22:02:26 +0000",
       "minecraft:forest": "2024-12-19 22:25:45 +0000",
       "minecraft:lush_caves": "2024-12-19 20:57:04 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-23 22:03:15 +0000",
       "minecraft:ice_spikes": "2024-12-22 00:53:45 +0000",
       "minecraft:desert": "2024-12-19 22:37:07 +0000",
       "minecraft:jungle": "2024-12-19 22:45:22 +0000",
@@ -2423,6 +2427,7 @@
       "silver_birch_forest": "2024-12-15 02:52:22 +0000",
       "shrubland": "2024-12-15 00:52:31 +0000",
       "redstone_abyss": "2024-12-15 01:12:11 +0000",
+      "pine_taiga": "2024-12-23 22:06:18 +0000",
       "autumnal_maple_forest": "2024-12-15 00:51:27 +0000",
       "muddy_river": "2024-12-23 01:16:55 +0000",
       "prismachasm": "2024-12-22 02:58:48 +0000",
@@ -2462,6 +2467,7 @@
     "criteria": {
       "silver_birch_forest": "2024-12-15 02:52:22 +0000",
       "shrubland": "2024-12-15 00:52:31 +0000",
+      "pine_taiga": "2024-12-23 22:06:18 +0000",
       "autumnal_maple_forest": "2024-12-15 00:51:27 +0000",
       "muddy_river": "2024-12-23 01:16:55 +0000",
       "willow_forest": "2024-12-19 22:27:04 +0000",
