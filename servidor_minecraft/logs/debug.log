@@ -4276,3 +4276,66 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [23Dec2024 21:12:59.815] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
 [23Dec2024 21:13:20.405] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@34846b51 for service interface com.blamejared.clumps.platform.IEventHelper
 [23Dec2024 21:13:20.407] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@56337d3e for service interface com.blamejared.clumps.platform.IPlatformHelper
+[23Dec2024 21:17:07.203] [Worker-Main-15/DEBUG] [mixin/]: Mixing frosted_caves.AquiferMixin from yungscavebiomes.mixins.json into net.minecraft.world.level.levelgen.Aquifer$NoiseBasedAquifer
+[23Dec2024 21:17:07.211] [Worker-Main-15/DEBUG] [mixin/]: Mixing marble_caves.AquiferMixin from yungscavebiomes.mixins.json into net.minecraft.world.level.levelgen.Aquifer$NoiseBasedAquifer
+[23Dec2024 21:17:07.456] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element galosphere:pink_salt_shrine took 820 ms
+[23Dec2024 21:17:46.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:17:46.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:17:47.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -4.048619196560139,0.04353562014750878,-9.413461867753995
+[23Dec2024 21:17:47.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4729ms or 94 ticks behind
+[23Dec2024 21:20:22.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[23Dec2024 21:20:29.050] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[23Dec2024 21:21:05.154] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.201] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.265] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.276] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 21:21:05.326] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.358] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.428] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.478] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.520] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.552] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.605] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.658] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.704] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.750] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.801] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.850] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.900] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:05.952] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:06.001] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:06.050] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:06.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 21:21:06.102] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:06.151] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:06.202] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:06.249] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:06.301] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:06.354] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:06.401] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:07.187] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:07.210] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:07.253] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:07.302] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:07.353] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:07.402] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:07.453] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:07.502] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:07.553] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 21:21:55.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 21:21:55.537] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 21:22:02.051] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[23Dec2024 21:22:48.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:22:48.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:22:49.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 8.74239003763796,1.5592279614896967,-4.80311654181196
+[23Dec2024 21:24:07.350] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[23Dec2024 21:24:40.314] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[23Dec2024 21:24:40.344] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[23Dec2024 21:26:51.052] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in witherstormmod:bowels
+[23Dec2024 21:27:00.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -5071.500000, 64.000000, 3018.500000]
+[23Dec2024 21:27:10.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[23Dec2024 21:27:27.530] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[23Dec2024 21:27:49.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:27:49.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:27:49.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -0.21558059469225554,-7.0,7.462694629962243
+[23Dec2024 21:27:49.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind

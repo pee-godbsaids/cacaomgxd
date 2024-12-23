@@ -307,3 +307,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [23Dec2024 21:12:42.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -5.666764044197521,-1.4524514780759858,-8.494445847958445
 [23Dec2024 21:12:42.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3833ms or 76 ticks behind
 [23Dec2024 21:12:58.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[23Dec2024 21:17:07.456] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element galosphere:pink_salt_shrine took 820 ms
+[23Dec2024 21:17:47.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -4.048619196560139,0.04353562014750878,-9.413461867753995
+[23Dec2024 21:17:47.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4729ms or 94 ticks behind
+[23Dec2024 21:22:49.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 8.74239003763796,1.5592279614896967,-4.80311654181196
+[23Dec2024 21:27:00.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -5071.500000, 64.000000, 3018.500000]
+[23Dec2024 21:27:49.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -0.21558059469225554,-7.0,7.462694629962243
+[23Dec2024 21:27:49.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
