@@ -2424,6 +2424,7 @@
       "shrubland": "2024-12-15 00:52:31 +0000",
       "redstone_abyss": "2024-12-15 01:12:11 +0000",
       "autumnal_maple_forest": "2024-12-15 00:51:27 +0000",
+      "muddy_river": "2024-12-23 01:16:55 +0000",
       "prismachasm": "2024-12-22 02:58:48 +0000",
       "ancient_delta": "2024-12-19 20:56:59 +0000",
       "willow_forest": "2024-12-19 22:27:04 +0000",
@@ -2439,6 +2440,7 @@
       "flower_fields": "2024-12-17 20:17:08 +0000",
       "highland_fields": "2024-12-15 00:55:20 +0000",
       "frozen_pine_taiga": "2024-12-22 00:52:29 +0000",
+      "maple_forest": "2024-12-23 01:16:29 +0000",
       "tropical_river": "2024-12-19 22:39:01 +0000",
       "eucalyptus_forest": "2024-12-19 22:40:26 +0000",
       "magnolia_highlands": "2024-12-19 22:26:19 +0000",
@@ -2461,6 +2463,7 @@
       "silver_birch_forest": "2024-12-15 02:52:22 +0000",
       "shrubland": "2024-12-15 00:52:31 +0000",
       "autumnal_maple_forest": "2024-12-15 00:51:27 +0000",
+      "muddy_river": "2024-12-23 01:16:55 +0000",
       "willow_forest": "2024-12-19 22:27:04 +0000",
       "frozen_tundra": "2024-12-15 00:56:15 +0000",
       "barley_fields": "2024-12-19 22:35:45 +0000",
@@ -2471,6 +2474,7 @@
       "flower_fields": "2024-12-17 20:17:08 +0000",
       "highland_fields": "2024-12-15 00:55:20 +0000",
       "frozen_pine_taiga": "2024-12-22 00:52:29 +0000",
+      "maple_forest": "2024-12-23 01:16:29 +0000",
       "tropical_river": "2024-12-19 22:39:01 +0000",
       "eucalyptus_forest": "2024-12-19 22:40:26 +0000",
       "magnolia_highlands": "2024-12-19 22:26:19 +0000",
@@ -5463,7 +5467,43 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-22 01:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-22 01:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-22 01:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-22 01:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-22 02:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-22 02:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-22 02:00:49 +0000"
     },
@@ -5472,12 +5512,6 @@
   "travelersbackpack:recipes/misc/bookshelf_smithing": {
     "criteria": {
       "has_bookshelf": "2024-12-22 02:07:19 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_glass_pane": {
-    "criteria": {
-      "has_tainted_glass": "2024-12-22 03:22:57 +0000"
     },
     "done": true
   },
@@ -5499,27 +5533,15 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2024-12-22 02:58:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2024-12-22 02:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-22 01:25:58 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/hanging_prismarite": {
-    "criteria": {
-      "has_prismarite": "2024-12-22 02:58:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-22 01:32:12 +0000"
     },
     "done": true
   },
@@ -5529,27 +5551,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
+  "regions_unexplored:recipes/decorations/hanging_prismarite": {
     "criteria": {
-      "has_redstone_block": "2024-12-22 01:26:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-22 02:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-22 02:00:49 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
-    "criteria": {
-      "has_redstone_bulb": "2024-12-22 02:58:13 +0000"
+      "has_prismarite": "2024-12-22 02:58:48 +0000"
     },
     "done": true
   },
@@ -5565,11 +5569,96 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "witherstormmod:recipes/decorations/tainted_glass_pane": {
     "criteria": {
-      "has_iron_block": "2024-12-22 01:25:58 +0000"
+      "has_tainted_glass": "2024-12-22 03:22:57 +0000"
     },
     "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-23 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-23 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-23 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-23 01:17:08 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-23 01:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-23 01:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-23 01:27:47 +0000"
+    },
+    "done": true
+  },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit8": "2024-12-23 01:59:51 +0000",
+      "nbit9": "2024-12-23 01:59:51 +0000",
+      "nbit3": "2024-12-23 01:59:51 +0000",
+      "nbit15": "2024-12-23 01:59:51 +0000",
+      "nbit4": "2024-12-23 01:59:51 +0000",
+      "nbit14": "2024-12-23 01:59:51 +0000",
+      "nbit5": "2024-12-23 01:59:51 +0000",
+      "nbit13": "2024-12-23 01:59:51 +0000",
+      "nbit6": "2024-12-23 01:59:51 +0000",
+      "nbit12": "2024-12-23 01:59:51 +0000",
+      "nbit19": "2024-12-23 01:59:51 +0000",
+      "nbit0": "2024-12-23 01:59:51 +0000",
+      "nbit18": "2024-12-23 01:59:51 +0000",
+      "nbit17": "2024-12-23 01:59:51 +0000",
+      "nbit16": "2024-12-23 01:59:51 +0000",
+      "nbit22": "2024-12-23 01:59:51 +0000",
+      "nbit21": "2024-12-23 01:59:51 +0000",
+      "nbit20": "2024-12-23 01:59:51 +0000",
+      "nbit26": "2024-12-23 01:59:51 +0000",
+      "nbit25": "2024-12-23 01:59:51 +0000",
+      "nbit24": "2024-12-23 01:59:51 +0000",
+      "nbit23": "2024-12-23 01:59:51 +0000",
+      "nbit29": "2024-12-23 01:59:51 +0000",
+      "nbit28": "2024-12-23 01:59:51 +0000",
+      "nbit27": "2024-12-23 01:59:51 +0000",
+      "nbit31": "2024-12-23 01:59:51 +0000",
+      "nbit30": "2024-12-23 01:59:51 +0000",
+      "bit7": "2024-12-23 01:59:51 +0000",
+      "bit1": "2024-12-23 01:59:51 +0000",
+      "bit2": "2024-12-23 01:59:51 +0000",
+      "nbit11": "2024-12-23 01:59:51 +0000",
+      "nbit10": "2024-12-23 01:59:51 +0000"
+    },
+    "done": false
+  },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2024-12-23 02:00:08 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
