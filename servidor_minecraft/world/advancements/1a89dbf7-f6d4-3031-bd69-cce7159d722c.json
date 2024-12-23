@@ -325,6 +325,7 @@
       "bread": "2024-11-16 22:05:18 +0000",
       "golden_apple": "2024-11-16 22:51:07 +0000",
       "golden_carrot": "2024-12-17 01:20:23 +0000",
+      "enchanted_golden_apple": "2024-12-23 22:48:19 +0000",
       "carrot": "2024-12-15 00:55:57 +0000"
     },
     "done": false
@@ -5680,12 +5681,6 @@
     },
     "done": false
   },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2024-12-23 22:38:03 +0000"
-    },
-    "done": false
-  },
   "alexscaves:alexscaves/burrowing_arrow": {
     "criteria": {
       "burrowing_arrow": "2024-12-23 22:29:16 +0000"
@@ -5728,9 +5723,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2024-12-23 22:48:01 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_slab": {
     "criteria": {
       "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2024-12-23 22:42:15 +0000"
     },
     "done": true
   },
@@ -5809,6 +5816,12 @@
   "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-23 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-23 22:38:53 +0000"
     },
     "done": true
   },

@@ -440,3 +440,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [23Dec2024 22:37:57.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Knives Out]
 [23Dec2024 22:38:34.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [23Dec2024 22:38:53.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [It Belongs in a Museum]
+[23Dec2024 22:42:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [The Black Parade]
+[23Dec2024 22:42:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has reached the goal [The Black Parade]
+[23Dec2024 22:43:04.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s was kicked for floating too long!
+[23Dec2024 22:43:04.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Flying is not enabled on this server
+[23Dec2024 22:43:04.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[23Dec2024 22:43:04.192] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 22:43:11.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:52439] logged in with entity id 30651 at (-8434.06465295279, -18.246800019478798, -4856.234913493201)
+[23Dec2024 22:43:11.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[23Dec2024 22:43:16.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [This is my Boomstick]
+[23Dec2024 22:43:36.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[23Dec2024 22:45:29.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved wrongly!
+[23Dec2024 22:48:01.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Got Lamps?]
+[23Dec2024 22:48:40.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
