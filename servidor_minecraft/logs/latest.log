@@ -709,3 +709,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [01Jan2025 23:13:58.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [What Was That!?]
 [01Jan2025 23:17:11.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5513, y=65, z=-2126} BlockPos{x=-5512, y=64, z=-2127}
 [01Jan2025 23:19:00.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3308ms or 66 ticks behind
+[01Jan2025 23:19:17.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[01Jan2025 23:24:05.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[01Jan2025 23:25:02.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Is this... blood?]
+[01Jan2025 23:25:20.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement ['Tis But a Scratch!]
+[01Jan2025 23:26:43.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Bloodthirsty]
+[01Jan2025 23:29:08.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 2.921283194606076,1.2491870787446828,9.77967319650088
+[01Jan2025 23:29:08.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
