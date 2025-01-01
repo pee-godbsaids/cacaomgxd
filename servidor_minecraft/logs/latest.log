@@ -684,3 +684,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [01Jan2025 22:55:10.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> oc
 [01Jan2025 22:56:27.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
 [01Jan2025 22:56:45.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2657ms or 53 ticks behind
+[01Jan2025 22:57:06.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6125ms or 122 ticks behind
+[01Jan2025 22:57:31.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10462ms or 209 ticks behind
+[01Jan2025 22:58:48.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3184ms or 63 ticks behind
+[01Jan2025 23:01:44.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[01Jan2025 23:02:35.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[01Jan2025 23:03:51.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -9.33661733507688,2.252203340253729,-3.213487962479576
+[01Jan2025 23:03:51.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3078ms or 61 ticks behind
+[01Jan2025 23:05:01.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[01Jan2025 23:05:30.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[01Jan2025 23:05:41.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[01Jan2025 23:06:10.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [First Trade]
+[01Jan2025 23:06:10.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Ace Trainer]
+[01Jan2025 23:08:54.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[01Jan2025 23:11:28.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Fortuitous Militia]
+[01Jan2025 23:11:42.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zz
+[01Jan2025 23:11:45.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> jateo
+[01Jan2025 23:11:47.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
+[01Jan2025 23:11:49.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> jateo
+[01Jan2025 23:12:32.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[01Jan2025 23:12:56.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GamerRCJ[/127.123.2.169:39295] logged in with entity id 12762 at (-5587.855256343431, 64.0, -2172.9343882299704)
+[01Jan2025 23:12:56.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ joined the game
+[01Jan2025 23:13:57.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[01Jan2025 23:13:58.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [What Was That!?]
+[01Jan2025 23:17:11.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5513, y=65, z=-2126} BlockPos{x=-5512, y=64, z=-2127}
+[01Jan2025 23:19:00.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3308ms or 66 ticks behind

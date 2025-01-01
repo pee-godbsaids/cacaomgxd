@@ -5978,9 +5978,9 @@
     },
     "done": true
   },
-  "yungscavebiomes:recipes/building_blocks/ancient_sandstone_slab_from_stonecutting": {
+  "galosphere:recipes/misc/saltbound_tablet_smithing": {
     "criteria": {
-      "has_sandstone": "2025-01-01 01:51:47 +0000"
+      "has_preserved_template": "2025-01-01 01:40:38 +0000"
     },
     "done": true
   },
@@ -5990,45 +5990,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-01 02:05:16 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_jack_o_lantern": {
-    "criteria": {
-      "has_item": "2025-01-01 02:29:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-01-01 01:44:37 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
-    "criteria": {
-      "has_item": "2025-01-01 02:29:04 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2025-01-01 02:29:04 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:lost_caves": {
-    "criteria": {
-      "lost_caves": "2025-01-01 01:49:24 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:recipes/building_blocks/cut_ancient_sandstone_slab_from_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-01-01 01:51:47 +0000"
     },
     "done": true
   },
@@ -6038,15 +6002,27 @@
     },
     "done": true
   },
-  "betterdungeons:small_dungeon": {
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
-      "in_better_monster_room": "2025-01-01 01:52:40 +0000"
+      "has_deepslate_tiles": "2025-01-01 01:44:37 +0000"
     },
     "done": true
   },
-  "yungscavebiomes:recipes/building_blocks/ancient_sandstone_slab": {
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_sandstone": "2025-01-01 01:51:47 +0000"
+      "has_deepslate_tiles": "2025-01-01 01:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-01 01:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-01 01:44:37 +0000"
     },
     "done": true
   },
@@ -6074,18 +6050,6 @@
     },
     "done": true
   },
-  "yungscavebiomes:recipes/building_blocks/ancient_sandstone": {
-    "criteria": {
-      "has_ancient_sand": "2025-01-01 01:51:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold_betterstrongholds": "2025-01-01 01:55:11 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/pink_salt_stairs_from_pink_salt_stonecutting": {
     "criteria": {
       "has_pink_salt": "2025-01-01 01:46:17 +0000"
@@ -6098,63 +6062,9 @@
     },
     "done": true
   },
-  "yungscavebiomes:recipes/building_blocks/cut_ancient_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-01-01 01:51:47 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/decorations/pink_salt_wall": {
     "criteria": {
       "has_pink_salt": "2025-01-01 01:46:17 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/pink_salt": {
-    "criteria": {
-      "has_pink_salt_straw": "2025-01-01 02:08:48 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:recipes/building_blocks/brittle_ancient_sandstone": {
-    "criteria": {
-      "has_sand": "2025-01-01 01:51:35 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:recipes/building_blocks/cut_ancient_sandstone_from_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-01-01 01:51:47 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:recipes/building_blocks/chiseled_ancient_sandstone_from_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-01-01 01:51:47 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-01-01 02:29:04 +0000"
-    },
-    "done": true
-  },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-01 02:09:21 +0000"
-    },
-    "done": false
-  },
-  "netherexp:recipes/misc/soul_magma_block": {
-    "criteria": {
-      "has_item2": "2025-01-01 02:29:04 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-01-01 02:29:04 +0000"
     },
     "done": true
   },
@@ -6170,33 +6080,15 @@
     },
     "done": true
   },
-  "galosphere:recipes/misc/saltbound_tablet_smithing": {
-    "criteria": {
-      "has_preserved_template": "2025-01-01 01:40:38 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/pink_salt_stairs": {
     "criteria": {
       "has_pink_salt": "2025-01-01 01:46:17 +0000"
     },
     "done": true
   },
-  "yungscavebiomes:recipes/building_blocks/smooth_ancient_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-01-01 01:51:47 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/polished_pink_salt_from_pink_salt_stonecutting": {
     "criteria": {
       "has_pink_salt": "2025-01-01 01:46:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-01-01 01:44:37 +0000"
     },
     "done": true
   },
@@ -6212,15 +6104,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+  "galosphere:recipes/building_blocks/polished_pink_salt_stairs_from_pink_salt_stonecutting": {
     "criteria": {
-      "has_deepslate_tiles": "2025-01-01 01:44:37 +0000"
+      "has_pink_salt": "2025-01-01 01:46:17 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+  "galosphere:recipes/building_blocks/chiseled_pink_salt_from_pink_salt_stonecutting": {
     "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-01-01 02:02:10 +0000"
+      "has_pink_salt": "2025-01-01 01:46:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_bricks_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:46:17 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:lost_caves": {
+    "criteria": {
+      "lost_caves": "2025-01-01 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/ancient_sandstone": {
+    "criteria": {
+      "has_ancient_sand": "2025-01-01 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_ancient_sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-01 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/ancient_sandstone_slab_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-01 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/cut_ancient_sandstone_slab_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-01 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/ancient_sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-01 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/cut_ancient_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-01 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/cut_ancient_sandstone_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-01 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/chiseled_ancient_sandstone_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-01 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/smooth_ancient_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-01 01:51:47 +0000"
     },
     "done": true
   },
@@ -6230,15 +6188,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-01-01 01:44:37 +0000"
-    },
-    "done": true
-  },
   "yungscavebiomes:recipes/building_blocks/layered_ancient_sandstone_from_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-01 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/ancient_sandstone_wall_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-01 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/layered_ancient_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-01 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/ancient_sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-01 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/ancient_sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-01 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-01 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-01-01 01:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-01 02:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-01 02:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-01-01 02:05:16 +0000"
     },
     "done": true
   },
@@ -6261,6 +6267,7 @@
       "nbit1": "2025-01-01 02:05:33 +0000",
       "nbit17": "2025-01-01 02:05:33 +0000",
       "nbit16": "2025-01-01 02:05:33 +0000",
+      "nbit2": "2025-01-01 23:16:35 +0000",
       "nbit22": "2025-01-01 02:05:33 +0000",
       "nbit21": "2025-01-01 02:09:19 +0000",
       "nbit20": "2025-01-01 02:05:33 +0000",
@@ -6281,6 +6288,7 @@
       "bit14": "2025-01-01 02:05:33 +0000",
       "bit6": "2025-01-01 02:05:33 +0000",
       "bit3": "2025-01-01 02:05:33 +0000",
+      "bit4": "2025-01-01 23:16:35 +0000",
       "bit1": "2025-01-01 02:06:02 +0000",
       "bit2": "2025-01-01 02:05:33 +0000",
       "nbit11": "2025-01-01 02:05:33 +0000",
@@ -6289,63 +6297,57 @@
     },
     "done": false
   },
-  "yungscavebiomes:recipes/building_blocks/ancient_sandstone_wall_from_stonecutting": {
+  "galosphere:recipes/building_blocks/pink_salt": {
     "criteria": {
-      "has_sandstone": "2025-01-01 01:51:47 +0000"
+      "has_pink_salt_straw": "2025-01-01 02:08:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+  "cwsplus:on_hit": {
     "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-01-01 02:05:16 +0000"
+      "not_target": "2025-01-01 02:09:21 +0000"
+    },
+    "done": false
+  },
+  "netherexp:recipes/misc/soul_jack_o_lantern": {
+    "criteria": {
+      "has_item": "2025-01-01 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-01-01 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-01-01 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-01-01 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item2": "2025-01-01 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-01-01 02:29:04 +0000"
     },
     "done": true
   },
   "netherexp:recipes/misc/soul_candle": {
     "criteria": {
       "has_planks": "2025-01-01 02:29:04 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/polished_pink_salt_stairs_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-01-01 01:46:17 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:recipes/building_blocks/layered_ancient_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-01-01 01:51:47 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/chiseled_pink_salt_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-01-01 01:46:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-01-01 01:44:37 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:recipes/building_blocks/ancient_sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-01-01 01:51:47 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/pink_salt_bricks_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-01-01 01:46:17 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:recipes/building_blocks/ancient_sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-01-01 01:51:47 +0000"
     },
     "done": true
   },
