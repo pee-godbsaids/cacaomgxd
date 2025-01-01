@@ -725,3 +725,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [01Jan2025 23:37:54.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
 [01Jan2025 23:38:29.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Radiation Vibe]
 [01Jan2025 23:39:17.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3151ms or 63 ticks behind
+[01Jan2025 23:39:40.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[01Jan2025 23:39:58.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
+[01Jan2025 23:40:47.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[01Jan2025 23:40:47.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[01Jan2025 23:40:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Forlornliest Day of My Life]
+[01Jan2025 23:41:09.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6595ms or 131 ticks behind
+[01Jan2025 23:41:35.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Hans Moleman]
+[01Jan2025 23:43:28.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Chattering Teeth]
+[01Jan2025 23:43:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Got Lamps?]
+[01Jan2025 23:44:34.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.386996934781564,3.267664800036421,-1.9103284484444885
+[01Jan2025 23:44:34.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2780ms or 55 ticks behind
+[01Jan2025 23:45:17.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[01Jan2025 23:45:37.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4912ms or 98 ticks behind
+[01Jan2025 23:45:57.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[01Jan2025 23:46:09.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Corrodon't]
+[01Jan2025 23:46:14.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[01Jan2025 23:46:39.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01Jan2025 23:47:14.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [The Black Parade]
+[01Jan2025 23:47:24.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01Jan2025 23:48:12.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [That is One Big Pile of...]
+[01Jan2025 23:48:15.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[01Jan2025 23:49:52.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -9.253264233995651,1.4828190847871667,4.221605699664906
+[01Jan2025 23:49:52.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3528ms or 70 ticks behind
