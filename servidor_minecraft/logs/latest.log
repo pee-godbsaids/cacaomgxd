@@ -716,3 +716,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [01Jan2025 23:26:43.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Bloodthirsty]
 [01Jan2025 23:29:08.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 2.921283194606076,1.2491870787446828,9.77967319650088
 [01Jan2025 23:29:08.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
+[01Jan2025 23:30:50.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Is this... blood?]
+[01Jan2025 23:31:05.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement ['Tis But a Scratch!]
+[01Jan2025 23:33:57.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Spooky Scary Army]
+[01Jan2025 23:34:11.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[01Jan2025 23:34:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Boneyard]
+[01Jan2025 23:37:54.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2890ms or 57 ticks behind
+[01Jan2025 23:37:54.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[01Jan2025 23:38:29.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Radiation Vibe]
+[01Jan2025 23:39:17.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3151ms or 63 ticks behind

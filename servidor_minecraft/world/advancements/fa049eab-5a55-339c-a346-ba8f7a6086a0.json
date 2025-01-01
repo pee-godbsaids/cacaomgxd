@@ -25,6 +25,7 @@
       "minecraft:lush_caves": "2024-12-15 00:00:13 +0000",
       "minecraft:ice_spikes": "2024-12-08 03:35:54 +0000",
       "minecraft:ocean": "2024-12-14 23:05:23 +0000",
+      "minecraft:jungle": "2025-01-01 23:37:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-11-16 20:52:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-09 01:07:29 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-16 08:04:12 +0000",
@@ -1251,6 +1252,7 @@
       "minecraft:zombified_piglin": "2024-12-15 01:55:02 +0000",
       "minecraft:witch": "2024-12-17 22:21:24 +0000",
       "minecraft:wither_skeleton": "2024-12-15 01:42:56 +0000",
+      "minecraft:husk": "2025-01-01 23:30:34 +0000",
       "minecraft:piglin": "2024-12-16 23:59:05 +0000",
       "minecraft:stray": "2024-12-09 00:49:36 +0000",
       "minecraft:enderman": "2024-12-14 23:55:34 +0000",
@@ -7523,6 +7525,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-01 23:34:28 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-01-01 22:44:52 +0000"
@@ -7532,6 +7540,18 @@
   "majruszsdifficulty:bleeding_inflicted": {
     "criteria": {
       "bleeding_applied": "2025-01-01 23:26:43 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-01-01 23:31:27 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-01-01 23:33:57 +0000"
     },
     "done": true
   },
@@ -7553,6 +7573,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-01-01 23:38:29 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding": {
     "criteria": {
       "bleeding_applied": "2025-01-01 23:25:02 +0000"
@@ -7565,6 +7591,12 @@
       "weaponsmith": "2025-01-01 23:06:10 +0000"
     },
     "done": false
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2025-01-01 23:34:28 +0000"
+    },
+    "done": true
   },
   "morevillagers:first_trade": {
     "criteria": {
@@ -7581,6 +7613,12 @@
   "majruszsdifficulty:recipes/misc/bandage_golden": {
     "criteria": {
       "has_bandage": "2025-01-01 23:25:18 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2025-01-01 23:34:28 +0000"
     },
     "done": true
   },
@@ -7602,9 +7640,68 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "helmet": "2025-01-01 23:37:29 +0000"
+    },
+    "done": false
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-01-01 22:44:52 +0000"
+    },
+    "done": true
+  },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit7": "2025-01-01 23:32:50 +0000",
+      "nbit8": "2025-01-01 23:32:50 +0000",
+      "nbit9": "2025-01-01 23:32:50 +0000",
+      "nbit3": "2025-01-01 23:32:50 +0000",
+      "nbit15": "2025-01-01 23:32:56 +0000",
+      "nbit4": "2025-01-01 23:32:50 +0000",
+      "nbit5": "2025-01-01 23:32:56 +0000",
+      "nbit13": "2025-01-01 23:32:50 +0000",
+      "nbit6": "2025-01-01 23:33:33 +0000",
+      "nbit19": "2025-01-01 23:32:50 +0000",
+      "nbit0": "2025-01-01 23:32:50 +0000",
+      "nbit18": "2025-01-01 23:32:50 +0000",
+      "nbit17": "2025-01-01 23:32:50 +0000",
+      "nbit2": "2025-01-01 23:32:50 +0000",
+      "nbit16": "2025-01-01 23:32:50 +0000",
+      "nbit22": "2025-01-01 23:32:50 +0000",
+      "nbit21": "2025-01-01 23:32:56 +0000",
+      "nbit20": "2025-01-01 23:32:50 +0000",
+      "bit21": "2025-01-01 23:32:50 +0000",
+      "nbit26": "2025-01-01 23:32:50 +0000",
+      "nbit25": "2025-01-01 23:32:50 +0000",
+      "nbit24": "2025-01-01 23:32:50 +0000",
+      "nbit23": "2025-01-01 23:32:50 +0000",
+      "nbit29": "2025-01-01 23:32:50 +0000",
+      "nbit28": "2025-01-01 23:32:50 +0000",
+      "nbit27": "2025-01-01 23:32:50 +0000",
+      "nbit31": "2025-01-01 23:32:50 +0000",
+      "nbit30": "2025-01-01 23:32:50 +0000",
+      "bit18": "2025-01-01 23:32:56 +0000",
+      "bit7": "2025-01-01 23:33:33 +0000",
+      "bit5": "2025-01-01 23:32:50 +0000",
+      "bit14": "2025-01-01 23:32:50 +0000",
+      "bit6": "2025-01-01 23:32:50 +0000",
+      "bit15": "2025-01-01 23:32:50 +0000",
+      "bit3": "2025-01-01 23:33:33 +0000",
+      "bit1": "2025-01-01 23:32:50 +0000",
+      "bit2": "2025-01-01 23:33:33 +0000",
+      "bit0": "2025-01-01 23:33:33 +0000",
+      "nbit10": "2025-01-01 23:32:56 +0000",
+      "bit12": "2025-01-01 23:32:50 +0000",
+      "bit10": "2025-01-01 23:32:50 +0000",
+      "bit11": "2025-01-01 23:32:50 +0000"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2025-01-01 23:34:28 +0000"
     },
     "done": true
   },

@@ -8238,9 +8238,21 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_healed": {
+    "criteria": {
+      "bleeding_healed": "2025-01-01 23:31:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-01-01 23:11:28 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-01-01 23:30:50 +0000"
     },
     "done": true
   },
