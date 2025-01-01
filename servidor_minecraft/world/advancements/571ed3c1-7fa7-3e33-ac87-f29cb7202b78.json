@@ -14,9 +14,11 @@
       "minecraft:cherry_grove": "2024-11-16 20:32:27 +0000",
       "minecraft:sunflower_plains": "2024-11-16 20:32:35 +0000",
       "minecraft:birch_forest": "2024-11-16 07:59:57 +0000",
+      "minecraft:bamboo_jungle": "2025-01-01 01:08:20 +0000",
       "minecraft:badlands": "2024-11-16 19:56:13 +0000",
       "minecraft:savanna_plateau": "2024-11-16 20:09:31 +0000",
       "minecraft:beach": "2024-12-08 01:34:01 +0000",
+      "minecraft:stony_peaks": "2025-01-01 01:55:19 +0000",
       "minecraft:sparse_jungle": "2024-12-19 22:45:42 +0000",
       "minecraft:river": "2024-11-16 06:46:29 +0000",
       "minecraft:snowy_plains": "2024-11-16 06:25:02 +0000",
@@ -39,6 +41,7 @@
       "minecraft:warm_ocean": "2024-12-19 22:38:14 +0000",
       "minecraft:flower_forest": "2024-11-16 20:18:18 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-26 02:16:16 +0000",
+      "minecraft:deep_dark": "2025-01-01 00:37:44 +0000",
       "minecraft:meadow": "2024-11-16 08:00:20 +0000",
       "minecraft:savanna": "2024-11-16 20:03:47 +0000",
       "minecraft:plains": "2024-11-16 06:33:01 +0000"
@@ -934,6 +937,7 @@
       "rotten_flesh": "2024-11-16 21:47:30 +0000",
       "glow_berries": "2024-12-09 00:51:00 +0000",
       "beetroot": "2024-11-26 02:28:04 +0000",
+      "golden_carrot": "2025-01-01 01:20:20 +0000",
       "cooked_chicken": "2024-12-09 02:07:58 +0000",
       "carrot": "2024-12-08 01:31:34 +0000"
     },
@@ -1433,6 +1437,7 @@
       "minecraft:piglin": "2024-11-16 22:43:50 +0000",
       "minecraft:enderman": "2024-11-16 07:57:10 +0000",
       "minecraft:stray": "2024-12-08 01:43:28 +0000",
+      "minecraft:silverfish": "2025-01-01 03:23:38 +0000",
       "minecraft:zombie": "2024-11-16 07:25:16 +0000",
       "minecraft:drowned": "2024-12-19 23:37:56 +0000",
       "minecraft:zombie_villager": "2024-12-17 17:59:28 +0000"
@@ -4167,12 +4172,6 @@
     },
     "done": true
   },
-  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
-    "criteria": {
-      "has_chain": "2024-12-08 02:42:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-08 02:45:04 +0000"
@@ -4579,9 +4578,11 @@
     "criteria": {
       "redstone_caves": "2024-12-08 03:19:19 +0000",
       "prismachasm": "2024-12-09 00:56:19 +0000",
-      "scorching_caves": "2024-12-09 01:27:09 +0000"
+      "scorching_caves": "2024-12-09 01:27:09 +0000",
+      "bioshroom_caves": "2025-01-01 01:24:30 +0000",
+      "ancient_delta": "2025-01-01 01:38:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
@@ -4592,6 +4593,7 @@
       "autumnal_maple_forest": "2024-12-08 03:29:27 +0000",
       "muddy_river": "2024-12-09 01:00:46 +0000",
       "prismachasm": "2024-12-09 00:56:19 +0000",
+      "ancient_delta": "2025-01-01 01:38:54 +0000",
       "willow_forest": "2024-12-19 22:27:04 +0000",
       "frozen_tundra": "2024-12-08 03:36:30 +0000",
       "barley_fields": "2024-12-19 22:35:42 +0000",
@@ -4601,6 +4603,7 @@
       "scorching_caves": "2024-12-09 01:27:09 +0000",
       "grassy_beach": "2024-12-19 22:32:26 +0000",
       "rocky_meadow": "2024-12-09 01:09:28 +0000",
+      "blackwood_taiga": "2025-01-01 01:07:19 +0000",
       "mycotoxic_undergrowth": "2024-12-15 01:34:53 +0000",
       "ochard": "2024-12-17 01:52:47 +0000",
       "flower_fields": "2024-12-23 22:09:52 +0000",
@@ -4611,17 +4614,20 @@
       "eucalyptus_forest": "2024-12-19 22:40:29 +0000",
       "magnolia_highlands": "2024-12-19 22:26:20 +0000",
       "outback": "2024-12-19 22:39:36 +0000",
+      "sparse_redwoods": "2025-01-01 01:08:43 +0000",
       "deciduous_forest": "2024-12-19 22:33:13 +0000",
       "glistering_meadow": "2024-12-15 01:33:43 +0000",
       "blackstone_basin": "2024-12-15 02:00:47 +0000",
       "infernal_holt": "2024-12-15 02:01:29 +0000",
+      "bamboo_forest": "2025-01-01 01:54:08 +0000",
       "temperate_grove": "2024-12-14 23:02:13 +0000",
       "cold_river": "2024-12-14 23:01:58 +0000",
       "pumpkin_fields": "2024-12-08 03:29:55 +0000",
       "baobab_savanna": "2024-12-19 22:36:01 +0000",
       "prairie": "2024-12-19 22:33:20 +0000",
       "grassland": "2024-12-22 00:47:50 +0000",
-      "redwoods": "2024-12-19 22:44:35 +0000"
+      "redwoods": "2024-12-19 22:44:35 +0000",
+      "bioshroom_caves": "2025-01-01 01:24:30 +0000"
     },
     "done": false
   },
@@ -4657,6 +4663,7 @@
       "poppy_fields": "2024-12-14 22:54:21 +0000",
       "grassy_beach": "2024-12-19 22:32:26 +0000",
       "rocky_meadow": "2024-12-09 01:09:28 +0000",
+      "blackwood_taiga": "2025-01-01 01:07:19 +0000",
       "ochard": "2024-12-17 01:52:47 +0000",
       "flower_fields": "2024-12-23 22:09:52 +0000",
       "highland_fields": "2024-12-09 01:27:23 +0000",
@@ -4666,7 +4673,9 @@
       "eucalyptus_forest": "2024-12-19 22:40:29 +0000",
       "magnolia_highlands": "2024-12-19 22:26:20 +0000",
       "outback": "2024-12-19 22:39:36 +0000",
+      "sparse_redwoods": "2025-01-01 01:08:43 +0000",
       "deciduous_forest": "2024-12-19 22:33:13 +0000",
+      "bamboo_forest": "2025-01-01 01:54:08 +0000",
       "temperate_grove": "2024-12-14 23:02:13 +0000",
       "cold_river": "2024-12-14 23:01:58 +0000",
       "pumpkin_fields": "2024-12-08 03:29:55 +0000",
@@ -4969,12 +4978,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-09 01:44:35 +0000"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
     "criteria": {
       "has_glass": "2024-12-09 01:44:35 +0000"
     },
@@ -5313,18 +5316,6 @@
   "nourished_nether:nourished_nether_root": {
     "criteria": {
       "nourished_nether_root": "2024-12-15 01:07:49 +0000"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:main/root": {
-    "criteria": {
-      "entered_nether": "2024-12-15 01:07:49 +0000"
-    },
-    "done": true
-  },
-  "netheroverhaul:bruger_the_burger": {
-    "criteria": {
-      "bruger_the_burger": "2024-12-15 01:07:49 +0000"
     },
     "done": true
   },
@@ -6832,12 +6823,6 @@
     },
     "done": true
   },
-  "netherdepthsupgrade:recipes/netherdepthsupgrade/fortress_grouper_plate": {
-    "criteria": {
-      "has_fortress_grouper": "2024-12-19 20:20:36 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2024-12-19 20:39:00 +0000"
@@ -7329,39 +7314,9 @@
     },
     "done": true
   },
-  "stellarity:cursed_tome/root": {
-    "criteria": {
-      "requirement": "2024-12-23 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
-    "criteria": {
-      "requirement": "2024-12-23 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/root": {
-    "criteria": {
-      "requirement": "2024-12-23 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/sabrewing": {
-    "criteria": {
-      "requirement": "2024-12-23 00:46:55 +0000"
-    },
-    "done": true
-  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-23 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "stellarity:story/obtain_an_ender_pearl": {
-    "criteria": {
-      "criteria": "2024-12-23 00:46:55 +0000"
     },
     "done": true
   },
@@ -7503,12 +7458,6 @@
     },
     "done": true
   },
-  "cwsplus:on_hurt": {
-    "criteria": {
-      "nbit7": "2024-12-23 22:58:01 +0000"
-    },
-    "done": false
-  },
   "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-23 22:15:16 +0000"
@@ -7644,6 +7593,642 @@
   "alexscaves:alexscaves/defeat_watcher": {
     "criteria": {
       "killed": "2024-12-23 22:43:16 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-12-31 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "stonecutter": "2024-12-31 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "huntingpost": "2024-12-31 06:12:28 +0000",
+      "cartographytable": "2024-12-31 05:16:38 +0000",
+      "miningbench": "2024-12-31 05:55:06 +0000",
+      "grindstone": "2024-12-31 02:58:27 +0000",
+      "lectern": "2024-12-31 04:42:55 +0000",
+      "stonecutter": "2024-12-31 02:33:16 +0000",
+      "composter": "2025-01-01 02:36:57 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-31 02:45:01 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-31 02:45:01 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2024-12-31 02:56:09 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "cartographer": "2024-12-31 05:43:05 +0000",
+      "librarian": "2024-12-31 04:12:43 +0000",
+      "weaponsmith": "2024-12-31 03:46:58 +0000",
+      "miner": "2024-12-31 05:55:46 +0000",
+      "farmer": "2025-01-01 02:37:07 +0000",
+      "hunter": "2024-12-31 06:12:39 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2024-12-31 03:46:58 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2024-12-31 03:50:47 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2024-12-31 04:31:52 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2024-12-31 04:36:34 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2024-12-31 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2024-12-31 04:59:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2024-12-31 05:51:20 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 05:55:06 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/quartz/chiseled_quartz_pillar": {
+    "criteria": {
+      "has_item": "2024-12-31 05:57:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/quartz/cracked_quartz_bricks": {
+    "criteria": {
+      "has_item": "2024-12-31 05:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-31 06:25:29 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2024-12-31 06:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-31 07:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-31 07:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-12-31 07:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-31 08:00:12 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2024-12-31 08:23:18 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-31 08:24:18 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2024-12-31 08:24:25 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2024-12-31 08:24:25 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2024-12-31 08:24:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2024-12-31 23:38:06 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-01-01 00:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-01 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-01-01 01:01:06 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-01 01:52:34 +0000",
+      "in_better_skeleton_dungeon": "2025-01-01 01:01:06 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-01-01 01:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-01-01 01:08:49 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_slab": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/pink_salt_wall": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_stairs": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_pink_salt_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_bricks_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-01-01 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt": {
+    "criteria": {
+      "has_pink_salt_straw": "2025-01-01 01:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-01 01:16:08 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_stairs_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_wall_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_brick_stairs_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_brick_wall_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/rose_pink_salt_wall": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_slab_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_rose_pink_salt_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_slab": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_stairs": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_wall_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_brick_slab_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_stairs_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_slab_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_bricks_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-01-01 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pastel_pink_salt_wall_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_stairs_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_slab_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_slab": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pastel_pink_salt_stairs_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_bricks_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pastel_pink_salt": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_pastel_pink_salt_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pastel_pink_salt_slab_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_stairs": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pastel_pink_salt_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/pastel_pink_salt_wall": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_brick_slab_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_wall_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_brick_stairs_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_brick_wall_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2025-01-01 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/food/salted_jerky": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-01-01 01:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gunpowder": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-01-01 01:25:10 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/cured_membrane": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-01-01 01:25:10 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-01 01:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-01-01 01:33:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/summon_berserker": {
+    "criteria": {
+      "summoned": "2025-01-01 01:39:54 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/saltbound_tablet_smithing": {
+    "criteria": {
+      "has_preserved_template": "2025-01-01 01:40:53 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:lost_caves": {
+    "criteria": {
+      "lost_caves": "2025-01-01 01:49:21 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-01 01:52:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-01-01 02:00:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-01-01 02:00:54 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-01-01 02:24:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/villager_smithing": {
+    "criteria": {
+      "has_villager": "2025-01-01 02:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-01 02:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-01 02:45:00 +0000"
+    },
+    "done": true
+  },
+  "endertrigon:recipes/tools/dragon_horn": {
+    "criteria": {
+      "has_ender_eye": "2025-01-01 02:45:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-01-01 02:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-01-01 03:47:11 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2025-01-01 04:58:18 +0000"
     },
     "done": true
   },
