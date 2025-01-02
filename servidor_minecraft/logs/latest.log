@@ -825,3 +825,23 @@
 [02Jan2025 01:48:25.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
 [02Jan2025 01:48:28.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:41395] logged in with entity id 63349 at (-5580.038236100008, 64.0, -2188.8363830907865)
 [02Jan2025 01:48:28.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[02Jan2025 01:53:30.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5687ms or 113 ticks behind
+[02Jan2025 01:56:25.367] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-35, -3], discarding
+[02Jan2025 01:56:25.370] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-36, -3], discarding
+[02Jan2025 01:56:25.371] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-34, -3], discarding
+[02Jan2025 01:56:25.372] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-33, -3], discarding
+[02Jan2025 01:56:25.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Eat with One Hand]
+[02Jan2025 01:56:44.936] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-49, -2], discarding
+[02Jan2025 01:56:44.940] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[02Jan2025 01:56:44.941] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-50, -2], discarding
+[02Jan2025 01:58:24.947] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-69, -21], discarding
+[02Jan2025 01:58:34.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 2.551451995992352,3.227779252040037,-9.237802966679567
+[02Jan2025 01:58:34.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4158ms or 83 ticks behind
+[02Jan2025 01:58:56.336] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-70, -21], discarding
+[02Jan2025 01:58:58.128] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-71, -22], discarding
+[02Jan2025 01:59:01.103] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-72, -23], discarding
+[02Jan2025 01:59:01.104] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-72, -22], discarding
+[02Jan2025 01:59:14.975] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-73, -24], discarding
+[02Jan2025 02:00:13.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Oh Shiny]
+[02Jan2025 02:02:58.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[02Jan2025 02:03:37.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
