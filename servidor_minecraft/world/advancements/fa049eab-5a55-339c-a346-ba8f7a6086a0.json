@@ -29,6 +29,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-11-16 20:52:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-09 01:07:29 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-16 08:04:12 +0000",
+      "minecraft:deep_dark": "2025-01-02 01:02:54 +0000",
       "minecraft:meadow": "2024-11-16 08:00:04 +0000",
       "minecraft:savanna": "2024-11-16 20:00:17 +0000",
       "minecraft:plains": "2024-11-16 06:32:56 +0000"
@@ -4522,11 +4523,14 @@
       "magnolia_highlands": "2024-12-09 01:05:20 +0000",
       "glistering_meadow": "2024-12-15 01:32:23 +0000",
       "blackstone_basin": "2024-12-15 02:00:43 +0000",
+      "towering_cliffs": "2025-01-02 01:00:49 +0000",
       "infernal_holt": "2024-12-15 02:01:25 +0000",
       "bamboo_forest": "2024-12-09 01:03:35 +0000",
+      "saguaro_desert": "2025-01-02 01:01:38 +0000",
       "temperate_grove": "2024-12-09 00:56:41 +0000",
       "cold_river": "2024-12-09 00:55:20 +0000",
       "pumpkin_fields": "2024-12-09 03:36:49 +0000",
+      "baobab_savanna": "2025-01-02 01:00:01 +0000",
       "lupine_plains": "2024-12-14 23:04:17 +0000"
     },
     "done": false
@@ -4549,10 +4553,13 @@
       "frozen_pine_taiga": "2024-12-08 03:36:03 +0000",
       "maple_forest": "2024-12-09 00:54:33 +0000",
       "magnolia_highlands": "2024-12-09 01:05:20 +0000",
+      "towering_cliffs": "2025-01-02 01:00:49 +0000",
       "bamboo_forest": "2024-12-09 01:03:35 +0000",
+      "saguaro_desert": "2025-01-02 01:01:38 +0000",
       "temperate_grove": "2024-12-09 00:56:41 +0000",
       "cold_river": "2024-12-09 00:55:20 +0000",
       "pumpkin_fields": "2024-12-09 03:36:49 +0000",
+      "baobab_savanna": "2025-01-02 01:00:01 +0000",
       "lupine_plains": "2024-12-14 23:04:17 +0000"
     },
     "done": false
@@ -7591,6 +7598,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:creeperling": {
     "criteria": {
       "encountered_creeperling": "2025-01-01 23:13:58 +0000"
@@ -7609,9 +7634,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-01-02 00:39:55 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_gloomoth": {
     "criteria": {
       "killed": "2025-01-01 23:43:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/pillar": {
+    "criteria": {
+      "has_item": "2025-01-02 00:58:10 +0000"
     },
     "done": true
   },
@@ -7652,6 +7695,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-01-02 00:41:46 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/decayed_workbench": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 00:32:52 +0000"
@@ -7664,6 +7713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2025-01-01 23:06:10 +0000"
@@ -7673,6 +7728,12 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-01 23:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-01-02 01:02:54 +0000"
     },
     "done": true
   },
@@ -7694,6 +7755,18 @@
     },
     "done": true
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-01-02 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
     "criteria": {
       "has_cloth": "2025-01-01 23:34:28 +0000"
@@ -7703,6 +7776,12 @@
   "alexscaves:alexscaves/discover_underzealot": {
     "criteria": {
       "killed_by_underzealot": "2025-01-01 23:41:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/fence": {
+    "criteria": {
+      "has_item": "2025-01-02 00:58:10 +0000"
     },
     "done": true
   },
@@ -7736,48 +7815,85 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-02 00:53:44 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
       "discover": "2025-01-01 23:40:59 +0000"
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-02 00:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
   "cwsplus:on_hurt": {
     "criteria": {
-      "nbit7": "2025-01-02 00:35:41 +0000",
-      "nbit8": "2025-01-02 00:35:41 +0000",
-      "nbit9": "2025-01-02 00:35:41 +0000",
-      "nbit15": "2025-01-02 00:35:41 +0000",
-      "nbit14": "2025-01-02 00:35:41 +0000",
-      "nbit13": "2025-01-02 00:35:41 +0000",
-      "nbit6": "2025-01-02 00:35:41 +0000",
-      "nbit19": "2025-01-02 00:35:41 +0000",
-      "nbit0": "2025-01-02 00:35:41 +0000",
-      "nbit18": "2025-01-02 00:35:41 +0000",
-      "nbit1": "2025-01-02 00:35:41 +0000",
-      "nbit17": "2025-01-02 00:35:41 +0000",
-      "nbit22": "2025-01-02 00:35:41 +0000",
-      "nbit20": "2025-01-02 00:35:41 +0000",
-      "bit21": "2025-01-02 00:35:41 +0000",
-      "nbit26": "2025-01-02 00:35:41 +0000",
-      "nbit25": "2025-01-02 00:35:41 +0000",
-      "nbit24": "2025-01-02 00:35:41 +0000",
-      "nbit23": "2025-01-02 00:35:41 +0000",
-      "nbit29": "2025-01-02 00:35:41 +0000",
-      "nbit28": "2025-01-02 00:35:41 +0000",
-      "nbit27": "2025-01-02 00:35:41 +0000",
-      "nbit31": "2025-01-02 00:35:41 +0000",
-      "nbit30": "2025-01-02 00:35:41 +0000",
-      "bit16": "2025-01-02 00:35:41 +0000",
-      "bit5": "2025-01-02 00:35:41 +0000",
-      "bit3": "2025-01-02 00:35:41 +0000",
-      "bit4": "2025-01-02 00:35:41 +0000",
-      "bit2": "2025-01-02 00:35:41 +0000",
-      "nbit10": "2025-01-02 00:35:41 +0000",
-      "bit12": "2025-01-02 00:35:41 +0000",
-      "bit11": "2025-01-02 00:35:41 +0000"
+      "nbit7": "2025-01-02 01:07:29 +0000",
+      "nbit8": "2025-01-02 01:07:35 +0000",
+      "nbit9": "2025-01-02 01:07:29 +0000",
+      "nbit3": "2025-01-02 01:07:29 +0000",
+      "nbit15": "2025-01-02 01:07:29 +0000",
+      "nbit4": "2025-01-02 01:07:35 +0000",
+      "nbit14": "2025-01-02 01:07:29 +0000",
+      "nbit5": "2025-01-02 01:07:35 +0000",
+      "nbit13": "2025-01-02 01:07:35 +0000",
+      "nbit6": "2025-01-02 01:07:35 +0000",
+      "nbit12": "2025-01-02 01:07:35 +0000",
+      "nbit19": "2025-01-02 01:07:29 +0000",
+      "nbit0": "2025-01-02 01:07:35 +0000",
+      "nbit18": "2025-01-02 01:07:29 +0000",
+      "nbit1": "2025-01-02 01:07:29 +0000",
+      "nbit17": "2025-01-02 01:07:29 +0000",
+      "nbit2": "2025-01-02 01:07:29 +0000",
+      "nbit16": "2025-01-02 01:07:35 +0000",
+      "nbit22": "2025-01-02 01:07:29 +0000",
+      "nbit21": "2025-01-02 01:07:35 +0000",
+      "nbit20": "2025-01-02 01:07:29 +0000",
+      "bit21": "2025-01-02 01:07:29 +0000",
+      "nbit26": "2025-01-02 01:07:29 +0000",
+      "nbit25": "2025-01-02 01:07:29 +0000",
+      "nbit24": "2025-01-02 01:07:29 +0000",
+      "nbit23": "2025-01-02 01:07:29 +0000",
+      "nbit29": "2025-01-02 01:07:29 +0000",
+      "nbit28": "2025-01-02 01:07:29 +0000",
+      "nbit27": "2025-01-02 01:07:29 +0000",
+      "nbit31": "2025-01-02 01:07:29 +0000",
+      "nbit30": "2025-01-02 01:07:29 +0000",
+      "bit7": "2025-01-02 01:07:35 +0000",
+      "bit16": "2025-01-02 01:07:29 +0000",
+      "bit8": "2025-01-02 01:07:29 +0000",
+      "bit5": "2025-01-02 01:07:29 +0000",
+      "bit6": "2025-01-02 01:07:29 +0000",
+      "bit4": "2025-01-02 01:07:29 +0000",
+      "bit1": "2025-01-02 01:07:35 +0000",
+      "bit2": "2025-01-02 01:07:35 +0000",
+      "bit0": "2025-01-02 01:07:29 +0000",
+      "nbit11": "2025-01-02 01:07:35 +0000",
+      "nbit10": "2025-01-02 01:07:29 +0000",
+      "bit12": "2025-01-02 01:07:29 +0000",
+      "bit13": "2025-01-02 01:07:29 +0000",
+      "bit11": "2025-01-02 01:07:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
@@ -7800,6 +7916,54 @@
   "majruszsdifficulty:recipes/misc/string_from_cloth": {
     "criteria": {
       "has_cloth": "2025-01-01 23:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-01-02 00:53:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/stayin_frosty": {
+    "criteria": {
+      "c1": "2025-01-02 00:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 00:58:10 +0000"
     },
     "done": true
   },

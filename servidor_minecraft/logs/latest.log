@@ -544,3 +544,33 @@
 [02Jan2025 00:40:19.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Stayin' Frosty]
 [02Jan2025 00:41:10.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Stayin' Frosty]
 [02Jan2025 00:41:17.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:42:10.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
+[02Jan2025 00:42:12.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [The broken Nether's warmachine]
+[02Jan2025 00:44:11.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Let's Get To Work]
+[02Jan2025 00:47:14.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -3.6617059480881835,2.252203340253729,-9.111075139734567
+[02Jan2025 00:47:14.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3843ms or 76 ticks behind
+[02Jan2025 00:50:19.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[02Jan2025 00:50:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[02Jan2025 00:52:17.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2932ms or 58 ticks behind
+[02Jan2025 00:53:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:53:48.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> XD
+[02Jan2025 00:55:42.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 00:57:21.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3732ms or 74 ticks behind
+[02Jan2025 00:58:24.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Who is Cutting Onions?]
+[02Jan2025 00:58:52.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24698ms or 493 ticks behind
+[02Jan2025 00:59:30.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ lost connection: Disconnected
+[02Jan2025 00:59:30.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ left the game
+[02Jan2025 00:59:46.638] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b03c21b[id=<null>,name=GamerRCJ,properties={},legacy=false] (/127.123.2.169:37343) lost connection: Disconnected
+[02Jan2025 00:59:51.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GamerRCJ[/127.123.2.169:50797] logged in with entity id 50404 at (-30142.463248450786, -21.0, -29935.418199887234)
+[02Jan2025 00:59:51.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ joined the game
+[02Jan2025 00:59:59.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ lost connection: Disconnected
+[02Jan2025 00:59:59.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ left the game
+[02Jan2025 01:01:19.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -5084.500000, -10.000000, -6265.500000]
+[02Jan2025 01:01:26.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[02Jan2025 01:01:27.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
+[02Jan2025 01:01:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 01:01:45.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02Jan2025 01:02:52.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 01:02:52.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[02Jan2025 01:02:54.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Eye Spy]
+[02Jan2025 01:07:55.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
