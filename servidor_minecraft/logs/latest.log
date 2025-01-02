@@ -1162,3 +1162,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 21:05:38.714] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
 [02Jan2025 21:05:49.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
 [02Jan2025 21:06:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Village Defender]
+[02Jan2025 21:07:56.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 21:07:59.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 431 targets]
+[02Jan2025 21:08:29.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 453 targets]
+[02Jan2025 21:08:41.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 428 targets]
+[02Jan2025 21:09:28.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 430 targets]
+[02Jan2025 21:10:11.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Magispeller]
+[02Jan2025 21:10:32.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4328ms or 86 ticks behind
+[02Jan2025 21:12:13.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Who's Wheezing Now!?]
+[02Jan2025 21:12:15.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Hero of the Village]
+[02Jan2025 21:12:28.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The Guardian]
+[02Jan2025 21:12:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [The Guardian]
+[02Jan2025 21:15:35.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
+[02Jan2025 21:15:50.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[02Jan2025 21:15:50.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[02Jan2025 21:15:59.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:43463] logged in with entity id 88968 at (-5581.816225625461, 64.0, -2178.8470094110485)
+[02Jan2025 21:15:59.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
