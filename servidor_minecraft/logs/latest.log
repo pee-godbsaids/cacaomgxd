@@ -505,3 +505,42 @@
 [02Jan2025 00:30:44.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
 [02Jan2025 00:30:44.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
 [02Jan2025 00:31:09.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:31:37.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02Jan2025 00:32:12.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:32:32.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:32:33.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:33:58.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Into Fire]
+[02Jan2025 00:34:05.569] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:soul_black_smith took 0 ms
+[02Jan2025 00:34:16.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[02Jan2025 00:34:27.633] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[02Jan2025 00:34:33.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Jan2025 00:34:51.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
+[02Jan2025 00:35:10.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3272ms or 65 ticks behind
+[02Jan2025 00:35:30.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5164ms or 103 ticks behind
+[02Jan2025 00:35:50.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4751ms or 95 ticks behind
+[02Jan2025 00:36:09.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4300ms or 86 ticks behind
+[02Jan2025 00:36:17.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 1.3893909174785222,-1.0013359791121417,9.992240993356063
+[02Jan2025 00:36:17.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 10.04004669797132,-0.3767356137817188,0.3314267855869275
+[02Jan2025 00:36:17.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -7.988186919732016,-0.6709083839323036,-6.24808267047365
+[02Jan2025 00:36:35.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11385ms or 227 ticks behind
+[02Jan2025 00:36:56.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5799ms or 115 ticks behind
+[02Jan2025 00:37:17.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6010ms or 120 ticks behind
+[02Jan2025 00:37:36.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4350ms or 87 ticks behind
+[02Jan2025 00:37:59.646] [Worker-Main-19/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jan2025 00:37:59.655] [Worker-Main-19/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jan2025 00:37:59.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -3807.500000, 62.000000, -3775.500000]
+[02Jan2025 00:38:00.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The Soul Forge]
+[02Jan2025 00:38:00.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 0.44823788418170807,-11.001595821392776,0.35677533669377226
+[02Jan2025 00:38:00.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -10.07858659261592,0.0,-0.4132703118079917
+[02Jan2025 00:38:03.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Stayin' Frosty]
+[02Jan2025 00:38:07.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15731ms or 314 ticks behind
+[02Jan2025 00:38:27.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5260ms or 105 ticks behind
+[02Jan2025 00:38:49.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:38:51.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8355ms or 167 ticks behind
+[02Jan2025 00:39:06.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [The Soul Forge]
+[02Jan2025 00:39:15.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [The Soul Forge]
+[02Jan2025 00:39:28.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:39:38.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> XCD
+[02Jan2025 00:40:19.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Stayin' Frosty]
+[02Jan2025 00:41:10.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Stayin' Frosty]
+[02Jan2025 00:41:17.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
