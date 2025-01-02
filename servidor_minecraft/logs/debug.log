@@ -6751,3 +6751,102 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 18:32:18.546] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [02Jan2025 18:32:19.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [02Jan2025 18:32:19.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[02Jan2025 18:33:03.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 18:33:03.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 18:33:04.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3295ms or 65 ticks behind
+[02Jan2025 18:36:28.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 0.010174369641390513,-3.223186594719847,-10.182470960838714
+[02Jan2025 18:36:29.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[02Jan2025 18:36:31.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Jan2025 18:36:32.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[02Jan2025 18:36:38.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Jan2025 18:38:10.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 18:38:10.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 18:38:10.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
+[02Jan2025 18:38:34.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Jan2025 18:38:35.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Jan2025 18:39:41.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Gave 1 [Athame] to quipit0s]
+[02Jan2025 18:39:42.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:40:22.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[02Jan2025 18:40:28.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[02Jan2025 18:40:35.278] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[02Jan2025 18:40:35.440] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[02Jan2025 18:40:35.612] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/bend1 is being run through DFU (hash 78768790d8806a5eb59b83080f12c16ecc961d049f2d35e510a6187b583bc79f), this will cause launch time delays
+[02Jan2025 18:40:36.686] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight4 is being run through DFU (hash 5612e3250cf2024a387c6d7c53e1413f1848eeb733b0d91113df0b6f857aad25), this will cause launch time delays
+[02Jan2025 18:40:36.727] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight3 is being run through DFU (hash 1b8bc83fc07db6b945aec81ceccd4ed4f245a181417da337213ce35374151393), this will cause launch time delays
+[02Jan2025 18:40:36.913] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/bend2 is being run through DFU (hash 0f478b3d066e09bd18cd5d48f39f2f7ef40860a44aa2bb18a59614cbf35bd1c4), this will cause launch time delays
+[02Jan2025 18:40:37.031] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight2 is being run through DFU (hash 2cdb2d6fcdb2768c1c618707a21180a8d38b2f98cc1765891cf0d1f744b6e2f3), this will cause launch time delays
+[02Jan2025 18:40:37.065] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight1 is being run through DFU (hash 021121437b4b1d44760c99e0be3ef376f85ce195ba97a9080052be1e4e2f9085), this will cause launch time delays
+[02Jan2025 18:40:37.156] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight5 is being run through DFU (hash 93d95a7ccec163fff9dc078375dcb873339bc8d92388a33546d36a2384b81beb), this will cause launch time delays
+[02Jan2025 18:40:37.164] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight6 is being run through DFU (hash e3505218e726eea53deb986deb45b9dcacb8b531998f1d817e74010e27c056d0), this will cause launch time delays
+[02Jan2025 18:40:37.189] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/t1 is being run through DFU (hash 446d3f69e48a3320408c27e077b0b9ca821eda90ed75e2394fba9ca4617063c9), this will cause launch time delays
+[02Jan2025 18:40:37.215] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/t2 is being run through DFU (hash 7ef44d33cbe7b17282ce3d6be45cfdffcf98bf2274baae57fd158dd90f55af3b), this will cause launch time delays
+[02Jan2025 18:40:37.252] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/inter1 is being run through DFU (hash 344846de85630d7bb85fc70802890be766fbdadc47343471d240a9bfe8c6d16f), this will cause launch time delays
+[02Jan2025 18:40:37.283] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term1 is being run through DFU (hash 63b5ac322691aaa7cef3b6bf1cbc50b478553ca3ec5237a391116266c2a3ffb9), this will cause launch time delays
+[02Jan2025 18:40:37.291] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term2 is being run through DFU (hash 088ae3db7603d9c698951d26e63ab76ae8b60a695a56ec18487687f17b7ab6c7), this will cause launch time delays
+[02Jan2025 18:40:37.293] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term3 is being run through DFU (hash b47dd5da7e4d2f648703177bb5e06b2a354baa8a3b335727b7d416e8e9d752e7), this will cause launch time delays
+[02Jan2025 18:40:37.298] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term4 is being run through DFU (hash 3ba032d920d8b2b6f03df3d2b6315699e7ffdb3be7db05b08b29f33de2682dce), this will cause launch time delays
+[02Jan2025 18:40:37.419] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/weaponsmith1 is being run through DFU (hash e772afd5670c93ef14ed472af85860b15fe17f6d6ee816a21b18fe3eea6c7b4a), this will cause launch time delays
+[02Jan2025 18:40:37.547] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/armorsmith1 is being run through DFU (hash 590dd18bc9c9cec87e9b3ac80149032c8fadb236c432dd4b05761e0e4e33a101), this will cause launch time delays
+[02Jan2025 18:40:37.768] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/chapel1 is being run through DFU (hash 59ced20d339a075b001b623c55e1b0e77b08d329bdd923dede1a5f77de70a03a), this will cause launch time delays
+[02Jan2025 18:40:37.990] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/cartographer1 is being run through DFU (hash 2f178f69fb8faf46a07d2d6a83e4ba5b5f18820bf0221bd8ecd722037edd31c1), this will cause launch time delays
+[02Jan2025 18:40:38.815] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/cartographer2 is being run through DFU (hash d383526608b6a5364dd40d29289a5940ef5b02169bab2785d81781f86f7fb78b), this will cause launch time delays
+[02Jan2025 18:40:38.854] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/library1 is being run through DFU (hash da2a26a4f3d9e06749c3730cde2207163fee8d4abcd43618ecaf800613f0badf), this will cause launch time delays
+[02Jan2025 18:40:39.041] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic1 is being run through DFU (hash 77701ba2ff012e4eb0fd0ea8b7920630c7822b77e361d63028a61afb5374842a), this will cause launch time delays
+[02Jan2025 18:40:39.165] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic_big1 is being run through DFU (hash 9d32c8fe1ae632f7173f7c8757078ec554d1dfc2b331665e201cf5877535a7e1), this will cause launch time delays
+[02Jan2025 18:40:39.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:40:39.376] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic3 is being run through DFU (hash f2fbb9b300bb6b2095f92ed2602a561005005f435a6997df3ee01995ed031fb1), this will cause launch time delays
+[02Jan2025 18:40:39.415] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic2 is being run through DFU (hash f60b003ad4272f6497d916202e47117a4a5d89b49fbacfaa0b1b8eeb753a86ae), this will cause launch time delays
+[02Jan2025 18:40:39.433] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/fisherman2 is being run through DFU (hash 8b6b06ca4a9a6c5eda3fc9de40942044758656786c28b458631ada12ec0e3fc7), this will cause launch time delays
+[02Jan2025 18:40:39.991] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:40:40.434] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic4 is being run through DFU (hash c17baeb927509c8ab2e8e710f3a290f7f064356a0fe531425cce932cc018aa01), this will cause launch time delays
+[02Jan2025 18:40:40.510] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/butcher1 is being run through DFU (hash 99063c21c4b352c9795556518be9d71df02233bc9075148fe85fe9e0bb1841ef), this will cause launch time delays
+[02Jan2025 18:40:40.762] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/shepherd1 is being run through DFU (hash cb621bafd795d41954e5f3d39ffd72b32661ada974ce7a92e1a3d914a2e4f1e5), this will cause launch time delays
+[02Jan2025 18:40:40.869] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/mason1 is being run through DFU (hash 97216763c8193c4b965bbb52e03131b9669b08fc79707bb4813708a453c80d1f), this will cause launch time delays
+[02Jan2025 18:40:41.218] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic5 is being run through DFU (hash e24c0ce26a6520d4873003a930fcc4f38fbd6b28fcf0451093e0e0e8c4b39f50), this will cause launch time delays
+[02Jan2025 18:40:41.524] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic6 is being run through DFU (hash dee2f402f577c3f014ccbec3dc15eaeff463306b1e285df2238849a747101734), this will cause launch time delays
+[02Jan2025 18:40:42.091] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/fisherman1 is being run through DFU (hash 0c46aaac043d0993caf3a553e6bb257df94f7ce26bd575f553cce58d21d9e8a8), this will cause launch time delays
+[02Jan2025 18:40:42.489] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/fletcher1 is being run through DFU (hash 7721fcf29711d568be48de0210b02c3ad6989f8034f20de8cc235ce84fd9d06e), this will cause launch time delays
+[02Jan2025 18:40:43.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02Jan2025 18:40:44.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:40:44.918] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[02Jan2025 18:40:45.350] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:40:48.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:40:48.897] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[02Jan2025 18:40:50.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:40:51.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:40:58.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:40:58.098] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[02Jan2025 18:40:59.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:00.370] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:04.753] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[02Jan2025 18:41:04.756] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[02Jan2025 18:41:14.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:14.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02Jan2025 18:41:14.793] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:15.646] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:16.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[02Jan2025 18:41:17.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:17.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:20.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:20.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[02Jan2025 18:41:20.132] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:20.181] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:20.184] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[02Jan2025 18:41:20.184] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:23.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:23.054] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[02Jan2025 18:41:58.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:41:59.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Jan2025 18:42:00.021] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:42:01.744] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:42:02.348] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:42:02.349] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[02Jan2025 18:42:02.942] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:42:03.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:42:04.349] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:42:06.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:42:06.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[02Jan2025 18:42:23.795] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:42:25.846] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:42:26.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jan2025 18:42:46.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
