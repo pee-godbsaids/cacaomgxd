@@ -1068,3 +1068,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 20:04:51.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
 [02Jan2025 20:04:52.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> agara
 [02Jan2025 20:04:53.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[02Jan2025 20:06:52.351] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55f8259c[id=<null>,name=GabrielCacao,properties={},legacy=false] (/127.146.234.60:47709) lost connection: Disconnected
+[02Jan2025 20:07:21.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:40077] logged in with entity id 67564 at (-5575.780927277087, 64.0, -2185.485012916289)
+[02Jan2025 20:07:21.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[02Jan2025 20:08:17.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[02Jan2025 20:09:55.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3576ms or 71 ticks behind
+[02Jan2025 20:10:58.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
+[02Jan2025 20:11:01.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> xd
+[02Jan2025 20:11:01.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> xd
+[02Jan2025 20:11:07.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> xd
+[02Jan2025 20:11:51.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was killed by magic
+[02Jan2025 20:11:51.187] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_02.01.2025-20.11.51.dat
+[02Jan2025 20:11:51.195] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[02Jan2025 20:13:27.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 10.889052430345146,0.0,0.1636079247195994
+[02Jan2025 20:14:57.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2415ms or 48 ticks behind
