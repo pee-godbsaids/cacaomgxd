@@ -1082,3 +1082,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 20:11:51.195] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
 [02Jan2025 20:13:27.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 10.889052430345146,0.0,0.1636079247195994
 [02Jan2025 20:14:57.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2415ms or 48 ticks behind
+[02Jan2025 20:18:00.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was exterminated by The Baby Leviathan 's laser
+[02Jan2025 20:18:00.871] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.blaze_02.01.2025-20.18.00.dat
+[02Jan2025 20:18:00.877] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 20:18:03.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> XDD
+[02Jan2025 20:19:59.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 9.636226194403207,1.0,-3.0377612130941998
+[02Jan2025 20:19:59.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
+[02Jan2025 20:23:07.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Fishy Business]
+[02Jan2025 20:24:02.451] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Netherite_Ministrosity_Entity['Sekiroth'/658, l='ServerLevel[world]', x=-5581.63, y=64.00, z=-2186.75] died: Sekiroth was slain by quipit0s
+[02Jan2025 20:24:48.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 8.259633912701247,0.0,-6.573717852942536
+[02Jan2025 20:25:03.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3406ms or 68 ticks behind
+[02Jan2025 20:25:29.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[02Jan2025 20:25:30.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 20:27:09.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> xd
+[02Jan2025 20:28:44.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
+[02Jan2025 20:28:44.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[02Jan2025 20:28:46.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> friwin
+[02Jan2025 20:28:51.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:38029] logged in with entity id 72923 at (-5583.807885774995, 64.0, -2169.156188454003)
+[02Jan2025 20:28:51.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[02Jan2025 20:30:06.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3322ms or 66 ticks behind
+[02Jan2025 20:30:11.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> 2
+[02Jan2025 20:30:16.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> nogei
+[02Jan2025 20:32:34.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was killed trying to hurt quipit0s
+[02Jan2025 20:32:34.805] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.blaze_02.01.2025-20.32.34.dat
+[02Jan2025 20:32:34.823] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 20:32:38.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> papeado
+[02Jan2025 20:32:40.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> XD
+[02Jan2025 20:34:25.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Bad Omen to quipit0s]
+[02Jan2025 20:34:31.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ lost connection: Disconnected
+[02Jan2025 20:34:31.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ left the game
+[02Jan2025 20:35:09.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -10.069465864182348,0.0,1.209618398461771
+[02Jan2025 20:35:09.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3180ms or 63 ticks behind
