@@ -1165,3 +1165,17 @@
 [02Jan2025 02:34:36.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3734ms or 74 ticks behind
 [02Jan2025 02:34:56.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
 [02Jan2025 02:34:56.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[02Jan2025 02:38:21.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Jan2025 02:39:16.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Jan2025 02:39:50.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10015ms or 200 ticks behind
+[02Jan2025 02:40:27.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02Jan2025 02:41:08.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:41987] logged in with entity id 84538 at (-3074.2196855950137, 22.881132791678326, 366.7324299909111)
+[02Jan2025 02:41:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[02Jan2025 02:41:08.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[02Jan2025 02:41:29.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5318ms or 106 ticks behind
+[02Jan2025 02:41:48.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4837ms or 96 ticks behind
+[02Jan2025 02:42:09.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5740ms or 114 ticks behind
+[02Jan2025 02:42:28.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4085ms or 81 ticks behind
+[02Jan2025 02:42:47.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[02Jan2025 02:44:15.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 02:45:24.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7702ms or 154 ticks behind

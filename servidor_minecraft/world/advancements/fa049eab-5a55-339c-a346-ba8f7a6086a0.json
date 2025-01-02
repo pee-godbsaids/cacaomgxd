@@ -7933,48 +7933,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-01-02 02:33:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-01-02 02:33:20 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_sunken_city": {
-    "criteria": {
-      "factory": "2025-01-02 02:26:49 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:katana": {
-    "criteria": {
-      "has_katana": "2025-01-02 02:24:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-01-02 02:33:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-01-02 02:33:20 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-01-02 02:33:43 +0000"
-    },
-    "done": true
-  },
   "cwsplus:on_hurt": {
     "criteria": {
       "nbit7": "2025-01-02 02:30:55 +0000",
@@ -8025,6 +7983,48 @@
     },
     "done": false
   },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-01-02 02:24:50 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-01-02 02:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 02:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 02:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 02:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-02 02:33:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-01-02 02:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-01-02 02:33:43 +0000"
@@ -8034,6 +8034,78 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-01-02 02:33:43 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-02 02:45:14 +0000"
     },
     "done": true
   },
