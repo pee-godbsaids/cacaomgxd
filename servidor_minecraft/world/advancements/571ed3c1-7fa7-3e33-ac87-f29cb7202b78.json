@@ -7647,6 +7647,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "fletcher": "2025-01-02 03:42:52 +0000",
       "cartographer": "2024-12-31 05:43:05 +0000",
       "librarian": "2024-12-31 04:12:43 +0000",
       "weaponsmith": "2024-12-31 03:46:58 +0000",

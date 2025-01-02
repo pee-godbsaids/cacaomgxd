@@ -1239,3 +1239,11 @@
 [02Jan2025 03:31:26.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> papeados
 [02Jan2025 03:36:21.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 6.417595813426487,-1.0,7.6343239889315555
 [02Jan2025 03:36:21.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
+[02Jan2025 03:38:33.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[02Jan2025 03:38:33.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[02Jan2025 03:41:10.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:48329] logged in with entity id 102375 at (-5582.951767696389, 69.0, -2187.5129904588002)
+[02Jan2025 03:41:10.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[02Jan2025 03:41:25.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 7.616806381902279,0.7967356006687112,-6.678317233383041
+[02Jan2025 03:41:25.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[02Jan2025 03:43:25.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Ol' Betsy]
+[02Jan2025 03:46:28.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3167ms or 63 ticks behind
