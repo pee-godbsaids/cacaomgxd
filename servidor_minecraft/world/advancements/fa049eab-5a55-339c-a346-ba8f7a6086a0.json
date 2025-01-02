@@ -7537,6 +7537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-02 00:00:00 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-01-01 23:49:13 +0000"
@@ -7564,6 +7570,12 @@
   "majruszsdifficulty:undead_army": {
     "criteria": {
       "army_defeated": "2025-01-01 23:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-01-02 00:00:18 +0000"
     },
     "done": true
   },
@@ -7652,6 +7664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-01-01 23:55:56 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-01-01 22:44:52 +0000"
@@ -7725,6 +7743,7 @@
       "nbit19": "2025-01-01 23:49:13 +0000",
       "nbit0": "2025-01-01 23:49:13 +0000",
       "nbit18": "2025-01-01 23:49:13 +0000",
+      "nbit1": "2025-01-01 23:50:13 +0000",
       "nbit17": "2025-01-01 23:49:13 +0000",
       "nbit2": "2025-01-01 23:49:13 +0000",
       "nbit16": "2025-01-01 23:49:13 +0000",
@@ -7740,12 +7759,15 @@
       "nbit27": "2025-01-01 23:49:13 +0000",
       "nbit31": "2025-01-01 23:49:13 +0000",
       "nbit30": "2025-01-01 23:49:13 +0000",
+      "bit9": "2025-01-01 23:50:13 +0000",
       "bit7": "2025-01-01 23:49:16 +0000",
       "bit8": "2025-01-01 23:49:13 +0000",
       "bit5": "2025-01-01 23:49:13 +0000",
       "bit14": "2025-01-01 23:49:13 +0000",
       "bit6": "2025-01-01 23:49:25 +0000",
       "bit15": "2025-01-01 23:49:13 +0000",
+      "bit3": "2025-01-01 23:50:13 +0000",
+      "bit4": "2025-01-01 23:50:13 +0000",
       "bit1": "2025-01-01 23:49:13 +0000",
       "bit2": "2025-01-01 23:49:16 +0000",
       "bit0": "2025-01-01 23:49:25 +0000",
@@ -7755,6 +7777,18 @@
       "bit11": "2025-01-01 23:49:13 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-01-02 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-02 00:00:18 +0000"
+    },
+    "done": true
   },
   "majruszsdifficulty:recipes/misc/string_from_cloth": {
     "criteria": {
