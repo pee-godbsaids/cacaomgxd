@@ -845,3 +845,11 @@
 [02Jan2025 02:00:13.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Oh Shiny]
 [02Jan2025 02:02:58.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
 [02Jan2025 02:03:37.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
+[02Jan2025 02:03:55.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3610ms or 72 ticks behind
+[02Jan2025 02:08:43.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[02Jan2025 02:11:46.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[02Jan2025 02:13:08.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[02Jan2025 02:13:27.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[02Jan2025 02:13:51.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 8.650455173383307,1.045461997640139,5.398116556066952
+[02Jan2025 02:13:51.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 5.040632344616824,5.167120928789231,7.497512818497398
+[02Jan2025 02:13:51.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
