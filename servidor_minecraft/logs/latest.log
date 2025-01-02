@@ -1189,3 +1189,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 21:35:47.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 7.000796104754954,3.150470309918717,6.666603744689382
 [02Jan2025 21:35:47.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
 [02Jan2025 21:35:48.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[02Jan2025 21:38:12.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was blown up by Sickened Creeper
+[02Jan2025 21:38:12.322] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_02.01.2025-21.38.12.dat
+[02Jan2025 21:38:12.378] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[02Jan2025 21:38:27.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was blown up by Sickened Creeper
+[02Jan2025 21:38:27.258] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.blaze_02.01.2025-21.38.27.dat
+[02Jan2025 21:38:27.267] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 21:40:52.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4588ms or 91 ticks behind
+[02Jan2025 21:40:52.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 1.5271529401852604,-1.1767592750642422,9.854125654490872
+[02Jan2025 21:41:31.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was blown up by Sickened Creeper
+[02Jan2025 21:41:31.074] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 21:42:46.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 5.101640192321611,0.0,10.32308024154645
+[02Jan2025 21:43:47.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Every Cloud Has a Silver Lining]
+[02Jan2025 21:45:55.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
