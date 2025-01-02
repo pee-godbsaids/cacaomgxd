@@ -40,6 +40,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-11-16 20:51:43 +0000",
       "minecraft:windswept_savanna": "2024-12-19 22:37:24 +0000",
       "minecraft:warm_ocean": "2024-12-19 22:38:14 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-02 02:24:23 +0000",
       "minecraft:flower_forest": "2024-11-16 20:18:18 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-26 02:16:16 +0000",
       "minecraft:deep_dark": "2025-01-01 00:37:44 +0000",
@@ -941,6 +942,7 @@
       "beetroot": "2024-11-26 02:28:04 +0000",
       "golden_carrot": "2025-01-01 01:20:20 +0000",
       "cooked_chicken": "2024-12-09 02:07:58 +0000",
+      "cod": "2025-01-02 02:33:37 +0000",
       "carrot": "2024-12-08 01:31:34 +0000"
     },
     "done": false
@@ -1426,6 +1428,7 @@
       "minecraft:skeleton": "2024-11-16 06:57:31 +0000",
       "minecraft:ghast": "2024-12-17 01:00:51 +0000",
       "minecraft:hoglin": "2024-11-16 22:51:18 +0000",
+      "minecraft:guardian": "2025-01-02 02:32:08 +0000",
       "minecraft:magma_cube": "2024-12-15 01:22:59 +0000",
       "minecraft:spider": "2024-11-16 20:25:32 +0000",
       "minecraft:piglin_brute": "2024-12-15 03:21:46 +0000",
@@ -8230,6 +8233,54 @@
     },
     "done": true
   },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit7": "2025-01-02 02:32:05 +0000",
+      "nbit8": "2025-01-02 02:32:05 +0000",
+      "nbit9": "2025-01-02 02:30:59 +0000",
+      "nbit3": "2025-01-02 02:30:59 +0000",
+      "nbit4": "2025-01-02 02:32:13 +0000",
+      "nbit14": "2025-01-02 02:30:59 +0000",
+      "nbit5": "2025-01-02 02:32:13 +0000",
+      "nbit13": "2025-01-02 02:30:59 +0000",
+      "nbit6": "2025-01-02 02:32:13 +0000",
+      "nbit12": "2025-01-02 02:30:59 +0000",
+      "nbit19": "2025-01-02 02:30:59 +0000",
+      "nbit0": "2025-01-02 02:32:05 +0000",
+      "nbit18": "2025-01-02 02:30:59 +0000",
+      "nbit17": "2025-01-02 02:30:59 +0000",
+      "nbit1": "2025-01-02 02:31:15 +0000",
+      "nbit2": "2025-01-02 02:32:17 +0000",
+      "nbit22": "2025-01-02 02:30:59 +0000",
+      "nbit20": "2025-01-02 02:30:59 +0000",
+      "bit21": "2025-01-02 02:30:59 +0000",
+      "nbit26": "2025-01-02 02:30:59 +0000",
+      "nbit25": "2025-01-02 02:30:59 +0000",
+      "nbit24": "2025-01-02 02:30:59 +0000",
+      "nbit23": "2025-01-02 02:30:59 +0000",
+      "nbit29": "2025-01-02 02:30:59 +0000",
+      "nbit28": "2025-01-02 02:30:59 +0000",
+      "nbit27": "2025-01-02 02:30:59 +0000",
+      "nbit31": "2025-01-02 02:30:59 +0000",
+      "nbit30": "2025-01-02 02:30:59 +0000",
+      "bit9": "2025-01-02 02:32:05 +0000",
+      "bit7": "2025-01-02 02:30:59 +0000",
+      "bit16": "2025-01-02 02:30:59 +0000",
+      "bit8": "2025-01-02 02:30:59 +0000",
+      "bit5": "2025-01-02 02:30:59 +0000",
+      "bit6": "2025-01-02 02:30:59 +0000",
+      "bit15": "2025-01-02 02:30:59 +0000",
+      "bit3": "2025-01-02 02:32:05 +0000",
+      "bit4": "2025-01-02 02:30:59 +0000",
+      "bit1": "2025-01-02 02:30:59 +0000",
+      "bit2": "2025-01-02 02:30:59 +0000",
+      "bit0": "2025-01-02 02:30:59 +0000",
+      "nbit10": "2025-01-02 02:30:59 +0000",
+      "bit10": "2025-01-02 02:32:05 +0000",
+      "bit11": "2025-01-02 02:30:59 +0000"
+    },
+    "done": false
+  },
   "majruszsdifficulty:recipes/misc/bandage_golden": {
     "criteria": {
       "has_bandage": "2025-01-01 04:58:18 +0000"
@@ -8245,6 +8296,18 @@
   "majruszsdifficulty:bleeding_inflicted": {
     "criteria": {
       "bleeding_applied": "2025-01-02 00:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-02 02:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 02:34:07 +0000"
     },
     "done": true
   },
@@ -8290,6 +8353,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-01-02 02:26:49 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/cooked_hogham": {
     "criteria": {
       "has_item": "2025-01-02 00:22:16 +0000"
@@ -8311,6 +8380,24 @@
   "morevillagers:nether_trade": {
     "criteria": {
       "netherian": "2025-01-02 01:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 02:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 02:34:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-01-02 02:33:32 +0000"
     },
     "done": true
   },
@@ -8350,6 +8437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-02 02:33:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-01-01 23:21:31 +0000"
@@ -8359,6 +8452,12 @@
   "netherexp:nether/stayin_frosty": {
     "criteria": {
       "c1": "2025-01-02 00:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-02 02:33:32 +0000"
     },
     "done": true
   },
