@@ -4628,6 +4628,7 @@
       "magnolia_highlands": "2024-12-19 22:26:20 +0000",
       "outback": "2024-12-19 22:39:36 +0000",
       "sparse_redwoods": "2025-01-01 01:08:43 +0000",
+      "mountains": "2025-01-02 22:07:25 +0000",
       "deciduous_forest": "2024-12-19 22:33:13 +0000",
       "boreal_forest": "2025-01-02 22:00:42 +0000",
       "glistering_meadow": "2024-12-15 01:33:43 +0000",
@@ -4690,6 +4691,7 @@
       "magnolia_highlands": "2024-12-19 22:26:20 +0000",
       "outback": "2024-12-19 22:39:36 +0000",
       "sparse_redwoods": "2025-01-01 01:08:43 +0000",
+      "mountains": "2025-01-02 22:07:25 +0000",
       "deciduous_forest": "2024-12-19 22:33:13 +0000",
       "boreal_forest": "2025-01-02 22:00:42 +0000",
       "bamboo_forest": "2025-01-01 01:54:08 +0000",
@@ -8653,6 +8655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 22:16:30 +0000"
+    },
+    "done": true
+  },
   "witherstormmod:main/resummon_withered_symbiont": {
     "criteria": {
       "summoned_withered_symbiont": "2025-01-02 21:35:22 +0000"
@@ -8665,9 +8673,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 22:16:30 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:pillager_treasure_bag": {
     "criteria": {
       "bag_opened": "2025-01-02 21:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-01-02 22:13:12 +0000"
     },
     "done": true
   },

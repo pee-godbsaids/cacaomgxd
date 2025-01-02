@@ -1226,3 +1226,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 22:07:18.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2816ms or 56 ticks behind
 [02Jan2025 22:07:19.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 4.6064103380158485,9.643497530758424,3.3368734209352624
 [02Jan2025 22:07:37.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3384ms or 67 ticks behind
+[02Jan2025 22:08:27.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[02Jan2025 22:08:46.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3432ms or 68 ticks behind
+[02Jan2025 22:09:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[02Jan2025 22:09:26.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 22:10:29.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[02Jan2025 22:10:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 22:11:22.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[02Jan2025 22:11:36.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 22:11:42.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[02Jan2025 22:12:00.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 22:12:04.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -2.0134694888283775,-0.8882521371145629,9.952120746672335
+[02Jan2025 22:12:04.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
+[02Jan2025 22:12:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[02Jan2025 22:13:04.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 22:13:12.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Ancient Civilization]
+[02Jan2025 22:14:36.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[02Jan2025 22:14:41.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 22:15:50.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 22:15:51.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Ancient Civilization]
+[02Jan2025 22:16:00.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Sneak 100]
+[02Jan2025 22:17:09.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4691ms or 93 ticks behind
+[02Jan2025 22:18:12.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Gave 1 [Waystone] to quipit0s]
+[02Jan2025 22:18:35.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
