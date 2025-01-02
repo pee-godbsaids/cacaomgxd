@@ -1144,3 +1144,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 20:55:13.229] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
 [02Jan2025 20:55:22.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3001ms or 60 ticks behind
 [02Jan2025 20:56:03.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.5886080381333159,9.358000000000004,-6.185927007496957
+[02Jan2025 20:57:05.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Sacrificial Satisfaction]
+[02Jan2025 20:59:40.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 351 targets]
+[02Jan2025 20:59:56.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 345 targets]
+[02Jan2025 21:00:25.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[02Jan2025 21:01:50.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 457 targets]
+[02Jan2025 21:02:01.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 434 targets]
+[02Jan2025 21:02:02.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Voluntary Exile]
+[02Jan2025 21:04:05.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 412 targets]
+[02Jan2025 21:04:18.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 419 targets]
+[02Jan2025 21:04:39.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 380 targets]
+[02Jan2025 21:05:09.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 456 targets]
+[02Jan2025 21:05:28.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.988516583840465,-0.8322033533667508,0.1429433067842183
+[02Jan2025 21:05:28.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[02Jan2025 21:05:38.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was blown up by Twittollager
+[02Jan2025 21:05:38.701] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_02.01.2025-21.05.38.dat
+[02Jan2025 21:05:38.714] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[02Jan2025 21:05:49.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 21:06:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Village Defender]
