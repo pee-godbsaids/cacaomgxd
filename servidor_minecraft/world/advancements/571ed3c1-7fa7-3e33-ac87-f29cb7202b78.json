@@ -7620,6 +7620,7 @@
       "miningbench": "2024-12-31 05:55:06 +0000",
       "oceanographytable": "2025-01-02 02:56:18 +0000",
       "grindstone": "2024-12-31 02:58:27 +0000",
+      "gardeningtable": "2025-01-02 04:47:17 +0000",
       "lectern": "2024-12-31 04:42:55 +0000",
       "stonecutter": "2024-12-31 02:33:16 +0000",
       "decayedworkbench": "2025-01-02 01:22:07 +0000",
@@ -7654,6 +7655,7 @@
       "miner": "2024-12-31 05:55:46 +0000",
       "netherian": "2025-01-02 01:23:08 +0000",
       "farmer": "2025-01-01 02:37:07 +0000",
+      "florist": "2025-01-02 04:47:41 +0000",
       "oceanographer": "2025-01-02 02:56:23 +0000",
       "hunter": "2024-12-31 06:12:39 +0000"
     },
@@ -8278,13 +8280,20 @@
       "nbit11": "2025-01-02 04:20:25 +0000",
       "nbit10": "2025-01-02 04:20:25 +0000",
       "bit13": "2025-01-02 04:20:25 +0000",
-      "bit10": "2025-01-02 04:22:15 +0000"
+      "bit10": "2025-01-02 04:22:15 +0000",
+      "bit11": "2025-01-02 04:53:24 +0000"
     },
     "done": false
   },
   "majruszsdifficulty:recipes/misc/bandage_golden": {
     "criteria": {
       "has_bandage": "2025-01-01 04:58:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2025-01-02 04:47:46 +0000"
     },
     "done": true
   },
@@ -8438,6 +8447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-01-02 04:47:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2025-01-02 04:17:28 +0000"
@@ -8453,6 +8468,18 @@
   "travelersbackpack:recipes/misc/sponge": {
     "criteria": {
       "has_sponge": "2025-01-02 02:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-02 04:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-02 04:49:26 +0000"
     },
     "done": true
   },
@@ -8555,6 +8582,12 @@
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2025-01-02 01:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-01-02 04:47:46 +0000"
     },
     "done": true
   },
