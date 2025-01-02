@@ -1018,3 +1018,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 19:23:57.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2389, y=67, z=770} BlockPos{x=-2388, y=67, z=770}
 [02Jan2025 19:24:00.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2389, y=69, z=770} BlockPos{x=-2389, y=69, z=771}
 [02Jan2025 19:24:10.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4166ms or 83 ticks behind
+[02Jan2025 19:24:22.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2399, y=83, z=781} BlockPos{x=-2398, y=82, z=780}
+[02Jan2025 19:24:28.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[02Jan2025 19:24:48.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5152ms or 103 ticks behind
+[02Jan2025 19:26:51.610] [Worker-Main-68/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jan2025 19:26:51.612] [Worker-Main-68/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jan2025 19:27:12.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[02Jan2025 19:29:22.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -7.7803352476562395,0.7531999805212024,-6.559227760088561
+[02Jan2025 19:29:22.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4568ms or 91 ticks behind
+[02Jan2025 19:33:08.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ was slain by Netherite Monstrosity
+[02Jan2025 19:33:08.355] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerRCJ with unique ID travelersbackpack.blaze_02.01.2025-19.33.08.dat
+[02Jan2025 19:33:08.389] [Server thread/INFO] [tombstone/]: The player GamerRCJ has successfully been saved
+[02Jan2025 19:33:18.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[02Jan2025 19:34:17.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has completed the challenge [The broken Nether's warmachine]
+[02Jan2025 19:34:25.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[02Jan2025 19:34:40.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
