@@ -7616,6 +7616,7 @@
       "grindstone": "2024-12-31 02:58:27 +0000",
       "lectern": "2024-12-31 04:42:55 +0000",
       "stonecutter": "2024-12-31 02:33:16 +0000",
+      "decayedworkbench": "2025-01-02 01:22:07 +0000",
       "composter": "2025-01-01 02:36:57 +0000"
     },
     "done": false
@@ -7644,6 +7645,7 @@
       "librarian": "2024-12-31 04:12:43 +0000",
       "weaponsmith": "2024-12-31 03:46:58 +0000",
       "miner": "2024-12-31 05:55:46 +0000",
+      "netherian": "2025-01-02 01:23:08 +0000",
       "farmer": "2025-01-01 02:37:07 +0000",
       "hunter": "2024-12-31 06:12:39 +0000"
     },
@@ -8262,6 +8264,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/decayed_workbench": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-02 01:22:03 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/cooked_hogham": {
     "criteria": {
       "has_item": "2025-01-02 00:22:16 +0000"
@@ -8271,6 +8279,12 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-01-02 00:58:24 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:nether_trade": {
+    "criteria": {
+      "netherian": "2025-01-02 01:23:08 +0000"
     },
     "done": true
   },
@@ -8286,9 +8300,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-02 01:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-01-02 00:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-02 01:24:32 +0000"
     },
     "done": true
   },
@@ -8307,6 +8333,12 @@
   "netherexp:nether/stayin_frosty": {
     "criteria": {
       "c1": "2025-01-02 00:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-02 01:24:32 +0000"
     },
     "done": true
   },
