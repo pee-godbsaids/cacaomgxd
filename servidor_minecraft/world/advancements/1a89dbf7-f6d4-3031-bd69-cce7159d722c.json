@@ -6497,9 +6497,33 @@
     },
     "done": false
   },
+  "netherexp:recipes/polished_basalt/slab": {
+    "criteria": {
+      "has_item": "2025-01-02 19:35:47 +0000"
+    },
+    "done": true
+  },
   "morevillagers:master_trade": {
     "criteria": {
       "villagertrade": "2025-01-02 18:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
     },
     "done": true
   },
@@ -6509,9 +6533,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-01-02 19:01:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/pillar": {
+    "criteria": {
+      "has_item": "2025-01-02 19:35:49 +0000"
     },
     "done": true
   },
@@ -6528,6 +6564,18 @@
     },
     "done": false
   },
+  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
+    "criteria": {
+      "has_planks": "2025-01-02 19:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-01-02 18:23:38 +0000"
@@ -6537,6 +6585,12 @@
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2025-01-02 18:06:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 19:43:22 +0000"
     },
     "done": true
   },
@@ -6552,9 +6606,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/fence": {
+    "criteria": {
+      "has_item": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/wall": {
+    "criteria": {
+      "has_item": "2025-01-02 19:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-01-02 18:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
     },
     "done": true
   },
@@ -6568,17 +6646,24 @@
     "criteria": {
       "nbit7": "2025-01-02 19:23:20 +0000",
       "nbit8": "2025-01-02 19:23:20 +0000",
+      "nbit9": "2025-01-02 19:44:15 +0000",
+      "nbit3": "2025-01-02 19:44:15 +0000",
       "nbit15": "2025-01-02 19:23:20 +0000",
       "nbit4": "2025-01-02 19:29:58 +0000",
+      "nbit14": "2025-01-02 19:44:15 +0000",
       "nbit5": "2025-01-02 19:23:20 +0000",
       "nbit13": "2025-01-02 19:23:20 +0000",
+      "nbit6": "2025-01-02 19:44:15 +0000",
       "nbit12": "2025-01-02 19:29:58 +0000",
       "nbit19": "2025-01-02 19:23:20 +0000",
+      "nbit0": "2025-01-02 19:44:15 +0000",
       "nbit18": "2025-01-02 19:23:20 +0000",
       "nbit1": "2025-01-02 19:23:20 +0000",
+      "nbit17": "2025-01-02 19:44:15 +0000",
       "nbit2": "2025-01-02 19:29:58 +0000",
       "nbit16": "2025-01-02 19:23:20 +0000",
       "nbit22": "2025-01-02 19:23:20 +0000",
+      "nbit21": "2025-01-02 19:44:15 +0000",
       "nbit20": "2025-01-02 19:23:20 +0000",
       "bit21": "2025-01-02 19:23:20 +0000",
       "nbit26": "2025-01-02 19:23:20 +0000",
@@ -6611,9 +6696,57 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-01-02 19:35:47 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_ingot_from_nuggets": {
     "criteria": {
       "has_silver_nugget": "2025-01-02 19:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-02 19:35:49 +0000"
     },
     "done": true
   },

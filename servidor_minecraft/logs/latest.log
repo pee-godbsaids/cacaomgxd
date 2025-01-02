@@ -1033,3 +1033,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 19:34:17.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has completed the challenge [The broken Nether's warmachine]
 [02Jan2025 19:34:25.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
 [02Jan2025 19:34:40.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[02Jan2025 19:37:51.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -2695.929194830611,-1.0,-3258.267537748171
+[02Jan2025 19:37:51.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5597ms or 111 ticks behind
+[02Jan2025 19:37:52.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[02Jan2025 19:39:32.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[02Jan2025 19:43:22.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has reached the goal [Great minds think alike]
+[02Jan2025 19:44:35.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 1.0028685831357507,1.5813359922251635,-9.953280232547968
+[02Jan2025 19:44:35.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
