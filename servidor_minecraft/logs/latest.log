@@ -1122,3 +1122,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 20:42:15.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Knowledge raises the soul]
 [02Jan2025 20:43:27.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -6.557250000001659,9.872487098223445,-0.6554999999998472
 [02Jan2025 20:45:16.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3284ms or 65 ticks behind
+[02Jan2025 20:50:19.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3236ms or 64 ticks behind
+[02Jan2025 20:51:18.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -3.360222118112688,-4.267512389460947,8.62849233567158
+[02Jan2025 20:52:39.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 2 targets]
+[02Jan2025 20:52:57.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 362 targets]
+[02Jan2025 20:53:03.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 352 targets]
+[02Jan2025 20:53:09.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 341 targets]
+[02Jan2025 20:53:17.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 342 targets]
+[02Jan2025 20:53:32.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 368 targets]
+[02Jan2025 20:53:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 344 targets]
+[02Jan2025 20:53:55.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[02Jan2025 20:53:55.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 20:53:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[02Jan2025 20:54:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 20:54:20.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[02Jan2025 20:54:31.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 20:54:55.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was blown up by Spiritcaller
+[02Jan2025 20:54:55.496] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.blaze_02.01.2025-20.54.55.dat
+[02Jan2025 20:54:55.510] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 20:55:13.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was blown up by Spiritcaller
+[02Jan2025 20:55:13.229] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 20:55:22.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3001ms or 60 ticks behind
+[02Jan2025 20:56:03.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.5886080381333159,9.358000000000004,-6.185927007496957
