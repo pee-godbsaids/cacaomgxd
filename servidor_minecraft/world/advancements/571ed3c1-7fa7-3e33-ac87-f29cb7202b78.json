@@ -8687,8 +8687,11 @@
       "nbit30": "2025-01-02 22:37:12 +0000",
       "bit9": "2025-01-02 22:37:12 +0000",
       "bit7": "2025-01-02 22:37:12 +0000",
+      "bit16": "2025-01-02 22:50:46 +0000",
+      "bit17": "2025-01-02 22:50:46 +0000",
       "bit8": "2025-01-02 22:38:30 +0000",
       "bit5": "2025-01-02 22:38:30 +0000",
+      "bit14": "2025-01-02 22:50:46 +0000",
       "bit6": "2025-01-02 22:37:12 +0000",
       "bit3": "2025-01-02 22:37:12 +0000",
       "bit4": "2025-01-02 22:37:12 +0000",
@@ -8704,6 +8707,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-01-02 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 22:54:35 +0000"
     },
     "done": true
   },
@@ -8743,6 +8752,18 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-02 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "progressivebosses:recipes/misc/corrupted_soul_sand": {
+    "criteria": {
+      "has_nether_star": "2025-01-02 22:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-01-02 22:40:56 +0000"
@@ -8755,15 +8776,15 @@
     },
     "done": true
   },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-02 22:45:49 +0000"
-    },
-    "done": false
-  },
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2025-01-02 22:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-02 22:55:13 +0000"
     },
     "done": true
   },
@@ -8773,9 +8794,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 22:51:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-01-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-02 22:55:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-02 22:54:56 +0000"
     },
     "done": true
   },

@@ -1323,3 +1323,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 22:47:31.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
 [02Jan2025 22:48:00.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
 [02Jan2025 22:48:27.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 22:50:35.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Withering Heights]
+[02Jan2025 22:50:35.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Withering Heights]
+[02Jan2025 22:50:42.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> OHNO
+[02Jan2025 22:50:45.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> osi
+[02Jan2025 22:50:46.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was blown up by Wither
+[02Jan2025 22:50:46.546] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_02.01.2025-22.50.46.dat
+[02Jan2025 22:50:46.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was blown up by Wither
+[02Jan2025 22:50:46.566] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.blaze_02.01.2025-22.50.46.dat
+[02Jan2025 22:50:46.605] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[02Jan2025 22:50:46.606] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 22:51:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Quickly Applied]
+[02Jan2025 22:52:34.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[02Jan2025 22:54:35.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was blown up by Wither
+[02Jan2025 22:54:35.804] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.blaze_02.01.2025-22.54.35.dat
+[02Jan2025 22:54:35.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Strong Undead]
+[02Jan2025 22:54:35.823] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 22:54:56.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Magic Writing]
+[02Jan2025 22:55:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [The long arm of the law]
+[02Jan2025 22:55:30.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [A little cleaning is necessary]
+[02Jan2025 22:55:58.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 22:56:01.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[02Jan2025 22:56:45.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 3.892098442705901,9.020750000000003,-5.129019695354145
+[02Jan2025 22:57:33.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[02Jan2025 22:57:40.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 6.448550934379455,-1.0013359791121488,7.8509836905777775
+[02Jan2025 22:57:40.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -3.1322963252086993,-8.58435413921254,-5.405884720043105
+[02Jan2025 22:57:40.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
+[02Jan2025 22:58:16.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [The Thing of Ancient Civilization]
+[02Jan2025 22:58:22.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was blown up by The Harbinger
+[02Jan2025 22:58:22.549] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.blaze_02.01.2025-22.58.22.dat
+[02Jan2025 22:58:22.566] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 22:58:31.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
