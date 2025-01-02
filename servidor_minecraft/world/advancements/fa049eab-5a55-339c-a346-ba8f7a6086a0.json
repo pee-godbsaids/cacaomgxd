@@ -1247,9 +1247,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-15 01:18:08 +0000",
+      "minecraft:pillager": "2025-01-02 20:36:13 +0000",
       "minecraft:skeleton": "2024-11-16 06:52:27 +0000",
       "minecraft:hoglin": "2024-11-26 02:09:54 +0000",
       "minecraft:guardian": "2025-01-02 02:32:42 +0000",
+      "minecraft:vindicator": "2025-01-02 20:36:25 +0000",
       "minecraft:magma_cube": "2024-12-15 02:22:56 +0000",
       "minecraft:spider": "2024-11-16 07:20:11 +0000",
       "minecraft:piglin_brute": "2024-12-15 03:15:55 +0000",
@@ -8115,17 +8117,41 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2025-01-02 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 20:41:05 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:absorber": "2025-01-02 20:41:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-01-02 20:23:10 +0000"
     },
     "done": true
   },
-  "cwsplus:on_hit": {
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
     "criteria": {
-      "not_target": "2025-01-02 20:30:06 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-01-02 20:35:24 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 20:42:15 +0000"
+    },
+    "done": true
   },
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
@@ -8133,53 +8159,11 @@
     },
     "done": true
   },
-  "cwsplus:on_hurt": {
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
     "criteria": {
-      "nbit7": "2025-01-02 20:30:56 +0000",
-      "nbit8": "2025-01-02 20:30:56 +0000",
-      "nbit9": "2025-01-02 20:30:56 +0000",
-      "nbit3": "2025-01-02 20:30:56 +0000",
-      "nbit15": "2025-01-02 20:30:56 +0000",
-      "nbit4": "2025-01-02 20:30:56 +0000",
-      "nbit14": "2025-01-02 20:32:30 +0000",
-      "nbit5": "2025-01-02 20:30:56 +0000",
-      "nbit13": "2025-01-02 20:30:56 +0000",
-      "nbit6": "2025-01-02 20:32:30 +0000",
-      "nbit12": "2025-01-02 20:32:30 +0000",
-      "nbit19": "2025-01-02 20:30:56 +0000",
-      "nbit0": "2025-01-02 20:30:56 +0000",
-      "nbit18": "2025-01-02 20:32:30 +0000",
-      "nbit17": "2025-01-02 20:30:56 +0000",
-      "nbit2": "2025-01-02 20:30:56 +0000",
-      "nbit16": "2025-01-02 20:30:56 +0000",
-      "nbit22": "2025-01-02 20:30:56 +0000",
-      "nbit21": "2025-01-02 20:30:56 +0000",
-      "nbit20": "2025-01-02 20:30:56 +0000",
-      "nbit26": "2025-01-02 20:30:56 +0000",
-      "nbit25": "2025-01-02 20:30:56 +0000",
-      "nbit24": "2025-01-02 20:30:56 +0000",
-      "nbit23": "2025-01-02 20:30:56 +0000",
-      "nbit29": "2025-01-02 20:30:56 +0000",
-      "nbit28": "2025-01-02 20:30:56 +0000",
-      "nbit27": "2025-01-02 20:30:56 +0000",
-      "nbit31": "2025-01-02 20:30:56 +0000",
-      "nbit30": "2025-01-02 20:30:56 +0000",
-      "bit9": "2025-01-02 20:18:35 +0000",
-      "bit18": "2025-01-02 20:30:56 +0000",
-      "bit7": "2025-01-02 20:32:30 +0000",
-      "bit5": "2025-01-02 20:18:35 +0000",
-      "bit14": "2025-01-02 20:30:56 +0000",
-      "bit6": "2025-01-02 20:30:56 +0000",
-      "bit4": "2025-01-02 20:18:35 +0000",
-      "bit1": "2025-01-02 20:30:56 +0000",
-      "bit2": "2025-01-02 20:32:30 +0000",
-      "bit0": "2025-01-02 20:18:35 +0000",
-      "nbit11": "2025-01-02 20:32:30 +0000",
-      "nbit10": "2025-01-02 20:30:56 +0000",
-      "bit12": "2025-01-02 20:30:56 +0000",
-      "bit11": "2025-01-02 20:30:56 +0000"
+      "has_silver_nugget": "2025-01-02 20:36:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
