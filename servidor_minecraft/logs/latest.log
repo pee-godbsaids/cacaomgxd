@@ -1192,3 +1192,42 @@
 [02Jan2025 02:50:56.345] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
 [02Jan2025 02:51:23.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
 [02Jan2025 02:55:46.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
+[02Jan2025 02:57:05.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6547ms or 130 ticks behind
+[02Jan2025 02:58:51.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Sponsored Voyage]
+[02Jan2025 03:00:56.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4039ms or 80 ticks behind
+[02Jan2025 03:01:03.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 03:01:06.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 03:01:10.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 03:05:45.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was killed by The Leviathan using magic
+[02Jan2025 03:05:45.667] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_02.01.2025-03.05.45.dat
+[02Jan2025 03:05:45.673] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[02Jan2025 03:05:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was killed by The Leviathan using magic
+[02Jan2025 03:05:47.431] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.blaze_02.01.2025-03.05.47.dat
+[02Jan2025 03:05:47.439] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 03:06:01.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4923ms or 98 ticks behind
+[02Jan2025 03:06:04.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 03:06:56.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was killed by The Leviathan using magic
+[02Jan2025 03:06:56.694] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 03:07:03.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was killed by The Leviathan using magic
+[02Jan2025 03:07:03.922] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[02Jan2025 03:07:10.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[02Jan2025 03:07:26.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[02Jan2025 03:07:28.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[02Jan2025 03:07:42.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Adventure Mode]
+[02Jan2025 03:08:06.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 2.335908741413732,-23.0,-3.5827034508365614
+[02Jan2025 03:08:09.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao drowned whilst trying to escape The Leviathan
+[02Jan2025 03:08:09.311] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 03:08:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 03:10:31.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 3.7519118832460663,-24.0,-0.0804761877512874
+[02Jan2025 03:10:58.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has left this dimension
+[02Jan2025 03:10:58.984] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 03:11:08.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4643ms or 92 ticks behind
+[02Jan2025 03:11:08.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.372594446216226,2.02001688001614,-3.0045352682498105
+[02Jan2025 03:11:10.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 03:11:37.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [A Multidimensional Predator]
+[02Jan2025 03:11:50.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was killed by The Leviathan using magic
+[02Jan2025 03:11:50.812] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[02Jan2025 03:13:17.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 03:13:51.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -4.6357409870879565,9.535920030236255,-3.048304798425306
+[02Jan2025 03:15:18.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.5611650050868775,-8.241890052437768,7.483181317842991
+[02Jan2025 03:16:10.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind

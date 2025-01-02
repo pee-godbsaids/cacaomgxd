@@ -679,7 +679,9 @@
       "bread": "2024-11-16 06:36:42 +0000",
       "golden_apple": "2024-11-16 08:15:00 +0000",
       "rotten_flesh": "2024-12-09 01:01:39 +0000",
+      "glow_berries": "2025-01-02 03:09:56 +0000",
       "cooked_chicken": "2024-12-09 03:21:41 +0000",
+      "cod": "2025-01-02 03:12:37 +0000",
       "carrot": "2024-11-26 02:52:30 +0000"
     },
     "done": false
@@ -7939,6 +7941,7 @@
       "nbit8": "2025-01-02 02:23:01 +0000",
       "nbit9": "2025-01-02 02:23:01 +0000",
       "nbit3": "2025-01-02 02:30:53 +0000",
+      "nbit15": "2025-01-02 03:10:54 +0000",
       "nbit4": "2025-01-02 02:23:01 +0000",
       "nbit14": "2025-01-02 02:23:01 +0000",
       "nbit5": "2025-01-02 02:30:55 +0000",
@@ -7951,7 +7954,9 @@
       "nbit1": "2025-01-02 02:30:45 +0000",
       "nbit17": "2025-01-02 02:23:01 +0000",
       "nbit2": "2025-01-02 02:23:01 +0000",
+      "nbit16": "2025-01-02 03:10:54 +0000",
       "nbit22": "2025-01-02 02:23:01 +0000",
+      "nbit21": "2025-01-02 03:10:54 +0000",
       "nbit20": "2025-01-02 02:23:01 +0000",
       "bit21": "2025-01-02 02:23:01 +0000",
       "nbit26": "2025-01-02 02:23:01 +0000",
@@ -7978,6 +7983,7 @@
       "nbit11": "2025-01-02 02:23:01 +0000",
       "nbit10": "2025-01-02 02:23:01 +0000",
       "bit12": "2025-01-02 02:34:00 +0000",
+      "bit13": "2025-01-02 02:58:06 +0000",
       "bit10": "2025-01-02 02:32:02 +0000",
       "bit11": "2025-01-02 02:30:45 +0000"
     },
@@ -8043,9 +8049,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-02 03:07:19 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_slab": {
     "criteria": {
       "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-01-02 03:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-02 03:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-02 03:07:19 +0000"
     },
     "done": true
   },
@@ -8073,6 +8103,12 @@
     },
     "done": true
   },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2025-01-02 03:15:27 +0000"
+    },
+    "done": false
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-01-02 02:45:14 +0000"
@@ -8088,6 +8124,18 @@
   "galosphere:recipes/building_blocks/amethyst_stairs": {
     "criteria": {
       "has_amethyst_block": "2025-01-02 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-02 03:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-02 03:06:25 +0000"
     },
     "done": true
   },
