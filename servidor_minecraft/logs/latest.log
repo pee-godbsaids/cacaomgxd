@@ -385,3 +385,123 @@
 [02Jan2025 00:19:55.769] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-69, -84], discarding
 [02Jan2025 00:20:26.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3865ms or 77 ticks behind
 [02Jan2025 00:20:26.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 1.3238733606897313,-1.9591554195122,9.893577455466584
+[02Jan2025 00:20:45.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[02Jan2025 00:21:11.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11409ms or 228 ticks behind
+[02Jan2025 00:21:27.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[02Jan2025 00:22:04.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:22:22.613] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:small_lava_arena' in chunk [-74, -86], discarding
+[02Jan2025 00:22:22.615] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:small_lava_arena' in chunk [-73, -86], discarding
+[02Jan2025 00:22:22.617] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-71, -86], discarding
+[02Jan2025 00:22:22.619] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-70, -86], discarding
+[02Jan2025 00:22:22.622] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-69, -86], discarding
+[02Jan2025 00:22:39.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:22:47.351] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-71, -87], discarding
+[02Jan2025 00:22:47.353] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-70, -87], discarding
+[02Jan2025 00:22:49.267] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-69, -87], discarding
+[02Jan2025 00:23:03.115] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-73, -88], discarding
+[02Jan2025 00:23:03.117] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-72, -88], discarding
+[02Jan2025 00:23:03.118] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-71, -88], discarding
+[02Jan2025 00:23:03.125] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-70, -88], discarding
+[02Jan2025 00:23:08.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:23:57.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:23:59.432] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-81, -89], discarding
+[02Jan2025 00:24:00.360] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-79, -89], discarding
+[02Jan2025 00:24:00.362] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-80, -89], discarding
+[02Jan2025 00:24:00.364] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-74, -89], discarding
+[02Jan2025 00:24:04.105] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-73, -89], discarding
+[02Jan2025 00:24:08.377] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-84, -90], discarding
+[02Jan2025 00:24:08.380] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-81, -90], discarding
+[02Jan2025 00:24:08.387] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:quartz_spikes
+[02Jan2025 00:24:08.387] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-80, -90], discarding
+[02Jan2025 00:24:08.389] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-79, -90], discarding
+[02Jan2025 00:24:10.962] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-74, -90], discarding
+[02Jan2025 00:24:11.522] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[02Jan2025 00:24:11.522] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-73, -90], discarding
+[02Jan2025 00:24:11.523] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-85, -91], discarding
+[02Jan2025 00:24:11.524] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-84, -91], discarding
+[02Jan2025 00:24:11.566] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-74, -91], discarding
+[02Jan2025 00:24:16.237] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-73, -91], discarding
+[02Jan2025 00:24:21.263] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-80, -93], discarding
+[02Jan2025 00:24:21.265] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-79, -93], discarding
+[02Jan2025 00:24:21.266] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-78, -93], discarding
+[02Jan2025 00:24:32.557] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-80, -94], discarding
+[02Jan2025 00:24:32.561] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:respawn_anchor_altar
+[02Jan2025 00:24:32.562] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-79, -94], discarding
+[02Jan2025 00:24:32.563] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-78, -94], discarding
+[02Jan2025 00:24:32.566] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-76, -94], discarding
+[02Jan2025 00:24:33.472] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-75, -94], discarding
+[02Jan2025 00:24:34.179] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-74, -94], discarding
+[02Jan2025 00:24:42.226] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-92, -95], discarding
+[02Jan2025 00:24:43.722] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-80, -95], discarding
+[02Jan2025 00:24:44.633] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-79, -95], discarding
+[02Jan2025 00:24:44.634] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-78, -95], discarding
+[02Jan2025 00:24:44.636] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-76, -95], discarding
+[02Jan2025 00:24:44.637] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:large_pedestal
+[02Jan2025 00:24:44.638] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-75, -95], discarding
+[02Jan2025 00:24:45.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:24:46.757] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-74, -95], discarding
+[02Jan2025 00:24:50.825] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-93, -96], discarding
+[02Jan2025 00:24:50.828] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-92, -96], discarding
+[02Jan2025 00:24:50.830] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[02Jan2025 00:24:50.830] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-91, -96], discarding
+[02Jan2025 00:24:50.839] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-80, -96], discarding
+[02Jan2025 00:24:50.840] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-79, -96], discarding
+[02Jan2025 00:24:50.841] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-78, -96], discarding
+[02Jan2025 00:24:50.843] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[02Jan2025 00:24:50.843] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-75, -96], discarding
+[02Jan2025 00:24:55.385] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-72, -91], discarding
+[02Jan2025 00:24:55.389] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-72, -89], discarding
+[02Jan2025 00:24:55.392] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-72, -90], discarding
+[02Jan2025 00:25:01.168] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-75, -97], discarding
+[02Jan2025 00:25:06.032] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id netheroverhaul:veneficus
+[02Jan2025 00:25:23.119] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-84, -101], discarding
+[02Jan2025 00:25:23.121] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-83, -101], discarding
+[02Jan2025 00:25:23.122] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-82, -101], discarding
+[02Jan2025 00:25:28.040] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-83, -102], discarding
+[02Jan2025 00:25:28.048] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-84, -102], discarding
+[02Jan2025 00:25:28.050] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-82, -102], discarding
+[02Jan2025 00:25:36.488] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[02Jan2025 00:25:36.488] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-96, -104], discarding
+[02Jan2025 00:25:42.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 4.268075956246776,-2.023088109101508,-8.88939099386289
+[02Jan2025 00:25:42.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
+[02Jan2025 00:26:09.732] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-71, -89], discarding
+[02Jan2025 00:26:09.734] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-71, -88], discarding
+[02Jan2025 00:26:09.735] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-71, -87], discarding
+[02Jan2025 00:26:09.736] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-71, -86], discarding
+[02Jan2025 00:26:09.737] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-71, -85], discarding
+[02Jan2025 00:26:09.737] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-71, -84], discarding
+[02Jan2025 00:26:09.745] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-71, -90], discarding
+[02Jan2025 00:26:09.747] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-71, -91], discarding
+[02Jan2025 00:26:12.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:26:57.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:27:01.117] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-91, -108], discarding
+[02Jan2025 00:27:01.119] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[02Jan2025 00:27:01.134] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-90, -108], discarding
+[02Jan2025 00:27:06.669] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-91, -109], discarding
+[02Jan2025 00:27:06.670] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-90, -109], discarding
+[02Jan2025 00:27:10.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:27:25.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:27:31.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:28:04.086] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[02Jan2025 00:28:04.087] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-86, -110], discarding
+[02Jan2025 00:28:04.101] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-83, -104], discarding
+[02Jan2025 00:28:04.102] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[02Jan2025 00:28:04.102] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-83, -103], discarding
+[02Jan2025 00:28:04.110] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-84, -104], discarding
+[02Jan2025 00:28:04.110] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-82, -104], discarding
+[02Jan2025 00:28:04.111] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-84, -103], discarding
+[02Jan2025 00:28:04.112] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-82, -103], discarding
+[02Jan2025 00:28:29.776] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer/]: Unknown structure piece id: cataclysm:soul_black_smith
+[02Jan2025 00:28:29.781] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer/]: Unknown structure piece id: cataclysm:soul_black_smith
+[02Jan2025 00:28:39.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:29:50.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1647, y=75, z=-1608} BlockPos{x=-1646, y=73, z=-1608}
+[02Jan2025 00:29:50.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1647, y=75, z=-1608} BlockPos{x=-1646, y=73, z=-1608}
+[02Jan2025 00:29:52.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1654, y=75, z=-1616} BlockPos{x=-1655, y=72, z=-1617}
+[02Jan2025 00:29:52.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1654, y=75, z=-1616} BlockPos{x=-1655, y=72, z=-1617}
+[02Jan2025 00:29:53.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:30:44.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:30:44.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:30:44.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:30:44.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[02Jan2025 00:30:44.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[02Jan2025 00:31:09.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
