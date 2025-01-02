@@ -978,9 +978,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-02 18:16:19 +0000",
       "minecraft:skeleton": "2024-11-16 22:31:15 +0000",
+      "minecraft:ravager": "2025-01-02 18:16:40 +0000",
       "minecraft:ghast": "2024-12-17 00:15:59 +0000",
       "minecraft:hoglin": "2024-11-16 22:44:49 +0000",
+      "minecraft:vindicator": "2025-01-02 18:15:42 +0000",
       "minecraft:magma_cube": "2024-12-17 00:22:31 +0000",
       "minecraft:spider": "2024-11-16 22:17:14 +0000",
       "minecraft:piglin_brute": "2024-12-17 00:24:21 +0000",
@@ -6499,6 +6502,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-02 18:15:51 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:igniter": "2025-01-02 18:15:47 +0000",
+      "illageandspillage:crocofang": "2025-01-02 18:15:42 +0000"
+    },
+    "done": false
+  },
   "morevillagers:all_professions_traded": {
     "criteria": {
       "librarian": "2025-01-02 18:06:51 +0000"
@@ -6508,6 +6524,24 @@
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2025-01-02 18:06:51 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-02 18:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-02 18:16:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 18:15:42 +0000"
     },
     "done": true
   },

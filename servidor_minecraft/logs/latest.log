@@ -640,3 +640,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 18:06:51.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Ace Trainer]
 [02Jan2025 18:07:36.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -5.557787129843746,-0.1754232959521005,-8.37743477350341
 [02Jan2025 18:07:36.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4556ms or 91 ticks behind
+[02Jan2025 18:11:16.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02Jan2025 18:11:37.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5733ms or 114 ticks behind
+[02Jan2025 18:11:54.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2645ms or 52 ticks behind
+[02Jan2025 18:12:50.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -10.01382407060646,-0.2522033402537289,-1.6951992987110316
+[02Jan2025 18:12:50.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4058ms or 81 ticks behind
+[02Jan2025 18:13:02.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
+[02Jan2025 18:13:02.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[02Jan2025 18:13:09.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved wrongly!
+[02Jan2025 18:13:14.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:45941] logged in with entity id 4611 at (-5355.795135551344, 112.0, -2487.028791859622)
+[02Jan2025 18:13:14.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[02Jan2025 18:13:24.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Voluntary Exile]
+[02Jan2025 18:15:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Ambush]
+[02Jan2025 18:15:51.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Voluntary Exile]
+[02Jan2025 18:16:45.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has completed the challenge [Hero of the Village]
+[02Jan2025 18:16:45.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [Hero of the Village]
+[02Jan2025 18:16:54.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [The Guardian]
+[02Jan2025 18:17:53.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 5.966258808652128,-3.931778155949516,7.924499055461638
+[02Jan2025 18:17:53.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3191ms or 63 ticks behind
