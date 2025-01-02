@@ -1383,3 +1383,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 23:28:14.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.918772338581107,3.247851099632541,0.252415442907477
 [02Jan2025 23:28:14.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
 [02Jan2025 23:28:58.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -0.5567504947503039,-1.0013359791121417,-10.236218229490987
+[02Jan2025 23:32:38.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Freakager]
+[02Jan2025 23:33:09.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 394 targets]
+[02Jan2025 23:33:16.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[02Jan2025 23:33:44.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 411 targets]
+[02Jan2025 23:34:33.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.034643595821763,0.4732064768129902,-4.362613076404159
+[02Jan2025 23:36:36.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -2.188787209862312,-1.2114862870983956,-9.83703919883692
+[02Jan2025 23:37:08.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Oops, did I scare you?]
+[02Jan2025 23:38:19.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -1.5642905723780132,7.798398975231024,-7.23524416491864
+[02Jan2025 23:38:19.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
+[02Jan2025 23:38:21.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -1.216043762737172,8.005230051040641,-6.546933818570778
+[02Jan2025 23:41:25.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 10.372058963193922,1.3798134184751802,-1.593429073511743
+[02Jan2025 23:41:28.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 380 targets]
+[02Jan2025 23:41:32.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.75416808857426,0.8024567945246872,-2.2470062055908784
+[02Jan2025 23:41:52.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 390 targets]
