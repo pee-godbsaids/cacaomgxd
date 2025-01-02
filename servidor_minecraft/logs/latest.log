@@ -1256,3 +1256,16 @@
 [02Jan2025 04:11:43.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 9.707680140025332,-1.0244240882136921,3.082376504329659
 [02Jan2025 04:11:43.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3866ms or 77 ticks behind
 [02Jan2025 04:16:46.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
+[02Jan2025 04:17:48.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[02Jan2025 04:17:48.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[02Jan2025 04:21:34.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was killed by The Leviathan using magic
+[02Jan2025 04:21:34.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_02.01.2025-04.21.34.dat
+[02Jan2025 04:21:34.495] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[02Jan2025 04:21:50.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4615ms or 92 ticks behind
+[02Jan2025 04:21:58.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Chain Death]
+[02Jan2025 04:21:58.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was killed by The Leviathan using magic
+[02Jan2025 04:21:58.736] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[02Jan2025 04:26:54.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
+[02Jan2025 04:31:57.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3474ms or 69 ticks behind
+[02Jan2025 04:33:49.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Glow and Behold!]
+[02Jan2025 04:37:00.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind

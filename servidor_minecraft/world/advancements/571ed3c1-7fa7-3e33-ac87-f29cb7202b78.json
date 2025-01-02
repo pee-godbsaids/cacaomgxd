@@ -8236,6 +8236,52 @@
     },
     "done": true
   },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit7": "2025-01-02 04:20:25 +0000",
+      "nbit8": "2025-01-02 04:20:30 +0000",
+      "nbit9": "2025-01-02 04:20:25 +0000",
+      "nbit3": "2025-01-02 04:20:25 +0000",
+      "nbit4": "2025-01-02 04:20:25 +0000",
+      "nbit5": "2025-01-02 04:20:30 +0000",
+      "nbit6": "2025-01-02 04:20:25 +0000",
+      "nbit12": "2025-01-02 04:20:25 +0000",
+      "nbit19": "2025-01-02 04:20:25 +0000",
+      "nbit0": "2025-01-02 04:21:30 +0000",
+      "nbit18": "2025-01-02 04:20:25 +0000",
+      "nbit17": "2025-01-02 04:20:25 +0000",
+      "nbit1": "2025-01-02 04:20:30 +0000",
+      "nbit2": "2025-01-02 04:20:30 +0000",
+      "nbit22": "2025-01-02 04:20:25 +0000",
+      "nbit20": "2025-01-02 04:20:25 +0000",
+      "bit21": "2025-01-02 04:20:25 +0000",
+      "nbit26": "2025-01-02 04:20:25 +0000",
+      "nbit25": "2025-01-02 04:20:25 +0000",
+      "nbit24": "2025-01-02 04:20:25 +0000",
+      "nbit23": "2025-01-02 04:20:25 +0000",
+      "nbit29": "2025-01-02 04:20:25 +0000",
+      "nbit28": "2025-01-02 04:20:25 +0000",
+      "nbit27": "2025-01-02 04:20:25 +0000",
+      "nbit31": "2025-01-02 04:20:25 +0000",
+      "nbit30": "2025-01-02 04:20:25 +0000",
+      "bit16": "2025-01-02 04:20:25 +0000",
+      "bit8": "2025-01-02 04:20:25 +0000",
+      "bit5": "2025-01-02 04:20:25 +0000",
+      "bit14": "2025-01-02 04:20:25 +0000",
+      "bit6": "2025-01-02 04:20:30 +0000",
+      "bit15": "2025-01-02 04:20:25 +0000",
+      "bit3": "2025-01-02 04:22:23 +0000",
+      "bit4": "2025-01-02 04:21:30 +0000",
+      "bit1": "2025-01-02 04:20:25 +0000",
+      "bit2": "2025-01-02 04:20:25 +0000",
+      "bit0": "2025-01-02 04:20:25 +0000",
+      "nbit11": "2025-01-02 04:20:25 +0000",
+      "nbit10": "2025-01-02 04:20:25 +0000",
+      "bit13": "2025-01-02 04:20:25 +0000",
+      "bit10": "2025-01-02 04:22:15 +0000"
+    },
+    "done": false
+  },
   "majruszsdifficulty:recipes/misc/bandage_golden": {
     "criteria": {
       "has_bandage": "2025-01-01 04:58:18 +0000"
@@ -8272,6 +8318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-02 04:17:28 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding_healed": {
     "criteria": {
       "bleeding_healed": "2025-01-01 23:31:05 +0000"
@@ -8293,6 +8345,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-01-02 02:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-02 04:17:28 +0000"
     },
     "done": true
   },
@@ -8338,9 +8396,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-01-02 04:17:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-01-02 00:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-02 04:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-01-02 04:33:49 +0000"
     },
     "done": true
   },
@@ -8362,6 +8438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-01-02 04:17:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-01-02 02:34:07 +0000"
@@ -8380,9 +8462,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 04:21:58 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
       "has_cod": "2025-01-02 02:33:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/hyacinth_lamp": {
+    "criteria": {
+      "has_prismarine_slab": "2025-01-02 04:17:34 +0000"
     },
     "done": true
   },
@@ -8416,6 +8510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-01-02 04:17:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-01-01 23:21:31 +0000"
@@ -8431,6 +8531,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-01-01 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-02 04:21:30 +0000"
     },
     "done": true
   },
