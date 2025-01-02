@@ -1368,3 +1368,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 23:10:26.289] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [02Jan2025 23:10:34.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:52459] logged in with entity id 142943 at (-5620.406003285606, 63.0, -2169.903070690845)
 [02Jan2025 23:10:34.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[02Jan2025 23:12:13.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 9.975780783508526,0.2070806930559428,-1.6643440187954184
+[02Jan2025 23:12:59.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3131ms or 62 ticks behind
+[02Jan2025 23:15:23.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Straightening the Scythes]
+[02Jan2025 23:17:05.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [A Cut Above the Rest]
+[02Jan2025 23:17:36.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4797ms or 95 ticks behind
+[02Jan2025 23:18:07.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3731ms or 74 ticks behind
+[02Jan2025 23:18:49.664] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:frosted_prison took 6 ms
+[02Jan2025 23:19:11.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [A Cut Above the Rest]
+[02Jan2025 23:20:32.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz

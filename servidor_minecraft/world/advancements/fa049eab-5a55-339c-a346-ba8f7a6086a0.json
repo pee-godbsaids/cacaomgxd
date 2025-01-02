@@ -8202,10 +8202,14 @@
   "cwsplus:on_hurt": {
     "criteria": {
       "nbit8": "2025-01-02 23:07:43 +0000",
+      "nbit9": "2025-01-02 23:09:38 +0000",
+      "nbit3": "2025-01-02 23:09:38 +0000",
       "nbit15": "2025-01-02 23:07:43 +0000",
+      "nbit4": "2025-01-02 23:09:38 +0000",
       "nbit14": "2025-01-02 23:07:43 +0000",
       "nbit5": "2025-01-02 23:07:43 +0000",
       "nbit13": "2025-01-02 23:07:43 +0000",
+      "nbit6": "2025-01-02 23:09:38 +0000",
       "nbit12": "2025-01-02 23:07:43 +0000",
       "nbit19": "2025-01-02 23:07:43 +0000",
       "nbit0": "2025-01-02 23:07:43 +0000",
@@ -8231,6 +8235,7 @@
       "bit3": "2025-01-02 23:07:43 +0000",
       "bit4": "2025-01-02 23:07:43 +0000",
       "bit1": "2025-01-02 23:07:43 +0000",
+      "bit2": "2025-01-02 23:09:38 +0000",
       "nbit11": "2025-01-02 23:07:43 +0000",
       "nbit10": "2025-01-02 23:07:43 +0000"
     },
@@ -8254,12 +8259,6 @@
     },
     "done": true
   },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-02 23:07:01 +0000"
-    },
-    "done": false
-  },
   "netherexp:recipes/polished_basalt/slab": {
     "criteria": {
       "has_item": "2025-01-02 22:45:20 +0000"
@@ -8275,6 +8274,12 @@
   "witherstormmod:main/resummon_withered_symbiont": {
     "criteria": {
       "summoned_withered_symbiont": "2025-01-02 21:35:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-01-02 23:17:05 +0000"
     },
     "done": true
   },
@@ -8305,6 +8310,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-01-02 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:glaive": {
+    "criteria": {
+      "has_glaive": "2025-01-02 23:15:23 +0000"
     },
     "done": true
   },

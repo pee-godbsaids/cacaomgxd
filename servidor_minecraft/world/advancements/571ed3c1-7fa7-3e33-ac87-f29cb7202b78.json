@@ -8655,6 +8655,126 @@
     },
     "done": true
   },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-02 21:12:28 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/resummon_withered_symbiont": {
+    "criteria": {
+      "summoned_withered_symbiont": "2025-01-02 21:35:22 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/silver_lining": {
+    "criteria": {
+      "gained_tool": "2025-01-02 21:43:47 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-01-02 22:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-01-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-02 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 22:51:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 22:54:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-02 22:54:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-02 22:55:02 +0000"
+    },
+    "done": true
+  },
+  "progressivebosses:recipes/misc/corrupted_soul_sand": {
+    "criteria": {
+      "has_nether_star": "2025-01-02 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-02 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-01-02 22:58:16 +0000"
+    },
+    "done": true
+  },
   "cwsplus:on_hurt": {
     "criteria": {
       "nbit8": "2025-01-02 23:07:01 +0000",
@@ -8692,131 +8812,11 @@
     },
     "done": false
   },
-  "cataclysm:kill_harbinger": {
-    "criteria": {
-      "theharbinger": "2025-01-02 22:58:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-01-02 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-01-02 22:54:35 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:main/resummon_withered_symbiont": {
-    "criteria": {
-      "summoned_withered_symbiont": "2025-01-02 21:35:22 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:main/silver_lining": {
-    "criteria": {
-      "gained_tool": "2025-01-02 21:43:47 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
-    "criteria": {
-      "has_gray_wool": "2025-01-02 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-01-02 22:40:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-01-02 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:pillager_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2025-01-02 21:12:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-01-02 22:50:35 +0000"
-    },
-    "done": true
-  },
-  "progressivebosses:recipes/misc/corrupted_soul_sand": {
-    "criteria": {
-      "has_nether_star": "2025-01-02 22:55:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-01-02 22:40:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-01-02 22:16:30 +0000"
-    },
-    "done": true
-  },
   "cwsplus:on_hit": {
     "criteria": {
       "not_target": "2025-01-02 23:09:38 +0000"
     },
     "done": false
-  },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-01-02 22:13:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-01-02 22:55:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-01-02 22:40:56 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/combine_in_inventory": {
-    "criteria": {
-      "coded_trigger": "2025-01-02 22:51:14 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon": {
-    "criteria": {
-      "has_melon_slice": "2025-01-02 22:40:56 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_reach": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-02 22:55:02 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-02 22:54:56 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
