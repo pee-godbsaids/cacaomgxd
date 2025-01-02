@@ -1040,3 +1040,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 19:43:22.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has reached the goal [Great minds think alike]
 [02Jan2025 19:44:35.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 1.0028685831357507,1.5813359922251635,-9.953280232547968
 [02Jan2025 19:44:35.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
+[02Jan2025 19:45:23.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was killed by magic
+[02Jan2025 19:45:23.505] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_02.01.2025-19.45.23.dat
+[02Jan2025 19:45:23.517] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[02Jan2025 19:49:38.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
+[02Jan2025 19:53:04.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Jan2025 19:54:43.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
