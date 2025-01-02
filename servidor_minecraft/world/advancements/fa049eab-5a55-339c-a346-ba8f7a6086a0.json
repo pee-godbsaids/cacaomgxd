@@ -8103,12 +8103,6 @@
     },
     "done": true
   },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-02 03:15:27 +0000"
-    },
-    "done": false
-  },
   "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-01-02 02:45:14 +0000"

@@ -8409,12 +8409,6 @@
     },
     "done": true
   },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-02 03:14:28 +0000"
-    },
-    "done": false
-  },
   "morevillagers:buy_map": {
     "criteria": {
       "trade": "2025-01-02 02:58:51 +0000"
