@@ -1426,6 +1426,7 @@
       "minecraft:blaze": "2024-12-15 01:19:59 +0000",
       "minecraft:pillager": "2024-12-17 02:42:49 +0000",
       "minecraft:skeleton": "2024-11-16 06:57:31 +0000",
+      "minecraft:ravager": "2025-01-02 19:01:33 +0000",
       "minecraft:ghast": "2024-12-17 01:00:51 +0000",
       "minecraft:hoglin": "2024-11-16 22:51:18 +0000",
       "minecraft:guardian": "2025-01-02 02:32:08 +0000",
@@ -8545,9 +8546,27 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/silver_panel_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2025-01-02 19:07:08 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot": {
+    "criteria": {
+      "has_silver_block": "2025-01-02 19:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-02 18:13:24 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/silver_panel_stairs_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2025-01-02 19:07:08 +0000"
     },
     "done": true
   },
@@ -8555,9 +8574,40 @@
     "criteria": {
       "illageandspillage:preserver": "2025-01-02 18:16:30 +0000",
       "illageandspillage:engineer": "2025-01-02 18:16:28 +0000",
-      "illageandspillage:igniter": "2025-01-02 18:16:35 +0000"
+      "illageandspillage:igniter": "2025-01-02 18:16:35 +0000",
+      "illageandspillage:crocofang": "2025-01-02 19:00:59 +0000"
     },
     "done": false
+  },
+  "galosphere:recipes/decorations/warped_anchor": {
+    "criteria": {
+      "has_silver_block": "2025-01-02 19:07:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 18:55:56 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/silver_tiles_slab_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2025-01-02 19:07:08 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/silver_tiles_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2025-01-02 19:07:08 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/monstrometer": {
+    "criteria": {
+      "has_silver_block": "2025-01-02 19:07:08 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
@@ -8565,12 +8615,61 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/silver_panel": {
+    "criteria": {
+      "has_silver_block": "2025-01-02 19:07:08 +0000"
+    },
+    "done": true
+  },
   "cwsplus:on_hurt": {
     "criteria": {
-      "nbit6": "2025-01-02 18:44:57 +0000",
-      "bit0": "2025-01-02 18:44:57 +0000"
+      "nbit7": "2025-01-02 19:12:14 +0000",
+      "nbit8": "2025-01-02 19:12:14 +0000",
+      "nbit9": "2025-01-02 19:12:14 +0000",
+      "nbit3": "2025-01-02 19:12:14 +0000",
+      "nbit15": "2025-01-02 19:12:14 +0000",
+      "nbit4": "2025-01-02 19:12:14 +0000",
+      "nbit5": "2025-01-02 19:12:14 +0000",
+      "nbit13": "2025-01-02 19:12:14 +0000",
+      "nbit19": "2025-01-02 19:12:14 +0000",
+      "nbit0": "2025-01-02 19:12:14 +0000",
+      "nbit17": "2025-01-02 19:12:14 +0000",
+      "nbit2": "2025-01-02 19:12:14 +0000",
+      "nbit16": "2025-01-02 19:12:14 +0000",
+      "nbit22": "2025-01-02 19:12:14 +0000",
+      "nbit21": "2025-01-02 19:12:14 +0000",
+      "nbit20": "2025-01-02 19:12:14 +0000",
+      "nbit26": "2025-01-02 19:12:14 +0000",
+      "nbit25": "2025-01-02 19:12:14 +0000",
+      "nbit24": "2025-01-02 19:12:14 +0000",
+      "nbit23": "2025-01-02 19:12:14 +0000",
+      "nbit29": "2025-01-02 19:12:14 +0000",
+      "nbit28": "2025-01-02 19:12:14 +0000",
+      "nbit27": "2025-01-02 19:12:14 +0000",
+      "nbit31": "2025-01-02 19:12:14 +0000",
+      "nbit30": "2025-01-02 19:12:14 +0000",
+      "bit18": "2025-01-02 19:12:14 +0000",
+      "bit14": "2025-01-02 19:12:14 +0000",
+      "bit6": "2025-01-02 19:12:14 +0000",
+      "bit1": "2025-01-02 19:12:14 +0000",
+      "nbit11": "2025-01-02 19:10:42 +0000",
+      "nbit10": "2025-01-02 19:12:14 +0000",
+      "bit12": "2025-01-02 19:12:14 +0000",
+      "bit11": "2025-01-02 19:12:14 +0000"
     },
     "done": false
+  },
+  "galosphere:recipes/building_blocks/silver_tiles_stairs_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2025-01-02 19:07:08 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/silver_panel_slab_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2025-01-02 19:07:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
