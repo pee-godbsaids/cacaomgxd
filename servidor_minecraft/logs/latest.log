@@ -1178,3 +1178,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 21:15:50.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
 [02Jan2025 21:15:59.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:43463] logged in with entity id 88968 at (-5581.816225625461, 64.0, -2178.8470094110485)
 [02Jan2025 21:15:59.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[02Jan2025 21:17:45.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 5.503737524882126,-9.741697530806078,2.332821260579294
+[02Jan2025 21:20:39.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -9.737227838421859,0.0,2.801773902262994
+[02Jan2025 21:20:39.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
+[02Jan2025 21:25:42.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3075ms or 61 ticks behind

@@ -8701,11 +8701,5 @@
     },
     "done": true
   },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-02 21:12:37 +0000"
-    },
-    "done": false
-  },
   "DataVersion": 3465
 }

@@ -8120,21 +8120,33 @@
     },
     "done": true
   },
-  "illageandspillage:kill_magi": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "requirement": "2025-01-02 21:12:13 +0000"
+      "has_ink_sac": "2025-01-02 20:23:10 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "travelersbackpack:recipes/misc/squid": {
     "criteria": {
-      "voluntary_exile": "2025-01-02 21:02:02 +0000"
+      "has_ink_sac": "2025-01-02 20:23:10 +0000"
     },
     "done": true
   },
   "galosphere:recipes/misc/silver_upgrade_smithing_template": {
     "criteria": {
       "has_silver_upgrade_smithing_template": "2025-01-02 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-02 20:35:24 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-02 20:36:16 +0000"
     },
     "done": true
   },
@@ -8156,33 +8168,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/black_dye": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "has_ink_sac": "2025-01-02 20:23:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/village_defender": {
-    "criteria": {
-      "coded_trigger": "2025-01-02 21:06:40 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:pillager_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2025-01-02 21:12:41 +0000"
-    },
-    "done": true
-  },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-02 21:13:07 +0000"
-    },
-    "done": false
-  },
-  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-01-02 20:35:24 +0000"
+      "coded_trigger": "2025-01-02 20:42:15 +0000"
     },
     "done": true
   },
@@ -8192,27 +8180,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "coded_trigger": "2025-01-02 20:42:15 +0000"
+      "voluntary_exile": "2025-01-02 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 21:06:40 +0000"
     },
     "done": true
   },
   "galosphere:recipes/misc/saltbound_tablet_smithing": {
     "criteria": {
       "has_preserved_template": "2025-01-02 21:09:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-01-02 21:12:15 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/squid": {
-    "criteria": {
-      "has_ink_sac": "2025-01-02 20:23:10 +0000"
     },
     "done": true
   },
@@ -8265,11 +8247,29 @@
     },
     "done": false
   },
-  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+  "illageandspillage:kill_magi": {
     "criteria": {
-      "has_silver_nugget": "2025-01-02 20:36:16 +0000"
+      "requirement": "2025-01-02 21:12:13 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-02 21:12:15 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-02 21:12:41 +0000"
+    },
+    "done": true
+  },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2025-01-02 21:13:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
