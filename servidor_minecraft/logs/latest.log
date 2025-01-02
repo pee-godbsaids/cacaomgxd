@@ -1377,3 +1377,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 23:18:49.664] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:frosted_prison took 6 ms
 [02Jan2025 23:19:11.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [A Cut Above the Rest]
 [02Jan2025 23:20:32.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
+[02Jan2025 23:21:38.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -4.106427407004958,0.6709083839322858,9.57033159194043
+[02Jan2025 23:23:11.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3924ms or 78 ticks behind
+[02Jan2025 23:26:06.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [Who's Wheezing Now!?]
+[02Jan2025 23:28:14.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.918772338581107,3.247851099632541,0.252415442907477
+[02Jan2025 23:28:14.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
+[02Jan2025 23:28:58.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -0.5567504947503039,-1.0013359791121417,-10.236218229490987
