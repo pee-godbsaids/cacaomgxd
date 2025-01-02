@@ -1397,3 +1397,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 23:41:28.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 380 targets]
 [02Jan2025 23:41:32.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.75416808857426,0.8024567945246872,-2.2470062055908784
 [02Jan2025 23:41:52.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 390 targets]
+[02Jan2025 23:43:22.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
+[02Jan2025 23:44:34.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -8.771493841883967,-0.49520087700592796,5.286825418168974
+[02Jan2025 23:44:41.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Oops, did I scare you?]
+[02Jan2025 23:44:57.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> xd
+[02Jan2025 23:46:30.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -3.0436437656198905,10.825295034527755,-1.8555687595226118
+[02Jan2025 23:48:25.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3328ms or 66 ticks behind
+[02Jan2025 23:49:13.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 357 targets]
+[02Jan2025 23:50:03.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -9.42198453594392,5.6598075293898376,3.156191246094295
+[02Jan2025 23:50:37.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.040612830950522,2.9199848183773014,-3.550038716250583
+[02Jan2025 23:50:43.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Illage and Killage]
+[02Jan2025 23:51:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 467 targets]
+[02Jan2025 23:51:51.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 462 targets]
+[02Jan2025 23:52:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was blown up by Creeper
+[02Jan2025 23:52:06.652] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.blaze_02.01.2025-23.52.06.dat
+[02Jan2025 23:52:06.662] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
