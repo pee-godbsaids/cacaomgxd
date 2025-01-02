@@ -8244,9 +8244,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bee": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "has_honeycomb": "2025-01-02 04:47:46 +0000"
+      "coded_trigger": "2025-01-01 23:11:28 +0000"
     },
     "done": true
   },
@@ -8256,13 +8256,151 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-01 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-01 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-01 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-01-01 23:30:50 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_healed": {
+    "criteria": {
+      "bleeding_healed": "2025-01-01 23:31:05 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding_inflicted": {
     "criteria": {
       "bleeding_applied": "2025-01-02 00:12:39 +0000"
     },
     "done": true
   },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-01-02 00:22:16 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-02 00:38:00 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/stayin_frosty": {
+    "criteria": {
+      "c1": "2025-01-02 00:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-02 00:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 00:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-02 01:22:00 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/decayed_workbench": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-02 01:22:03 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:nether_trade": {
+    "criteria": {
+      "netherian": "2025-01-02 01:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-02 01:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-02 01:24:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radgill_bucket": {
+    "criteria": {
+      "radgill_bucket": "2025-01-02 01:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-01-02 01:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-01-02 02:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-02 02:13:53 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-01-02 02:26:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-02 02:33:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-01-02 02:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-02 02:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-01-02 02:33:32 +0000"
     },
@@ -8274,123 +8412,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 02:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 02:34:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge": {
+    "criteria": {
+      "has_sponge": "2025-01-02 02:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-01-02 02:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-01-02 04:17:28 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:bleeding_healed": {
-    "criteria": {
-      "bleeding_healed": "2025-01-01 23:31:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2025-01-02 01:36:59 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-01-01 23:11:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-01-02 02:59:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-01-02 04:17:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2025-01-02 02:00:13 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:bleeding": {
-    "criteria": {
-      "bleeding_applied": "2025-01-01 23:30:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-01-02 02:13:53 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/decayed_workbench": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-02 01:22:03 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_sunken_city": {
-    "criteria": {
-      "factory": "2025-01-02 02:26:49 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_leviathan": {
-    "criteria": {
-      "ignis": "2025-01-02 03:11:37 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/cooked_hogham": {
-    "criteria": {
-      "has_item": "2025-01-02 00:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
-    "criteria": {
-      "has_prismarine": "2025-01-02 04:17:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-01-02 00:58:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-01-02 04:17:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/make_a_sign_glow": {
-    "criteria": {
-      "make_a_sign_glow": "2025-01-02 04:33:49 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/radgill_bucket": {
-    "criteria": {
-      "radgill_bucket": "2025-01-02 01:36:05 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:nether_trade": {
-    "criteria": {
-      "netherian": "2025-01-02 01:23:08 +0000"
     },
     "done": true
   },
@@ -8400,9 +8442,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "minecraft:recipes/misc/conduit": {
     "criteria": {
-      "has_honeycomb": "2025-01-02 04:47:46 +0000"
+      "has_nautilus_shell": "2025-01-02 02:59:56 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-01-02 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-02 04:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-02 04:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-01-02 04:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-02 04:17:28 +0000"
     },
     "done": true
   },
@@ -8412,15 +8484,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
-      "has_prismarine_shard": "2025-01-02 02:34:07 +0000"
+      "has_prismarine": "2025-01-02 04:17:28 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/sponge": {
+  "regions_unexplored:recipes/decorations/hyacinth_lamp": {
     "criteria": {
-      "has_sponge": "2025-01-02 02:56:36 +0000"
+      "has_prismarine_slab": "2025-01-02 04:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-02 04:21:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 04:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-01-02 04:33:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2025-01-02 04:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-01-02 04:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-01-02 04:47:46 +0000"
     },
     "done": true
   },
@@ -8433,114 +8541,6 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-01-02 04:49:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-01-02 02:34:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-01-02 04:21:58 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-01-02 02:33:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/hyacinth_lamp": {
-    "criteria": {
-      "has_prismarine_slab": "2025-01-02 04:17:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
-    "criteria": {
-      "has_polished_diorite": "2025-01-01 23:21:31 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-01-02 00:38:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-01-02 01:22:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-01-02 00:58:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-01-02 01:24:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2025-01-02 04:17:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-01-01 23:21:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-01-02 02:33:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-01-01 23:21:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-01-02 04:21:30 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/stayin_frosty": {
-    "criteria": {
-      "c1": "2025-01-02 00:38:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-01-02 02:33:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz_from_blasting": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-01-02 01:24:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/honeycomb_block": {
-    "criteria": {
-      "has_honeycomb": "2025-01-02 04:47:46 +0000"
     },
     "done": true
   },
