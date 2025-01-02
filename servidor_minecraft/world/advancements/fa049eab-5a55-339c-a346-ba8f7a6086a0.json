@@ -8217,6 +8217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-01-02 22:22:35 +0000"
+    },
+    "done": true
+  },
   "witherstormmod:main/resummon_withered_symbiont": {
     "criteria": {
       "summoned_withered_symbiont": "2025-01-02 21:35:22 +0000"
@@ -8226,6 +8232,18 @@
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2025-01-02 22:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-01-02 22:22:13 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-02 22:22:13 +0000"
     },
     "done": true
   },

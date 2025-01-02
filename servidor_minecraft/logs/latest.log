@@ -1249,3 +1249,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [02Jan2025 22:17:09.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4691ms or 93 ticks behind
 [02Jan2025 22:18:12.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Gave 1 [Waystone] to quipit0s]
 [02Jan2025 22:18:35.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 22:21:14.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was obliterated by a sonically-charged shriek
+[02Jan2025 22:21:14.864] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_02.01.2025-22.21.14.dat
+[02Jan2025 22:21:14.877] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[02Jan2025 22:21:15.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -2.896459358034008,-7.7232894496581395,6.776345865613621
+[02Jan2025 22:21:36.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was obliterated by a sonically-charged shriek
+[02Jan2025 22:21:36.145] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.blaze_02.01.2025-22.21.36.dat
+[02Jan2025 22:21:36.160] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 22:22:13.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Master of Silence]
+[02Jan2025 22:22:13.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -0.8072065004707838,2.924406667394436,10.16334941113655
+[02Jan2025 22:22:13.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4253ms or 85 ticks behind
+[02Jan2025 22:23:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was obliterated by a sonically-charged shriek
+[02Jan2025 22:23:38.844] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 22:23:47.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 22:23:52.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[02Jan2025 22:23:54.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[02Jan2025 22:24:21.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[02Jan2025 22:24:22.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[02Jan2025 22:24:23.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[02Jan2025 22:24:26.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[02Jan2025 22:25:09.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was slain by Warden
+[02Jan2025 22:25:09.788] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 22:25:32.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 22:25:47.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 22:26:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was obliterated by a sonically-charged shriek
+[02Jan2025 22:26:28.015] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 22:26:35.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 22:27:08.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 22:27:16.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3344ms or 66 ticks behind
+[02Jan2025 22:27:47.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 22:28:10.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was obliterated by a sonically-charged shriek
+[02Jan2025 22:28:10.295] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[02Jan2025 22:28:23.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[02Jan2025 22:28:41.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
