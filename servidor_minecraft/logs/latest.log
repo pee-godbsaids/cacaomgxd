@@ -811,3 +811,17 @@
 [02Jan2025 01:27:14.986] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-59, -5], discarding
 [02Jan2025 01:27:27.582] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:respawn_anchor_altar' in chunk [-59, -4], discarding
 [02Jan2025 01:28:11.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[02Jan2025 01:33:14.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 9.95806826466196,1.145720928752894,-1.9573303927350025
+[02Jan2025 01:33:14.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3206ms or 64 ticks behind
+[02Jan2025 01:33:59.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02Jan2025 01:34:49.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[02Jan2025 01:34:49.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[02Jan2025 01:36:05.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Three Eyes on Every Fish]
+[02Jan2025 01:38:19.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 8.893045816578706,2.419999986886978,-4.230024819357823
+[02Jan2025 01:38:19.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2958ms or 59 ticks behind
+[02Jan2025 01:43:10.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -0.030110056033663568,1.5830929863161458,-10.30999725132915
+[02Jan2025 01:43:22.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[02Jan2025 01:48:25.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 10.068231531664424,1.2468000194787976,-0.8961143528240427
+[02Jan2025 01:48:25.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
+[02Jan2025 01:48:28.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:41395] logged in with entity id 63349 at (-5580.038236100008, 64.0, -2188.8363830907865)
+[02Jan2025 01:48:28.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
