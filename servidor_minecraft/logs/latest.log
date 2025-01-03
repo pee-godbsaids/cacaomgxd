@@ -821,3 +821,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 19:28:01.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Carbonated Swim]
 [03Jan2025 19:28:04.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Yellow Brick Road]
 [03Jan2025 19:28:10.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Yellow Brick Road]
+[03Jan2025 19:28:56.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[03Jan2025 19:29:21.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10177ms or 203 ticks behind
+[03Jan2025 19:30:21.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [I Found the Coin Slot]
+[03Jan2025 19:30:54.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Carbonated Swim]
+[03Jan2025 19:30:56.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:57911] logged in with entity id 35898 at (-5522.667406540538, 76.0, -2207.261982752416)
+[03Jan2025 19:30:56.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[03Jan2025 19:31:01.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[03Jan2025 19:31:07.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Unwrapped Candy]
+[03Jan2025 19:31:23.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6271ms or 125 ticks behind
+[03Jan2025 19:31:44.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Caniac No More]
+[03Jan2025 19:31:47.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9368ms or 187 ticks behind
+[03Jan2025 19:31:50.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Tis the Season]
+[03Jan2025 19:32:10.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [I Found the Coin Slot]
+[03Jan2025 19:32:12.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10424ms or 208 ticks behind
+[03Jan2025 19:32:21.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Oh Little Town of Gingerbread]
+[03Jan2025 19:32:35.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[03Jan2025 19:32:36.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Pure Imagination]
+[03Jan2025 19:32:37.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9947ms or 198 ticks behind
+[03Jan2025 19:32:46.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[03Jan2025 19:32:57.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4462ms or 89 ticks behind
+[03Jan2025 19:33:14.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[03Jan2025 19:33:16.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Oh Little Town of Gingerbread]
+[03Jan2025 19:33:19.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Oh Little Town of Gingerbread]
+[03Jan2025 19:33:36.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The (Cinnamon) Spice Must Flow]
+[03Jan2025 19:33:47.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Carbonated Swim]
+[03Jan2025 19:33:49.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [You're a Monster]
+[03Jan2025 19:34:31.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [You're a Monster]
+[03Jan2025 19:35:18.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Caniac No More]
+[03Jan2025 19:35:31.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03Jan2025 19:35:34.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Yellow Brick Road]
+[03Jan2025 19:35:37.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Caniac No More]
+[03Jan2025 19:35:51.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4955ms or 99 ticks behind
+[03Jan2025 19:36:12.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Choc-o-Block]
+[03Jan2025 19:36:14.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7469ms or 149 ticks behind
+[03Jan2025 19:36:25.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The Dark (Chocolate) Tower]
+[03Jan2025 19:36:38.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9973ms or 199 ticks behind
+[03Jan2025 19:36:45.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [I Found the Coin Slot]
+[03Jan2025 19:37:01.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7657ms or 153 ticks behind
+[03Jan2025 19:37:22.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5773ms or 115 ticks behind
+[03Jan2025 19:37:33.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [The Dark (Chocolate) Tower]
+[03Jan2025 19:37:44.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Biome Reactors]
+[03Jan2025 19:38:03.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7177, y=-32, z=41} BlockPos{x=-7177, y=-33, z=41}
+[03Jan2025 19:38:31.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[03Jan2025 19:38:54.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8222ms or 164 ticks behind
+[03Jan2025 19:38:58.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -7.7329544006361175,2.2766274284673997,5.9828440314340074
+[03Jan2025 19:39:21.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12232ms or 244 ticks behind
