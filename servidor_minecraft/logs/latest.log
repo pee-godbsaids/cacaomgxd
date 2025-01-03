@@ -1036,3 +1036,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 20:53:32.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> clap clap clap
 [03Jan2025 20:59:42.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -8.234207642388355,0.0,-5.7125799803025075
 [03Jan2025 21:00:26.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 6.056943476862216,0.0,8.163771187867951
+[03Jan2025 21:03:36.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 4.926121294794029,1.722393555557673,-8.746842470941829
+[03Jan2025 21:05:01.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 1.530635047434771,-0.17444211986202518,-10.175178098124434
+[03Jan2025 21:05:49.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -2.3657466971135364,9.840999999999994,4.67383408142922
+[03Jan2025 21:15:06.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Adventure Mode]
+[03Jan2025 21:15:07.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[03Jan2025 21:15:09.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[03Jan2025 21:15:25.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
