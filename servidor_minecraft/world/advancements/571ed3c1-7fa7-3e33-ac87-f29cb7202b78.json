@@ -9266,6 +9266,12 @@
     },
     "done": true
   },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2025-01-03 22:40:34 +0000"
+    },
+    "done": false
+  },
   "cwsplus:on_hurt": {
     "criteria": {
       "nbit8": "2025-01-03 22:13:23 +0000",
