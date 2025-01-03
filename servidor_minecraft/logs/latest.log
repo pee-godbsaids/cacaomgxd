@@ -1048,3 +1048,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 21:40:10.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> e
 [03Jan2025 21:40:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
 [03Jan2025 21:40:58.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[03Jan2025 21:44:38.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Let's Get To Work]
+[03Jan2025 21:50:09.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
+[03Jan2025 21:50:09.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[03Jan2025 21:50:29.499] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c57610c[id=<null>,name=quipit0s,properties={},legacy=false] (/127.104.123.131:56059) lost connection: Disconnected
+[03Jan2025 21:50:34.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:51347] logged in with entity id 98800 at (-5527.686009603348, 72.0, -2204.241861954804)
+[03Jan2025 21:50:34.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[03Jan2025 21:51:27.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Timed out
+[03Jan2025 21:51:27.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game

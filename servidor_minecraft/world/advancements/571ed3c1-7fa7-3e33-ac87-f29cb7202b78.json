@@ -9181,6 +9181,12 @@
     },
     "done": true
   },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2025-01-03 21:41:03 +0000"
+    },
+    "done": false
+  },
   "witherstormmod:recipes/decorations/tainted_fence": {
     "criteria": {
       "has_tainted_planks": "2025-01-03 21:38:24 +0000"
