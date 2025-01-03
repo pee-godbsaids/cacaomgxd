@@ -1133,3 +1133,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 23:40:00.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
 [03Jan2025 23:40:05.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
 [03Jan2025 23:42:47.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 4.464509136335437,5.2648819888323,-9.426161648038033
+[03Jan2025 23:44:29.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -3.4471479858038947,9.141435055732728,2.706997881917232
+[03Jan2025 23:45:05.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[03Jan2025 23:45:21.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Be Hedgy]
+[03Jan2025 23:45:28.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[03Jan2025 23:48:17.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved wrongly!
+[03Jan2025 23:49:14.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Bug Repellent]
+[03Jan2025 23:52:08.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> xd
+[03Jan2025 23:52:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Knives Out]
+[03Jan2025 23:52:39.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [THE OOOOOOOOZE]
