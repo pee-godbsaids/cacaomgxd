@@ -1117,3 +1117,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 23:17:49.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Misconduction to quipit0s]
 [03Jan2025 23:21:04.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Rock n' Rolls]
 [03Jan2025 23:22:56.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Rock n' Rolls]
+[03Jan2025 23:24:16.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[03Jan2025 23:30:06.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[03Jan2025 23:30:07.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[03Jan2025 23:30:12.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[03Jan2025 23:30:12.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[03Jan2025 23:33:00.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -1.5996303745569094,-7.700249999999997,7.132124999999633
+[03Jan2025 23:33:14.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 3.575199348965725,-6.669187065631661,7.256504071238851
+[03Jan2025 23:33:26.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -5.884060239594874,8.166592511117457,3.044243414858556
+[03Jan2025 23:34:15.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.49165903991888626,-9.93237724500419,2.1850657673348906
+[03Jan2025 23:34:53.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[03Jan2025 23:35:02.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved wrongly!
+[03Jan2025 23:39:49.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -1.576865503377121,-11.034744440166278,3.209405273945322
+[03Jan2025 23:39:52.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 0.9751712608422167,1.304787515342241,10.426530038565488
+[03Jan2025 23:40:00.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[03Jan2025 23:40:05.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[03Jan2025 23:42:47.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 4.464509136335437,5.2648819888323,-9.426161648038033
