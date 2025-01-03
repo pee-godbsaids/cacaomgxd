@@ -8605,3 +8605,288 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 20:28:56.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jan2025 20:30:00.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [03Jan2025 20:30:14.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to Caramel Cube]
+[03Jan2025 20:30:53.002] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:30:53.052] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:30:53.117] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:30:53.170] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:30:54.133] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:30:54.174] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:30:55.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to Caramel Cube]
+[03Jan2025 20:31:00.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to Caramel Cube]
+[03Jan2025 20:31:08.654] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:31:08.657] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:31:24.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:29.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:31:29.385] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:31:41.167] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:31:41.167] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:31:42.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:45.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:47.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:47.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:31:52.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:52.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:53.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:53.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:54.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:54.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:55.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:55.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:55.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:56.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:56.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:56.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:56.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:57.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:57.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:57.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:58.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:58.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:58.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:58.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:59.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:31:59.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:00.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:00.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:00.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:00.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:01.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:01.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:02.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:02.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:02.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:02.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:03.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:03.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:03.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:04.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:04.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:04.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:05.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:05.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:06.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:06.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:32:09.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 47 targets]
+[03Jan2025 20:32:09.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:11.717] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:14.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:15.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:15.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:15.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:15.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:16.441] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:16.474] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:17.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:17.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:17.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:32:18.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:20.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:20.204] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:20.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:21.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:21.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:21.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:22.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:23.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:23.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:23.819] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:26.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:26.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:28.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:28.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:32:29.664] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:32:29.664] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:32:33.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:34.003] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:35.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:35.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:32:35.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:36.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:36.926] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:37.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:37.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:37.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:38.414] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:39.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:39.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:32:39.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:39.379] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:42.112] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:42.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:32:42.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:42.463] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:43.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:45.187] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:46.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:46.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:32:46.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:47.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:48.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:48.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:32:48.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:48.224] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:48.225] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:48.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:48.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:50.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:50.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:50.768] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:50.911] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:51.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:51.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:51.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:53.071] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:32:53.072] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:32:53.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:55.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:55.614] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:32:56.515] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:32:56.515] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:32:59.310] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:32:59.310] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:33:01.023] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:33:01.024] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:33:02.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:33:04.213] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:33:04.213] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:33:06.958] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:33:06.958] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:33:32.976] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:33:32.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:33:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Caramel Cube]
+[03Jan2025 20:33:55.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:33:56.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:33:56.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:33:56.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:33:56.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:33:56.857] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:34:10.764] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:34:10.829] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:34:10.861] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:34:10.913] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:34:12.120] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:34:12.164] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:34:12.215] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:34:23.629] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:34:23.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:34:39.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[03Jan2025 20:34:41.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:34:58.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -2.5106031000441362,6.810017517745496,-8.098378647579636
+[03Jan2025 20:35:07.306] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:35:07.306] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:35:09.192] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:35:09.193] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:35:12.112] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:35:12.112] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:35:12.806] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:35:12.848] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:35:12.943] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:35:17.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Jan2025 20:35:19.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:35:31.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:35:36.723] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[03Jan2025 20:35:49.081] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:35:49.128] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:35:49.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:35:52.120] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:35:52.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 7 targets]
+[03Jan2025 20:35:53.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:35:53.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:35:53.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:35:55.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:35:57.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:36:12.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:36:20.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:36:21.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:36:21.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:36:28.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:36:28.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:36:31.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:36:34.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:36:34.901] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:36:55.659] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:36:55.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:37:09.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:37:14.263] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:37:14.914] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:37:17.322] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:37:17.322] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:37:17.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:37:17.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Jan2025 20:37:18.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:37:35.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:37:36.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:37:46.410] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:37:46.469] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:37:58.562] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:37:58.562] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:38:06.358] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:38:06.358] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:38:28.015] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:38:56.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:38:56.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:39:09.204] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/birch/base_plate
+[03Jan2025 20:39:09.250] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_plains/base_plate
+[03Jan2025 20:39:09.272] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/wooded_badlands/base_plate
+[03Jan2025 20:39:09.300] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/snowy_slopes/base_plate is being run through DFU (hash 765af0ac54824938fd1ac1b78406fc88a1e1fd7999d8e58cda6e32dbc5f6a46f), this will cause launch time delays
+[03Jan2025 20:39:09.917] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/badlands/base_plate
+[03Jan2025 20:39:09.969] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[03Jan2025 20:39:10.014] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/grove/base_plate is being run through DFU (hash 8d58e65730b97353a91f7a16a6932a05206b18e0201f04d02ea0eac5c38777d4), this will cause launch time delays
+[03Jan2025 20:39:10.143] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/iberian/base_plate
+[03Jan2025 20:39:10.173] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/forest/base_plate is being run through DFU (hash 0a5753bb7ca9c6fa9a8254c57a1b99c31b73947e46565a6f9d861f92207ca052), this will cause launch time delays
+[03Jan2025 20:39:10.322] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/flower_forest/base_plate is being run through DFU (hash 196870aa8df7ccddd84b916d2b639ab1bd1308f6ffa1e98f248c53e162a8daab), this will cause launch time delays
+[03Jan2025 20:39:10.523] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/classic/base_plate
+[03Jan2025 20:39:10.587] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[03Jan2025 20:39:10.710] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/sunflower_plains/base_plate
+[03Jan2025 20:39:10.760] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/sparse_jungle/base_plate is being run through DFU (hash 10851b17d358ebf99da31ba24183f43e68df5b4ea88fd1dafcfeb3d7a204f71f), this will cause launch time delays
+[03Jan2025 20:39:10.844] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/swedish/base_plate
+[03Jan2025 20:39:10.919] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/rustic/base_plate is being run through DFU (hash 9d528db066af5e1af7f04d92059ea0e1be0e63536de733f29482126835511441), this will cause launch time delays
+[03Jan2025 20:39:11.417] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/jungle/base_plate
+[03Jan2025 20:39:11.484] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_taiga/base_plate
+[03Jan2025 20:39:11.514] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/beach/base_plate
+[03Jan2025 20:39:11.561] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/swamp/base_plate is being run through DFU (hash a637958631330250aae3cbb1e69cedcd08a2e33a1a78e38b337d1a3ae66139be), this will cause launch time delays
+[03Jan2025 20:39:11.755] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/snowy_beach/base_plate
+[03Jan2025 20:39:11.829] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[03Jan2025 20:39:11.862] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/savanna/base_plate
+[03Jan2025 20:39:11.955] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/mushroom_fields/base_plate
+[03Jan2025 20:39:12.423] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/pillager_outpost_ocean/base_plate
+[03Jan2025 20:39:12.549] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/tudor/base_plate
+[03Jan2025 20:39:12.629] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[03Jan2025 20:39:12.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[03Jan2025 20:39:12.706] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/meadow/base_plate
+[03Jan2025 20:39:12.773] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/exclusives/oriental/base_plate is being run through DFU (hash 6211e7c7a3df70dc70bead242994ac8a5600ba477ac3d19128b766f92f4ba880), this will cause launch time delays
+[03Jan2025 20:39:23.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:39:24.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 20:39:38.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[03Jan2025 20:40:41.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zz
+[03Jan2025 20:41:03.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3959ms or 79 ticks behind
+[03Jan2025 20:41:03.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 9.978158561754753,-1.3105281856327053,-2.1997314888640176
+[03Jan2025 20:41:03.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 8.324245197133678,0.7967356006687112,-6.153652276051616
+[03Jan2025 20:41:29.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[03Jan2025 20:41:49.349] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:41:49.349] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:41:52.298] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:41:52.298] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[03Jan2025 20:42:17.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 6.267561034836945,-9.677750000000003,0.6260431646510369
+[03Jan2025 20:43:20.892] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[03Jan2025 20:44:02.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:44:02.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:46:23.521] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Jan2025 20:49:02.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:49:02.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:49:40.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Freaky Item]
+[03Jan2025 20:49:54.891] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[03Jan2025 20:50:02.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Freaky Item]
+[03Jan2025 20:53:32.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> clap clap clap
+[03Jan2025 20:54:02.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:54:02.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:54:05.652] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in witherstormmod:bowels
+[03Jan2025 20:59:02.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:59:02.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:59:42.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -8.234207642388355,0.0,-5.7125799803025075
+[03Jan2025 21:00:23.649] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in witherstormmod:bowels
+[03Jan2025 21:00:26.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 6.056943476862216,0.0,8.163771187867951
+[03Jan2025 21:00:59.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jan2025 21:01:04.372] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
