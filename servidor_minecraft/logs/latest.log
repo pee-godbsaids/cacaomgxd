@@ -1056,3 +1056,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 21:50:34.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
 [03Jan2025 21:51:27.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Timed out
 [03Jan2025 21:51:27.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[03Jan2025 21:53:26.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 6.568731566368115,-7.698603320879641,3.2629064427014782
+[03Jan2025 21:53:28.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 9.204943217171603,-0.7461092740512356,4.342980283988254
+[03Jan2025 21:55:06.656] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a92ba62[id=<null>,name=GabrielCacao,properties={},legacy=false] (/127.146.234.60:39509) lost connection: Disconnected
+[03Jan2025 21:55:14.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:52269] logged in with entity id 101532 at (-5520.419084086635, 68.0, -2214.4267324317093)
+[03Jan2025 21:55:14.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[03Jan2025 21:55:33.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 7.754215047335492,2.749241518630946,-6.701326772213491
+[03Jan2025 21:55:37.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 10.411355415888465,0.0,-1.5457185628457637
+[03Jan2025 21:55:38.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 11.107184803553537,0.0,2.509118500892839
+[03Jan2025 21:56:57.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 1729.800000011921,98.0,-2342.9427961840947
+[03Jan2025 21:58:40.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> cofres
+[03Jan2025 21:58:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> cocina/materiales, etc
+[03Jan2025 21:59:00.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> farm
+[03Jan2025 22:01:44.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> Aldeanos 3er piso

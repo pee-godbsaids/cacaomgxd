@@ -9091,15 +9091,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/enter_purple_soda": {
+  "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
-      "in_purple_soda": "2025-01-03 19:30:54 +0000"
+      "cave_book": "2025-01-03 19:28:10 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_gum_worm": {
+  "alexscaves:alexscaves/defeat_gumbeeper": {
     "criteria": {
-      "killed": "2025-01-03 19:33:36 +0000"
+      "killed": "2025-01-03 19:30:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-01-03 19:30:54 +0000"
     },
     "done": true
   },
@@ -9109,15 +9115,33 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/building_blocks/tainted_planks": {
+  "alexscaves:alexscaves/eat_candy_cane": {
     "criteria": {
-      "has_logs": "2025-01-03 21:38:12 +0000"
+      "eat_candy_cane": "2025-01-03 19:31:50 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
+  "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
-      "cave_book": "2025-01-03 19:28:10 +0000"
+      "gingerbread_town": "2025-01-03 19:32:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gum_worm": {
+    "criteria": {
+      "killed": "2025-01-03 19:33:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-01-03 19:34:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-01-03 19:36:12 +0000"
     },
     "done": true
   },
@@ -9127,9 +9151,27 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/redstone/tainted_pressure_plate": {
+  "alexscaves:alexscaves/conversion_crucible": {
     "criteria": {
-      "has_tainted_planks": "2025-01-03 21:38:24 +0000"
+      "mussel": "2025-01-03 19:37:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-01-03 19:40:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2025-01-03 19:40:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sweetish_fish_bucket": {
+    "criteria": {
+      "bucket": "2025-01-03 19:51:35 +0000"
     },
     "done": true
   },
@@ -9139,21 +9181,33 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/building_blocks/tainted_stairs": {
+  "alexscaves:alexscaves/sack_of_sating": {
+    "criteria": {
+      "mussel": "2025-01-03 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 21:38:12 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_wood": {
+    "criteria": {
+      "has_tainted_log": "2025-01-03 21:38:12 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_pressure_plate": {
     "criteria": {
       "has_tainted_planks": "2025-01-03 21:38:24 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/conversion_crucible": {
+  "witherstormmod:recipes/building_blocks/tainted_stairs": {
     "criteria": {
-      "mussel": "2025-01-03 19:37:44 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/eat_block_of_chocolate": {
-    "criteria": {
-      "eat_block_of_chocolate": "2025-01-03 19:36:12 +0000"
+      "has_tainted_planks": "2025-01-03 21:38:24 +0000"
     },
     "done": true
   },
@@ -9169,23 +9223,11 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/radiant_essence": {
-    "criteria": {
-      "mussel": "2025-01-03 19:40:59 +0000"
-    },
-    "done": true
-  },
   "witherstormmod:recipes/redstone/tainted_door": {
     "criteria": {
       "has_tainted_planks": "2025-01-03 21:38:24 +0000"
     },
     "done": true
-  },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-03 21:41:03 +0000"
-    },
-    "done": false
   },
   "witherstormmod:recipes/decorations/tainted_fence": {
     "criteria": {
@@ -9199,57 +9241,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/eat_candy_cane": {
-    "criteria": {
-      "eat_candy_cane": "2025-01-03 19:31:50 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_crumbs": {
-    "criteria": {
-      "crumbs": "2025-01-03 19:34:31 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gumbeeper": {
-    "criteria": {
-      "killed": "2025-01-03 19:30:21 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_wood": {
-    "criteria": {
-      "has_tainted_log": "2025-01-03 21:38:12 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sack_of_sating": {
-    "criteria": {
-      "mussel": "2025-01-03 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gelatin": {
-    "criteria": {
-      "gelatin": "2025-01-03 19:40:16 +0000"
-    },
-    "done": true
-  },
   "witherstormmod:recipes/redstone/tainted_trapdoor": {
     "criteria": {
       "has_tainted_planks": "2025-01-03 21:38:24 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sweetish_fish_bucket": {
-    "criteria": {
-      "bucket": "2025-01-03 19:51:35 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_town": {
-    "criteria": {
-      "gingerbread_town": "2025-01-03 19:32:21 +0000"
     },
     "done": true
   },
@@ -9258,6 +9252,57 @@
       "has_tainted_planks": "2025-01-03 21:38:24 +0000"
     },
     "done": true
+  },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit7": "2025-01-03 21:54:35 +0000",
+      "nbit8": "2025-01-03 21:55:04 +0000",
+      "nbit9": "2025-01-03 21:54:03 +0000",
+      "nbit3": "2025-01-03 21:54:03 +0000",
+      "nbit15": "2025-01-03 21:54:03 +0000",
+      "nbit5": "2025-01-03 21:54:03 +0000",
+      "nbit13": "2025-01-03 21:55:04 +0000",
+      "nbit6": "2025-01-03 21:54:03 +0000",
+      "nbit12": "2025-01-03 21:54:03 +0000",
+      "nbit19": "2025-01-03 21:54:03 +0000",
+      "nbit0": "2025-01-03 21:54:03 +0000",
+      "nbit18": "2025-01-03 21:54:03 +0000",
+      "nbit1": "2025-01-03 21:54:03 +0000",
+      "nbit17": "2025-01-03 21:54:03 +0000",
+      "nbit2": "2025-01-03 21:54:35 +0000",
+      "nbit16": "2025-01-03 21:55:04 +0000",
+      "nbit22": "2025-01-03 21:54:03 +0000",
+      "nbit21": "2025-01-03 21:54:03 +0000",
+      "nbit20": "2025-01-03 21:54:03 +0000",
+      "nbit26": "2025-01-03 21:54:03 +0000",
+      "nbit25": "2025-01-03 21:54:03 +0000",
+      "nbit24": "2025-01-03 21:54:03 +0000",
+      "nbit23": "2025-01-03 21:54:03 +0000",
+      "nbit29": "2025-01-03 21:54:03 +0000",
+      "nbit28": "2025-01-03 21:54:03 +0000",
+      "nbit27": "2025-01-03 21:54:03 +0000",
+      "nbit31": "2025-01-03 21:54:03 +0000",
+      "nbit30": "2025-01-03 21:54:03 +0000",
+      "bit9": "2025-01-03 21:54:35 +0000",
+      "bit7": "2025-01-03 21:54:03 +0000",
+      "bit16": "2025-01-03 21:54:03 +0000",
+      "bit8": "2025-01-03 21:54:03 +0000",
+      "bit5": "2025-01-03 21:54:35 +0000",
+      "bit14": "2025-01-03 21:54:03 +0000",
+      "bit6": "2025-01-03 21:54:35 +0000",
+      "bit15": "2025-01-03 21:55:04 +0000",
+      "bit3": "2025-01-03 21:55:04 +0000",
+      "bit4": "2025-01-03 21:54:03 +0000",
+      "bit1": "2025-01-03 21:54:35 +0000",
+      "bit2": "2025-01-03 21:54:03 +0000",
+      "bit0": "2025-01-03 21:54:35 +0000",
+      "nbit11": "2025-01-03 21:54:03 +0000",
+      "nbit10": "2025-01-03 21:55:04 +0000",
+      "bit13": "2025-01-03 21:54:03 +0000",
+      "bit10": "2025-01-03 21:54:03 +0000",
+      "bit11": "2025-01-03 21:55:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

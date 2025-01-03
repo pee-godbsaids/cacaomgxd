@@ -8656,6 +8656,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-01-03 19:33:19 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
       "in_purple_soda": "2025-01-03 19:33:47 +0000"
@@ -8674,9 +8680,45 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-01-03 19:36:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-01-03 19:40:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-01-03 19:49:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sweetish_fish_bucket": {
+    "criteria": {
+      "bucket": "2025-01-03 19:51:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2025-01-03 19:55:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "green": "2025-01-03 19:57:53 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-01-03 19:59:10 +0000"
     },
     "done": true
   },
@@ -8692,23 +8734,30 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/caramel": {
+  "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
-      "mussel": "2025-01-03 19:59:10 +0000"
+      "crumbs": "2025-01-03 20:06:33 +0000"
     },
     "done": true
-  },
-  "alexscaves:alexscaves/gummy_rings": {
-    "criteria": {
-      "green": "2025-01-03 19:57:53 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2025-01-03 20:37:07 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/sack_of_sating": {
+    "criteria": {
+      "mussel": "2025-01-03 20:50:02 +0000"
+    },
+    "done": true
+  },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit2": "2025-01-03 21:43:00 +0000",
+      "bit5": "2025-01-03 21:43:00 +0000"
+    },
+    "done": false
   },
   "morevillagers:first_workstation_get": {
     "criteria": {
@@ -8721,55 +8770,6 @@
       "stonecutter": "2025-01-03 21:44:38 +0000"
     },
     "done": false
-  },
-  "alexscaves:alexscaves/eat_candy_cane": {
-    "criteria": {
-      "eat_candy_cane": "2025-01-03 19:55:51 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_crumbs": {
-    "criteria": {
-      "crumbs": "2025-01-03 20:06:33 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gumbeeper": {
-    "criteria": {
-      "killed": "2025-01-03 19:36:45 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sack_of_sating": {
-    "criteria": {
-      "mussel": "2025-01-03 20:50:02 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gelatin": {
-    "criteria": {
-      "gelatin": "2025-01-03 19:40:21 +0000"
-    },
-    "done": true
-  },
-  "cwsplus:on_hurt": {
-    "criteria": {
-      "nbit2": "2025-01-03 21:43:00 +0000",
-      "bit5": "2025-01-03 21:43:00 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/sweetish_fish_bucket": {
-    "criteria": {
-      "bucket": "2025-01-03 19:51:19 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_town": {
-    "criteria": {
-      "gingerbread_town": "2025-01-03 19:33:19 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
