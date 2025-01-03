@@ -8275,6 +8275,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-03 00:28:01 +0000"
+    },
+    "done": true
+  },
   "illageandspillage:kill_freaky": {
     "criteria": {
       "requirement": "2025-01-02 23:44:41 +0000"

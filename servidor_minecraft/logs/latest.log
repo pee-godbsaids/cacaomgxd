@@ -104,3 +104,56 @@
 [03Jan2025 00:22:22.309] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-26, -3], discarding
 [03Jan2025 00:22:22.561] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-26, -2], discarding
 [03Jan2025 00:22:30.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17053ms or 341 ticks behind
+[03Jan2025 00:22:54.659] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-25, -2], discarding
+[03Jan2025 00:22:54.689] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[03Jan2025 00:22:54.690] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-25, -3], discarding
+[03Jan2025 00:23:05.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19409ms or 388 ticks behind
+[03Jan2025 00:23:29.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9021ms or 180 ticks behind
+[03Jan2025 00:23:32.825] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-24, 9], discarding
+[03Jan2025 00:23:32.971] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-24, -3], discarding
+[03Jan2025 00:23:32.975] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-24, -2], discarding
+[03Jan2025 00:23:32.986] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-24, 10], discarding
+[03Jan2025 00:23:33.010] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-24, 11], discarding
+[03Jan2025 00:23:51.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-580, y=21, z=-45} BlockPos{x=-580, y=21, z=-46}
+[03Jan2025 00:23:52.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-580, y=21, z=-45} BlockPos{x=-580, y=21, z=-46}
+[03Jan2025 00:23:53.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8851ms or 177 ticks behind
+[03Jan2025 00:24:15.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7894ms or 157 ticks behind
+[03Jan2025 00:24:31.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-587, y=14, z=-91} BlockPos{x=-588, y=14, z=-91}
+[03Jan2025 00:24:38.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7878ms or 157 ticks behind
+[03Jan2025 00:25:01.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7638ms or 152 ticks behind
+[03Jan2025 00:25:23.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6722ms or 134 ticks behind
+[03Jan2025 00:25:29.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
+[03Jan2025 00:25:29.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
+[03Jan2025 00:25:29.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
+[03Jan2025 00:25:29.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
+[03Jan2025 00:25:29.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
+[03Jan2025 00:25:29.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
+[03Jan2025 00:25:29.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
+[03Jan2025 00:25:29.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
+[03Jan2025 00:25:29.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
+[03Jan2025 00:25:46.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8026ms or 160 ticks behind
+[03Jan2025 00:26:10.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9418ms or 188 ticks behind
+[03Jan2025 00:26:34.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8849ms or 176 ticks behind
+[03Jan2025 00:26:57.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8231ms or 164 ticks behind
+[03Jan2025 00:27:18.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6396ms or 127 ticks behind
+[03Jan2025 00:27:40.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6413ms or 128 ticks behind
+[03Jan2025 00:27:51.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-623, y=18, z=-55} BlockPos{x=-623, y=18, z=-54}
+[03Jan2025 00:27:51.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-623, y=18, z=-55} BlockPos{x=-623, y=18, z=-54}
+[03Jan2025 00:28:01.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5928ms or 118 ticks behind
+[03Jan2025 00:28:01.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Cover Me in Debris]
+[03Jan2025 00:28:22.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6249ms or 124 ticks behind
+[03Jan2025 00:28:42.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5585ms or 111 ticks behind
+[03Jan2025 00:29:03.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6099ms or 121 ticks behind
+[03Jan2025 00:29:25.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6839ms or 136 ticks behind
+[03Jan2025 00:29:48.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7978ms or 159 ticks behind
+[03Jan2025 00:30:17.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13655ms or 273 ticks behind
+[03Jan2025 00:30:38.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6697ms or 133 ticks behind
+[03Jan2025 00:30:44.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-612, y=20, z=14} BlockPos{x=-612, y=21, z=14}
+[03Jan2025 00:31:06.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12213ms or 244 ticks behind
+[03Jan2025 00:31:28.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7465ms or 149 ticks behind
+[03Jan2025 00:31:43.304] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-23, 9], discarding
+[03Jan2025 00:31:43.306] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[03Jan2025 00:31:43.307] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-23, 10], discarding
+[03Jan2025 00:31:43.423] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-23, 11], discarding
+[03Jan2025 00:31:49.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[03Jan2025 00:31:50.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6643ms or 132 ticks behind
