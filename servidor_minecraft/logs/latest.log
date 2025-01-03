@@ -1097,3 +1097,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 22:19:42.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Biome Reactors]
 [03Jan2025 22:24:34.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [3.6 Roentgen]
 [03Jan2025 22:27:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Hot Rod]
+[03Jan2025 22:57:04.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -8.839117137062203,-2.5832499999999783,4.7271008354700825
+[03Jan2025 22:58:22.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Take Aim, Chaps!]
+[03Jan2025 22:59:03.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -2.433672110135376,7.609198348755555,-6.8004157006785135
+[03Jan2025 22:59:54.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 341 targets]
+[03Jan2025 23:00:27.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 480 targets]
+[03Jan2025 23:01:08.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 345 targets]
+[03Jan2025 23:01:43.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 337 targets]
+[03Jan2025 23:01:53.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[03Jan2025 23:02:17.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[03Jan2025 23:03:07.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[03Jan2025 23:03:11.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied effect Glowing to 311 targets]
