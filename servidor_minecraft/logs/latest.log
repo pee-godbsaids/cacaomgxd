@@ -1095,3 +1095,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 22:12:59.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
 [03Jan2025 22:14:29.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5576, y=63, z=-2180} BlockPos{x=-5576, y=64, z=-2179}
 [03Jan2025 22:19:42.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Biome Reactors]
+[03Jan2025 22:24:34.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [3.6 Roentgen]
+[03Jan2025 22:27:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Hot Rod]
