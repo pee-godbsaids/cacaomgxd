@@ -9085,43 +9085,6 @@
     },
     "done": true
   },
-  "cwsplus:on_hurt": {
-    "criteria": {
-      "nbit8": "2025-01-03 21:26:56 +0000",
-      "nbit15": "2025-01-03 21:26:56 +0000",
-      "nbit14": "2025-01-03 21:26:56 +0000",
-      "nbit13": "2025-01-03 21:26:56 +0000",
-      "nbit5": "2025-01-03 21:26:56 +0000",
-      "nbit12": "2025-01-03 21:26:56 +0000",
-      "nbit19": "2025-01-03 21:26:56 +0000",
-      "nbit0": "2025-01-03 21:26:56 +0000",
-      "nbit18": "2025-01-03 21:26:56 +0000",
-      "nbit17": "2025-01-03 21:26:56 +0000",
-      "nbit2": "2025-01-03 21:26:56 +0000",
-      "nbit16": "2025-01-03 21:26:56 +0000",
-      "nbit22": "2025-01-03 21:26:56 +0000",
-      "nbit21": "2025-01-03 21:26:56 +0000",
-      "nbit20": "2025-01-03 21:26:56 +0000",
-      "nbit26": "2025-01-03 21:26:56 +0000",
-      "nbit25": "2025-01-03 21:26:56 +0000",
-      "nbit24": "2025-01-03 21:26:56 +0000",
-      "nbit23": "2025-01-03 21:26:56 +0000",
-      "nbit29": "2025-01-03 21:26:56 +0000",
-      "nbit28": "2025-01-03 21:26:56 +0000",
-      "nbit27": "2025-01-03 21:26:56 +0000",
-      "nbit31": "2025-01-03 21:26:56 +0000",
-      "nbit30": "2025-01-03 21:26:56 +0000",
-      "bit9": "2025-01-03 21:26:56 +0000",
-      "bit7": "2025-01-03 21:26:56 +0000",
-      "bit6": "2025-01-03 21:26:56 +0000",
-      "bit3": "2025-01-03 21:26:56 +0000",
-      "bit4": "2025-01-03 21:26:56 +0000",
-      "bit1": "2025-01-03 21:26:56 +0000",
-      "nbit11": "2025-01-03 21:26:56 +0000",
-      "nbit10": "2025-01-03 21:26:56 +0000"
-    },
-    "done": false
-  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-01-03 19:27:24 +0000"
@@ -9146,6 +9109,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/building_blocks/tainted_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 21:38:12 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
       "cave_book": "2025-01-03 19:28:10 +0000"
@@ -9158,9 +9127,21 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/redstone/tainted_pressure_plate": {
+    "criteria": {
+      "has_tainted_planks": "2025-01-03 21:38:24 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/caramel": {
     "criteria": {
       "mussel": "2025-01-03 19:59:03 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_stairs": {
+    "criteria": {
+      "has_tainted_planks": "2025-01-03 21:38:24 +0000"
     },
     "done": true
   },
@@ -9176,17 +9157,41 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/redstone/tainted_fence_gate": {
+    "criteria": {
+      "has_tainted_planks": "2025-01-03 21:38:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_slab": {
+    "criteria": {
+      "has_tainted_planks": "2025-01-03 21:38:24 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/radiant_essence": {
     "criteria": {
       "mussel": "2025-01-03 19:40:59 +0000"
     },
     "done": true
   },
-  "cwsplus:on_hit": {
+  "witherstormmod:recipes/redstone/tainted_door": {
     "criteria": {
-      "not_target": "2025-01-03 21:26:52 +0000"
+      "has_tainted_planks": "2025-01-03 21:38:24 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_fence": {
+    "criteria": {
+      "has_tainted_planks": "2025-01-03 21:38:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_button": {
+    "criteria": {
+      "has_tainted_planks": "2025-01-03 21:38:24 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/eat_candy_cane": {
     "criteria": {
@@ -9206,6 +9211,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/building_blocks/tainted_wood": {
+    "criteria": {
+      "has_tainted_log": "2025-01-03 21:38:12 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/sack_of_sating": {
     "criteria": {
       "mussel": "2025-01-03 20:49:40 +0000"
@@ -9218,6 +9229,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/redstone/tainted_trapdoor": {
+    "criteria": {
+      "has_tainted_planks": "2025-01-03 21:38:24 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/sweetish_fish_bucket": {
     "criteria": {
       "bucket": "2025-01-03 19:51:35 +0000"
@@ -9227,6 +9244,12 @@
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2025-01-03 19:32:21 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_sign": {
+    "criteria": {
+      "has_tainted_planks": "2025-01-03 21:38:24 +0000"
     },
     "done": true
   },
