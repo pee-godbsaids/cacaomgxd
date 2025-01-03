@@ -8771,5 +8771,101 @@
     },
     "done": false
   },
+  "alexscaves:alexscaves/gobthumper": {
+    "criteria": {
+      "gobthumper": "2025-01-03 22:06:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2025-01-03 22:11:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_pressure_plate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 22:17:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_button": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_sign": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_glass_pane": {
+    "criteria": {
+      "has_tainted_glass": "2025-01-03 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-01-03 22:17:02 +0000"
+    },
+    "done": true
+  },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2025-01-03 22:13:23 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_trapdoor": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_fence": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_fence_gate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_slab": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 22:17:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_door": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_stairs": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

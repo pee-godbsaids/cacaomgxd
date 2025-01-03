@@ -1069,3 +1069,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 21:58:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> cocina/materiales, etc
 [03Jan2025 21:59:00.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> farm
 [03Jan2025 22:01:44.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> Aldeanos 3er piso
+[03Jan2025 22:06:03.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Walk Without Rhythm]
+[03Jan2025 22:06:30.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Walk Without Rhythm]
+[03Jan2025 22:09:08.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Hooked on a Feeling]
+[03Jan2025 22:09:19.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[03Jan2025 22:09:19.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[03Jan2025 22:09:19.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
+[03Jan2025 22:09:19.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[03Jan2025 22:10:07.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:49373] logged in with entity id 105536 at (-5522.355613490786, 72.0, -2209.0135938603858)
+[03Jan2025 22:10:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[03Jan2025 22:10:16.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
+[03Jan2025 22:10:16.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[03Jan2025 22:10:44.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:40189] logged in with entity id 105709 at (-5529.752727627777, 72.0, -2213.6185505570243)
+[03Jan2025 22:10:44.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[03Jan2025 22:11:21.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:51747] logged in with entity id 105914 at (-5522.355613490786, 72.0, -2209.0135938603858)
+[03Jan2025 22:11:21.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[03Jan2025 22:11:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Hooked on a Feeling]
+[03Jan2025 22:11:46.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[03Jan2025 22:11:46.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[03Jan2025 22:11:46.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
+[03Jan2025 22:11:46.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[03Jan2025 22:12:28.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:50811] logged in with entity id 105963 at (-5525.934810025132, 72.0, -2213.654031679142)
+[03Jan2025 22:12:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[03Jan2025 22:12:59.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:49901] logged in with entity id 106292 at (-5529.996660812871, 72.0, -2213.1821935913567)
+[03Jan2025 22:12:59.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[03Jan2025 22:14:29.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5576, y=63, z=-2180} BlockPos{x=-5576, y=64, z=-2179}
+[03Jan2025 22:19:42.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Biome Reactors]
