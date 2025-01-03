@@ -9175,6 +9175,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-01-03 19:59:03 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/conversion_crucible": {
     "criteria": {
       "mussel": "2025-01-03 19:37:44 +0000"

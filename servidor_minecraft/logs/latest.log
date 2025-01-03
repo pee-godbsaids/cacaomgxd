@@ -932,3 +932,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 19:57:26.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
 [03Jan2025 19:59:03.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Unwrapped Candy]
 [03Jan2025 19:59:10.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Unwrapped Candy]
+[03Jan2025 20:00:33.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Gave 1 [Waystone] to quipit0s]
+[03Jan2025 20:00:42.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [The Dark (Chocolate) Tower]
+[03Jan2025 20:02:20.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[03Jan2025 20:02:48.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [A Day at the Fair]
+[03Jan2025 20:05:37.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[03Jan2025 20:06:00.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[03Jan2025 20:06:33.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [You're a Monster]
+[03Jan2025 20:07:52.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[03Jan2025 20:08:13.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5787ms or 115 ticks behind
+[03Jan2025 20:08:32.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4077ms or 81 ticks behind
+[03Jan2025 20:08:52.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5660ms or 113 ticks behind
+[03Jan2025 20:09:10.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2886ms or 57 ticks behind
+[03Jan2025 20:09:28.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
