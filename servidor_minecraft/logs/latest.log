@@ -771,3 +771,53 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [03Jan2025 19:08:01.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5198ms or 103 ticks behind
 [03Jan2025 19:08:14.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
 [03Jan2025 19:08:20.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4407ms or 88 ticks behind
+[03Jan2025 19:08:41.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5247ms or 104 ticks behind
+[03Jan2025 19:09:03.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[03Jan2025 19:10:37.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Take Aim, Chaps!]
+[03Jan2025 19:12:25.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[03Jan2025 19:12:50.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[03Jan2025 19:13:01.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[03Jan2025 19:13:20.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4472ms or 89 ticks behind
+[03Jan2025 19:13:34.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Generated structure "cataclysm:ruined_citadel" at -5320, 116, -6121]
+[03Jan2025 19:13:46.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10847ms or 216 ticks behind
+[03Jan2025 19:14:08.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7333ms or 146 ticks behind
+[03Jan2025 19:14:12.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Generated structure "cataclysm:ruined_citadel" at -5361, 126, -6087]
+[03Jan2025 19:14:12.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 9.55625054993925,-0.5061351021062137,-3.9383199535077438
+[03Jan2025 19:14:29.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[03Jan2025 19:14:33.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Generated structure "cataclysm:ruined_citadel" at -5343, 121, -6065]
+[03Jan2025 19:14:33.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 0.6190352538560546,1.3456201017048812,10.22048406493741
+[03Jan2025 19:14:34.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[03Jan2025 19:14:38.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14215ms or 284 ticks behind
+[03Jan2025 19:14:39.600] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-320, -358], discarding
+[03Jan2025 19:14:39.602] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-319, -358], discarding
+[03Jan2025 19:14:42.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[03Jan2025 19:14:46.386] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-320, -357], discarding
+[03Jan2025 19:14:46.388] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[03Jan2025 19:14:46.388] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-319, -357], discarding
+[03Jan2025 19:14:52.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Adventure Mode]
+[03Jan2025 19:14:54.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[03Jan2025 19:15:00.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7202ms or 144 ticks behind
+[03Jan2025 19:15:25.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10156ms or 203 ticks behind
+[03Jan2025 19:15:27.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -249.29436044464728,-55.0,3758.762221166724
+[03Jan2025 19:15:34.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[03Jan2025 19:19:02.110] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at -7343 -56 534 in 2s
+[03Jan2025 19:19:47.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved wrongly!
+[03Jan2025 19:20:20.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03Jan2025 19:20:41.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6235ms or 124 ticks behind
+[03Jan2025 19:21:00.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3785ms or 75 ticks behind
+[03Jan2025 19:21:17.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[03Jan2025 19:21:29.933] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:candy_cavity took 1726 ms
+[03Jan2025 19:21:29.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -5.305565242460034,1.8211596888824033,8.350070920778535
+[03Jan2025 19:21:29.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -4.067496881543775,1.1212968405392019,9.517151762091544
+[03Jan2025 19:21:45.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[03Jan2025 19:22:03.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[03Jan2025 19:22:22.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3163ms or 63 ticks behind
+[03Jan2025 19:23:39.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: para q no valla lag (nomepeges)
+[03Jan2025 19:23:39.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[03Jan2025 19:23:39.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Kicked GabrielCacao: para q no valla lag (nomepeges)]
+[03Jan2025 19:23:39.408] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 19:27:24.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Pure Imagination]
+[03Jan2025 19:27:30.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has reached the goal [Pure Imagination]
+[03Jan2025 19:28:01.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Carbonated Swim]
+[03Jan2025 19:28:04.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Yellow Brick Road]
+[03Jan2025 19:28:10.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Yellow Brick Road]

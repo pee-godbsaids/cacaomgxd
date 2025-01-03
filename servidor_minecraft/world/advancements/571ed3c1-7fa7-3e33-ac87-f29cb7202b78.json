@@ -9085,5 +9085,12 @@
     },
     "done": true
   },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit14": "2025-01-03 19:27:02 +0000",
+      "bit10": "2025-01-03 19:27:02 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
