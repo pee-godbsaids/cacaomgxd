@@ -6679,14 +6679,11 @@
     },
     "done": true
   },
-  "cwsplus:on_hurt": {
+  "netherexp:nether/non_renewable_yeah_right": {
     "criteria": {
-      "bit5": "2025-01-03 18:34:15 +0000",
-      "bit12": "2025-01-03 18:34:15 +0000",
-      "bit13": "2025-01-03 18:34:15 +0000",
-      "bit11": "2025-01-03 18:34:15 +0000"
+      "killed_entity": "2025-01-03 18:40:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
