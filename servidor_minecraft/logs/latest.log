@@ -1,159 +1,708 @@
-[03Jan2025 00:03:25.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GamerRCJ[/127.97.185.160:37069] logged in with entity id 158788 at (-5574.9105798246865, 64.0, -2181.1527955568563)
-[03Jan2025 00:03:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ joined the game
-[03Jan2025 00:03:35.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> oe mano
-[03Jan2025 00:03:35.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3973ms or 79 ticks behind
-[03Jan2025 00:03:41.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> k
-[03Jan2025 00:03:42.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> hubo una masacre
-[03Jan2025 00:03:45.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> como asi?
-[03Jan2025 00:03:53.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> 2 raids
-[03Jan2025 00:05:48.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-719, y=29, z=-245} BlockPos{x=-719, y=28, z=-246}
-[03Jan2025 00:08:38.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -8.24577244548152,0.0,-5.837850123278457
-[03Jan2025 00:08:38.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3128ms or 62 ticks behind
-[03Jan2025 00:09:40.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
-[03Jan2025 00:11:34.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -3.460744880379366,1.0,9.525278026025774
-[03Jan2025 00:11:40.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 3.075971431205744,-1.0,-9.52880178830199
-[03Jan2025 00:12:15.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
-[03Jan2025 00:12:30.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[03Jan2025 00:12:49.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[03Jan2025 00:13:07.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3767ms or 75 ticks behind
-[03Jan2025 00:13:25.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
-[03Jan2025 00:13:31.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=17, z=-204} BlockPos{x=-784, y=18, z=-201}
-[03Jan2025 00:13:42.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2329ms or 46 ticks behind
-[03Jan2025 00:13:57.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 10.50543717755761,0.0,-0.10546592091418461
-[03Jan2025 00:13:57.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.4401710904853644,1.0,10.034737209835356
-[03Jan2025 00:14:07.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9156ms or 183 ticks behind
-[03Jan2025 00:14:09.264] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-46, 6], discarding
-[03Jan2025 00:14:09.266] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
-[03Jan2025 00:14:09.267] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-45, 6], discarding
-[03Jan2025 00:14:09.268] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-44, 6], discarding
-[03Jan2025 00:14:12.954] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-45, 7], discarding
-[03Jan2025 00:14:12.956] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-46, 7], discarding
-[03Jan2025 00:14:12.956] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-44, 7], discarding
-[03Jan2025 00:14:27.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5220ms or 104 ticks behind
-[03Jan2025 00:14:35.865] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
-[03Jan2025 00:14:35.867] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-42, 8], discarding
-[03Jan2025 00:14:36.040] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-56, 15], discarding
-[03Jan2025 00:14:36.042] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-55, 15], discarding
-[03Jan2025 00:14:36.043] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-54, 15], discarding
-[03Jan2025 00:14:36.135] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-56, 16], discarding
-[03Jan2025 00:14:36.136] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:obsidian_pillar
-[03Jan2025 00:14:36.136] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-55, 16], discarding
-[03Jan2025 00:14:36.137] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-54, 16], discarding
-[03Jan2025 00:14:36.144] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-56, 17], discarding
-[03Jan2025 00:14:36.145] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-55, 17], discarding
-[03Jan2025 00:14:36.146] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-54, 17], discarding
-[03Jan2025 00:14:36.165] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-59, 11], discarding
-[03Jan2025 00:14:36.166] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-59, 12], discarding
-[03Jan2025 00:14:36.168] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-59, 13], discarding
-[03Jan2025 00:14:36.176] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-59, 16], discarding
-[03Jan2025 00:14:36.177] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-58, 16], discarding
-[03Jan2025 00:14:36.178] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:quartz_spikes
-[03Jan2025 00:14:36.178] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-59, 17], discarding
-[03Jan2025 00:14:36.180] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-58, 17], discarding
-[03Jan2025 00:14:36.332] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:small_pedestal' in chunk [-40, 6], discarding
-[03Jan2025 00:14:36.332] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:small_pedestal
-[03Jan2025 00:14:36.333] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:small_pedestal' in chunk [-40, 7], discarding
-[03Jan2025 00:14:36.344] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-60, 13], discarding
-[03Jan2025 00:14:36.346] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-60, 16], discarding
-[03Jan2025 00:14:36.353] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-60, 17], discarding
-[03Jan2025 00:14:36.355] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-60, 18], discarding
-[03Jan2025 00:14:36.356] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-59, 18], discarding
-[03Jan2025 00:14:36.357] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-58, 18], discarding
-[03Jan2025 00:14:37.760] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:small_pedestal' in chunk [-39, 6], discarding
-[03Jan2025 00:14:37.762] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:small_pedestal' in chunk [-39, 7], discarding
-[03Jan2025 00:14:39.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-735, y=16, z=-180} BlockPos{x=-735, y=17, z=-179}
-[03Jan2025 00:14:39.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-735, y=16, z=-180} BlockPos{x=-735, y=17, z=-179}
-[03Jan2025 00:14:51.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8908ms or 178 ticks behind
-[03Jan2025 00:15:14.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8081ms or 161 ticks behind
-[03Jan2025 00:15:37.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
-[03Jan2025 00:15:37.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
-[03Jan2025 00:15:37.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8676ms or 173 ticks behind
-[03Jan2025 00:15:45.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:55769] logged in with entity id 169369 at (-745.6999999880791, 12.0, -143.69999998807907)
-[03Jan2025 00:15:45.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
-[03Jan2025 00:16:01.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8524ms or 170 ticks behind
-[03Jan2025 00:16:25.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9167ms or 183 ticks behind
-[03Jan2025 00:16:49.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9518ms or 190 ticks behind
-[03Jan2025 00:17:13.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
-[03Jan2025 00:17:14.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9583ms or 191 ticks behind
-[03Jan2025 00:17:35.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6294ms or 125 ticks behind
-[03Jan2025 00:17:55.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-701, y=19, z=-117} BlockPos{x=-701, y=17, z=-118}
-[03Jan2025 00:17:57.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6678ms or 133 ticks behind
-[03Jan2025 00:18:09.574] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-30, -1], discarding
-[03Jan2025 00:18:09.577] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
-[03Jan2025 00:18:09.577] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-30, 0], discarding
-[03Jan2025 00:18:10.244] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id netheroverhaul:veneficus
-[03Jan2025 00:18:10.855] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id netheroverhaul:veneficus
-[03Jan2025 00:18:19.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6902ms or 138 ticks behind
-[03Jan2025 00:18:44.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10568ms or 211 ticks behind
-[03Jan2025 00:19:08.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8239ms or 164 ticks behind
-[03Jan2025 00:19:11.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-731, y=20, z=-45} BlockPos{x=-731, y=20, z=-43}
-[03Jan2025 00:19:11.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
-[03Jan2025 00:19:11.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-731, y=20, z=-45} BlockPos{x=-731, y=20, z=-43}
-[03Jan2025 00:19:11.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-731, y=20, z=-45} BlockPos{x=-731, y=20, z=-43}
-[03Jan2025 00:19:32.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9216ms or 184 ticks behind
-[03Jan2025 00:19:48.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -4905.510147989433,49.0,-2077.860695964385
-[03Jan2025 00:20:00.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13537ms or 270 ticks behind
-[03Jan2025 00:20:33.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18034ms or 360 ticks behind
-[03Jan2025 00:21:02.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14021ms or 280 ticks behind
-[03Jan2025 00:21:30.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12985ms or 259 ticks behind
-[03Jan2025 00:21:58.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13004ms or 260 ticks behind
-[03Jan2025 00:22:00.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
-[03Jan2025 00:22:16.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 10.275966663247345,0.41999998688697815,-1.0331415347018265
-[03Jan2025 00:22:18.076] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
-[03Jan2025 00:22:18.077] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-27, 0], discarding
-[03Jan2025 00:22:22.309] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-26, -3], discarding
-[03Jan2025 00:22:22.561] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-26, -2], discarding
-[03Jan2025 00:22:30.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17053ms or 341 ticks behind
-[03Jan2025 00:22:54.659] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-25, -2], discarding
-[03Jan2025 00:22:54.689] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
-[03Jan2025 00:22:54.690] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-25, -3], discarding
-[03Jan2025 00:23:05.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19409ms or 388 ticks behind
-[03Jan2025 00:23:29.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9021ms or 180 ticks behind
-[03Jan2025 00:23:32.825] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-24, 9], discarding
-[03Jan2025 00:23:32.971] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-24, -3], discarding
-[03Jan2025 00:23:32.975] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-24, -2], discarding
-[03Jan2025 00:23:32.986] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-24, 10], discarding
-[03Jan2025 00:23:33.010] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-24, 11], discarding
-[03Jan2025 00:23:51.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-580, y=21, z=-45} BlockPos{x=-580, y=21, z=-46}
-[03Jan2025 00:23:52.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-580, y=21, z=-45} BlockPos{x=-580, y=21, z=-46}
-[03Jan2025 00:23:53.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8851ms or 177 ticks behind
-[03Jan2025 00:24:15.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7894ms or 157 ticks behind
-[03Jan2025 00:24:31.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-587, y=14, z=-91} BlockPos{x=-588, y=14, z=-91}
-[03Jan2025 00:24:38.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7878ms or 157 ticks behind
-[03Jan2025 00:25:01.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7638ms or 152 ticks behind
-[03Jan2025 00:25:23.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6722ms or 134 ticks behind
-[03Jan2025 00:25:29.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
-[03Jan2025 00:25:29.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
-[03Jan2025 00:25:29.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
-[03Jan2025 00:25:29.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
-[03Jan2025 00:25:29.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
-[03Jan2025 00:25:29.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
-[03Jan2025 00:25:29.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
-[03Jan2025 00:25:29.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
-[03Jan2025 00:25:29.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=17, z=-106} BlockPos{x=-604, y=16, z=-106}
-[03Jan2025 00:25:46.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8026ms or 160 ticks behind
-[03Jan2025 00:26:10.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9418ms or 188 ticks behind
-[03Jan2025 00:26:34.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8849ms or 176 ticks behind
-[03Jan2025 00:26:57.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8231ms or 164 ticks behind
-[03Jan2025 00:27:18.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6396ms or 127 ticks behind
-[03Jan2025 00:27:40.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6413ms or 128 ticks behind
-[03Jan2025 00:27:51.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-623, y=18, z=-55} BlockPos{x=-623, y=18, z=-54}
-[03Jan2025 00:27:51.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-623, y=18, z=-55} BlockPos{x=-623, y=18, z=-54}
-[03Jan2025 00:28:01.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5928ms or 118 ticks behind
-[03Jan2025 00:28:01.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Cover Me in Debris]
-[03Jan2025 00:28:22.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6249ms or 124 ticks behind
-[03Jan2025 00:28:42.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5585ms or 111 ticks behind
-[03Jan2025 00:29:03.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6099ms or 121 ticks behind
-[03Jan2025 00:29:25.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6839ms or 136 ticks behind
-[03Jan2025 00:29:48.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7978ms or 159 ticks behind
-[03Jan2025 00:30:17.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13655ms or 273 ticks behind
-[03Jan2025 00:30:38.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6697ms or 133 ticks behind
-[03Jan2025 00:30:44.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-612, y=20, z=14} BlockPos{x=-612, y=21, z=14}
-[03Jan2025 00:31:06.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12213ms or 244 ticks behind
-[03Jan2025 00:31:28.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7465ms or 149 ticks behind
-[03Jan2025 00:31:43.304] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-23, 9], discarding
-[03Jan2025 00:31:43.306] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
-[03Jan2025 00:31:43.307] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-23, 10], discarding
-[03Jan2025 00:31:43.423] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-23, 11], discarding
-[03Jan2025 00:31:49.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
-[03Jan2025 00:31:50.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6643ms or 132 ticks behind
+[03Jan2025 18:15:37.438] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[03Jan2025 18:15:37.452] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[03Jan2025 18:15:47.291] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Jan2025 18:15:47.424] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cacaomgxd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03Jan2025 18:15:48.365] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cacaomgxd/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[03Jan2025 18:15:48.368] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cacaomgxd/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Jan2025 18:15:48.373] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cacaomgxd/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Jan2025 18:15:48.405] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cacaomgxd/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Jan2025 18:15:49.118] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[03Jan2025 18:15:55.189] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Jan2025 18:15:55.656] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[03Jan2025 18:15:56.490] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 0 override(s) found
+[03Jan2025 18:15:56.803] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.7+mc1.20.1: 84 options available, 1 override(s) found
+[03Jan2025 18:15:56.806] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.buffer_builder_leak' overriden (by mods [witherstormmod]) to 'false'
+[03Jan2025 18:15:56.808] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[03Jan2025 18:15:56.840] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[03Jan2025 18:15:56.852] [main/WARN] [mixin/]: Reference map 'bno.refmap.json' for bno.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jan2025 18:15:56.853] [main/WARN] [mixin/]: Reference map 'bno.refmap.json' for bno.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jan2025 18:15:57.620] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jan2025 18:15:57.631] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jan2025 18:15:57.655] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jan2025 18:15:57.811] [main/INFO] [Puzzles Lib/]: Loading 71 mods:
+	- alexscaves 2.0.2
+	- amplified_nether 1.2.5
+	- architectury 9.2.14
+	- balm 7.3.10
+		\-- kuma_api 20.1.9-SNAPSHOT
+	- betterdeserttemples 1.20-Forge-3.0.3
+	- betterendcities 1.0.0-1.20.1
+	- betterfortresses 1.20-Forge-2.0.6
+	- betterjungletemples 1.20-Forge-2.0.5
+	- bettermineshafts 1.20-Forge-4.0.4
+	- betteroceanmonuments 1.20-Forge-3.0.4
+	- betterstrongholds 1.20-Forge-4.0.3
+	- betterwitchhuts 1.20-Forge-3.0.3
+	- biggerendcities 1.20.1-1.0.0
+	- bno 9.1.1
+	- cataclysm 2.31
+	- cavesanddepths 1.2.7
+	- chunky 1.3.146
+	- citadel 2.6.0
+	- cloth_config 11.1.136
+	- clumps 12.0.0.4
+	- combatroll 1.3.3+1.20.1
+	- cristellib 1.1.6
+	- curios 5.11.0+1.20.1
+	- easy_villagers 1.20.1-1.1.23
+	- endertrigon 1.20.1-1.1
+	- enlightened_end 5.0.14
+	- expore 1.20.1-0.3
+	- fastleafdecay 32
+	- forge 47.3.7
+	- ftblibrary 2001.2.6
+	- ftbultimine 2001.1.5
+	- galosphere 1.20.1-1.4.1
+	- geckolib 4.4.9
+	- illageandspillage 1.2.2
+	- insanelib 1.15.1
+	- lionfishapi 2.4-Fix
+	- majruszlibrary 7.0.8
+	- majruszsdifficulty 1.9.10
+	- mcsmarmors 1.7.1
+	- metalbundles 8.0.2
+		|-- puzzlesaccessapi 8.0.9
+		\-- puzzlesapi 8.1.6
+	- minecraft 1.20.1
+	- modernfix 5.19.7+mc1.20.1
+	- morevillagers 5.0.0
+	- myserveriscompatible 1.0
+	- netherexp 2.1.3
+		\-- mixinextras 0.4.1
+	- nethers_exoticism 1.2.9
+	- nourished_nether 0.2.5
+	- playeranimator 1.0.2-rc1+1.20
+	- progressivebosses 4.2.1-mc1.20.1
+	- puzzleslib 8.1.25
+	- radium 0.12.4+git.26c9d8e
+	- regions_unexplored 0.5.6
+	- spartanshields 3.1.1
+	- spartanweaponry 3.1.3
+	- t_and_t 0.0NONE
+	- terrablender 3.0.1.7
+	- terralith 2.5.4
+	- tombstone 8.8.5
+	- travelersbackpack 9.1.16
+	- walljump 1.20.1-1.2.7-forge
+		\-- configlibtxf 4.2.5-forge
+	- waystones 14.1.6
+	- witherstormmod 4.2.1
+		\-- crackerslib 1.20.1-0.4.1
+	- yungsapi 1.20-Forge-4.0.6
+	- yungscavebiomes 1.20.1-Forge-2.0.1
+	- yungsextras 1.20-Forge-4.0.3
+[03Jan2025 18:15:57.871] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jan2025 18:16:04.132] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[03Jan2025 18:16:05.288] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03Jan2025 18:16:07.251] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (42.14 s after launch)
+[03Jan2025 18:16:07.662] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[03Jan2025 18:16:07.664] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[03Jan2025 18:16:08.377] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[03Jan2025 18:16:08.378] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[03Jan2025 18:16:08.378] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[03Jan2025 18:16:14.595] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 7336 milliseconds
+[03Jan2025 18:16:19.768] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$bee000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[03Jan2025 18:16:22.413] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[03Jan2025 18:16:22.907] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[03Jan2025 18:16:24.111] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzlesapi:iteminteractions
+[03Jan2025 18:16:24.338] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzlesapi:slotcycling
+[03Jan2025 18:16:24.353] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzlesapi:limitlesscontainers
+[03Jan2025 18:16:24.364] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzlesapi:statues
+[03Jan2025 18:16:24.951] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
+[03Jan2025 18:16:24.986] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
+[03Jan2025 18:16:24.991] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
+[03Jan2025 18:16:24.999] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
+[03Jan2025 18:16:27.107] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.wither.WitherFeature
+[03Jan2025 18:16:27.148] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.elderguardian.ElderGuardianFeature
+[03Jan2025 18:16:27.250] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.RewardFeature
+[03Jan2025 18:16:27.254] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.ResistancesFeature
+[03Jan2025 18:16:27.474] [modloading-worker-0/WARN] [mixin/]: @Final field f_31201_:Lorg/slf4j/Logger; in progressivebosses.mixins.json:DragonChargePlayerPhaseMixin should be final
+[03Jan2025 18:16:27.519] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.MinionFeature
+[03Jan2025 18:16:27.530] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.LarvaFeature
+[03Jan2025 18:16:27.535] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.HealthFeature
+[03Jan2025 18:16:27.537] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.DifficultyFeature
+[03Jan2025 18:16:27.567] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.CrystalFeature
+[03Jan2025 18:16:27.570] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.AttackFeature
+[03Jan2025 18:16:27.990] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[03Jan2025 18:16:27.991] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[03Jan2025 18:16:29.573] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for metalbundles:main
+[03Jan2025 18:16:29.851] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[03Jan2025 18:16:30.477] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03Jan2025 18:16:30.481] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
+[03Jan2025 18:16:30.482] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
+[03Jan2025 18:16:30.483] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[03Jan2025 18:16:30.664] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[03Jan2025 18:16:30.666] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[03Jan2025 18:16:30.673] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[03Jan2025 18:16:31.012] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[03Jan2025 18:16:31.792] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[03Jan2025 18:16:32.083] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/cacaomgxd/servidor_minecraft/config/illageandspillage-client.toml
+[03Jan2025 18:16:32.117] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/cacaomgxd/servidor_minecraft/config/illageandspillage-client.toml
+[03Jan2025 18:16:32.125] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/cacaomgxd/servidor_minecraft/config/illageandspillage-client.toml
+[03Jan2025 18:16:32.132] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/cacaomgxd/servidor_minecraft/config/illageandspillage-common.toml
+[03Jan2025 18:16:32.132] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/cacaomgxd/servidor_minecraft/config/illageandspillage-common.toml
+[03Jan2025 18:16:32.141] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/cacaomgxd/servidor_minecraft/config/illageandspillage-common.toml
+[03Jan2025 18:16:36.749] [main/INFO] [BasicNetherOres/]: BNO - Block Registered
+[03Jan2025 18:16:39.965] [main/INFO] [BasicNetherOres/]: BNO - Block Items Registered
+[03Jan2025 18:16:42.529] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[03Jan2025 18:16:42.530] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Jan2025 18:16:44.465] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[03Jan2025 18:16:45.075] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[03Jan2025 18:16:45.311] [modloading-worker-0/INFO] [com.blocklegend001.expore.ExpOre/]: ExpOre Loaded
+[03Jan2025 18:16:45.411] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[03Jan2025 18:16:45.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
+[03Jan2025 18:16:45.576] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[03Jan2025 18:16:45.662] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[03Jan2025 18:16:45.749] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03Jan2025 18:16:45.752] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[03Jan2025 18:16:45.753] [main/INFO] [terrablender/]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
+[03Jan2025 18:16:45.821] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[03Jan2025 18:16:45.824] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[03Jan2025 18:16:45.825] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[03Jan2025 18:16:45.825] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[03Jan2025 18:16:45.964] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 2 for type OVERWORLD
+[03Jan2025 18:16:45.965] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 3 for type OVERWORLD
+[03Jan2025 18:16:45.965] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[03Jan2025 18:16:46.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
+[03Jan2025 18:16:46.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesapi.json
+[03Jan2025 18:16:46.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesapi] Found status: BETA Current: 8.1.6 Target: null
+[03Jan2025 18:16:46.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[03Jan2025 18:16:46.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[03Jan2025 18:16:46.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[03Jan2025 18:16:46.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[03Jan2025 18:16:46.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[03Jan2025 18:16:46.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
+[03Jan2025 18:16:46.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[03Jan2025 18:16:46.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.9 Target: null
+[03Jan2025 18:16:46.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Jan2025 18:16:46.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[03Jan2025 18:16:46.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [metalbundles] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/metalbundles.json
+[03Jan2025 18:16:46.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [metalbundles] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[03Jan2025 18:16:46.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[03Jan2025 18:16:46.901] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.902] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.902] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.902] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.903] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.903] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.903] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.903] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.904] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.904] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.904] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.904] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.905] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.905] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.905] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.906] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.906] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.906] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.908] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.908] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.908] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.908] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.909] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.909] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.909] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.909] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.910] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.910] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.910] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.910] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.910] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.911] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.911] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.911] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.911] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.911] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.912] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.912] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.912] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.914] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.914] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.914] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.914] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.915] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.915] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.916] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.916] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.918] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.918] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.919] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.920] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.920] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:46.920] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:46.920] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:47.656] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[03Jan2025 18:16:47.661] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
+[03Jan2025 18:16:47.661] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[03Jan2025 18:16:47.774] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Jan2025 18:16:47.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
+[03Jan2025 18:16:47.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[03Jan2025 18:16:47.823] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 4.2.1 Target: null
+[03Jan2025 18:16:47.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[03Jan2025 18:16:47.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.5 Target: 8.8.6
+[03Jan2025 18:16:47.839] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[03Jan2025 18:16:47.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[03Jan2025 18:16:47.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[03Jan2025 18:16:47.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[03Jan2025 18:16:48.280] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.286] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.286] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.286] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.287] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.288] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.288] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.292] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.292] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.294] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.294] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.294] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.294] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.295] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.295] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.296] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.296] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.296] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.296] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.297] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.297] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.297] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.298] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.298] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.299] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.303] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.303] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.303] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.304] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.304] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.304] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.305] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.305] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.306] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.306] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.306] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.306] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.306] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.307] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.307] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.307] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.307] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.307] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.308] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.309] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.309] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.309] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.310] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.310] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.310] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.310] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.315] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.316] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.316] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.535] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.537] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.537] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.538] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.538] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.539] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.539] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.539] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.540] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.540] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.541] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.541] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.542] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.542] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.543] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.543] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.544] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.545] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.550] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.550] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.551] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.553] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.554] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.554] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.557] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.557] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.558] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.559] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.559] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.561] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.561] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.561] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.562] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.564] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.565] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.566] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.566] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.567] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.567] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.568] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.568] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.569] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.570] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.570] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.571] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.571] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.572] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.573] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.573] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.574] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.575] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.575] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.576] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[03Jan2025 18:16:48.577] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[03Jan2025 18:16:48.983] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cacaomgxd/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/assets/.mcassetsroot' uses unexpected schema
+[03Jan2025 18:16:48.983] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cacaomgxd/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/data/.mcassetsroot' uses unexpected schema
+[03Jan2025 18:16:55.032] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[03Jan2025 18:16:56.080] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_3 as it is missing following references: enlightened_end:enduring_waste (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voidsteel_block (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:adamantite_plate_block (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:adamantite_glass (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:adamantite_glass_pane (from enlightend-5.0.14-1.20.1.jar)
+[03Jan2025 18:16:56.081] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_6 as it is missing following references: mcsmarmors:titanium_block (from mcsmarmors-1.7.1-1.20.1.jar)
+[03Jan2025 18:16:56.081] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_0 as it is missing following references: enlightened_end:chiseled_purpur (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:purpur_lamp (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:infested_end_stone (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:congealed_eylium (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nullstone (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nullstone_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nullstone_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nullstone_wall (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:polished_nullstone (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:polished_nullstone_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:polished_nullstone_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:polished_nullstone_wall (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:cracked_nullstone_bricks (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nullstone_bricks (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nullstone_brick_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nullstone_brick_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nullstone_brick_wall (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nullstone_pillar (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:chiseled_nullstone (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nullstone_lamp (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust_lamp (from enlightend-5.0.14-1.20.1.jar)
+[03Jan2025 18:16:56.081] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_2 as it is missing following references: enlightened_end:waxed_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:waxed_bismuth_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:infernal_bismuth_sheets (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:infernal_bismuth_sheet_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:infernal_bismuth_sheet_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:warm_bismuth_sheets (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:warm_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:warm_bismuth_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:temperate_bismuth_sheets (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:temperate_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:temperate_bismuth_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:frosty_bismuth_sheets (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:frosty_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:frosty_bismuth_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:aquatic_bismuth_sheets (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:aquatic_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:aquatic_bismuth_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:dark_bismuth_sheets (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:dark_bismuth_sheet_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:dark_bismuth_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nebulous_bismuth_sheets (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nebulous_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:nebulous_bismuth_sheet_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:prismatic_bismuth_sheets (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:prismatic_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:prismatic_bismuth_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:repulsium_block (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:repulsium_cluster (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:atractonite_block (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:atractonite_cluster (from enlightend-5.0.14-1.20.1.jar)
+[03Jan2025 18:16:56.081] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_1 as it is missing following references: enlightened_end:malachite_pillar (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:smooth_malachite (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:smooth_malachite_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:smooth_malachite_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:smooth_malachite_wall (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust_pressure_plate (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust_button (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust_wall (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:polished_voikrust (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:polished_voikrust_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:polished_voikrust_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:polished_voikrust_wall (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust_bricks (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust_brick_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust_brick_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust_brick_wall (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:chiseled_voikrust (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:cracked_voikrust_bricks (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:voikrust_pillar (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:mossy_voikrust (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:mossy_voikrust_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:mossy_voikrust_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:mossy_voikrust_wall (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:mossy_voikrust_bricks (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:mossy_voikrust_brick_stairs (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:mossy_voikrust_brick_slab (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:mossy_voikrust_brick_wall (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:end_biome_placer (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:transitioning_end_portal (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:biome_replace_block (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:biome_replace_chance (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:enderneath_tunnel (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:ennegel_hang_generate (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:enderneath_replace (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:enderneath_replace_chance (from enlightend-5.0.14-1.20.1.jar)
+[03Jan2025 18:16:56.337] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag twilightforest:banned_uncraftables as it is missing following references: twilightforest:giant_log (from file/CWSPLUS Datapack 1.20.1 v2.1 (1).zip)
+[03Jan2025 18:16:56.363] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag enlightened_end:cerulean_stalk_blocks as it is missing following references: enlightened_end:cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:stripped_cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar)
+[03Jan2025 18:16:57.830] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[03Jan2025 18:16:57.994] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[03Jan2025 18:16:58.418] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[03Jan2025 18:16:58.532] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:enlightened_end:entities/sacrifice_statue_gift
+com.google.gson.JsonSyntaxException: Unknown enchantment 'enlightened_end:frost_aspect'
+	at net.minecraft.world.level.storage.loot.functions.EnchantRandomlyFunction$Serializer.m_80465_(EnchantRandomlyFunction.java:137) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.storage.loot.functions.EnchantRandomlyFunction$Serializer.m_6821_(EnchantRandomlyFunction.java:137) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.functions.EnchantRandomlyFunction$Serializer.m_6821_(EnchantRandomlyFunction.java:111) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:88) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[03Jan2025 18:17:00.938] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[03Jan2025 18:17:00.940] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[03Jan2025 18:17:00.960] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[03Jan2025 18:17:00.961] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[03Jan2025 18:17:00.984] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mcsmarmors:golden_galiath_armor_helmet_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mcsmarmors:golden_galiath_armor_chestplate'
+[03Jan2025 18:17:00.992] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mcsmarmors:ivors_armor_helmet_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mcsmarmors:ivors_alloy'
+[03Jan2025 18:17:01.030] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mcsmarmors:ender_armor_leggings_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mcsmarmors:enricheddiamond'
+[03Jan2025 18:17:01.061] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mcsmarmors:star_shield_armor_leggings_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mcsmarmors:star_shield_armor_boots'
+[03Jan2025 18:17:01.072] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[03Jan2025 18:17:01.072] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[03Jan2025 18:17:01.073] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[03Jan2025 18:17:01.074] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[03Jan2025 18:17:01.076] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[03Jan2025 18:17:01.077] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[03Jan2025 18:17:01.079] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[03Jan2025 18:17:01.085] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[03Jan2025 18:17:01.115] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[03Jan2025 18:17:01.116] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[03Jan2025 18:17:01.127] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mcsmarmors:ender_armor_body_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mcsmarmors:enricheddiamond'
+[03Jan2025 18:17:01.160] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[03Jan2025 18:17:01.171] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[03Jan2025 18:17:01.179] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:command_star_armor_trim_smithing_template: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[03Jan2025 18:17:01.219] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[03Jan2025 18:17:01.219] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[03Jan2025 18:17:01.219] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[03Jan2025 18:17:01.220] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[03Jan2025 18:17:01.255] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[03Jan2025 18:17:01.262] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[03Jan2025 18:17:01.268] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe famersdelight:adamantite_knife_smithing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[03Jan2025 18:17:01.367] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[03Jan2025 18:17:01.368] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[03Jan2025 18:17:01.449] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mcsmarmors:ivors_armor_boots_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mcsmarmors:ivors_alloy'
+[03Jan2025 18:17:01.466] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[03Jan2025 18:17:01.478] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function cwsplus:storm/resummoned/finalfight/withertotem/heal_particle
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 49: ...2 0.2 0 1 <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 49: ...2 0.2 0 1 <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[03Jan2025 18:17:01.633] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[03Jan2025 18:17:01.912] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[03Jan2025 18:17:02.036] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[03Jan2025 18:17:02.062] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[03Jan2025 18:17:02.275] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement nourished_nether:strange_elixir_advancement: Task Advancement{parentId=nourished_nether:deleted_mod_element, display=net.minecraft.advancements.DisplayInfo@281b333e, rewards=AdvancementRewards{experience=50, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@3c5975e8}, criteria={strange_elixir_advancement=net.minecraft.advancements.Criterion@75e10e44}, requirements=[[strange_elixir_advancement]], sends_telemetry_event=false}
+[03Jan2025 18:17:02.284] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3813 advancements
+[03Jan2025 18:17:02.342] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[03Jan2025 18:17:02.397] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[03Jan2025 18:17:02.430] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
+[03Jan2025 18:17:02.461] [main/INFO] [insane96mcp.progressivebosses.ProgressiveBosses/]: Loaded 4 Wither Stats
+[03Jan2025 18:17:02.462] [main/INFO] [insane96mcp.progressivebosses.ProgressiveBosses/]: Loaded 3 Elder Guardian Stats
+[03Jan2025 18:17:02.698] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 18.030786ms
+[03Jan2025 18:17:03.377] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 21 milliseconds
+[03Jan2025 18:17:03.379] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[03Jan2025 18:17:03.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Jan2025 18:17:03.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Jan2025 18:17:03.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Jan2025 18:17:03.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Jan2025 18:17:04.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Jan2025 18:17:04.054] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Jan2025 18:17:04.246] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Jan2025 18:17:04.250] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Jan2025 18:17:04.252] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Jan2025 18:17:04.253] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Jan2025 18:17:04.289] [Server thread/INFO] [Puzzles Lib/]: Loading server config for puzzlesapi
+[03Jan2025 18:17:04.595] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03Jan2025 18:17:05.442] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03Jan2025 18:17:05.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Jan2025 18:17:07.473] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[03Jan2025 18:17:07.967] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[03Jan2025 18:17:10.535] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03Jan2025 18:17:19.557] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[03Jan2025 18:17:19.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Jan2025 18:17:20.250] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03Jan2025 18:17:20.513] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:21.012] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:21.014] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:21.382] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:21.624] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:22.435] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:22.646] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:23.310] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:23.660] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:24.176] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:24.860] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03Jan2025 18:17:25.295] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:25.659] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:25.675] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:26.071] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:26.578] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 18:17:26.693] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03Jan2025 18:17:27.732] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8164 ms
+[03Jan2025 18:17:27.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.454s)! For help, type "help"
+[03Jan2025 18:17:27.978] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Jan2025 18:17:28.078] [Server thread/WARN] [ModernFix/]: Dedicated server took 122.963 seconds to load
+[03Jan2025 18:17:37.411] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'betterdungeons:root' in progress file ./world/advancements/1a89dbf7-f6d4-3031-bd69-cce7159d722c.json - it doesn't exist anymore?
+[03Jan2025 18:17:37.430] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'betterdungeons:skeleton_dungeon' in progress file ./world/advancements/1a89dbf7-f6d4-3031-bd69-cce7159d722c.json - it doesn't exist anymore?
+[03Jan2025 18:17:37.430] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'betterdungeons:all_dungeons' in progress file ./world/advancements/1a89dbf7-f6d4-3031-bd69-cce7159d722c.json - it doesn't exist anymore?
+[03Jan2025 18:17:37.432] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'betterdungeons:small_dungeon' in progress file ./world/advancements/1a89dbf7-f6d4-3031-bd69-cce7159d722c.json - it doesn't exist anymore?
+[03Jan2025 18:17:37.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GamerRCJ[/127.39.144.107:50233] logged in with entity id 640 at (-5085.702292231435, -37.0, -6273.174437288812)
+[03Jan2025 18:17:37.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ joined the game
+[03Jan2025 18:17:38.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
+[03Jan2025 18:17:38.653] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-318, -391], discarding
+[03Jan2025 18:17:38.668] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-317, -391], discarding
+[03Jan2025 18:17:38.675] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-318, -390], discarding
+[03Jan2025 18:17:38.683] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[03Jan2025 18:17:38.683] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-317, -390], discarding
+[03Jan2025 18:17:39.514] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-319, -399], discarding
+[03Jan2025 18:17:39.527] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-318, -399], discarding
+[03Jan2025 18:17:39.573] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-319, -398], discarding
+[03Jan2025 18:17:39.575] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[03Jan2025 18:17:39.575] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-318, -398], discarding
+[03Jan2025 18:17:43.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:55493] logged in with entity id 641 at (-5539.041105948621, 64.0, -2197.8907628405354)
+[03Jan2025 18:17:43.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[03Jan2025 18:18:19.350] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-328, -400], discarding
+[03Jan2025 18:18:19.353] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-328, -399], discarding
+[03Jan2025 18:18:19.356] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[03Jan2025 18:18:19.356] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'betterdungeons:small_dungeon' in chunk [-327, -399], discarding
+[03Jan2025 18:18:20.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:38425] logged in with entity id 1065 at (-5520.8510909974475, 72.0, -2212.8529159597174)
+[03Jan2025 18:18:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[03Jan2025 18:18:29.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36565ms or 731 ticks behind
+[03Jan2025 18:18:45.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 3.076002363072803,1.3070966872858065,-9.953848513076537
+[03Jan2025 18:19:00.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16088ms or 321 ticks behind
+[03Jan2025 18:19:19.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3227ms or 64 ticks behind
+[03Jan2025 18:21:57.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[03Jan2025 18:25:58.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> xd
+[03Jan2025 18:29:15.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -8.742983629693299,1.0,-5.721837639924615
+[03Jan2025 18:29:55.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 7.5568319154772325,0.7531999805212024,-6.817977036146658
+[03Jan2025 18:30:04.815] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-3, 0], discarding
+[03Jan2025 18:30:04.819] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[03Jan2025 18:30:04.819] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-3, 1], discarding
+[03Jan2025 18:30:04.822] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-3, 2], discarding
+[03Jan2025 18:30:04.843] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-2, -3], discarding
+[03Jan2025 18:30:04.913] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-3, -3], discarding
+[03Jan2025 18:30:08.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[03Jan2025 18:30:34.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10764ms or 215 ticks behind
+[03Jan2025 18:30:55.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6897ms or 137 ticks behind
+[03Jan2025 18:31:22.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11819ms or 236 ticks behind
+[03Jan2025 18:31:43.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6285ms or 125 ticks behind
+[03Jan2025 18:32:02.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3965ms or 79 ticks behind
+[03Jan2025 18:32:20.844] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-60, 13], discarding
+[03Jan2025 18:32:20.846] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-59, 13], discarding
+[03Jan2025 18:32:20.872] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-56, 15], discarding
+[03Jan2025 18:32:20.973] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-55, 15], discarding
+[03Jan2025 18:32:20.976] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-54, 15], discarding
+[03Jan2025 18:32:20.980] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-60, 16], discarding
+[03Jan2025 18:32:20.981] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-59, 16], discarding
+[03Jan2025 18:32:20.983] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-58, 16], discarding
+[03Jan2025 18:32:20.985] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-56, 16], discarding
+[03Jan2025 18:32:20.986] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:obsidian_pillar
+[03Jan2025 18:32:20.986] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-55, 16], discarding
+[03Jan2025 18:32:20.988] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-54, 16], discarding
+[03Jan2025 18:32:22.045] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-60, 17], discarding
+[03Jan2025 18:32:22.047] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:quartz_spikes
+[03Jan2025 18:32:22.047] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-59, 17], discarding
+[03Jan2025 18:32:22.049] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-58, 17], discarding
+[03Jan2025 18:32:22.055] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-56, 17], discarding
+[03Jan2025 18:32:22.057] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-55, 17], discarding
+[03Jan2025 18:32:22.059] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-54, 17], discarding
+[03Jan2025 18:32:22.856] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-59, 18], discarding
+[03Jan2025 18:32:22.861] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-60, 18], discarding
+[03Jan2025 18:32:22.862] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:quartz_spikes' in chunk [-58, 18], discarding
+[03Jan2025 18:32:23.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5329ms or 106 ticks behind
+[03Jan2025 18:32:41.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3556ms or 71 ticks behind
+[03Jan2025 18:32:59.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
+[03Jan2025 18:33:47.078] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:blackstone_remnant
+[03Jan2025 18:33:47.082] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-73, -23], discarding
+[03Jan2025 18:33:47.085] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-72, -23], discarding
+[03Jan2025 18:33:47.195] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-73, -22], discarding
+[03Jan2025 18:33:47.201] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-72, -22], discarding
+[03Jan2025 18:33:47.236] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-73, -24], discarding
+[03Jan2025 18:33:50.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[03Jan2025 18:34:07.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[03Jan2025 18:34:28.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[03Jan2025 18:34:46.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[03Jan2025 18:35:20.692] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-63, 16], discarding

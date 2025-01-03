@@ -933,6 +933,7 @@
       "cooked_mutton": "2024-12-14 23:45:29 +0000",
       "sweet_berries": "2024-12-08 03:32:50 +0000",
       "cooked_beef": "2024-12-09 00:53:49 +0000",
+      "chorus_fruit": "2025-01-03 03:05:42 +0000",
       "baked_potato": "2024-12-08 03:03:28 +0000",
       "porkchop": "2024-11-16 20:26:02 +0000",
       "apple": "2024-12-17 02:36:47 +0000",
@@ -1445,6 +1446,7 @@
       "minecraft:witch": "2025-01-02 20:41:53 +0000",
       "minecraft:wither_skeleton": "2024-12-15 01:43:10 +0000",
       "minecraft:husk": "2024-12-19 22:36:39 +0000",
+      "minecraft:shulker": "2025-01-03 01:35:12 +0000",
       "minecraft:cave_spider": "2024-12-17 03:38:28 +0000",
       "minecraft:piglin": "2024-11-16 22:43:50 +0000",
       "minecraft:enderman": "2024-11-16 07:57:10 +0000",
@@ -7644,12 +7646,6 @@
     },
     "done": false
   },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2024-12-31 02:45:01 +0000"
-    },
-    "done": true
-  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-12-31 02:45:01 +0000"
@@ -7820,19 +7816,6 @@
       "avoid_vibration": "2025-01-01 00:37:59 +0000"
     },
     "done": true
-  },
-  "betterdungeons:skeleton_dungeon": {
-    "criteria": {
-      "in_better_skeleton_dungeon": "2025-01-01 01:01:06 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_monster_room": "2025-01-01 01:52:34 +0000",
-      "in_better_skeleton_dungeon": "2025-01-01 01:01:06 +0000"
-    },
-    "done": false
   },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
@@ -8191,12 +8174,6 @@
   "yungscavebiomes:lost_caves": {
     "criteria": {
       "lost_caves": "2025-01-01 01:49:21 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2025-01-01 01:52:34 +0000"
     },
     "done": true
   },
@@ -8796,50 +8773,322 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-03 00:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-03 01:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-03 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 01:49:15 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 01:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 01:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 01:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 01:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 01:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-03 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-03 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-03 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-03 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-03 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-03 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-01-03 02:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-03 02:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-03 03:17:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-01-03 03:17:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-03 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-03 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-01-03 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-01-03 03:26:48 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_bricks_stonecutting": {
+    "criteria": {
+      "has_amethyst_bricks": "2025-01-03 04:36:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab": {
+    "criteria": {
+      "has_amethyst_bricks": "2025-01-03 04:36:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_bricks_stonecutting": {
+    "criteria": {
+      "has_amethyst_bricks": "2025-01-03 04:36:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_bricks_stonecutting": {
+    "criteria": {
+      "has_amethyst_bricks": "2025-01-03 04:36:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs": {
+    "criteria": {
+      "has_amethyst_bricks": "2025-01-03 04:36:12 +0000"
+    },
+    "done": true
+  },
   "cwsplus:on_hurt": {
     "criteria": {
-      "nbit7": "2025-01-03 00:20:24 +0000",
-      "nbit9": "2025-01-02 23:56:22 +0000",
-      "nbit3": "2025-01-02 23:56:22 +0000",
-      "nbit14": "2025-01-02 23:56:22 +0000",
-      "nbit4": "2025-01-02 23:56:22 +0000",
-      "nbit5": "2025-01-02 23:56:22 +0000",
-      "nbit13": "2025-01-02 23:56:22 +0000",
-      "nbit12": "2025-01-02 23:56:22 +0000",
-      "nbit6": "2025-01-03 00:20:24 +0000",
-      "nbit19": "2025-01-02 23:56:22 +0000",
-      "nbit0": "2025-01-02 23:56:26 +0000",
-      "nbit18": "2025-01-02 23:56:22 +0000",
-      "nbit1": "2025-01-03 00:20:24 +0000",
-      "nbit2": "2025-01-02 23:56:22 +0000",
-      "nbit22": "2025-01-02 23:56:22 +0000",
-      "nbit20": "2025-01-02 23:56:22 +0000",
-      "bit21": "2025-01-02 23:56:22 +0000",
-      "nbit26": "2025-01-02 23:56:22 +0000",
-      "nbit25": "2025-01-02 23:56:22 +0000",
-      "nbit24": "2025-01-02 23:56:22 +0000",
-      "nbit23": "2025-01-02 23:56:22 +0000",
-      "nbit29": "2025-01-02 23:56:22 +0000",
-      "nbit28": "2025-01-02 23:56:22 +0000",
-      "nbit27": "2025-01-02 23:56:22 +0000",
-      "nbit31": "2025-01-02 23:56:22 +0000",
-      "nbit30": "2025-01-02 23:56:22 +0000",
-      "bit9": "2025-01-02 23:56:26 +0000",
-      "bit7": "2025-01-02 23:56:22 +0000",
-      "bit16": "2025-01-02 23:56:22 +0000",
-      "bit8": "2025-01-02 23:56:22 +0000",
-      "bit17": "2025-01-02 23:56:22 +0000",
-      "bit5": "2025-01-02 23:56:26 +0000",
-      "bit6": "2025-01-02 23:56:22 +0000",
-      "bit15": "2025-01-02 23:56:22 +0000",
-      "bit3": "2025-01-02 23:56:26 +0000",
-      "bit1": "2025-01-02 23:56:22 +0000",
-      "bit0": "2025-01-02 23:56:22 +0000",
-      "nbit11": "2025-01-02 23:56:22 +0000",
-      "bit12": "2025-01-03 00:20:24 +0000",
-      "bit13": "2025-01-03 00:20:24 +0000",
-      "bit10": "2025-01-02 23:56:22 +0000",
-      "bit11": "2025-01-03 00:20:24 +0000"
+      "nbit8": "2025-01-03 18:21:58 +0000",
+      "nbit15": "2025-01-03 18:21:58 +0000",
+      "nbit14": "2025-01-03 18:21:58 +0000",
+      "nbit5": "2025-01-03 18:21:58 +0000",
+      "nbit13": "2025-01-03 18:21:58 +0000",
+      "nbit12": "2025-01-03 18:21:58 +0000",
+      "nbit19": "2025-01-03 18:21:58 +0000",
+      "nbit0": "2025-01-03 18:21:58 +0000",
+      "nbit18": "2025-01-03 18:21:58 +0000",
+      "nbit17": "2025-01-03 18:21:58 +0000",
+      "nbit2": "2025-01-03 18:21:58 +0000",
+      "nbit16": "2025-01-03 18:21:58 +0000",
+      "nbit22": "2025-01-03 18:21:58 +0000",
+      "nbit21": "2025-01-03 18:21:58 +0000",
+      "nbit20": "2025-01-03 18:21:58 +0000",
+      "nbit26": "2025-01-03 18:21:58 +0000",
+      "nbit25": "2025-01-03 18:21:58 +0000",
+      "nbit24": "2025-01-03 18:21:58 +0000",
+      "nbit23": "2025-01-03 18:21:58 +0000",
+      "nbit29": "2025-01-03 18:21:58 +0000",
+      "nbit28": "2025-01-03 18:21:58 +0000",
+      "nbit27": "2025-01-03 18:21:58 +0000",
+      "nbit31": "2025-01-03 18:21:58 +0000",
+      "nbit30": "2025-01-03 18:21:58 +0000",
+      "bit9": "2025-01-03 18:21:58 +0000",
+      "bit7": "2025-01-03 18:21:58 +0000",
+      "bit6": "2025-01-03 18:21:58 +0000",
+      "bit3": "2025-01-03 18:21:58 +0000",
+      "bit4": "2025-01-03 18:21:58 +0000",
+      "bit1": "2025-01-03 18:21:58 +0000",
+      "nbit11": "2025-01-03 18:21:58 +0000",
+      "nbit10": "2025-01-03 18:21:58 +0000"
     },
     "done": false
   },

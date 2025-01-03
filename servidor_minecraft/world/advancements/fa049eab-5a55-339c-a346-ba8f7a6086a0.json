@@ -15,6 +15,7 @@
       "minecraft:badlands": "2024-11-16 19:56:15 +0000",
       "minecraft:beach": "2024-12-17 17:53:41 +0000",
       "minecraft:dark_forest": "2024-11-16 08:03:18 +0000",
+      "minecraft:stony_peaks": "2025-01-03 01:33:53 +0000",
       "minecraft:river": "2024-11-16 06:48:00 +0000",
       "minecraft:lukewarm_ocean": "2024-12-09 01:07:01 +0000",
       "minecraft:snowy_plains": "2024-11-16 06:28:21 +0000",
@@ -1263,6 +1264,7 @@
       "minecraft:witch": "2024-12-17 22:21:24 +0000",
       "minecraft:wither_skeleton": "2024-12-15 01:42:56 +0000",
       "minecraft:husk": "2025-01-01 23:30:34 +0000",
+      "minecraft:shulker": "2025-01-03 01:37:00 +0000",
       "minecraft:piglin": "2024-12-16 23:59:05 +0000",
       "minecraft:stray": "2024-12-09 00:49:36 +0000",
       "minecraft:enderman": "2024-12-14 23:55:34 +0000",
@@ -7568,12 +7570,6 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-01-01 22:44:52 +0000"
-    },
-    "done": true
-  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-01 22:44:52 +0000"
@@ -7595,7 +7591,8 @@
   "morevillagers:all_professions_traded": {
     "criteria": {
       "librarian": "2025-01-01 23:18:26 +0000",
-      "weaponsmith": "2025-01-01 23:06:10 +0000"
+      "weaponsmith": "2025-01-01 23:06:10 +0000",
+      "netherian": "2025-01-03 04:12:03 +0000"
     },
     "done": false
   },
@@ -8202,43 +8199,6 @@
     },
     "done": true
   },
-  "cwsplus:on_hurt": {
-    "criteria": {
-      "nbit8": "2025-01-02 23:57:33 +0000",
-      "nbit9": "2025-01-02 23:57:33 +0000",
-      "nbit3": "2025-01-02 23:57:33 +0000",
-      "nbit15": "2025-01-02 23:57:33 +0000",
-      "nbit4": "2025-01-02 23:57:33 +0000",
-      "nbit14": "2025-01-02 23:57:33 +0000",
-      "nbit5": "2025-01-02 23:57:33 +0000",
-      "nbit13": "2025-01-02 23:57:33 +0000",
-      "nbit6": "2025-01-02 23:57:33 +0000",
-      "nbit12": "2025-01-02 23:57:33 +0000",
-      "nbit19": "2025-01-02 23:57:33 +0000",
-      "nbit0": "2025-01-02 23:57:33 +0000",
-      "nbit18": "2025-01-02 23:57:33 +0000",
-      "nbit17": "2025-01-02 23:57:33 +0000",
-      "nbit16": "2025-01-02 23:57:33 +0000",
-      "nbit22": "2025-01-02 23:57:33 +0000",
-      "nbit21": "2025-01-02 23:57:33 +0000",
-      "nbit20": "2025-01-02 23:57:33 +0000",
-      "nbit26": "2025-01-02 23:57:33 +0000",
-      "nbit25": "2025-01-02 23:57:33 +0000",
-      "nbit24": "2025-01-02 23:57:33 +0000",
-      "nbit23": "2025-01-02 23:57:33 +0000",
-      "nbit29": "2025-01-02 23:57:33 +0000",
-      "nbit28": "2025-01-02 23:57:33 +0000",
-      "nbit27": "2025-01-02 23:57:33 +0000",
-      "nbit31": "2025-01-02 23:57:33 +0000",
-      "nbit30": "2025-01-02 23:57:33 +0000",
-      "bit7": "2025-01-02 23:57:33 +0000",
-      "bit1": "2025-01-02 23:57:33 +0000",
-      "bit2": "2025-01-02 23:57:33 +0000",
-      "nbit11": "2025-01-02 23:57:33 +0000",
-      "nbit10": "2025-01-02 23:57:33 +0000"
-    },
-    "done": false
-  },
   "illageandspillage:kill_magi": {
     "criteria": {
       "requirement": "2025-01-02 21:12:13 +0000"
@@ -8257,87 +8217,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/polished_basalt/slab": {
-    "criteria": {
-      "has_item": "2025-01-02 22:45:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2025-01-02 22:22:35 +0000"
-    },
-    "done": true
-  },
   "witherstormmod:main/resummon_withered_symbiont": {
     "criteria": {
       "summoned_withered_symbiont": "2025-01-02 21:35:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-01-03 00:28:01 +0000"
-    },
-    "done": true
-  },
-  "illageandspillage:kill_freaky": {
-    "criteria": {
-      "requirement": "2025-01-02 23:44:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:greatsword": {
-    "criteria": {
-      "has_greatsword": "2025-01-02 23:17:05 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
-    "criteria": {
-      "has_planks": "2025-01-02 22:45:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-01-02 22:34:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-01-02 22:50:35 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/deepsight": {
-    "criteria": {
-      "all_effects": "2025-01-02 22:36:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-01-02 22:34:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/hanging_prismarite": {
-    "criteria": {
-      "has_prismarite": "2025-01-02 23:47:12 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:glaive": {
-    "criteria": {
-      "has_glaive": "2025-01-02 23:15:23 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/polished_basalt/wall": {
-    "criteria": {
-      "has_item": "2025-01-02 22:45:20 +0000"
     },
     "done": true
   },
@@ -8347,27 +8229,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_melon": "2025-01-02 22:34:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-01-02 22:36:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
-    "criteria": {
-      "has_prismarite": "2025-01-02 23:47:12 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon": {
-    "criteria": {
-      "has_melon_slice": "2025-01-02 22:34:30 +0000"
+      "avoid_vibration": "2025-01-02 22:16:00 +0000"
     },
     "done": true
   },
@@ -8383,15 +8247,63 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_purification": {
+  "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
-      "has_magic_scroll": "2025-01-02 22:55:30 +0000"
+      "has_soul_torch": "2025-01-02 22:22:35 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "avoid_vibration": "2025-01-02 22:16:00 +0000"
+      "has_melon": "2025-01-02 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-02 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-02 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-01-02 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-01-02 22:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-02 22:36:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/slab": {
+    "criteria": {
+      "has_item": "2025-01-02 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
+    "criteria": {
+      "has_planks": "2025-01-02 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/wall": {
+    "criteria": {
+      "has_item": "2025-01-02 22:45:20 +0000"
     },
     "done": true
   },
@@ -8400,6 +8312,359 @@
       "has_item": "2025-01-02 22:45:20 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-02 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-02 22:55:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:glaive": {
+    "criteria": {
+      "has_glaive": "2025-01-02 23:15:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-01-02 23:17:05 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_freaky": {
+    "criteria": {
+      "requirement": "2025-01-02 23:44:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/hanging_prismarite": {
+    "criteria": {
+      "has_prismarite": "2025-01-02 23:47:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
+    "criteria": {
+      "has_prismarite": "2025-01-02 23:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-03 00:28:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "has_lance": "2025-01-03 00:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-03 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 01:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 01:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 01:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 01:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 01:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 01:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-03 01:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-03 01:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-03 01:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-03 01:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-03 01:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-03 01:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-03 01:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-03 01:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-01-03 01:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-03 01:41:27 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-01-03 02:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-03 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-01-03 03:05:25 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:kill_babyvillager": {
+    "criteria": {
+      "killedbabyvillager": "2025-01-03 03:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-03 04:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-03 04:12:03 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_smooth_amethyst_stonecutting": {
+    "criteria": {
+      "has_smooth_amethyst": "2025-01-03 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit7": "2025-01-03 18:28:01 +0000",
+      "nbit8": "2025-01-03 18:21:58 +0000",
+      "nbit9": "2025-01-03 18:22:18 +0000",
+      "nbit3": "2025-01-03 18:22:18 +0000",
+      "nbit15": "2025-01-03 18:21:58 +0000",
+      "nbit4": "2025-01-03 18:22:18 +0000",
+      "nbit14": "2025-01-03 18:21:58 +0000",
+      "nbit5": "2025-01-03 18:21:58 +0000",
+      "nbit13": "2025-01-03 18:21:58 +0000",
+      "nbit6": "2025-01-03 18:22:18 +0000",
+      "nbit12": "2025-01-03 18:21:58 +0000",
+      "nbit19": "2025-01-03 18:21:58 +0000",
+      "nbit0": "2025-01-03 18:21:58 +0000",
+      "nbit18": "2025-01-03 18:21:58 +0000",
+      "nbit17": "2025-01-03 18:21:58 +0000",
+      "nbit2": "2025-01-03 18:21:58 +0000",
+      "nbit16": "2025-01-03 18:21:58 +0000",
+      "nbit22": "2025-01-03 18:21:58 +0000",
+      "nbit21": "2025-01-03 18:21:58 +0000",
+      "nbit20": "2025-01-03 18:21:58 +0000",
+      "nbit26": "2025-01-03 18:21:58 +0000",
+      "nbit25": "2025-01-03 18:21:58 +0000",
+      "nbit24": "2025-01-03 18:21:58 +0000",
+      "nbit23": "2025-01-03 18:21:58 +0000",
+      "nbit29": "2025-01-03 18:21:58 +0000",
+      "nbit28": "2025-01-03 18:21:58 +0000",
+      "nbit27": "2025-01-03 18:21:58 +0000",
+      "nbit31": "2025-01-03 18:21:58 +0000",
+      "nbit30": "2025-01-03 18:21:58 +0000",
+      "bit9": "2025-01-03 18:21:58 +0000",
+      "bit18": "2025-01-03 18:28:01 +0000",
+      "bit7": "2025-01-03 18:21:58 +0000",
+      "bit14": "2025-01-03 18:28:01 +0000",
+      "bit6": "2025-01-03 18:21:58 +0000",
+      "bit3": "2025-01-03 18:21:58 +0000",
+      "bit4": "2025-01-03 18:21:58 +0000",
+      "bit1": "2025-01-03 18:21:58 +0000",
+      "bit2": "2025-01-03 18:22:18 +0000",
+      "nbit11": "2025-01-03 18:21:58 +0000",
+      "nbit10": "2025-01-03 18:21:58 +0000",
+      "bit12": "2025-01-03 18:28:01 +0000",
+      "bit11": "2025-01-03 18:28:01 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
