@@ -8673,6 +8673,24 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-03 19:49:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "green": "2025-01-03 19:57:53 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2025-01-03 19:55:51 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_gumbeeper": {
     "criteria": {
       "killed": "2025-01-03 19:36:45 +0000"
@@ -8691,6 +8709,7 @@
       "nbit8": "2025-01-03 19:36:36 +0000",
       "nbit9": "2025-01-03 19:36:36 +0000",
       "nbit3": "2025-01-03 19:32:36 +0000",
+      "nbit15": "2025-01-03 19:48:10 +0000",
       "nbit4": "2025-01-03 19:43:21 +0000",
       "nbit14": "2025-01-03 19:36:22 +0000",
       "nbit5": "2025-01-03 19:36:22 +0000",
@@ -8717,6 +8736,7 @@
       "nbit31": "2025-01-03 19:32:36 +0000",
       "nbit30": "2025-01-03 19:32:36 +0000",
       "bit9": "2025-01-03 19:32:36 +0000",
+      "bit18": "2025-01-03 19:48:10 +0000",
       "bit7": "2025-01-03 19:32:36 +0000",
       "bit8": "2025-01-03 19:32:36 +0000",
       "bit5": "2025-01-03 19:32:36 +0000",
@@ -8736,6 +8756,12 @@
       "bit11": "2025-01-03 19:36:22 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/sweetish_fish_bucket": {
+    "criteria": {
+      "bucket": "2025-01-03 19:51:19 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
