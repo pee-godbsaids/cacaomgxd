@@ -9728,6 +9728,12 @@
     },
     "done": true
   },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2025-01-04 23:49:11 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/food/food/smelted_venison": {
     "criteria": {
       "has_food": "2025-01-04 20:25:59 +0000"

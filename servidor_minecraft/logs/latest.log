@@ -3470,3 +3470,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 23:40:50.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/215008, l='ServerLevel[world]', x=-44800.03, y=162.00, z=-17149.99] died, message: 'Villager was slain by GabrielCacao'
 [04Jan2025 23:42:18.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
 [04Jan2025 23:42:20.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[04Jan2025 23:44:37.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[04Jan2025 23:45:27.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:48:09.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 12.03944003185461,-1.756563477199336,8.932621618452686
+[04Jan2025 23:50:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:52:00.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 8.252777613895887,-0.9013275004029282,-6.017429552583053
+[04Jan2025 23:52:17.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 4.483396857860498,-8.745330004334452,4.816683307097264
+[04Jan2025 23:52:18.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 1.219655496388441,-10.032362400526372,1.2708403315409669
+[04Jan2025 23:52:23.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 38727.97400318628,59.32352912385573,15584.551030238588
+[04Jan2025 23:52:24.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[04Jan2025 23:52:35.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 6.37773992086295,7.570500000000024,4.941555157696712
+[04Jan2025 23:52:52.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3561ms or 71 ticks behind
