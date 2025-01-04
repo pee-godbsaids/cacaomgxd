@@ -12713,3 +12713,214 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 00:34:38.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
 [04Jan2025 00:34:39.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
 [04Jan2025 00:34:41.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[04Jan2025 00:35:00.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[04Jan2025 00:35:00.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/old_growth_taiga_planter_1
+[04Jan2025 00:35:00.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/corner_01
+[04Jan2025 00:35:00.038] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/straight_02
+[04Jan2025 00:35:00.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/crossroad_01
+[04Jan2025 00:35:00.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[04Jan2025 00:35:00.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_toolsmith_and_weaponsmith_1
+[04Jan2025 00:35:00.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_farm_1
+[04Jan2025 00:35:00.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/corner_02
+[04Jan2025 00:35:00.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_fletcher_1
+[04Jan2025 00:35:00.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_medium_house_2
+[04Jan2025 00:35:00.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_shepherd_1
+[04Jan2025 00:35:00.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/straight_01
+[04Jan2025 00:35:00.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/terminators/terminator_02
+[04Jan2025 00:35:00.064] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_3
+[04Jan2025 00:35:00.066] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_medium_house_1
+[04Jan2025 00:35:00.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_library_1
+[04Jan2025 00:35:00.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_temple_1
+[04Jan2025 00:35:00.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_fisher_1
+[04Jan2025 00:35:00.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/crossroad_02
+[04Jan2025 00:35:00.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_1
+[04Jan2025 00:35:00.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_leatherworker_1
+[04Jan2025 00:35:00.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_mason_1
+[04Jan2025 00:35:00.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_2
+[04Jan2025 00:35:00.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_4
+[04Jan2025 00:35:00.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/terminators/terminator_01
+[04Jan2025 00:35:45.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [Unlimited Capabilities]
+[04Jan2025 00:35:45.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Gave 1 [Command Block] to quipit0s]
+[04Jan2025 00:36:03.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[04Jan2025 00:37:48.896] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[04Jan2025 00:38:14.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to 0.500000, 100.000000, 0.500000]
+[04Jan2025 00:38:21.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 00:38:25.330] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[04Jan2025 00:38:30.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[04Jan2025 00:38:42.214] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[04Jan2025 00:38:50.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[04Jan2025 00:39:04.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 00:39:04.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 00:39:13.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -5.235902851652519,0.0,-9.324064173770246
+[04Jan2025 00:39:16.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -10.656362602567647,2.060688972900671,-2.4490779452221147
+[04Jan2025 00:39:18.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 2.0178873470485854,2.534796834163764,9.990553584829826
+[04Jan2025 00:39:26.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[04Jan2025 00:40:00.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 00:40:01.318] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 00:40:04.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 00:40:44.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -40, 68, -56]
+[04Jan2025 00:40:57.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -42, 70, -53]
+[04Jan2025 00:41:04.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -44, 70, -46]
+[04Jan2025 00:41:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -46, 71, -40]
+[04Jan2025 00:41:07.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -48, 72, -35]
+[04Jan2025 00:41:13.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -41, 69, -30]
+[04Jan2025 00:41:19.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -31, 69, -24]
+[04Jan2025 00:41:22.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -25, 69, -30]
+[04Jan2025 00:41:23.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -26, 69, -35]
+[04Jan2025 00:41:24.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -29, 69, -38]
+[04Jan2025 00:41:26.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -31, 69, -43]
+[04Jan2025 00:41:27.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -33, 69, -48]
+[04Jan2025 00:41:28.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -33, 69, -54]
+[04Jan2025 00:41:29.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -35, 69, -58]
+[04Jan2025 00:41:30.660] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in witherstormmod:bowels
+[04Jan2025 00:41:32.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -31, 69, -68]
+[04Jan2025 00:41:33.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -31, 69, -72]
+[04Jan2025 00:41:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -37, 69, -74]
+[04Jan2025 00:41:40.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -43, 69, -68]
+[04Jan2025 00:41:41.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -47, 69, -63]
+[04Jan2025 00:41:42.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -50, 69, -57]
+[04Jan2025 00:41:44.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -52, 69, -52]
+[04Jan2025 00:41:45.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -53, 69, -48]
+[04Jan2025 00:41:46.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -56, 69, -40]
+[04Jan2025 00:41:47.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -56, 69, -33]
+[04Jan2025 00:41:49.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -50, 69, -29]
+[04Jan2025 00:41:50.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -43, 69, -26]
+[04Jan2025 00:41:51.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -36, 69, -23]
+[04Jan2025 00:41:53.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -29, 69, -19]
+[04Jan2025 00:41:54.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -24, 69, -17]
+[04Jan2025 00:41:55.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -18, 69, -18]
+[04Jan2025 00:41:56.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -12, 69, -17]
+[04Jan2025 00:41:57.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -7, 69, -14]
+[04Jan2025 00:41:58.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -5, 69, -9]
+[04Jan2025 00:41:59.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -5, 69, -3]
+[04Jan2025 00:42:00.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -5, 69, 2]
+[04Jan2025 00:42:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -5, 69, 5]
+[04Jan2025 00:42:03.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -10, 69, 7]
+[04Jan2025 00:42:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -14, 69, 6]
+[04Jan2025 00:42:06.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -11, 69, -2]
+[04Jan2025 00:42:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -17, 69, -6]
+[04Jan2025 00:42:09.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -18, 69, -9]
+[04Jan2025 00:42:11.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -23, 69, -9]
+[04Jan2025 00:42:11.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -27, 69, -11]
+[04Jan2025 00:42:12.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -32, 69, -13]
+[04Jan2025 00:42:13.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -34, 69, -15]
+[04Jan2025 00:42:13.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -36, 69, -17]
+[04Jan2025 00:42:14.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -41, 69, -17]
+[04Jan2025 00:42:15.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -44, 69, -18]
+[04Jan2025 00:42:16.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -48, 69, -21]
+[04Jan2025 00:42:16.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -52, 69, -22]
+[04Jan2025 00:42:17.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -55, 69, -23]
+[04Jan2025 00:42:18.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -58, 69, -26]
+[04Jan2025 00:42:20.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -62, 69, -20]
+[04Jan2025 00:42:21.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -59, 69, -17]
+[04Jan2025 00:42:22.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -55, 69, -16]
+[04Jan2025 00:42:23.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -52, 69, -15]
+[04Jan2025 00:42:23.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -50, 69, -15]
+[04Jan2025 00:42:24.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -47, 69, -15]
+[04Jan2025 00:42:24.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -45, 69, -15]
+[04Jan2025 00:42:24.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -43, 69, -14]
+[04Jan2025 00:42:25.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -42, 69, -14]
+[04Jan2025 00:42:25.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -40, 69, -14]
+[04Jan2025 00:42:26.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -37, 69, -8]
+[04Jan2025 00:42:28.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -32, 69, -4]
+[04Jan2025 00:42:29.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -27, 69, -2]
+[04Jan2025 00:42:29.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -23, 69, 1]
+[04Jan2025 00:42:33.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -13, 69, -11]
+[04Jan2025 00:42:35.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -7, 69, -19]
+[04Jan2025 00:42:36.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -10, 69, -25]
+[04Jan2025 00:42:37.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -13, 69, -27]
+[04Jan2025 00:42:38.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -16, 69, -29]
+[04Jan2025 00:42:38.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -18, 69, -31]
+[04Jan2025 00:42:39.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -21, 69, -32]
+[04Jan2025 00:42:41.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -21, 69, -39]
+[04Jan2025 00:42:43.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -24, 69, -48]
+[04Jan2025 00:42:47.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -16, 69, -43]
+[04Jan2025 00:42:48.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -17, 69, -49]
+[04Jan2025 00:42:49.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -22, 69, -54]
+[04Jan2025 00:42:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -27, 69, -59]
+[04Jan2025 00:42:53.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -24, 69, -65]
+[04Jan2025 00:42:54.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -24, 69, -71]
+[04Jan2025 00:42:56.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -24, 69, -78]
+[04Jan2025 00:42:57.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -28, 69, -83]
+[04Jan2025 00:42:59.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -34, 69, -83]
+[04Jan2025 00:43:02.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -41, 69, -82]
+[04Jan2025 00:43:04.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -46, 69, -77]
+[04Jan2025 00:43:05.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -51, 69, -70]
+[04Jan2025 00:43:06.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -55, 69, -65]
+[04Jan2025 00:43:07.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -57, 69, -58]
+[04Jan2025 00:43:08.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -60, 69, -52]
+[04Jan2025 00:43:09.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -61, 69, -46]
+[04Jan2025 00:43:10.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -62, 69, -40]
+[04Jan2025 00:43:11.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -64, 69, -34]
+[04Jan2025 00:43:12.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -66, 69, -29]
+[04Jan2025 00:43:13.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -69, 69, -24]
+[04Jan2025 00:43:14.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -71, 69, -21]
+[04Jan2025 00:43:15.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -74, 69, -16]
+[04Jan2025 00:43:15.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -75, 69, -12]
+[04Jan2025 00:43:16.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -77, 69, -7]
+[04Jan2025 00:43:18.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -75, 69, 2]
+[04Jan2025 00:43:19.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -77, 69, 7]
+[04Jan2025 00:43:21.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -84, 69, 7]
+[04Jan2025 00:43:23.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -86, 69, 4]
+[04Jan2025 00:43:24.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -84, 69, -2]
+[04Jan2025 00:43:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -85, 69, -9]
+[04Jan2025 00:43:28.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -83, 69, -15]
+[04Jan2025 00:43:29.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -81, 69, -20]
+[04Jan2025 00:43:30.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -77, 69, -24]
+[04Jan2025 00:43:31.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -81, 69, -27]
+[04Jan2025 00:43:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -85, 69, -31]
+[04Jan2025 00:43:34.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -79, 69, -34]
+[04Jan2025 00:43:35.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -72, 69, -36]
+[04Jan2025 00:43:36.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -70, 69, -42]
+[04Jan2025 00:43:38.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -68, 69, -46]
+[04Jan2025 00:43:38.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -66, 69, -52]
+[04Jan2025 00:43:41.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -65, 69, -55]
+[04Jan2025 00:43:43.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -62, 69, -62]
+[04Jan2025 00:43:45.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -57, 69, -69]
+[04Jan2025 00:43:47.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -52, 69, -75]
+[04Jan2025 00:43:49.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -52, 69, -80]
+[04Jan2025 00:43:52.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -48, 69, -84]
+[04Jan2025 00:43:55.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -41, 69, -88]
+[04Jan2025 00:43:57.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -36, 69, -91]
+[04Jan2025 00:43:59.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -29, 69, -92]
+[04Jan2025 00:44:00.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -24, 69, -90]
+[04Jan2025 00:44:02.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -20, 69, -88]
+[04Jan2025 00:44:03.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -16, 69, -87]
+[04Jan2025 00:44:04.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 00:44:04.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 00:44:04.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -12, 69, -86]
+[04Jan2025 00:44:05.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -6, 69, -84]
+[04Jan2025 00:44:06.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -3, 69, -80]
+[04Jan2025 00:44:08.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 4, 69, -77]
+[04Jan2025 00:44:09.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 8, 69, -78]
+[04Jan2025 00:44:12.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 11, 69, -85]
+[04Jan2025 00:44:14.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 7, 69, -86]
+[04Jan2025 00:44:18.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -1, 69, -90]
+[04Jan2025 00:44:21.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -9, 69, -79]
+[04Jan2025 00:44:23.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -16, 69, -77]
+[04Jan2025 00:44:25.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -15, 69, -71]
+[04Jan2025 00:44:27.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -19, 69, -64]
+[04Jan2025 00:44:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -13, 69, -60]
+[04Jan2025 00:44:31.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 00:44:31.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -10, 69, -55]
+[04Jan2025 00:44:32.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 00:44:33.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -10, 69, -48]
+[04Jan2025 00:44:34.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -11, 69, -42]
+[04Jan2025 00:44:36.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -15, 69, -38]
+[04Jan2025 00:44:38.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -8, 69, -35]
+[04Jan2025 00:44:39.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -4, 69, -29]
+[04Jan2025 00:44:40.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -3, 69, -24]
+[04Jan2025 00:44:41.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -1, 69, -19]
+[04Jan2025 00:44:42.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 2, 69, -14]
+[04Jan2025 00:44:43.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 3, 69, -9]
+[04Jan2025 00:44:44.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 1, 69, -4]
+[04Jan2025 00:44:45.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 2, 69, 1]
+[04Jan2025 00:44:46.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 1, 69, 6]
+[04Jan2025 00:44:55.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -6, 69, -42]
+[04Jan2025 00:44:57.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -2, 69, -47]
+[04Jan2025 00:44:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 1, 69, -48]
+[04Jan2025 00:44:59.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 4, 69, -51]
+[04Jan2025 00:44:59.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 7, 69, -54]
+[04Jan2025 00:45:00.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 11, 69, -56]
+[04Jan2025 00:45:01.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 14, 69, -59]
+[04Jan2025 00:45:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 16, 69, -64]
