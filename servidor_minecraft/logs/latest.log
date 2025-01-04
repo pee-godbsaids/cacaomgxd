@@ -517,3 +517,20 @@
 [04Jan2025 01:33:53.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
 [04Jan2025 01:33:57.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The End of the End?]
 [04Jan2025 01:33:57.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [You Need a Mint]
+[04Jan2025 01:36:08.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Jan2025 01:36:27.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4084ms or 81 ticks behind
+[04Jan2025 01:36:46.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[04Jan2025 01:38:17.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [No Slime No Service]
+[04Jan2025 01:38:21.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [No Slime No Service]
+[04Jan2025 01:39:16.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[04Jan2025 01:39:52.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[04Jan2025 01:40:09.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[04Jan2025 01:40:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: An Undead Army has been spawned at position: (-5523, 76, -2211)]
+[04Jan2025 01:40:40.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[04Jan2025 01:40:58.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3093ms or 61 ticks behind
+[04Jan2025 01:41:17.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3883ms or 77 ticks behind
+[04Jan2025 01:41:36.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was blown up by Stray
+[04Jan2025 01:41:36.415] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_04.01.2025-01.41.36.dat
+[04Jan2025 01:41:36.520] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[04Jan2025 01:41:47.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[04Jan2025 01:45:47.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: All Undead Army units were highlighted at position: (-5535, 64, -2223)]
