@@ -17548,3 +17548,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 23:23:49.895] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Jan2025 23:23:51.948] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Jan2025 23:23:54.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 23:23:57.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 23:23:57.703] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jan2025 23:24:01.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [I Wish For More Burning]
+[04Jan2025 23:24:23.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 23:24:31.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 23:24:39.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:24:54.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [I'm on Cloud Nine]
+[04Jan2025 23:25:03.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Jack and the Beanstalk]
+[04Jan2025 23:25:29.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Jack and the Beanstalk]
+[04Jan2025 23:25:54.918] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 23:25:59.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:26:31.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44566, y=38, z=-17137} BlockPos{x=-44566, y=38, z=-17136}
+[04Jan2025 23:26:31.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44566, y=38, z=-17137} BlockPos{x=-44566, y=38, z=-17136}
+[04Jan2025 23:26:37.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 23:26:47.290] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 23:26:47.290] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[04Jan2025 23:27:08.379] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[04Jan2025 23:27:11.690] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 23:27:11.741] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 23:27:11.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 5.776623210324033,-7.089505519410842,-4.400984516058088
+[04Jan2025 23:27:17.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:27:20.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [I Wish For More Burning]
+[04Jan2025 23:27:47.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 23:27:48.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 23:28:29.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44590, y=53, z=-17122} BlockPos{x=-44591, y=53, z=-17122}
+[04Jan2025 23:28:29.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44590, y=53, z=-17122} BlockPos{x=-44591, y=53, z=-17122}
+[04Jan2025 23:28:29.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44590, y=53, z=-17122} BlockPos{x=-44591, y=53, z=-17122}
+[04Jan2025 23:29:00.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44611, y=52, z=-17132} BlockPos{x=-44611, y=55, z=-17135}
+[04Jan2025 23:30:38.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[04Jan2025 23:31:30.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[04Jan2025 23:31:34.231] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 23:31:34.231] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[04Jan2025 23:31:38.231] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 23:31:38.231] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[04Jan2025 23:31:48.190] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 23:31:48.190] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[04Jan2025 23:31:52.081] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 23:31:52.081] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[04Jan2025 23:32:47.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 23:32:47.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 23:33:04.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[04Jan2025 23:33:58.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 1.2930513315513963,-10.516181541923913,1.6252811737758748
+[04Jan2025 23:34:00.281] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 23:34:00.339] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 23:34:00.381] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 23:34:01.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
