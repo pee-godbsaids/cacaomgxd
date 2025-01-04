@@ -9395,6 +9395,7 @@
       "bit0": "2025-01-04 20:04:43 +0000",
       "nbit11": "2025-01-04 19:52:27 +0000",
       "nbit10": "2025-01-04 19:52:27 +0000",
+      "bit12": "2025-01-04 20:13:06 +0000",
       "bit11": "2025-01-04 20:04:43 +0000"
     },
     "done": false
@@ -9441,15 +9442,45 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-01-04 20:14:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_sapling": "2025-01-04 20:13:13 +0000"
+    },
+    "done": false
+  },
   "ironchest:recipes/decorations/chests/copper_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 19:49:31 +0000"
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-01-04 20:13:26 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-04 20:07:17 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 19:49:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-01-04 20:13:26 +0000"
     },
     "done": true
   },
@@ -9474,6 +9505,12 @@
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-01-04 19:49:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2025-01-04 20:09:49 +0000"
     },
     "done": true
   },
@@ -9510,6 +9547,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-01-04 19:49:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-01-04 20:08:26 +0000"
     },
     "done": true
   },

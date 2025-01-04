@@ -3232,3 +3232,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 20:08:56.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
 [04Jan2025 20:09:05.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15479ms or 309 ticks behind
 [04Jan2025 20:09:49.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The Silence of the Forest]
+[04Jan2025 20:10:09.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [The Silence of the Forest]
+[04Jan2025 20:10:12.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[04Jan2025 20:11:57.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> -44252 -1714
+[04Jan2025 20:12:10.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> -44252 -17714
+[04Jan2025 20:13:26.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Time To Even The Scales]
+[04Jan2025 20:13:26.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Time To Even The Scales]
+[04Jan2025 20:15:41.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[04Jan2025 20:17:39.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s succumbed to the Lich's explosive magic
+[04Jan2025 20:17:39.174] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_04.01.2025-20.17.39.dat
+[04Jan2025 20:17:39.227] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[04Jan2025 20:17:41.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Jan2025 20:18:48.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[04Jan2025 20:18:54.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Bring Out Your Dead]
+[04Jan2025 20:19:18.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[04Jan2025 20:19:23.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Strong Undead]
+[04Jan2025 20:19:23.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Bring Out Your Dead]
