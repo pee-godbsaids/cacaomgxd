@@ -9278,6 +9278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-01-04 00:00:58 +0000"
+    },
+    "done": true
+  },
   "cwsplus:on_hurt": {
     "criteria": {
       "nbit7": "2025-01-03 23:45:59 +0000",
