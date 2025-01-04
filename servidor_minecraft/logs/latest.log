@@ -4,3 +4,7 @@
 [04Jan2025 00:01:35.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> y dragon
 [04Jan2025 00:01:41.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
 [04Jan2025 00:02:18.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[04Jan2025 00:12:10.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Timed out
+[04Jan2025 00:12:10.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[04Jan2025 00:12:20.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:46659] logged in with entity id 133365 at (-5521.746465562721, 72.0, -2210.3939517733447)
+[04Jan2025 00:12:20.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game

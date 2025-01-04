@@ -8754,50 +8754,6 @@
     },
     "done": true
   },
-  "cwsplus:on_hurt": {
-    "criteria": {
-      "nbit7": "2025-01-03 23:46:46 +0000",
-      "nbit8": "2025-01-03 23:46:46 +0000",
-      "nbit9": "2025-01-03 23:46:46 +0000",
-      "nbit3": "2025-01-03 23:46:46 +0000",
-      "nbit4": "2025-01-03 23:46:46 +0000",
-      "nbit14": "2025-01-03 23:46:46 +0000",
-      "nbit6": "2025-01-03 23:46:46 +0000",
-      "nbit12": "2025-01-03 23:46:46 +0000",
-      "nbit19": "2025-01-03 23:46:46 +0000",
-      "nbit18": "2025-01-03 23:46:46 +0000",
-      "nbit17": "2025-01-03 23:46:46 +0000",
-      "nbit2": "2025-01-03 23:46:46 +0000",
-      "nbit22": "2025-01-03 23:46:46 +0000",
-      "nbit21": "2025-01-03 23:46:46 +0000",
-      "nbit20": "2025-01-03 23:46:46 +0000",
-      "nbit26": "2025-01-03 23:46:46 +0000",
-      "nbit25": "2025-01-03 23:46:46 +0000",
-      "nbit24": "2025-01-03 23:46:46 +0000",
-      "nbit23": "2025-01-03 23:46:46 +0000",
-      "nbit29": "2025-01-03 23:46:46 +0000",
-      "nbit28": "2025-01-03 23:46:46 +0000",
-      "nbit27": "2025-01-03 23:46:46 +0000",
-      "nbit31": "2025-01-03 23:46:46 +0000",
-      "nbit30": "2025-01-03 23:46:46 +0000",
-      "bit9": "2025-01-03 23:47:48 +0000",
-      "bit7": "2025-01-03 23:47:48 +0000",
-      "bit16": "2025-01-03 23:46:46 +0000",
-      "bit8": "2025-01-03 23:47:48 +0000",
-      "bit5": "2025-01-03 23:46:46 +0000",
-      "bit6": "2025-01-03 23:47:48 +0000",
-      "bit15": "2025-01-03 23:46:46 +0000",
-      "bit4": "2025-01-03 23:47:48 +0000",
-      "bit1": "2025-01-03 23:46:46 +0000",
-      "bit2": "2025-01-03 23:47:48 +0000",
-      "bit0": "2025-01-03 23:46:46 +0000",
-      "nbit10": "2025-01-03 23:47:48 +0000",
-      "bit13": "2025-01-03 23:46:46 +0000",
-      "bit10": "2025-01-03 23:46:46 +0000",
-      "bit11": "2025-01-03 23:46:46 +0000"
-    },
-    "done": false
-  },
   "morevillagers:first_workstation_get": {
     "criteria": {
       "stonecutter": "2025-01-03 21:44:38 +0000"
@@ -8828,39 +8784,33 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/eucalyptus_pressure_plate": {
-    "criteria": {
-      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-01-03 22:17:02 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ghast": {
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
     "criteria": {
-      "has_ghast_tear": "2025-01-03 23:51:04 +0000"
+      "has_log": "2025-01-03 22:17:02 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/silver_panel_from_silver_block_stonecutting": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_silver_block": "2025-01-03 23:51:13 +0000"
+      "has_logs": "2025-01-03 22:17:02 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_ingot": {
+  "witherstormmod:recipes/decorations/tainted_glass_pane": {
     "criteria": {
-      "has_silver_block": "2025-01-03 23:51:13 +0000"
+      "has_tainted_glass": "2025-01-03 22:18:22 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/desolate_dagger": {
+  "regions_unexplored:recipes/redstone/eucalyptus_pressure_plate": {
     "criteria": {
-      "desolate_dagger": "2025-01-03 23:52:37 +0000"
+      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
     },
     "done": true
   },
@@ -8873,60 +8823,6 @@
   "regions_unexplored:recipes/decorations/eucalyptus_sign": {
     "criteria": {
       "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_glass_pane": {
-    "criteria": {
-      "has_tainted_glass": "2025-01-03 22:18:22 +0000"
-    },
-    "done": true
-  },
-  "nethers_exoticism:rambutan_shake_adv": {
-    "criteria": {
-      "rambutan_shake_adv": "2025-01-03 23:22:56 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/nuclear_furnace_component": {
-    "criteria": {
-      "raygun": "2025-01-03 22:24:34 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/silver_panel_stairs_from_silver_block_stonecutting": {
-    "criteria": {
-      "has_silver_block": "2025-01-03 23:51:13 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
-    "criteria": {
-      "has_log": "2025-01-03 22:17:02 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/conversion_crucible": {
-    "criteria": {
-      "mussel": "2025-01-03 22:19:42 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/food/salted_jerky": {
-    "criteria": {
-      "has_pink_salt_shard": "2025-01-03 23:52:40 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/silver_tiles_slab_from_silver_block_stonecutting": {
-    "criteria": {
-      "has_silver_block": "2025-01-03 23:51:13 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/silver_tiles_from_silver_block_stonecutting": {
-    "criteria": {
-      "has_silver_block": "2025-01-03 23:51:13 +0000"
     },
     "done": true
   },
@@ -8948,81 +8844,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gunpowder": {
-    "criteria": {
-      "has_pink_salt_shard": "2025-01-03 23:52:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-01-03 23:49:56 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/woodworking_table": {
-    "criteria": {
-      "has_leaves": "2025-01-03 23:57:15 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/eucalyptus_slab": {
     "criteria": {
       "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/silver_panel": {
-    "criteria": {
-      "has_silver_block": "2025-01-03 23:51:13 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/blueprint_table": {
-    "criteria": {
-      "has_paper": "2025-01-03 23:52:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-01-03 22:17:02 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:longbow": {
-    "criteria": {
-      "has_longbow": "2025-01-03 22:58:22 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/cured_membrane": {
-    "criteria": {
-      "has_pink_salt_shard": "2025-01-03 23:52:40 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/uranium_rod": {
-    "criteria": {
-      "limestone": "2025-01-03 22:27:30 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/lesion": {
-    "criteria": {
-      "has_item": "2025-01-03 23:51:04 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/moth_ball": {
-    "criteria": {
-      "moth_ball": "2025-01-03 23:49:14 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/nether": {
-    "criteria": {
-      "has_nether_wart": "2025-01-03 23:49:56 +0000"
     },
     "done": true
   },
@@ -9032,9 +8856,169 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_stairs": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/conversion_crucible": {
+    "criteria": {
+      "mussel": "2025-01-03 22:19:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_furnace_component": {
+    "criteria": {
+      "raygun": "2025-01-03 22:24:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-01-03 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-01-03 22:58:22 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:rambutan_shake_adv": {
+    "criteria": {
+      "rambutan_shake_adv": "2025-01-03 23:22:56 +0000"
+    },
+    "done": true
+  },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit7": "2025-01-03 23:46:46 +0000",
+      "nbit8": "2025-01-03 23:46:46 +0000",
+      "nbit9": "2025-01-03 23:46:46 +0000",
+      "nbit3": "2025-01-03 23:46:46 +0000",
+      "nbit4": "2025-01-03 23:46:46 +0000",
+      "nbit14": "2025-01-03 23:46:46 +0000",
+      "nbit6": "2025-01-03 23:46:46 +0000",
+      "nbit12": "2025-01-03 23:46:46 +0000",
+      "nbit19": "2025-01-03 23:46:46 +0000",
+      "nbit18": "2025-01-03 23:46:46 +0000",
+      "nbit1": "2025-01-04 00:07:19 +0000",
+      "nbit17": "2025-01-03 23:46:46 +0000",
+      "nbit2": "2025-01-03 23:46:46 +0000",
+      "nbit22": "2025-01-03 23:46:46 +0000",
+      "nbit21": "2025-01-03 23:46:46 +0000",
+      "nbit20": "2025-01-03 23:46:46 +0000",
+      "nbit26": "2025-01-03 23:46:46 +0000",
+      "nbit25": "2025-01-03 23:46:46 +0000",
+      "nbit24": "2025-01-03 23:46:46 +0000",
+      "nbit23": "2025-01-03 23:46:46 +0000",
+      "nbit29": "2025-01-03 23:46:46 +0000",
+      "nbit28": "2025-01-03 23:46:46 +0000",
+      "nbit27": "2025-01-03 23:46:46 +0000",
+      "nbit31": "2025-01-03 23:46:46 +0000",
+      "nbit30": "2025-01-03 23:46:46 +0000",
+      "bit9": "2025-01-03 23:47:48 +0000",
+      "bit7": "2025-01-03 23:47:48 +0000",
+      "bit16": "2025-01-03 23:46:46 +0000",
+      "bit8": "2025-01-03 23:47:48 +0000",
+      "bit5": "2025-01-03 23:46:46 +0000",
+      "bit6": "2025-01-03 23:47:48 +0000",
+      "bit15": "2025-01-03 23:46:46 +0000",
+      "bit4": "2025-01-03 23:47:48 +0000",
+      "bit1": "2025-01-03 23:46:46 +0000",
+      "bit2": "2025-01-03 23:47:48 +0000",
+      "bit0": "2025-01-03 23:46:46 +0000",
+      "nbit10": "2025-01-03 23:47:48 +0000",
+      "bit12": "2025-01-04 00:07:19 +0000",
+      "bit13": "2025-01-03 23:46:46 +0000",
+      "bit10": "2025-01-03 23:46:46 +0000",
+      "bit11": "2025-01-03 23:46:46 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2025-01-03 23:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-03 23:49:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-01-03 23:49:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-03 23:51:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-01-03 23:51:04 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/silver_panel_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2025-01-03 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot": {
+    "criteria": {
+      "has_silver_block": "2025-01-03 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/silver_panel_stairs_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2025-01-03 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/silver_tiles_slab_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2025-01-03 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/silver_tiles_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2025-01-03 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/silver_panel": {
+    "criteria": {
+      "has_silver_block": "2025-01-03 23:51:13 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/silver_tiles_stairs_from_silver_block_stonecutting": {
     "criteria": {
       "has_silver_block": "2025-01-03 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/silver_panel_slab_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2025-01-03 23:51:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-01-03 23:52:37 +0000"
     },
     "done": true
   },
@@ -9044,17 +9028,41 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/eucalyptus_stairs": {
+  "galosphere:recipes/food/salted_jerky": {
     "criteria": {
-      "has_eucalyptus_planks": "2025-01-03 22:18:29 +0000"
+      "has_pink_salt_shard": "2025-01-03 23:52:40 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/silver_panel_slab_from_silver_block_stonecutting": {
+  "minecraft:recipes/misc/gunpowder": {
     "criteria": {
-      "has_silver_block": "2025-01-03 23:51:13 +0000"
+      "has_pink_salt_shard": "2025-01-03 23:52:40 +0000"
     },
     "done": true
+  },
+  "galosphere:recipes/misc/cured_membrane": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-01-03 23:52:40 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-01-03 23:52:42 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2025-01-03 23:57:15 +0000"
+    },
+    "done": true
+  },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2025-01-04 00:09:11 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
