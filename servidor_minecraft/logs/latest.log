@@ -188,3 +188,332 @@
 [04Jan2025 00:45:00.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 11, 69, -56]
 [04Jan2025 00:45:01.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 14, 69, -59]
 [04Jan2025 00:45:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 16, 69, -64]
+[04Jan2025 00:45:04.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 19, 69, -67]
+[04Jan2025 00:45:05.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 23, 69, -67]
+[04Jan2025 00:45:06.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 25, 69, -65]
+[04Jan2025 00:45:08.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 26, 69, -60]
+[04Jan2025 00:45:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 21, 69, -57]
+[04Jan2025 00:45:12.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 19, 69, -50]
+[04Jan2025 00:45:13.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 15, 69, -47]
+[04Jan2025 00:45:14.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 10, 69, -44]
+[04Jan2025 00:45:15.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 5, 69, -41]
+[04Jan2025 00:45:16.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 1, 69, -36]
+[04Jan2025 00:45:17.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 4, 69, -28]
+[04Jan2025 00:45:18.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 6, 69, -22]
+[04Jan2025 00:45:19.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 8, 69, -17]
+[04Jan2025 00:45:20.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 10, 69, -11]
+[04Jan2025 00:45:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 8, 69, -2]
+[04Jan2025 00:45:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 10, 69, -34]
+[04Jan2025 00:45:31.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 17, 69, -40]
+[04Jan2025 00:45:34.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -1, 69, -57]
+[04Jan2025 00:45:35.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -5, 69, -63]
+[04Jan2025 00:45:37.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -5, 69, -69]
+[04Jan2025 00:45:41.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 5, 69, -71]
+[04Jan2025 00:45:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 6, 69, -64]
+[04Jan2025 00:45:46.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 3, 69, -66]
+[04Jan2025 00:45:48.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 13, 69, -68]
+[04Jan2025 00:45:51.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 14, 69, -75]
+[04Jan2025 00:45:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 17, 69, -31]
+[04Jan2025 00:45:59.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 12, 69, -25]
+[04Jan2025 00:46:13.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -68, 69, -17]
+[04Jan2025 00:46:15.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -68, 69, -11]
+[04Jan2025 00:46:16.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -69, 69, -6]
+[04Jan2025 00:46:18.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -70, 69, -1]
+[04Jan2025 00:46:19.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -70, 69, 5]
+[04Jan2025 00:46:20.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -67, 69, 9]
+[04Jan2025 00:46:21.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -64, 69, 12]
+[04Jan2025 00:46:22.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -60, 69, 15]
+[04Jan2025 00:46:26.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -56, 69, 18]
+[04Jan2025 00:46:27.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -52, 69, 14]
+[04Jan2025 00:46:28.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -47, 69, 10]
+[04Jan2025 00:46:29.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -43, 69, 7]
+[04Jan2025 00:46:30.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -38, 69, 4]
+[04Jan2025 00:46:32.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -33, 69, 2]
+[04Jan2025 00:46:35.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -29, 69, 6]
+[04Jan2025 00:46:41.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -34, 69, 7]
+[04Jan2025 00:46:44.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -46, 69, 3]
+[04Jan2025 00:46:47.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -50, 69, -1]
+[04Jan2025 00:46:49.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -54, 69, -4]
+[04Jan2025 00:46:51.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -58, 69, -7]
+[04Jan2025 00:46:53.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -61, 69, -3]
+[04Jan2025 00:46:55.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -59, 69, 1]
+[04Jan2025 00:46:57.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -55, 69, 5]
+[04Jan2025 00:47:06.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -46, 69, -2]
+[04Jan2025 00:47:09.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -40, 69, -2]
+[04Jan2025 00:47:19.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -34, 69, -28]
+[04Jan2025 00:47:21.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -36, 69, -33]
+[04Jan2025 00:47:23.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -37, 69, -37]
+[04Jan2025 00:47:27.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -40, 69, -63]
+[04Jan2025 00:47:33.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -11, 69, -66]
+[04Jan2025 00:47:40.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -21, 69, -23]
+[04Jan2025 00:50:40.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Gave 1 [Command Block] to quipit0s]
+[04Jan2025 00:57:12.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Die Classy]
+[04Jan2025 01:01:52.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[04Jan2025 01:03:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> xd
+[04Jan2025 01:03:35.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[04Jan2025 01:05:03.279] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:warped_forest took 19 ms
+[04Jan2025 01:05:06.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -433.500000, 239.000000, 44.500000]
+[04Jan2025 01:05:07.793] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-23, 9], discarding
+[04Jan2025 01:05:07.795] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-22, 9], discarding
+[04Jan2025 01:05:07.842] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-21, 4], discarding
+[04Jan2025 01:05:07.843] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-21, 5], discarding
+[04Jan2025 01:05:07.844] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-21, 6], discarding
+[04Jan2025 01:05:08.348] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-20, 4], discarding
+[04Jan2025 01:05:08.349] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[04Jan2025 01:05:08.350] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-20, 5], discarding
+[04Jan2025 01:05:08.351] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-20, 6], discarding
+[04Jan2025 01:05:08.443] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[04Jan2025 01:05:08.443] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-23, 10], discarding
+[04Jan2025 01:05:08.444] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-22, 10], discarding
+[04Jan2025 01:05:08.630] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: netherdepthsupgrade:nether_fortress_piece
+[04Jan2025 01:05:08.630] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'netherdepthsupgrade:nether_fortress_piece' in chunk [-20, 0], discarding
+[04Jan2025 01:05:08.738] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-19, 4], discarding
+[04Jan2025 01:05:08.975] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-23, 11], discarding
+[04Jan2025 01:05:09.044] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-22, 11], discarding
+[04Jan2025 01:05:09.060] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-19, 6], discarding
+[04Jan2025 01:05:09.062] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-19, 5], discarding
+[04Jan2025 01:05:09.504] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[04Jan2025 01:05:09.505] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-18, 4], discarding
+[04Jan2025 01:05:09.506] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-18, 5], discarding
+[04Jan2025 01:05:09.700] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[04Jan2025 01:05:09.700] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-18, 1], discarding
+[04Jan2025 01:05:09.703] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[04Jan2025 01:05:09.703] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-18, 0], discarding
+[04Jan2025 01:05:09.703] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-18, 0], discarding
+[04Jan2025 01:05:09.890] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-18, -1], discarding
+[04Jan2025 01:05:09.891] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-18, -1], discarding
+[04Jan2025 01:05:10.081] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[04Jan2025 01:05:10.082] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-18, -2], discarding
+[04Jan2025 01:05:10.910] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-17, -1], discarding
+[04Jan2025 01:05:10.995] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-17, 0], discarding
+[04Jan2025 01:05:10.996] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-17, 1], discarding
+[04Jan2025 01:05:12.139] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-16, -4], discarding
+[04Jan2025 01:05:12.142] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-16, 0], discarding
+[04Jan2025 01:05:12.143] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-16, 0], discarding
+[04Jan2025 01:05:12.154] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-16, -5], discarding
+[04Jan2025 01:05:12.154] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-16, -3], discarding
+[04Jan2025 01:05:12.155] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-16, -1], discarding
+[04Jan2025 01:05:12.155] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-16, -1], discarding
+[04Jan2025 01:05:12.156] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-16, 1], discarding
+[04Jan2025 01:05:12.156] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-16, 1], discarding
+[04Jan2025 01:05:14.433] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[04Jan2025 01:05:14.434] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-16, -10], discarding
+[04Jan2025 01:05:14.434] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-16, -10], discarding
+[04Jan2025 01:05:14.435] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-16, -9], discarding
+[04Jan2025 01:05:14.577] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-15, -1], discarding
+[04Jan2025 01:05:14.580] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-15, 0], discarding
+[04Jan2025 01:05:14.581] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-15, 1], discarding
+[04Jan2025 01:05:14.587] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-15, 4], discarding
+[04Jan2025 01:05:14.911] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:blackstone_remnant
+[04Jan2025 01:05:14.911] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-15, -3], discarding
+[04Jan2025 01:05:15.122] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-15, 5], discarding
+[04Jan2025 01:05:15.123] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-15, 6], discarding
+[04Jan2025 01:05:15.643] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[04Jan2025 01:05:15.644] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-18, -11], discarding
+[04Jan2025 01:05:15.649] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-15, -9], discarding
+[04Jan2025 01:05:15.651] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-15, -5], discarding
+[04Jan2025 01:05:15.652] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-15, -4], discarding
+[04Jan2025 01:05:16.447] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-15, -10], discarding
+[04Jan2025 01:05:16.980] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-16, -11], discarding
+[04Jan2025 01:05:16.982] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-15, -11], discarding
+[04Jan2025 01:05:17.062] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-15, 12], discarding
+[04Jan2025 01:05:17.063] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:ore_shard
+[04Jan2025 01:05:17.063] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:ore_shard' in chunk [-15, 13], discarding
+[04Jan2025 01:05:18.566] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[04Jan2025 01:05:18.567] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-14, 5], discarding
+[04Jan2025 01:05:18.567] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-14, 6], discarding
+[04Jan2025 01:05:18.569] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-14, 4], discarding
+[04Jan2025 01:05:18.884] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-14, -4], discarding
+[04Jan2025 01:05:18.886] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-14, -5], discarding
+[04Jan2025 01:05:18.887] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-14, -3], discarding
+[04Jan2025 01:05:18.888] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-14, -1], discarding
+[04Jan2025 01:05:18.926] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-14, -9], discarding
+[04Jan2025 01:05:18.927] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id netheroverhaul:veneficus
+[04Jan2025 01:05:18.963] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:blackstone_remnant
+[04Jan2025 01:05:18.963] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-14, 0], discarding
+[04Jan2025 01:05:18.964] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:blackstone_remnant' in chunk [-14, 1], discarding
+[04Jan2025 01:05:19.293] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[04Jan2025 01:05:19.293] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-14, -10], discarding
+[04Jan2025 01:05:19.353] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-14, -11], discarding
+[04Jan2025 01:05:19.476] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-13, 4], discarding
+[04Jan2025 01:05:19.477] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-13, 5], discarding
+[04Jan2025 01:05:19.477] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-13, 6], discarding
+[04Jan2025 01:05:19.827] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-13, -10], discarding
+[04Jan2025 01:05:19.829] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-13, -9], discarding
+[04Jan2025 01:05:19.835] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-13, -11], discarding
+[04Jan2025 01:05:20.449] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-12, 5], discarding
+[04Jan2025 01:05:20.450] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-12, 6], discarding
+[04Jan2025 01:05:20.451] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-12, 9], discarding
+[04Jan2025 01:05:20.452] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-12, 10], discarding
+[04Jan2025 01:05:20.453] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-12, 11], discarding
+[04Jan2025 01:05:20.481] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-12, 4], discarding
+[04Jan2025 01:05:20.721] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-12, 12], discarding
+[04Jan2025 01:05:20.931] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-11, -5], discarding
+[04Jan2025 01:05:20.938] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-11, -6], discarding
+[04Jan2025 01:05:21.003] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-11, 9], discarding
+[04Jan2025 01:05:21.004] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-11, 10], discarding
+[04Jan2025 01:05:21.005] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-11, 11], discarding
+[04Jan2025 01:05:21.006] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-11, 12], discarding
+[04Jan2025 01:05:21.011] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-11, 13], discarding
+[04Jan2025 01:05:21.012] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-11, 14], discarding
+[04Jan2025 01:05:21.015] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-11, 15], discarding
+[04Jan2025 01:05:21.352] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-10, 9], discarding
+[04Jan2025 01:05:21.355] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[04Jan2025 01:05:21.355] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-10, 10], discarding
+[04Jan2025 01:05:21.357] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-10, 11], discarding
+[04Jan2025 01:05:21.357] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-10, 12], discarding
+[04Jan2025 01:05:21.358] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-10, 13], discarding
+[04Jan2025 01:05:21.359] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-10, 14], discarding
+[04Jan2025 01:05:21.415] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-10, -6], discarding
+[04Jan2025 01:05:21.416] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:large_pedestal
+[04Jan2025 01:05:21.416] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-10, -5], discarding
+[04Jan2025 01:05:21.868] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[04Jan2025 01:05:21.868] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-10, 15], discarding
+[04Jan2025 01:05:22.224] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-9, -5], discarding
+[04Jan2025 01:05:22.228] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-9, 12], discarding
+[04Jan2025 01:05:22.229] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-9, 13], discarding
+[04Jan2025 01:05:22.229] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-9, 14], discarding
+[04Jan2025 01:05:22.230] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-9, 9], discarding
+[04Jan2025 01:05:22.231] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-9, 10], discarding
+[04Jan2025 01:05:22.232] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-9, 8], discarding
+[04Jan2025 01:05:22.232] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-9, 11], discarding
+[04Jan2025 01:05:22.364] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-9, 15], discarding
+[04Jan2025 01:05:22.373] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:large_pedestal' in chunk [-9, -6], discarding
+[04Jan2025 01:05:22.547] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-9, 6], discarding
+[04Jan2025 01:05:22.580] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-4, 0], discarding
+[04Jan2025 01:05:22.590] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-4, 1], discarding
+[04Jan2025 01:05:22.593] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-4, 2], discarding
+[04Jan2025 01:05:22.648] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-8, 6], discarding
+[04Jan2025 01:05:22.649] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-7, 6], discarding
+[04Jan2025 01:05:22.652] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[04Jan2025 01:05:22.652] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-8, 7], discarding
+[04Jan2025 01:05:22.653] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-7, 7], discarding
+[04Jan2025 01:05:22.656] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-8, 8], discarding
+[04Jan2025 01:05:34.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[04Jan2025 01:06:31.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Look Mom, No World Edit!]
+[04Jan2025 01:06:31.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [Welcome Back, Nether Reactor]
+[04Jan2025 01:08:44.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Look Mom, No World Edit!]
+[04Jan2025 01:08:44.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Welcome Back, Nether Reactor]
+[04Jan2025 01:09:23.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> eseta
+[04Jan2025 01:12:20.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: All Undead Army units were highlighted at position: (-21, 70, -64)]
+[04Jan2025 01:12:21.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[04Jan2025 01:12:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[04Jan2025 01:16:49.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -26, 69, -34]
+[04Jan2025 01:16:51.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -26, 69, -41]
+[04Jan2025 01:16:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -21, 69, -47]
+[04Jan2025 01:16:56.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -13, 69, -50]
+[04Jan2025 01:16:57.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -7, 69, -54]
+[04Jan2025 01:17:00.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 2, 69, -55]
+[04Jan2025 01:17:02.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 6, 69, -47]
+[04Jan2025 01:17:05.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 4, 69, -40]
+[04Jan2025 01:17:06.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 4, 69, -33]
+[04Jan2025 01:17:09.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 10, 69, -29]
+[04Jan2025 01:17:12.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -6, 69, -27]
+[04Jan2025 01:17:13.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -10, 69, -25]
+[04Jan2025 01:17:16.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -17, 69, -15]
+[04Jan2025 01:17:18.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -22, 69, -16]
+[04Jan2025 01:17:20.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -30, 69, -24]
+[04Jan2025 01:17:22.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -37, 69, -19]
+[04Jan2025 01:17:24.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -41, 69, -13]
+[04Jan2025 01:17:25.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -48, 69, -17]
+[04Jan2025 01:17:27.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -55, 69, -20]
+[04Jan2025 01:17:28.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -60, 69, -24]
+[04Jan2025 01:17:30.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -57, 69, -32]
+[04Jan2025 01:17:31.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -56, 69, -39]
+[04Jan2025 01:17:33.123] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:44009] logged in with entity id 156926 at (-42.5, 73.49999996423662, -56.5)
+[04Jan2025 01:17:33.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[04Jan2025 01:17:33.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -54, 69, -47]
+[04Jan2025 01:17:35.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -56, 69, -57]
+[04Jan2025 01:17:36.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -55, 69, -64]
+[04Jan2025 01:17:39.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -49, 69, -68]
+[04Jan2025 01:17:42.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -42, 69, -71]
+[04Jan2025 01:17:44.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -36, 69, -65]
+[04Jan2025 01:17:46.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -32, 69, -63]
+[04Jan2025 01:17:48.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -26, 69, -58]
+[04Jan2025 01:17:53.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -58, 69, -10]
+[04Jan2025 01:17:54.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -61, 69, -5]
+[04Jan2025 01:17:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -43, 69, 0]
+[04Jan2025 01:18:00.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -28, 69, -4]
+[04Jan2025 01:18:02.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -16, 69, -9]
+[04Jan2025 01:18:05.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -33, 69, -30]
+[04Jan2025 01:18:10.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -64, 69, -34]
+[04Jan2025 01:18:11.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -67, 69, -40]
+[04Jan2025 01:18:14.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -75, 69, -26]
+[04Jan2025 01:18:18.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[04Jan2025 01:18:21.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[04Jan2025 01:18:23.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> ezwin
+[04Jan2025 01:18:25.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[04Jan2025 01:18:29.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -55, 69, -15]
+[04Jan2025 01:18:31.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -55, 69, -7]
+[04Jan2025 01:18:35.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -51, 69, -23]
+[04Jan2025 01:18:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -51, 70, -23]
+[04Jan2025 01:18:44.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -51, 71, -26]
+[04Jan2025 01:18:52.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -60, 70, -38]
+[04Jan2025 01:18:54.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -56, 71, -35]
+[04Jan2025 01:18:58.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -54, 70, -46]
+[04Jan2025 01:18:59.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -54, 71, -46]
+[04Jan2025 01:19:02.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[04Jan2025 01:19:07.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -43, 69, -64]
+[04Jan2025 01:19:11.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -24, 69, -69]
+[04Jan2025 01:19:12.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -16, 69, -73]
+[04Jan2025 01:19:13.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -10, 69, -75]
+[04Jan2025 01:19:15.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -9, 69, -81]
+[04Jan2025 01:19:17.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -2, 69, -79]
+[04Jan2025 01:19:19.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 10, 69, -74]
+[04Jan2025 01:19:23.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at 5, 69, -66]
+[04Jan2025 01:19:26.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -4, 69, -42]
+[04Jan2025 01:19:28.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -10, 69, -37]
+[04Jan2025 01:19:31.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -11, 69, -43]
+[04Jan2025 01:19:34.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Placed "minecraft:end_island" at -31, 69, -43]
+[04Jan2025 01:20:42.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> espera
+[04Jan2025 01:20:43.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> xd
+[04Jan2025 01:20:45.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> oc
+[04Jan2025 01:22:40.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> ezwin
+[04Jan2025 01:23:35.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: quipit0s must kill 69 more undead to start the Undead Army.]
+[04Jan2025 01:26:00.675] [Server thread/INFO] [ModernFix/]: Processed 8 config reloads
+[04Jan2025 01:26:55.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Config for majruszsdifficulty of type SERVER not found]
+[04Jan2025 01:26:58.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Config for majruszsdifficulty of type CLIENT not found]
+[04Jan2025 01:27:02.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Config for majruszsdifficulty of type COMMON not found]
+[04Jan2025 01:28:35.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: 12 biome entry/entries set between -68, 68, -48 and -60, 68, -36]
+[04Jan2025 01:29:06.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: 28 biome entry/entries set between -60, 68, -60 and -48, 68, -36]
+[04Jan2025 01:30:23.505] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[04Jan2025 01:30:23.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Summoned new Ender Dragon]
+[04Jan2025 01:30:29.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[04Jan2025 01:30:55.310] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Takeoff (#4) on the server
+[04Jan2025 01:30:55.420] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[04Jan2025 01:30:55.533] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[04Jan2025 01:30:55.710] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[04Jan2025 01:31:01.516] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[04Jan2025 01:31:01.516] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[04Jan2025 01:31:04.526] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[04Jan2025 01:31:06.147] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[04Jan2025 01:31:08.500] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[04Jan2025 01:31:09.950] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[04Jan2025 01:31:09.953] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#3) on the server
+[04Jan2025 01:31:22.508] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingScanning (#6) on the server
+[04Jan2025 01:31:27.454] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Takeoff (#4) on the server
+[04Jan2025 01:31:27.456] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[04Jan2025 01:31:31.599] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[04Jan2025 01:31:43.502] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[04Jan2025 01:31:44.713] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[04Jan2025 01:31:47.509] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[04Jan2025 01:31:48.963] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[04Jan2025 01:31:51.849] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[04Jan2025 01:31:57.201] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[04Jan2025 01:32:02.498] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[04Jan2025 01:32:03.011] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[04Jan2025 01:32:03.011] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#3) on the server
+[04Jan2025 01:32:19.447] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingScanning (#6) on the server
+[04Jan2025 01:32:20.700] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingAttacking (#7) on the server
+[04Jan2025 01:32:22.698] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingFlaming (#5) on the server
+[04Jan2025 01:32:25.650] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Takeoff (#4) on the server
+[04Jan2025 01:32:27.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Free the End]
+[04Jan2025 01:32:27.357] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Dying (#9) on the server
+[04Jan2025 01:32:37.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [The End of the End?]
+[04Jan2025 01:32:37.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [You Need a Mint]
+[04Jan2025 01:33:15.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[04Jan2025 01:33:21.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> barra craft waiston
+[04Jan2025 01:33:50.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[04Jan2025 01:33:53.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[04Jan2025 01:33:57.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The End of the End?]
+[04Jan2025 01:33:57.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [You Need a Mint]
