@@ -9048,9 +9048,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/dragon_smithing": {
+  "majruszsdifficulty:game_stage_master": {
     "criteria": {
-      "has_dragon": "2025-01-04 01:36:31 +0000"
+      "is_triggered": "2025-01-04 01:32:27 +0000"
     },
     "done": true
   },
@@ -9060,15 +9060,21 @@
     },
     "done": true
   },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-04 02:23:51 +0000"
-    },
-    "done": false
-  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-01-04 01:32:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon_smithing": {
+    "criteria": {
+      "has_dragon": "2025-01-04 01:36:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/rainbounce_boots": {
+    "criteria": {
+      "limestone": "2025-01-04 01:38:21 +0000"
     },
     "done": true
   },
@@ -9117,15 +9123,15 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/rainbounce_boots": {
+  "cwsplus:on_hit": {
     "criteria": {
-      "limestone": "2025-01-04 01:38:21 +0000"
+      "not_target": "2025-01-04 20:03:36 +0000"
     },
-    "done": true
+    "done": false
   },
-  "majruszsdifficulty:game_stage_master": {
+  "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "is_triggered": "2025-01-04 01:32:27 +0000"
+      "bornin_chaos_0": "2025-01-04 19:56:21 +0000"
     },
     "done": true
   },

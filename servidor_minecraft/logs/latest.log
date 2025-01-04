@@ -3225,3 +3225,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 19:53:57.103] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34972ae6[id=<null>,name=GabrielCacao,properties={},legacy=false] (/127.146.234.60:57239) lost connection: Connection closed - mismatched mod channel list
 [04Jan2025 19:56:20.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:47001] logged in with entity id 6035 at (-5620.6189551600555, 63.0, -2169.987500011921)
 [04Jan2025 19:56:21.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[04Jan2025 20:02:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
+[04Jan2025 20:08:35.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7531ms or 150 ticks behind
+[04Jan2025 20:08:38.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -38725.21755111856,-58.92159999847412,-15585.417292760703
+[04Jan2025 20:08:53.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[04Jan2025 20:08:56.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[04Jan2025 20:09:05.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15479ms or 309 ticks behind
+[04Jan2025 20:09:49.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The Silence of the Forest]

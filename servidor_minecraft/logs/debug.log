@@ -8664,3 +8664,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 19:56:21.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
 [04Jan2025 19:57:53.347] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Jan2025 19:57:53.947] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 20:00:47.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 20:00:47.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 20:02:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
+[04Jan2025 20:03:22.242] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 20:03:22.243] [Server thread/DEBUG] [Spartan Weaponry/]: Picked up arrow on the ground and placed it in the quiver!
+[04Jan2025 20:04:22.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 20:05:21.490] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 20:05:21.541] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 20:05:21.591] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 20:05:21.647] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 20:05:21.709] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 20:05:21.753] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jan2025 20:05:47.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 20:05:47.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 20:08:27.722] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[04Jan2025 20:08:27.760] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[04Jan2025 20:08:27.782] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[04Jan2025 20:08:32.495] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for GabrielCacao at BlockPos{x=-44251, y=4, z=-17815}
+[04Jan2025 20:08:32.738] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=-5525, y=63, z=-2230}
+[04Jan2025 20:08:32.747] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=-44250, y=4, z=-17815}
+[04Jan2025 20:08:32.748] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-5524, y=63, z=-2230}
+[04Jan2025 20:08:32.748] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-5525, y=63, z=-2230}
+[04Jan2025 20:08:32.748] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-5524, y=63, z=-2231}
+[04Jan2025 20:08:32.748] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-5525, y=63, z=-2231}
+[04Jan2025 20:08:35.194] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-44250, y=4, z=-17815}
+[04Jan2025 20:08:35.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7531ms or 150 ticks behind
+[04Jan2025 20:08:38.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -38725.21755111856,-58.92159999847412,-15585.417292760703
+[04Jan2025 20:08:40.935] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5525, y=63, z=-2230}
+[04Jan2025 20:08:42.168] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[04Jan2025 20:08:42.179] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[04Jan2025 20:08:43.030] [Worker-Main-24/DEBUG] [ModernFix/]: Structure aquamirae:lore/outpost is being run through DFU (hash 9ad6a404df2298a3f11c688bbbb4e4e9ef9497d26b6c7f4f36738babc1580429), this will cause launch time delays
+[04Jan2025 20:08:45.040] [Worker-Main-24/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[04Jan2025 20:08:46.015] [Worker-Main-24/DEBUG] [ModernFix/]: Structure aquamirae:lore/ship is being run through DFU (hash 6b391b75153ba8f87f2d642e8594c8644f176114b9b494a545501ffda3c8387f), this will cause launch time delays
+[04Jan2025 20:08:48.809] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Jan2025 20:08:53.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[04Jan2025 20:08:56.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[04Jan2025 20:08:56.867] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-44250, y=4, z=-17815}
+[04Jan2025 20:09:05.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15479ms or 309 ticks behind
+[04Jan2025 20:09:49.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jan2025 20:09:49.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The Silence of the Forest]
