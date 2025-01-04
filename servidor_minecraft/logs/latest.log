@@ -3280,3 +3280,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 20:47:31.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [04Jan2025 20:49:09.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
 [04Jan2025 20:49:13.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[04Jan2025 20:51:10.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[04Jan2025 20:52:53.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[04Jan2025 20:53:15.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -0.9328950087583507,10.795535073637978,-1.4844850139888877
+[04Jan2025 20:54:14.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 1.0742100438874331,-10.150152535617394,0.4771555094412179
+[04Jan2025 20:54:20.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.3821497568060295,-10.689323712058638,0.012878922221716493
+[04Jan2025 20:54:50.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied enchantment Protection IV to quipit0s's item]
+[04Jan2025 20:55:03.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied enchantment Multi-Roll IV to quipit0s's item]
+[04Jan2025 20:55:12.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied enchantment Respiration III to quipit0s's item]
+[04Jan2025 20:55:24.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied enchantment Aqua Affinity to quipit0s's item]
+[04Jan2025 20:56:26.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[04Jan2025 20:57:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [I Can See Forever]
+[04Jan2025 20:58:45.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Bug Stomper]
