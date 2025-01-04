@@ -3353,3 +3353,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 22:08:19.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Alpha Fur]
 [04Jan2025 22:08:51.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
 [04Jan2025 22:10:03.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -1.1150261068032705,10.909187996982837,-0.2699316245598311
+[04Jan2025 22:21:00.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[04Jan2025 22:21:00.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[04Jan2025 22:21:09.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:48645] logged in with entity id 181529 at (-43759.60422263648, 170.0, -17918.69438986562)
+[04Jan2025 22:21:10.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[04Jan2025 22:21:16.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:21:54.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Clear Skies]
+[04Jan2025 22:21:54.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Clear Skies]
+[04Jan2025 22:24:00.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[04Jan2025 22:28:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:32:20.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Trophied Champion]
+[04Jan2025 22:32:20.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Trophied Champion]
+[04Jan2025 22:35:41.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:36:15.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Carminite Acclimation]
+[04Jan2025 22:36:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Carminite Acclimation]
+[04Jan2025 22:38:44.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:39:35.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -10.200128090000362,0.0,-0.08708274991658982
+[04Jan2025 22:39:39.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -10.678493238570809,0.0812499999999936,0.3745354612110532
+[04Jan2025 22:40:07.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 1.163982306024991E-4,10.621532785809732,-0.32611625768913655
+[04Jan2025 22:40:20.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.0,-11.345275595973309,0.0
+[04Jan2025 22:41:13.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:41:20.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:41:21.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:41:22.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:41:23.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:41:23.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:41:23.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:41:26.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:41:27.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:41:28.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:41:32.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[04Jan2025 22:41:32.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[04Jan2025 22:42:07.300] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47fb4671[id=<null>,name=GabrielCacao,properties={},legacy=false] (/127.146.234.60:41583) lost connection: Disconnected
+[04Jan2025 22:42:27.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:34563] logged in with entity id 189124 at (-44553.125, 90.9, -17931.496273010467)
+[04Jan2025 22:42:27.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[04Jan2025 22:42:32.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:42:55.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set GabrielCacao's game mode to Spectator Mode]
+[04Jan2025 22:43:21.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set GabrielCacao's game mode to Survival Mode]
+[04Jan2025 22:43:45.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:43:58.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Timed out
+[04Jan2025 22:43:58.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[04Jan2025 22:43:58.195] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 22:44:52.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:49487] logged in with entity id 189735 at (-44575.142269274256, 209.0, -17914.977731680417)
+[04Jan2025 22:44:52.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[04Jan2025 22:47:02.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Something Strange in Towerwood]
+[04Jan2025 22:47:12.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao fell from a high place
+[04Jan2025 22:47:12.567] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.dragon_04.01.2025-22.47.12.dat
+[04Jan2025 22:47:12.601] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[04Jan2025 22:47:27.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:49:52.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -0.2326300017812173,10.668049362513983,-0.4374374792059825
+[04Jan2025 22:50:59.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Tears of Fire]
+[04Jan2025 22:50:59.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Tears of Fire]
+[04Jan2025 22:50:59.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Ultimate Showdown]
+[04Jan2025 22:50:59.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Ultimate Showdown]
+[04Jan2025 22:51:42.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
