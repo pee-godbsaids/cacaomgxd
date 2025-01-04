@@ -680,6 +680,7 @@
       "bread": "2024-11-16 06:36:42 +0000",
       "golden_apple": "2024-11-16 08:15:00 +0000",
       "rotten_flesh": "2024-12-09 01:01:39 +0000",
+      "cookie": "2025-01-04 20:30:40 +0000",
       "glow_berries": "2025-01-02 03:09:56 +0000",
       "golden_carrot": "2025-01-02 21:40:43 +0000",
       "cooked_chicken": "2024-12-09 03:21:41 +0000",
@@ -1267,6 +1268,7 @@
       "minecraft:wither_skeleton": "2024-12-15 01:42:56 +0000",
       "minecraft:husk": "2025-01-01 23:30:34 +0000",
       "minecraft:shulker": "2025-01-03 01:37:00 +0000",
+      "minecraft:cave_spider": "2025-01-04 20:35:40 +0000",
       "minecraft:piglin": "2024-12-16 23:59:05 +0000",
       "minecraft:stray": "2024-12-09 00:49:36 +0000",
       "minecraft:enderman": "2024-12-14 23:55:34 +0000",
@@ -9078,48 +9080,29 @@
     },
     "done": true
   },
-  "cwsplus:on_hurt": {
+  "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
-      "nbit8": "2025-01-04 20:24:29 +0000",
-      "nbit15": "2025-01-04 20:24:29 +0000",
-      "nbit12": "2025-01-04 20:24:29 +0000",
-      "nbit19": "2025-01-04 20:24:29 +0000",
-      "nbit18": "2025-01-04 20:24:29 +0000",
-      "nbit16": "2025-01-04 20:24:29 +0000",
-      "nbit22": "2025-01-04 20:24:29 +0000",
-      "nbit21": "2025-01-04 20:24:29 +0000",
-      "nbit20": "2025-01-04 20:24:29 +0000",
-      "nbit26": "2025-01-04 20:24:29 +0000",
-      "nbit25": "2025-01-04 20:24:29 +0000",
-      "nbit24": "2025-01-04 20:24:29 +0000",
-      "nbit23": "2025-01-04 20:24:29 +0000",
-      "nbit29": "2025-01-04 20:24:29 +0000",
-      "nbit28": "2025-01-04 20:24:29 +0000",
-      "nbit27": "2025-01-04 20:24:29 +0000",
-      "nbit31": "2025-01-04 20:24:29 +0000",
-      "nbit30": "2025-01-04 20:24:29 +0000",
-      "bit9": "2025-01-04 20:24:29 +0000",
-      "bit7": "2025-01-04 20:24:29 +0000",
-      "bit17": "2025-01-04 20:24:29 +0000",
-      "bit5": "2025-01-04 20:24:29 +0000",
-      "bit14": "2025-01-04 20:24:29 +0000",
-      "bit6": "2025-01-04 20:24:29 +0000",
-      "bit3": "2025-01-04 20:24:29 +0000",
-      "bit4": "2025-01-04 20:24:29 +0000",
-      "bit1": "2025-01-04 20:24:29 +0000",
-      "bit2": "2025-01-04 20:24:29 +0000",
-      "bit0": "2025-01-04 20:24:29 +0000",
-      "nbit10": "2025-01-04 20:24:29 +0000",
-      "bit13": "2025-01-04 20:24:29 +0000",
-      "bit11": "2025-01-04 20:24:29 +0000"
+      "has_iron_ingot": "2025-01-04 20:30:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_log": "2025-01-04 20:10:42 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-01-04 20:36:15 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/copper_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-04 20:30:48 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/strong_undead": {
     "criteria": {
@@ -9152,15 +9135,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-01-04 20:36:15 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/twilight_scepter": {
     "criteria": {
       "has_item": "2025-01-04 20:19:51 +0000"
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-04 20:30:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2025-01-04 20:13:26 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-04 20:30:48 +0000"
     },
     "done": true
   },
@@ -9242,6 +9243,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-01-04 20:36:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2025-01-04 20:20:46 +0000"
@@ -9263,6 +9270,12 @@
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2025-01-04 20:08:10 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-04 20:30:48 +0000"
     },
     "done": true
   },
