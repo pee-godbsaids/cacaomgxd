@@ -9351,6 +9351,52 @@
     },
     "done": true
   },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "nbit7": "2025-01-04 21:36:40 +0000",
+      "nbit8": "2025-01-04 21:36:20 +0000",
+      "nbit15": "2025-01-04 21:36:20 +0000",
+      "nbit14": "2025-01-04 21:36:20 +0000",
+      "nbit5": "2025-01-04 21:36:20 +0000",
+      "nbit13": "2025-01-04 21:36:20 +0000",
+      "nbit12": "2025-01-04 21:36:20 +0000",
+      "nbit19": "2025-01-04 21:36:20 +0000",
+      "nbit0": "2025-01-04 21:36:20 +0000",
+      "nbit18": "2025-01-04 21:36:20 +0000",
+      "nbit17": "2025-01-04 21:36:20 +0000",
+      "nbit1": "2025-01-04 21:36:40 +0000",
+      "nbit2": "2025-01-04 21:36:20 +0000",
+      "nbit16": "2025-01-04 21:36:20 +0000",
+      "nbit22": "2025-01-04 21:36:20 +0000",
+      "nbit21": "2025-01-04 21:36:20 +0000",
+      "nbit20": "2025-01-04 21:36:20 +0000",
+      "nbit26": "2025-01-04 21:36:20 +0000",
+      "nbit25": "2025-01-04 21:36:20 +0000",
+      "nbit24": "2025-01-04 21:36:20 +0000",
+      "nbit23": "2025-01-04 21:36:20 +0000",
+      "nbit29": "2025-01-04 21:36:20 +0000",
+      "nbit28": "2025-01-04 21:36:20 +0000",
+      "nbit27": "2025-01-04 21:36:20 +0000",
+      "nbit31": "2025-01-04 21:36:20 +0000",
+      "nbit30": "2025-01-04 21:36:20 +0000",
+      "bit9": "2025-01-04 21:36:20 +0000",
+      "bit7": "2025-01-04 21:36:20 +0000",
+      "bit8": "2025-01-04 21:36:40 +0000",
+      "bit17": "2025-01-04 21:36:40 +0000",
+      "bit5": "2025-01-04 21:36:40 +0000",
+      "bit14": "2025-01-04 21:36:40 +0000",
+      "bit6": "2025-01-04 21:36:20 +0000",
+      "bit15": "2025-01-04 21:36:40 +0000",
+      "bit3": "2025-01-04 21:36:20 +0000",
+      "bit4": "2025-01-04 21:36:20 +0000",
+      "bit1": "2025-01-04 21:36:20 +0000",
+      "bit2": "2025-01-04 21:36:40 +0000",
+      "nbit11": "2025-01-04 21:36:20 +0000",
+      "nbit10": "2025-01-04 21:36:20 +0000",
+      "bit11": "2025-01-04 21:36:40 +0000"
+    },
+    "done": false
+  },
   "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-01-04 19:41:07 +0000"
@@ -9414,6 +9460,7 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "meef_stroganoff": "2025-01-04 21:35:53 +0000",
       "cooked_venison": "2025-01-04 20:17:12 +0000"
     },
     "done": false
@@ -9521,15 +9568,34 @@
     },
     "done": false
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-01-04 21:02:44 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "deer": "2025-01-04 20:09:49 +0000"
     },
     "done": true
   },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-01-04 20:57:37 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-01-04 21:35:53 +0000",
       "kill_lich": "2025-01-04 20:18:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-01-04 21:35:53 +0000"
     },
     "done": false
   },
@@ -9599,9 +9665,27 @@
     },
     "done": false
   },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-01-04 21:24:58 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-01-04 19:49:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-01-04 21:28:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:maze_map": {
+    "criteria": {
+      "maze_map": "2025-01-04 21:32:56 +0000"
     },
     "done": true
   },
@@ -9614,6 +9698,18 @@
   "twilightforest:recipes/food/food/smoked_venison": {
     "criteria": {
       "has_food": "2025-01-04 20:25:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/ore_map": {
+    "criteria": {
+      "has_item": "2025-01-04 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-01-04 20:58:45 +0000"
     },
     "done": true
   },

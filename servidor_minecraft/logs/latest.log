@@ -3292,3 +3292,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 20:56:26.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
 [04Jan2025 20:57:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [I Can See Forever]
 [04Jan2025 20:58:45.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Bug Stomper]
+[04Jan2025 21:01:25.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Jan2025 21:01:52.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Jan2025 21:02:13.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[04Jan2025 21:03:49.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[04Jan2025 21:04:07.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2732ms or 54 ticks behind
+[04Jan2025 21:05:11.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Jan2025 21:05:29.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2800ms or 56 ticks behind
+[04Jan2025 21:05:47.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3417ms or 68 ticks behind
+[04Jan2025 21:06:46.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[04Jan2025 21:07:17.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.0,10.960202398773546,-0.032517606387045817
+[04Jan2025 21:07:30.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 2.502983927348396,-4.047470142807708,-9.146710932822316
+[04Jan2025 21:07:31.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[04Jan2025 21:07:35.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.30717721088876715,-10.799909732342087,0.21102044399958686
+[04Jan2025 21:08:29.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[04Jan2025 21:09:05.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[04Jan2025 21:09:06.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.3335691549364128,10.692326893830298,1.2919932057302503
+[04Jan2025 21:09:10.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.0,-12.741990197747327,0.0
+[04Jan2025 21:09:26.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.0,10.960202398773546,0.0
+[04Jan2025 21:10:26.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[04Jan2025 21:11:50.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 1.505708895616408,5.833263596249353,8.154956977436086
+[04Jan2025 21:12:25.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -1.1499599618764478,-11.64754503715045,-0.3804020666229917
+[04Jan2025 21:12:30.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[04Jan2025 21:12:31.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -0.44574893880053423,-11.064771693471386,0.22469734066544333
+[04Jan2025 21:13:00.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 21:13:37.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 2.7121088311905623,4.576435012578962,-9.58251040680625
+[04Jan2025 21:15:34.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 21:15:40.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 21:24:31.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[04Jan2025 21:25:01.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [And Now, to Find the Exit]
+[04Jan2025 21:32:00.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 10.5239280520982,0.0,0.48461520083947107
+[04Jan2025 21:32:56.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [And Now, to Find the Exit]
+[04Jan2025 21:35:14.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Mighty Stroganoff]
+[04Jan2025 21:35:53.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Mighty Stroganoff]
+[04Jan2025 21:39:24.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[04Jan2025 21:40:33.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 21:40:53.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
