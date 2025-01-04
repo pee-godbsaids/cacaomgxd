@@ -3425,3 +3425,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 23:01:55.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 6.860285867907805,1.3735001807929237,-7.603961071486992
 [04Jan2025 23:01:59.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 7.0992601140533225,0.005881747900708945,-7.946885640008986
 [04Jan2025 23:02:00.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 2.815714409254724,9.431717394389562,-2.791682163358928
+[04Jan2025 23:03:28.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[04Jan2025 23:03:47.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 8.036856253580481,-4.283438261566177,4.244392546246672
+[04Jan2025 23:06:21.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [I See Right Through You]
+[04Jan2025 23:07:42.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -9.67674741576775,-2.3930246126185644,-1.7347223944561847
+[04Jan2025 23:09:00.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -8.095607641829702,0.9464426320800752,-5.848678196478431
