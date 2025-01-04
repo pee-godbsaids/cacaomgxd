@@ -534,3 +534,10 @@
 [04Jan2025 01:41:36.520] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
 [04Jan2025 01:41:47.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
 [04Jan2025 01:45:47.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: All Undead Army units were highlighted at position: (-5535, 64, -2223)]
+[04Jan2025 01:50:34.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: All Undead Army units were highlighted at position: (-5493, 23, -2247)]
+[04Jan2025 01:50:59.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5508, y=53, z=-2265} BlockPos{x=-5508, y=52, z=-2265}
+[04Jan2025 01:50:59.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5508, y=53, z=-2265} BlockPos{x=-5508, y=52, z=-2265}
+[04Jan2025 01:51:32.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: All Undead Army units were highlighted at position: (-5542, 68, -2219)]
+[04Jan2025 01:54:19.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: All Undead Army units were highlighted at position: (-5517, 64, -2221)]
+[04Jan2025 01:55:46.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: All Undead Army units were highlighted at position: (-5509, 35, -2246)]
+[04Jan2025 01:56:41.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: All Undead Army units were highlighted at position: (-5524, 65, -2263)]

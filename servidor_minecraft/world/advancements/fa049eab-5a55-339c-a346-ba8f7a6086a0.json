@@ -9066,6 +9066,12 @@
     },
     "done": true
   },
+  "cwsplus:on_hurt": {
+    "criteria": {
+      "bit10": "2025-01-04 01:53:35 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/rainbounce_boots": {
     "criteria": {
       "limestone": "2025-01-04 01:38:21 +0000"
