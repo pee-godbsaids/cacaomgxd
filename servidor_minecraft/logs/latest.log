@@ -3407,3 +3407,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 22:50:59.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Ultimate Showdown]
 [04Jan2025 22:50:59.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Ultimate Showdown]
 [04Jan2025 22:51:42.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:53:04.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Jan2025 22:53:18.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:53:39.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -3.4024500398300006,5.024835011601446,8.67613291419184
+[04Jan2025 22:54:02.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 1.7317421409097733,-1.0054033207749242,-9.846144761657342
+[04Jan2025 22:57:14.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.0,-10.929534158417681,0.0
+[04Jan2025 22:57:25.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao fell from a high place
+[04Jan2025 22:57:25.238] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.dragon_04.01.2025-22.57.25.dat
+[04Jan2025 22:57:25.262] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[04Jan2025 22:57:31.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:57:59.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.0,10.64243152592364,0.0
+[04Jan2025 22:58:19.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.0,11.178105700182343,0.0
+[04Jan2025 22:58:35.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 0.0,-10.359480327920906,0.0
+[04Jan2025 22:58:36.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:00:47.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:01:10.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:01:55.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 6.860285867907805,1.3735001807929237,-7.603961071486992
+[04Jan2025 23:01:59.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 7.0992601140533225,0.005881747900708945,-7.946885640008986
+[04Jan2025 23:02:00.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 2.815714409254724,9.431717394389562,-2.791682163358928

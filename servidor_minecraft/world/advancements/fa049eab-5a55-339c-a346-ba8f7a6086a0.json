@@ -9660,7 +9660,7 @@
   },
   "cwsplus:on_hit": {
     "criteria": {
-      "not_target": "2025-01-04 22:51:43 +0000"
+      "not_target": "2025-01-04 22:55:52 +0000"
     },
     "done": false
   },

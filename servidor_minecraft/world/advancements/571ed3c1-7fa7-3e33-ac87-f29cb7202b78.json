@@ -9389,6 +9389,7 @@
       "bit8": "2025-01-04 22:47:43 +0000",
       "bit17": "2025-01-04 22:47:11 +0000",
       "bit5": "2025-01-04 22:47:43 +0000",
+      "bit14": "2025-01-04 22:58:18 +0000",
       "bit6": "2025-01-04 22:51:11 +0000",
       "bit3": "2025-01-04 22:47:43 +0000",
       "bit4": "2025-01-04 22:47:43 +0000",
@@ -9486,6 +9487,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2025-01-04 22:56:55 +0000",
       "twilight_oak_log": "2025-01-04 20:33:18 +0000",
       "twilight_oak_sapling": "2025-01-04 20:13:13 +0000"
     },
@@ -9494,6 +9496,12 @@
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2025-01-04 20:23:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-01-04 22:56:55 +0000"
     },
     "done": true
   },
@@ -9532,6 +9540,12 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
     "criteria": {
       "has_item": "2025-01-04 20:33:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-01-04 22:56:55 +0000"
     },
     "done": true
   },
@@ -9585,9 +9599,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-01-04 22:56:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/naga_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-01-04 22:32:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-01-04 22:56:55 +0000"
     },
     "done": true
   },
@@ -9671,6 +9697,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-01-04 22:56:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_hydra": {
     "criteria": {
       "kill_hydra": "2025-01-04 21:44:02 +0000",
@@ -9720,6 +9752,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-01-04 22:56:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-01-04 22:56:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
       "previous_progression": "2025-01-04 22:36:15 +0000",
@@ -9732,6 +9776,12 @@
       "has_item": "2025-01-04 22:07:32 +0000"
     },
     "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "giant": "2025-01-04 22:58:13 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/tools/charm_of_life_2": {
     "criteria": {
@@ -9760,6 +9810,18 @@
   "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
       "has_item": "2025-01-04 20:23:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-01-04 22:56:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-01-04 22:56:55 +0000"
     },
     "done": true
   },
@@ -9815,6 +9877,12 @@
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-01-04 20:08:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-01-04 22:56:55 +0000"
     },
     "done": true
   },
