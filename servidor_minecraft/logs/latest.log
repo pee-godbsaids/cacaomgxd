@@ -3342,3 +3342,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 21:58:51.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> -44723
 [04Jan2025 21:58:54.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
 [04Jan2025 21:59:01.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> -44723 -18815
+[04Jan2025 22:02:23.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Jan2025 22:02:41.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:04:07.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:04:38.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 9.99819591139385,1.4769663307847267,0.7965992946337792
+[04Jan2025 22:04:40.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:06:17.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:06:31.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:08:19.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Alpha Fur]
+[04Jan2025 22:08:19.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Alpha Fur]
+[04Jan2025 22:08:51.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 22:10:03.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -1.1150261068032705,10.909187996982837,-0.2699316245598311
