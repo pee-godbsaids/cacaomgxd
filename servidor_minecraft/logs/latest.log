@@ -8,3 +8,4 @@
 [04Jan2025 00:12:10.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
 [04Jan2025 00:12:20.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:46659] logged in with entity id 133365 at (-5521.746465562721, 72.0, -2210.3939517733447)
 [04Jan2025 00:12:20.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[04Jan2025 00:15:29.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -10.019826182127872,-0.02442408821369213,0.10976686567028082
