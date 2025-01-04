@@ -9355,11 +9355,14 @@
     "criteria": {
       "nbit7": "2025-01-04 21:36:40 +0000",
       "nbit8": "2025-01-04 21:36:20 +0000",
+      "nbit9": "2025-01-04 21:37:33 +0000",
+      "nbit3": "2025-01-04 21:37:52 +0000",
       "nbit15": "2025-01-04 21:36:20 +0000",
       "nbit14": "2025-01-04 21:36:20 +0000",
       "nbit5": "2025-01-04 21:36:20 +0000",
       "nbit13": "2025-01-04 21:36:20 +0000",
       "nbit12": "2025-01-04 21:36:20 +0000",
+      "nbit6": "2025-01-04 21:37:52 +0000",
       "nbit19": "2025-01-04 21:36:20 +0000",
       "nbit0": "2025-01-04 21:36:20 +0000",
       "nbit18": "2025-01-04 21:36:20 +0000",
@@ -9391,8 +9394,10 @@
       "bit4": "2025-01-04 21:36:20 +0000",
       "bit1": "2025-01-04 21:36:20 +0000",
       "bit2": "2025-01-04 21:36:40 +0000",
+      "bit0": "2025-01-04 21:37:52 +0000",
       "nbit11": "2025-01-04 21:36:20 +0000",
       "nbit10": "2025-01-04 21:36:20 +0000",
+      "bit10": "2025-01-04 21:37:33 +0000",
       "bit11": "2025-01-04 21:36:40 +0000"
     },
     "done": false
@@ -9432,6 +9437,18 @@
       "has_glass": "2025-01-04 19:41:07 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/redstone/encased_smoker": {
+    "criteria": {
+      "has_item": "2025-01-04 21:45:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-01-04 21:44:02 +0000"
+    },
+    "done": false
   },
   "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
@@ -9520,6 +9537,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/encased_fire_jet": {
+    "criteria": {
+      "has_item": "2025-01-04 21:45:23 +0000"
+    },
+    "done": true
+  },
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2025-01-04 20:29:49 +0000"
@@ -9595,9 +9618,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
+      "kill_hydra": "2025-01-04 21:44:02 +0000",
       "stroganoff": "2025-01-04 21:35:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/food/food/smelted_venison": {
     "criteria": {
