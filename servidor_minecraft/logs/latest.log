@@ -3430,3 +3430,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [04Jan2025 23:06:21.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [I See Right Through You]
 [04Jan2025 23:07:42.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -9.67674741576775,-2.3930246126185644,-1.7347223944561847
 [04Jan2025 23:09:00.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -8.095607641829702,0.9464426320800752,-5.848678196478431
+[04Jan2025 23:13:41.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:14:09.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:14:27.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:15:40.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [The Boots Are Mine!]
+[04Jan2025 23:17:16.459] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:troll_cave took 26 ms
+[04Jan2025 23:17:59.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -7.355979655025294,-0.4641593749554449,7.699598656789021
+[04Jan2025 23:18:33.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:20:10.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:20:19.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:20:32.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [We Do a Little Trolling]
+[04Jan2025 23:20:32.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [We Do a Little Trolling]
+[04Jan2025 23:21:04.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[04Jan2025 23:21:08.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
