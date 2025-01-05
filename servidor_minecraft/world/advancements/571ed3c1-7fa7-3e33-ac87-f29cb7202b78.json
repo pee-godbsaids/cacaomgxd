@@ -9541,9 +9541,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:26:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/cicada_jar": {
     "criteria": {
       "has_item": "2025-01-04 20:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:26:49 +0000"
     },
     "done": true
   },
@@ -9600,6 +9612,12 @@
   "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 19:49:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-05 00:26:59 +0000"
     },
     "done": true
   },
@@ -9712,6 +9730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:26:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2025-01-04 20:57:37 +0000"
@@ -9753,6 +9777,12 @@
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-01-04 19:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-01-05 00:26:49 +0000"
     },
     "done": true
   },
@@ -9857,6 +9887,12 @@
   "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
     "criteria": {
       "has_item": "2025-01-04 22:56:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_lime_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:26:49 +0000"
     },
     "done": true
   },
