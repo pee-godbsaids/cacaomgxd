@@ -9616,6 +9616,7 @@
       "nbit0": "2025-01-05 02:47:00 +0000",
       "nbit1": "2025-01-05 02:46:48 +0000",
       "nbit17": "2025-01-05 02:46:46 +0000",
+      "nbit2": "2025-01-05 02:49:06 +0000",
       "nbit16": "2025-01-05 02:46:46 +0000",
       "nbit22": "2025-01-05 02:46:46 +0000",
       "nbit21": "2025-01-05 02:46:46 +0000",
@@ -9761,6 +9762,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-01-05 02:57:33 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/pink_salt": {
     "criteria": {
       "has_pink_salt_straw": "2025-01-05 01:02:59 +0000"
@@ -9805,7 +9812,7 @@
   },
   "cwsplus:on_hit": {
     "criteria": {
-      "not_target": "2025-01-05 02:47:17 +0000"
+      "not_target": "2025-01-05 02:49:10 +0000"
     },
     "done": false
   },
@@ -9866,6 +9873,12 @@
   "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
     "criteria": {
       "has_item": "2025-01-04 23:11:10 +0000"
+    },
+    "done": true
+  },
+  "mcsmarmors:goneuncharted": {
+    "criteria": {
+      "goneuncharted": "2025-01-05 02:52:29 +0000"
     },
     "done": true
   },
