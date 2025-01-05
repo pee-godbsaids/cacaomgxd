@@ -10038,6 +10038,12 @@
     },
     "done": true
   },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2025-01-05 03:26:35 +0000"
+    },
+    "done": false
+  },
   "mcsmarmors:the_geniussrulebook": {
     "criteria": {
       "the_geniussrulebook": "2025-01-05 02:58:43 +0000"
