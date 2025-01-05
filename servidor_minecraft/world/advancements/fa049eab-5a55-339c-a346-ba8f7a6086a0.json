@@ -9669,6 +9669,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_sword": {
+    "criteria": {
+      "has_item": "2025-01-05 00:09:26 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/mining_bench": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-04 23:03:31 +0000"
@@ -9678,6 +9684,21 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-01-04 23:19:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_boots": "2025-01-05 00:09:53 +0000",
+      "fiery_helmet": "2025-01-05 00:09:40 +0000",
+      "fiery_chestplate": "2025-01-05 00:09:44 +0000",
+      "fiery_leggings": "2025-01-05 00:09:49 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/combat/equipment/fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-01-05 00:09:26 +0000"
     },
     "done": true
   },
@@ -9729,9 +9750,27 @@
     },
     "done": false
   },
+  "twilightforest:recipes/combat/equipment/fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-05 00:09:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/empty_canopy_bookshelf": {
     "criteria": {
       "has_item": "2025-01-04 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_boots": {
+    "criteria": {
+      "has_item": "2025-01-05 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2025-01-05 00:04:46 +0000"
     },
     "done": true
   },
@@ -9741,9 +9780,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-01-05 00:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-01-04 23:11:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/fiery_block": {
+    "criteria": {
+      "has_item": "2025-01-05 00:09:26 +0000"
     },
     "done": true
   },
@@ -9762,6 +9813,12 @@
   "twilightforest:recipes/tools/charm_of_life_2": {
     "criteria": {
       "has_item": "2025-01-04 23:05:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_pickaxe": {
+    "criteria": {
+      "has_item": "2025-01-05 00:09:26 +0000"
     },
     "done": true
   },

@@ -18001,3 +18001,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [05Jan2025 00:04:40.079] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
 [05Jan2025 00:04:46.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Naga Armorer]
 [05Jan2025 00:04:47.842] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[05Jan2025 00:07:53.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:07:54.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:08:22.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:08:22.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:08:22.604] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:08:25.542] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:08:26.057] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:08:26.194] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:10:07.370] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-44250, y=4, z=-17815}
+[05Jan2025 00:10:07.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -38725.68316067598,-58.92159999847412,-15585.984885770014
+[05Jan2025 00:10:18.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:10:20.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:10:24.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:10:27.469] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:10:48.852] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[05Jan2025 00:11:10.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Gave 1 [Steeleaf Chestplate] to quipit0s]
+[05Jan2025 00:11:46.710] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5525, y=63, z=-2230}
+[05Jan2025 00:12:53.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:12:53.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:13:04.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:13:05.355] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:13:06.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:13:07.545] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:13:08.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:13:09.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:13:10.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:14:46.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:14:49.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 00:14:50.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

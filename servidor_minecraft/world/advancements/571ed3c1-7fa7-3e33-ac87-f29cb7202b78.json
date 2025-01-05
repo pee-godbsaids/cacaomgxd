@@ -9537,6 +9537,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-05 00:07:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/cicada_jar": {
     "criteria": {
       "has_item": "2025-01-04 20:23:16 +0000"
