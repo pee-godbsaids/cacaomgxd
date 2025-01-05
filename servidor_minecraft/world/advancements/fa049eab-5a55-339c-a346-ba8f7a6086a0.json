@@ -9902,6 +9902,12 @@
     },
     "done": true
   },
+  "mcsmarmors:upgradespeopleupgrades": {
+    "criteria": {
+      "upgradespeopleupgrades": "2025-01-05 02:08:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/equipment/fiery_pickaxe": {
     "criteria": {
       "has_item": "2025-01-05 00:09:26 +0000"
