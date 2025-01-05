@@ -9699,6 +9699,12 @@
     },
     "done": true
   },
+  "mcsmarmors:uprising_champion": {
+    "criteria": {
+      "uprising_champion": "2025-01-05 03:02:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_lime_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-05 00:37:10 +0000"
@@ -9870,6 +9876,12 @@
     },
     "done": true
   },
+  "mcsmarmors:the_geniussrulebook": {
+    "criteria": {
+      "the_geniussrulebook": "2025-01-05 02:58:35 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
     "criteria": {
       "has_item": "2025-01-04 23:11:10 +0000"
@@ -9903,6 +9915,12 @@
   "travelersbackpack:recipes/building_blocks/dye_lime_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-01-05 00:37:10 +0000"
+    },
+    "done": true
+  },
+  "mcsmarmors:the_master_book": {
+    "criteria": {
+      "the_master_book": "2025-01-05 03:00:43 +0000"
     },
     "done": true
   },

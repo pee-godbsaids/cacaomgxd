@@ -19767,3 +19767,99 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [05Jan2025 02:57:38.030] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
 [05Jan2025 02:58:04.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jan2025 02:58:04.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 02:58:35.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [The Genius's Rulebook!]
+[05Jan2025 02:58:43.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [The Genius's Rulebook!]
+[05Jan2025 03:00:43.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [The Master's Book!]
+[05Jan2025 03:01:15.456] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:15.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:16.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:16.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:16.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:16.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:17.164] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:17.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:18.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:18.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:18.748] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:18.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:19.304] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:19.305] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:21.364] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:21.909] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:21.910] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:22.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:22.563] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:23.102] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:23.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:23.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:24.207] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:24.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:24.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:25.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:25.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:25.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:25.809] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:26.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:26.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:26.809] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:26.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jan2025 03:01:27.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Jan2025 03:01:39.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
+[05Jan2025 03:01:42.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> xxxxxxxxx
+[05Jan2025 03:02:11.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Uprising Champion...]
+[05Jan2025 03:02:24.224] [Worker-Main-215/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[05Jan2025 03:02:24.256] [Worker-Main-215/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[05Jan2025 03:02:24.278] [Worker-Main-215/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[05Jan2025 03:02:24.317] [Worker-Main-215/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[05Jan2025 03:02:24.995] [Worker-Main-215/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[05Jan2025 03:02:25.007] [Worker-Main-215/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:pumkin_evil is being run through DFU (hash 7d7eb33361e372cbc1873e0befeb6c97ac5ab6b5246ef824001c5de83c494e4b), this will cause launch time delays
+[05Jan2025 03:02:25.262] [Worker-Main-215/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[05Jan2025 03:02:26.274] [Worker-Main-215/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:mini_ferma is being run through DFU (hash 0350148f30ba94735785682d784747320ea39a7eafb1bde83add94e83e68a5b5), this will cause launch time delays
+[05Jan2025 03:02:28.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 10.397252590689277,0.0,0.3648649791268781
+[05Jan2025 03:02:28.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5424ms or 108 ticks behind
+[05Jan2025 03:02:46.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3522ms or 70 ticks behind
+[05Jan2025 03:02:48.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-674, y=14, z=-350} BlockPos{x=-675, y=14, z=-349}
+[05Jan2025 03:02:53.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[05Jan2025 03:03:05.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3499ms or 69 ticks behind
+[05Jan2025 03:03:18.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 03:03:18.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 03:03:25.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4998ms or 99 ticks behind
+[05Jan2025 03:03:56.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[05Jan2025 03:04:24.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Jan2025 03:04:35.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-709, y=16, z=-236} BlockPos{x=-710, y=13, z=-236}
+[05Jan2025 03:04:43.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Jan2025 03:04:46.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=22, z=-234} BlockPos{x=-720, y=21, z=-234}
+[05Jan2025 03:04:58.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-726, y=19, z=-219} BlockPos{x=-726, y=18, z=-220}
+[05Jan2025 03:05:03.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[05Jan2025 03:05:04.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-719, y=18, z=-207} BlockPos{x=-720, y=18, z=-208}
+[05Jan2025 03:05:21.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
+[05Jan2025 03:05:41.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4273ms or 85 ticks behind
+[05Jan2025 03:05:53.733] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[05Jan2025 03:05:59.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3225ms or 64 ticks behind
+[05Jan2025 03:06:18.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4001ms or 80 ticks behind
+[05Jan2025 03:06:31.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-632, y=18, z=-228} BlockPos{x=-633, y=17, z=-229}
+[05Jan2025 03:06:37.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4104ms or 82 ticks behind
+[05Jan2025 03:06:43.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-637, y=13, z=-221} BlockPos{x=-636, y=14, z=-220}
+[05Jan2025 03:06:55.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3256ms or 65 ticks behind
+[05Jan2025 03:07:15.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5164ms or 103 ticks behind
+[05Jan2025 03:07:35.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4472ms or 89 ticks behind
+[05Jan2025 03:07:48.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:48.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:48.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:48.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:48.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:48.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:48.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:48.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:48.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:48.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:49.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:49.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=17, z=-219} BlockPos{x=-733, y=17, z=-219}
+[05Jan2025 03:07:55.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5513ms or 110 ticks behind
+[05Jan2025 03:08:15.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4489ms or 89 ticks behind
+[05Jan2025 03:08:30.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-753, y=8, z=-288} BlockPos{x=-752, y=7, z=-288}
+[05Jan2025 03:08:30.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-753, y=8, z=-288} BlockPos{x=-752, y=7, z=-288}
+[05Jan2025 03:08:30.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-753, y=8, z=-288} BlockPos{x=-752, y=7, z=-288}
+[05Jan2025 03:08:30.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-753, y=8, z=-288} BlockPos{x=-752, y=7, z=-288}
+[05Jan2025 03:08:30.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-753, y=8, z=-288} BlockPos{x=-752, y=7, z=-288}
+[05Jan2025 03:08:30.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-753, y=8, z=-288} BlockPos{x=-752, y=7, z=-288}

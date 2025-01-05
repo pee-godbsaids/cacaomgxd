@@ -10020,7 +10020,9 @@
       "bit0": "2025-01-05 02:48:29 +0000",
       "nbit11": "2025-01-05 02:48:22 +0000",
       "nbit10": "2025-01-05 02:48:22 +0000",
-      "bit13": "2025-01-05 02:48:22 +0000"
+      "bit13": "2025-01-05 02:48:22 +0000",
+      "bit10": "2025-01-05 03:01:09 +0000",
+      "bit11": "2025-01-05 03:01:09 +0000"
     },
     "done": false
   },
@@ -10033,6 +10035,12 @@
   "ironchest:recipes/decorations/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 02:38:07 +0000"
+    },
+    "done": true
+  },
+  "mcsmarmors:the_geniussrulebook": {
+    "criteria": {
+      "the_geniussrulebook": "2025-01-05 02:58:43 +0000"
     },
     "done": true
   },
