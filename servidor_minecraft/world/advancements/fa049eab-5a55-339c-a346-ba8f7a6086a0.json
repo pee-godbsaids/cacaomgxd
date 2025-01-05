@@ -9711,6 +9711,12 @@
     },
     "done": true
   },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-01-04 23:55:28 +0000"
+    },
+    "done": true
+  },
   "twilightforest:troll": {
     "criteria": {
       "troll": "2025-01-04 23:20:32 +0000"
