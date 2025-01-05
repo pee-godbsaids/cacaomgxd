@@ -9600,6 +9600,7 @@
   },
   "cwsplus:on_hurt": {
     "criteria": {
+      "nbit7": "2025-01-05 02:17:44 +0000",
       "nbit8": "2025-01-05 00:40:08 +0000",
       "nbit9": "2025-01-05 00:40:08 +0000",
       "nbit3": "2025-01-05 00:25:06 +0000",
@@ -9647,7 +9648,8 @@
       "nbit10": "2025-01-05 00:25:06 +0000",
       "bit12": "2025-01-05 00:25:06 +0000",
       "bit13": "2025-01-05 00:25:06 +0000",
-      "bit10": "2025-01-05 01:04:28 +0000"
+      "bit10": "2025-01-05 01:04:28 +0000",
+      "bit11": "2025-01-05 02:17:44 +0000"
     },
     "done": false
   },
@@ -9692,6 +9694,12 @@
   "morevillagers:recipes/mining_bench": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-04 23:03:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-05 02:19:06 +0000"
     },
     "done": true
   },
@@ -9799,12 +9807,6 @@
       "troll": "2025-01-04 23:20:32 +0000"
     },
     "done": true
-  },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-05 01:47:16 +0000"
-    },
-    "done": false
   },
   "twilightforest:recipes/combat/equipment/fiery_chestplate": {
     "criteria": {
