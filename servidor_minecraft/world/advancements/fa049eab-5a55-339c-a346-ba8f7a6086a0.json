@@ -9600,12 +9600,21 @@
   },
   "cwsplus:on_hurt": {
     "criteria": {
+      "nbit8": "2025-01-05 00:40:08 +0000",
+      "nbit9": "2025-01-05 00:40:08 +0000",
       "nbit3": "2025-01-05 00:25:06 +0000",
       "nbit15": "2025-01-05 00:25:06 +0000",
+      "nbit14": "2025-01-05 00:40:08 +0000",
+      "nbit4": "2025-01-05 00:40:08 +0000",
+      "nbit5": "2025-01-05 00:40:08 +0000",
+      "nbit13": "2025-01-05 00:40:08 +0000",
       "nbit6": "2025-01-05 00:25:06 +0000",
+      "nbit12": "2025-01-05 00:40:08 +0000",
       "nbit19": "2025-01-05 00:25:06 +0000",
       "nbit18": "2025-01-05 00:25:06 +0000",
       "nbit0": "2025-01-05 00:25:06 +0000",
+      "nbit17": "2025-01-05 00:40:08 +0000",
+      "nbit16": "2025-01-05 00:40:08 +0000",
       "nbit22": "2025-01-05 00:25:06 +0000",
       "nbit21": "2025-01-05 00:25:06 +0000",
       "nbit20": "2025-01-05 00:25:06 +0000",
@@ -9643,6 +9652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_lime_dye": "2025-01-05 00:37:10 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-01-04 22:51:49 +0000"
@@ -9665,6 +9680,18 @@
   "morevillagers:recipes/mining_bench": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-04 23:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:37:10 +0000"
     },
     "done": true
   },
@@ -9719,6 +9746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:37:10 +0000"
+    },
+    "done": true
+  },
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2025-01-04 23:55:28 +0000"
@@ -9730,6 +9763,12 @@
       "troll": "2025-01-04 23:20:32 +0000"
     },
     "done": true
+  },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2025-01-05 00:40:05 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/combat/equipment/fiery_chestplate": {
     "criteria": {
@@ -9746,6 +9785,12 @@
   "twilightforest:recipes/combat/equipment/fiery_boots": {
     "criteria": {
       "has_item": "2025-01-05 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-01-05 00:37:10 +0000"
     },
     "done": true
   },
@@ -9794,6 +9839,12 @@
   "twilightforest:recipes/tools/charm_of_life_2": {
     "criteria": {
       "has_item": "2025-01-04 23:05:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_lime_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:37:10 +0000"
     },
     "done": true
   },

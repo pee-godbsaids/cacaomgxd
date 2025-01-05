@@ -9356,6 +9356,8 @@
     "criteria": {
       "nbit7": "2025-01-05 00:17:56 +0000",
       "nbit8": "2025-01-05 00:17:56 +0000",
+      "nbit9": "2025-01-05 00:41:50 +0000",
+      "nbit3": "2025-01-05 00:40:45 +0000",
       "nbit15": "2025-01-05 00:17:56 +0000",
       "nbit14": "2025-01-05 00:20:05 +0000",
       "nbit4": "2025-01-05 00:17:56 +0000",
@@ -9385,15 +9387,20 @@
       "bit9": "2025-01-05 00:17:56 +0000",
       "bit7": "2025-01-05 00:20:05 +0000",
       "bit16": "2025-01-05 00:17:56 +0000",
+      "bit8": "2025-01-05 00:40:45 +0000",
       "bit17": "2025-01-05 00:17:56 +0000",
+      "bit5": "2025-01-05 00:39:24 +0000",
       "bit14": "2025-01-05 00:17:56 +0000",
       "bit6": "2025-01-05 00:20:05 +0000",
+      "bit15": "2025-01-05 00:41:50 +0000",
       "bit3": "2025-01-05 00:17:56 +0000",
       "bit4": "2025-01-05 00:20:05 +0000",
       "bit1": "2025-01-05 00:20:05 +0000",
+      "bit2": "2025-01-05 00:39:24 +0000",
       "bit0": "2025-01-05 00:18:03 +0000",
       "nbit11": "2025-01-05 00:20:05 +0000",
       "nbit10": "2025-01-05 00:20:05 +0000",
+      "bit12": "2025-01-05 00:39:24 +0000",
       "bit13": "2025-01-05 00:17:56 +0000",
       "bit10": "2025-01-05 00:17:56 +0000",
       "bit11": "2025-01-05 00:17:56 +0000"
@@ -9528,6 +9535,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-05 00:39:56 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_glacier": {
     "criteria": {
       "previous_progression": "2025-01-04 22:08:19 +0000",
@@ -9550,6 +9563,12 @@
   "twilightforest:recipes/decorations/cicada_jar": {
     "criteria": {
       "has_item": "2025-01-04 20:23:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-01-05 00:42:45 +0000"
     },
     "done": true
   },
@@ -9642,6 +9661,12 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
     "criteria": {
       "has_item": "2025-01-04 22:56:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-01-05 00:40:55 +0000"
     },
     "done": true
   },
@@ -9739,6 +9764,12 @@
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2025-01-04 20:57:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-01-05 00:40:51 +0000"
     },
     "done": true
   },
