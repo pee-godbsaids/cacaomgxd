@@ -10,3 +10,7 @@
 [05Jan2025 00:40:51.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Life turned out to be a comedy]
 [05Jan2025 00:40:55.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [The Wind Darkening]
 [05Jan2025 00:42:45.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Dark Metallurgy]
+[05Jan2025 00:46:00.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -10.153549506773743,-0.7694726310870337,3.2438205602334165
+[05Jan2025 00:46:01.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -8.104867436698441,0.0,6.4823062747245785
+[05Jan2025 00:52:43.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[05Jan2025 00:52:49.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]

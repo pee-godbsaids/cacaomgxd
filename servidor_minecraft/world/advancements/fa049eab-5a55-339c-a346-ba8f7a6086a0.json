@@ -9671,6 +9671,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:43:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_sword": {
     "criteria": {
       "has_item": "2025-01-05 00:09:26 +0000"
@@ -9695,6 +9701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-01-04 23:19:28 +0000"
@@ -9716,6 +9728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:43:31 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 23:16:50 +0000"
@@ -9725,6 +9743,12 @@
   "twilightforest:recipes/misc/material/raw_ironwood": {
     "criteria": {
       "has_item": "2025-01-04 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-05 00:43:31 +0000"
     },
     "done": true
   },
@@ -9842,15 +9866,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-01-05 00:43:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_lime_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-01-05 00:37:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-05 00:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-01-05 00:43:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/equipment/fiery_pickaxe": {
     "criteria": {
       "has_item": "2025-01-05 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 00:43:31 +0000"
     },
     "done": true
   },
