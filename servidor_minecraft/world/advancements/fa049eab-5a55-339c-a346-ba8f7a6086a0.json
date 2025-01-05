@@ -9800,12 +9800,6 @@
     },
     "done": true
   },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-05 01:05:46 +0000"
-    },
-    "done": false
-  },
   "twilightforest:recipes/combat/equipment/fiery_chestplate": {
     "criteria": {
       "has_item": "2025-01-05 00:09:26 +0000"

@@ -30,3 +30,31 @@
 [05Jan2025 01:21:21.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> vuelvo en 5 talvez
 [05Jan2025 01:35:09.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
 [05Jan2025 01:35:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[05Jan2025 01:37:41.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Good Demoman]
+[05Jan2025 01:37:50.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
+[05Jan2025 01:38:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
+[05Jan2025 01:38:27.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzzz
+[05Jan2025 01:38:28.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzzz
+[05Jan2025 01:38:29.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzzzzz
+[05Jan2025 01:38:30.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzzzzzz
+[05Jan2025 01:38:32.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzzzzzzzz
+[05Jan2025 01:38:41.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Horror Under the Mantle]
+[05Jan2025 01:39:15.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Timed out
+[05Jan2025 01:39:15.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[05Jan2025 01:39:25.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.104.123.131:49351] logged in with entity id 248225 at (-5523.216931354738, 64.0, -2203.3271415828785)
+[05Jan2025 01:39:25.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[05Jan2025 01:45:09.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> romeun lingot
+[05Jan2025 01:45:14.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> neder
+[05Jan2025 01:45:18.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> si
+[05Jan2025 01:45:25.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> mi micro se le apago la bateria
+[05Jan2025 01:45:29.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> Xd
+[05Jan2025 01:45:58.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> minando
+[05Jan2025 01:46:03.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> nc
+[05Jan2025 01:46:06.466] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-3, 0], discarding
+[05Jan2025 01:46:06.469] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: formationsnether:sphere_cage
+[05Jan2025 01:46:06.469] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-3, 1], discarding
+[05Jan2025 01:46:06.470] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:sphere_cage' in chunk [-3, 2], discarding
+[05Jan2025 01:46:06.474] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-3, -3], discarding
+[05Jan2025 01:46:06.475] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'formationsnether:obsidian_pillar' in chunk [-2, -3], discarding
+[05Jan2025 01:46:11.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> cerca a la negrorite
+[05Jan2025 01:46:15.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
