@@ -792,3 +792,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [06Jan2025 00:07:32.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
 [06Jan2025 00:07:56.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8343ms or 166 ticks behind
 [06Jan2025 00:11:46.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[06Jan2025 00:16:34.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:41729] logged in with entity id 3408 at (-5615.028812477017, 63.0, -2182.109824802306)
+[06Jan2025 00:16:34.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[06Jan2025 00:19:05.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! 9.057781675166552,-1.252203340253729,-4.277121079820972
+[06Jan2025 00:19:49.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -10.207268315864894,1.252203340253729,-0.599018269764656
+[06Jan2025 00:19:52.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: The difficulty has been set to Hard]
+[06Jan2025 00:21:32.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [A Bigger Blade]
+[06Jan2025 00:21:48.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[06Jan2025 00:24:49.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -4.289673511995716,0.0,-9.084698988594027
