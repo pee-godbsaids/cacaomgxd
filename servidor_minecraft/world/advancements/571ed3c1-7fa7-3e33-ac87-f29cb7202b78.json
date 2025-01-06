@@ -9976,56 +9976,6 @@
     },
     "done": true
   },
-  "cwsplus:on_hurt": {
-    "criteria": {
-      "nbit7": "2025-01-05 02:48:22 +0000",
-      "nbit8": "2025-01-05 02:48:22 +0000",
-      "nbit9": "2025-01-05 02:48:22 +0000",
-      "nbit3": "2025-01-05 02:49:01 +0000",
-      "nbit15": "2025-01-05 02:48:22 +0000",
-      "nbit14": "2025-01-05 02:48:22 +0000",
-      "nbit4": "2025-01-05 02:48:22 +0000",
-      "nbit5": "2025-01-05 02:48:22 +0000",
-      "nbit13": "2025-01-05 02:49:06 +0000",
-      "nbit6": "2025-01-05 02:48:29 +0000",
-      "nbit12": "2025-01-05 02:48:22 +0000",
-      "nbit19": "2025-01-05 02:48:22 +0000",
-      "nbit0": "2025-01-05 02:48:22 +0000",
-      "nbit18": "2025-01-05 02:49:06 +0000",
-      "nbit1": "2025-01-05 02:48:29 +0000",
-      "nbit17": "2025-01-05 02:48:22 +0000",
-      "nbit2": "2025-01-05 02:48:29 +0000",
-      "nbit16": "2025-01-05 02:48:22 +0000",
-      "nbit22": "2025-01-05 02:48:22 +0000",
-      "nbit21": "2025-01-05 02:48:22 +0000",
-      "nbit20": "2025-01-05 02:48:22 +0000",
-      "nbit26": "2025-01-05 02:48:22 +0000",
-      "nbit25": "2025-01-05 02:48:22 +0000",
-      "nbit24": "2025-01-05 02:48:22 +0000",
-      "nbit23": "2025-01-05 02:48:22 +0000",
-      "nbit29": "2025-01-05 02:48:22 +0000",
-      "nbit28": "2025-01-05 02:48:22 +0000",
-      "nbit27": "2025-01-05 02:48:22 +0000",
-      "nbit31": "2025-01-05 02:48:22 +0000",
-      "nbit30": "2025-01-05 02:48:22 +0000",
-      "bit9": "2025-01-05 02:49:06 +0000",
-      "bit18": "2025-01-05 02:48:22 +0000",
-      "bit7": "2025-01-05 02:49:06 +0000",
-      "bit5": "2025-01-05 02:48:29 +0000",
-      "bit6": "2025-01-05 02:48:22 +0000",
-      "bit3": "2025-01-05 02:48:22 +0000",
-      "bit4": "2025-01-05 02:48:29 +0000",
-      "bit1": "2025-01-05 02:48:22 +0000",
-      "bit2": "2025-01-05 02:48:22 +0000",
-      "bit0": "2025-01-05 02:48:29 +0000",
-      "nbit11": "2025-01-05 02:48:22 +0000",
-      "nbit10": "2025-01-05 02:48:22 +0000",
-      "bit13": "2025-01-05 02:48:22 +0000",
-      "bit10": "2025-01-05 03:01:09 +0000",
-      "bit11": "2025-01-05 03:01:09 +0000"
-    },
-    "done": false
-  },
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2025-01-05 01:38:41 +0000"
@@ -10038,15 +9988,63 @@
     },
     "done": true
   },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2025-01-05 03:26:35 +0000"
-    },
-    "done": false
-  },
   "mcsmarmors:the_geniussrulebook": {
     "criteria": {
       "the_geniussrulebook": "2025-01-05 02:58:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-01-05 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-01-05 03:37:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-01-05 03:39:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2025-01-05 03:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 03:39:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_shrub": {
+    "criteria": {
+      "has_cherry_sapling": "2025-01-05 03:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-05 03:43:45 +0000"
+    },
+    "done": true
+  },
+  "mcsmarmors:the_master_book": {
+    "criteria": {
+      "the_master_book": "2025-01-05 03:47:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:dagger": {
+    "criteria": {
+      "has_dagger": "2025-01-05 04:04:05 +0000"
     },
     "done": true
   },
