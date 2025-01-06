@@ -846,3 +846,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [06Jan2025 00:57:05.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
 [06Jan2025 01:00:58.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
 [06Jan2025 01:04:39.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[06Jan2025 01:11:42.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[06Jan2025 01:12:19.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved wrongly!
+[06Jan2025 01:13:15.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was blown up by GabrielCacao
+[06Jan2025 01:13:15.399] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_06.01.2025-01.13.15.dat
+[06Jan2025 01:13:15.457] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[06Jan2025 01:15:27.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was blown up by GabrielCacao
+[06Jan2025 01:15:27.709] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[06Jan2025 01:15:30.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from quipit0s: Location (-5515.504436999559, 65.6875, -2215.258803188801) too far away from hit block BlockPos{x=-5516, y=64, z=-2216}.
+[06Jan2025 01:15:30.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from quipit0s: Location (-5515.504436999559, 65.6875, -2215.258803188801) too far away from hit block BlockPos{x=-5516, y=64, z=-2216}.
