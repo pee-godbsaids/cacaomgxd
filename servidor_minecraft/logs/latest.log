@@ -800,3 +800,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [06Jan2025 00:21:32.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [A Bigger Blade]
 [06Jan2025 00:21:48.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
 [06Jan2025 00:24:49.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -4.289673511995716,0.0,-9.084698988594027
+[06Jan2025 00:26:04.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[06Jan2025 00:26:46.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Junior Summoner]
+[06Jan2025 00:27:45.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Sweet Sweet Speeding Up]
+[06Jan2025 00:31:04.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Sacrificial Satisfaction]
+[06Jan2025 00:31:04.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [Illage and Killage]
