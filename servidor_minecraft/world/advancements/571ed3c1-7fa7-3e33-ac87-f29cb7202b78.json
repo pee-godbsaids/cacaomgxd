@@ -10004,7 +10004,9 @@
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_0": "2025-01-05 03:37:19 +0000",
-      "charm_collector_4": "2025-01-06 00:33:56 +0000"
+      "charm_collector_4": "2025-01-06 00:33:56 +0000",
+      "charm_collector_3": "2025-01-06 00:50:05 +0000",
+      "charm_collector_2": "2025-01-06 00:44:08 +0000"
     },
     "done": false
   },
