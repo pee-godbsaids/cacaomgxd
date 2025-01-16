@@ -48,6 +48,9 @@
 	#Void Core's Cooldown
 	#Range: 0 ~ 1000000
 	VoidCoreCooldown = 160
+	#Sandstorm's cooldown
+	#Range: 0 ~ 1000000
+	Sandstormcooldown = 300
 	#Soul Render's Timer
 	#Range: 0 ~ 1000000
 	SoulRenderCooldown = 100
@@ -57,9 +60,6 @@
 	#The Immolator's Timer
 	#Range: 0 ~ 1000000
 	immolatorCooldown = 300
-	#Sandstorm's cooldown
-	#Range: 0 ~ 1000000
-	Sandstormcooldown = 300
 
 [Block]
 	#Cursed Tombstone Summon cooldown Minute
@@ -344,6 +344,11 @@
 	#Range: 0.0 ~ 1000000.0
 	ModernRemnantDamageMultiplier = 1.0
 
+["Netherite Ministrosity"]
+	#Ministrosity's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	MinistrosityHealthMultiplier = 1.0
+
 ["Amethyst Crab"]
 	#Amethyst Crab's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
@@ -523,9 +528,4 @@
 	#Allowed height variance for the check - if the variance is lower than this value the structure will not spawn (has no effect if the are check is disabled)
 	#Range: 0 ~ 32
 	cursedPyramidHeightVariance = 2
-
-["Netherite Ministrosity"]
-	#Ministrosity's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	MinistrosityHealthMultiplier = 1.0
 

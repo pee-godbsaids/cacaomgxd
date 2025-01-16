@@ -15,8 +15,8 @@
   },
   "armoryChestplates": {
     "entries": {
-      "golden_chestplate": 0.2,
-      "chainmail_chestplate": 0.3
+      "chainmail_chestplate": 0.3,
+      "golden_chestplate": 0.2
     },
     "defaultItem": "air"
   },
@@ -29,8 +29,8 @@
   },
   "armoryLeggings": {
     "entries": {
-      "golden_leggings": 0.2,
-      "chainmail_leggings": 0.3
+      "chainmail_leggings": 0.3,
+      "golden_leggings": 0.2
     },
     "defaultItem": "air"
   },
@@ -43,8 +43,8 @@
   },
   "armoryBoots": {
     "entries": {
-      "golden_boots": 0.2,
-      "chainmail_boots": 0.3
+      "chainmail_boots": 0.3,
+      "golden_boots": 0.2
     },
     "defaultItem": "air"
   },
