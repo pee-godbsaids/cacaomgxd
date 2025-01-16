@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-16 02:47:39 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding_inflicted": {
     "criteria": {
       "bleeding_applied": "2025-01-16 00:26:01 +0000"
