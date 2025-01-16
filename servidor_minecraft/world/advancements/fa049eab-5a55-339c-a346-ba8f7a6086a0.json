@@ -152,6 +152,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-01-16 00:53:25 +0000"
+    },
+    "done": true
+  },
+  "xp_jellies:startofeverything": {
+    "criteria": {
+      "startofeverything_0": "2025-01-16 00:54:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-01-16 00:26:38 +0000"
@@ -167,6 +179,18 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-01-16 00:17:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-16 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-16 00:51:12 +0000"
     },
     "done": true
   },
@@ -219,6 +243,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_cactus": {
+    "criteria": {
+      "bleeding_applied": "2025-01-16 00:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-01-16 00:21:19 +0000"
@@ -239,6 +269,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-01-16 00:49:57 +0000",
       "minecraft:frozen_ocean": "2025-01-16 00:19:03 +0000",
       "minecraft:snowy_beach": "2025-01-16 00:18:37 +0000"
     },
@@ -258,9 +289,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-16 00:49:54 +0000",
       "bread": "2025-01-16 00:26:45 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-01-16 00:46:18 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
@@ -280,6 +318,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:45:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-16 00:21:24 +0000"
@@ -289,6 +333,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-16 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:48:50 +0000"
     },
     "done": true
   },

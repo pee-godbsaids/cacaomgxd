@@ -53,15 +53,33 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-01-16 00:53:18 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-01-16 00:10:59 +0000"
     },
     "done": true
   },
+  "xp_jellies:startofeverything": {
+    "criteria": {
+      "startofeverything_0": "2025-01-16 00:54:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-01-16 00:19:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-16 00:49:10 +0000"
     },
     "done": true
   },
@@ -135,6 +153,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "auroral_garden": "2025-01-16 00:11:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:49:18 +0000"
     },
     "done": true
   },
@@ -250,6 +274,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-01-16 00:54:16 +0000",
       "rabbit_stew": "2025-01-16 00:37:31 +0000",
       "carrot": "2025-01-16 00:43:46 +0000"
     },
@@ -300,6 +325,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-01-16 00:43:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:49:10 +0000"
     },
     "done": true
   },
