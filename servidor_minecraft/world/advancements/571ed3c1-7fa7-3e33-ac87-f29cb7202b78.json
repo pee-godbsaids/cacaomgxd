@@ -116,6 +116,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "grindstone": "2025-01-16 00:20:57 +0000",
+      "smoker": "2025-01-16 01:07:10 +0000",
       "blastfurnace": "2025-01-16 00:35:43 +0000"
     },
     "done": false
@@ -238,6 +239,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-01-16 00:56:53 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-16 01:09:42 +0000"
     },
     "done": true
   },

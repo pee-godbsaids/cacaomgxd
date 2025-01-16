@@ -123,9 +123,21 @@
     },
     "done": true
   },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-01-16 01:12:30 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-01-16 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 01:12:30 +0000"
     },
     "done": true
   },
@@ -358,6 +370,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-16 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-16 01:07:49 +0000"
     },
     "done": true
   },
