@@ -113,87 +113,21 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-01-16 00:23:07 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:bleeding": {
-    "criteria": {
-      "bleeding_applied": "2025-01-16 00:19:07 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:kill_villager": {
-    "criteria": {
-      "killedvillager": "2025-01-16 01:12:30 +0000"
-    },
-    "done": true
-  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-01-16 00:16:50 +0000"
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
+  "minecraft:story/root": {
     "criteria": {
-      "bastion": "2025-01-16 02:47:36 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-01-16 01:12:30 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:bleeding_inflicted": {
-    "criteria": {
-      "bleeding_applied": "2025-01-16 00:26:35 +0000"
+      "crafting_table": "2025-01-16 00:16:50 +0000"
     },
     "done": true
   },
   "bonfires:bonfires/root": {
     "criteria": {
       "died": "2025-01-16 00:17:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-01-16 00:27:24 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-01-16 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-01-16 00:53:25 +0000"
-    },
-    "done": true
-  },
-  "xp_jellies:startofeverything": {
-    "criteria": {
-      "startofeverything_0": "2025-01-16 00:54:04 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-01-16 00:26:38 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-01-16 01:28:38 +0000"
     },
     "done": true
   },
@@ -209,154 +143,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_lightning_resistance": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-16 00:48:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-16 00:51:12 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:all_workstations_get": {
-    "criteria": {
-      "huntingpost": "2025-01-16 02:19:50 +0000",
-      "blueprinttable": "2025-01-16 02:14:57 +0000",
-      "smoker": "2025-01-16 02:24:03 +0000",
-      "smithingtable": "2025-01-16 02:27:54 +0000",
-      "loom": "2025-01-16 02:15:50 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-01-16 00:44:31 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-01-16 02:56:44 +0000"
-    },
-    "done": true
-  },
-  "integrated_villages:tavern_village": {
-    "criteria": {
-      "in_tavern_village": "2025-01-16 01:00:16 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:husbandry/soap": {
-    "criteria": {
-      "stew": "2025-01-16 02:20:05 +0000"
-    },
-    "done": true
-  },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-01-16 02:54:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-01-16 00:21:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-01-16 00:20:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2025-01-16 00:24:19 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/root": {
-    "criteria": {
-      "inscription_table": "2025-01-16 02:03:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-16 02:34:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-01-16 01:01:24 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-01-16 00:33:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-16 00:17:37 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "minecraft:pillager": "2025-01-16 00:26:38 +0000",
-      "minecraft:skeleton": "2025-01-16 00:21:19 +0000",
-      "minecraft:spider": "2025-01-16 01:46:01 +0000",
-      "minecraft:zombie": "2025-01-16 01:28:38 +0000"
-    },
-    "done": false
-  },
-  "bonfires:bonfires/ash_pile": {
-    "criteria": {
-      "killed_something_with_fire": "2025-01-16 00:21:19 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-01-16 02:03:47 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:bleeding_cactus": {
-    "criteria": {
-      "bleeding_applied": "2025-01-16 00:45:34 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-01-16 02:37:34 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-01-16 01:00:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2025-01-16 00:21:19 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-01-16 00:32:23 +0000"
+      "coded_trigger": "2025-01-16 00:18:08 +0000"
     },
     "done": true
   },
@@ -376,21 +171,90 @@
     },
     "done": false
   },
-  "iceandfire:iceandfire/lectern": {
+  "majruszsdifficulty:bleeding": {
     "criteria": {
-      "bestiary": "2025-01-16 02:17:38 +0000"
+      "bleeding_applied": "2025-01-16 00:19:07 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "coded_trigger": "2025-01-16 00:18:08 +0000"
+      "iron": "2025-01-16 00:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-01-16 00:26:38 +0000",
+      "minecraft:skeleton": "2025-01-16 00:21:19 +0000",
+      "minecraft:spider": "2025-01-16 01:46:01 +0000",
+      "minecraft:zombie": "2025-01-16 01:28:38 +0000"
+    },
+    "done": false
+  },
+  "bonfires:bonfires/ash_pile": {
+    "criteria": {
+      "killed_something_with_fire": "2025-01-16 00:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-01-16 00:21:19 +0000"
     },
     "done": true
   },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-01-16 00:21:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:21:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-16 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-16 00:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-16 00:24:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-16 00:25:15 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-01-16 00:26:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:26:38 +0000"
     },
     "done": true
   },
@@ -401,81 +265,15 @@
     },
     "done": false
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_ice_dragon": "2025-01-16 00:46:18 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-16 00:25:15 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-01-16 02:37:27 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-01-16 00:29:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-16 00:26:45 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/discreet_search": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "coded_trigger": "2025-01-16 00:45:23 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-01-16 00:57:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-01-16 00:21:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-01-16 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-01-16 01:46:45 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_preservation": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-16 01:07:49 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2025-01-16 00:48:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-01-16 00:16:50 +0000"
+      "iron_pickaxe": "2025-01-16 00:27:24 +0000"
     },
     "done": true
   },
@@ -485,9 +283,153 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-01-16 00:29:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-16 00:32:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-16 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-16 00:33:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-16 00:44:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_cactus": {
+    "criteria": {
+      "bleeding_applied": "2025-01-16 00:45:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-01-16 00:46:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-16 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-16 00:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-01-16 00:53:25 +0000"
+    },
+    "done": true
+  },
+  "xp_jellies:startofeverything": {
+    "criteria": {
+      "startofeverything_0": "2025-01-16 00:54:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-16 00:57:46 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:tavern_village": {
+    "criteria": {
+      "in_tavern_village": "2025-01-16 01:00:16 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-16 01:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-16 01:01:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-16 01:07:49 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-01-16 01:12:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 01:12:30 +0000"
+    },
+    "done": true
+  },
   "idas:winter_wagon": {
     "criteria": {
       "in_winter_wagon": "2025-01-16 01:16:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-16 01:28:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 01:46:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-01-16 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-01-16 02:03:47 +0000"
     },
     "done": true
   },
@@ -497,9 +439,67 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "huntingpost": "2025-01-16 02:19:50 +0000",
+      "blueprinttable": "2025-01-16 02:14:57 +0000",
+      "smoker": "2025-01-16 02:24:03 +0000",
+      "smithingtable": "2025-01-16 02:27:54 +0000",
+      "loom": "2025-01-16 02:15:50 +0000"
+    },
+    "done": false
+  },
   "morevillagers:first_workstation_get": {
     "criteria": {
       "blueprinttable": "2025-01-16 02:14:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-01-16 02:17:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/soap": {
+    "criteria": {
+      "stew": "2025-01-16 02:20:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-16 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 02:37:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-16 02:47:36 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-01-16 02:54:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-01-16 02:56:44 +0000"
     },
     "done": true
   },
