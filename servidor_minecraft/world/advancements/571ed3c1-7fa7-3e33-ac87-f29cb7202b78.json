@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-01-16 03:25:14 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding_inflicted": {
     "criteria": {
       "bleeding_applied": "2025-01-16 00:26:01 +0000"
@@ -255,6 +261,7 @@
       "snowblossom_grove": "2025-01-16 01:24:00 +0000",
       "maple_woods": "2025-01-16 00:23:30 +0000",
       "field": "2025-01-16 00:11:15 +0000",
+      "hot_springs": "2025-01-16 03:20:18 +0000",
       "auroral_garden": "2025-01-16 00:11:01 +0000",
       "snowy_coniferous_forest": "2025-01-16 00:55:47 +0000",
       "snowy_fir_clearing": "2025-01-16 00:41:40 +0000",
@@ -394,6 +401,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 03:25:45 +0000"
+    },
+    "done": true
+  },
   "progressivebosses:recipes/misc/corrupted_soul_sand": {
     "criteria": {
       "has_the_recipe_2": "2025-01-16 00:10:54 +0000"
@@ -403,6 +416,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-01-16 00:21:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 03:22:33 +0000"
     },
     "done": true
   },
