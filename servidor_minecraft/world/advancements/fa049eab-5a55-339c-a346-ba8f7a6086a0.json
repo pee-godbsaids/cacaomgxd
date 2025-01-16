@@ -127,9 +127,33 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-01-16 00:26:35 +0000"
+    },
+    "done": true
+  },
   "bonfires:bonfires/root": {
     "criteria": {
       "died": "2025-01-16 00:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-16 00:27:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-16 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:26:38 +0000"
     },
     "done": true
   },
@@ -157,6 +181,18 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-16 00:24:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-16 00:33:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-16 00:17:37 +0000"
@@ -165,6 +201,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-16 00:26:38 +0000",
       "minecraft:skeleton": "2025-01-16 00:21:19 +0000"
     },
     "done": false
@@ -178,6 +215,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-01-16 00:21:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-16 00:32:23 +0000"
     },
     "done": true
   },
@@ -206,6 +249,30 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-16 00:26:45 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-16 00:25:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-01-16 00:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-16 00:26:45 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-16 00:21:24 +0000"
@@ -221,6 +288,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-16 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-01-16 00:29:13 +0000"
     },
     "done": true
   },

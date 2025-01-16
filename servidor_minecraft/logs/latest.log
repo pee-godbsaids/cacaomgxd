@@ -2459,3 +2459,109 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [16Jan2025 00:28:02.260] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
 [16Jan2025 00:28:02.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
 [16Jan2025 00:28:03.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[16Jan2025 00:28:53.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s burned to death
+[16Jan2025 00:28:53.889] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[16Jan2025 00:28:53.899] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Jan2025 00:28:53.899] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[16Jan2025 00:28:53.899] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Jan2025 00:28:53.899] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Jan2025 00:28:53.899] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[16Jan2025 00:29:13.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Where Is The Stone Pen?]
+[16Jan2025 00:29:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was slain by Zombie
+[16Jan2025 00:29:20.589] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[16Jan2025 00:29:22.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:29:24.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[16Jan2025 00:29:53.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Your First Receptacle]
+[16Jan2025 00:30:25.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was slain by Zombie
+[16Jan2025 00:30:25.835] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[16Jan2025 00:30:26.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:30:27.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:30:27.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:30:27.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:30:29.311] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:30:29.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:30:58.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Alex's Mobs]
+[16Jan2025 00:31:33.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:31:40.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:31:56.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:31:56.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:32:14.311] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:32:14.312] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:32:14.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was slain by Zombie
+[16Jan2025 00:32:14.786] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[16Jan2025 00:32:17.963] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:32:17.964] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:32:23.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Mine? Mine? Mine?]
+[16Jan2025 00:32:50.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Free Willy]
+[16Jan2025 00:32:57.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:33:06.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [Free Willy]
+[16Jan2025 00:33:11.014] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:33:11.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:33:16.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Alex's Caves]
+[16Jan2025 00:33:16.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Alex's Caves]
+[16Jan2025 00:33:19.760] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:33:23.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [It Belongs in a Museum]
+[16Jan2025 00:33:45.360] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:33:45.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:33:45.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:33:45.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:34:26.362] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:34:31.411] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:34:31.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:34:50.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:34:51.260] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:34:54.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:35:03.608] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[16Jan2025 00:35:03.616] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[16Jan2025 00:35:14.561] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:35:15.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[16Jan2025 00:35:16.814] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:35:20.314] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:35:21.712] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:35:25.561] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:35:27.261] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:36:15.410] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:36:15.411] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:36:30.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:36:42.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:36:42.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:36:42.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:37:00.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:37:00.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:37:02.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:02.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:02.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:02.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:02.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:02.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:03.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:03.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:03.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:03.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:03.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:03.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:03.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:03.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:03.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:03.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:04.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:04.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:04.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:04.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:04.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:04.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:04.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:04.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:04.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:04.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:05.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:05.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:05.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:05.323] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:05.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:05.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 00:37:10.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:37:36.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:37:52.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:38:03.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:38:10.220] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
