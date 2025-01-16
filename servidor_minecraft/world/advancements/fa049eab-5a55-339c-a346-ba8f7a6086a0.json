@@ -215,6 +215,15 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "huntingpost": "2025-01-16 02:19:50 +0000",
+      "blueprinttable": "2025-01-16 02:14:57 +0000",
+      "smoker": "2025-01-16 02:24:03 +0000",
+      "loom": "2025-01-16 02:15:50 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-01-16 00:44:31 +0000"
@@ -224,6 +233,12 @@
   "integrated_villages:tavern_village": {
     "criteria": {
       "in_tavern_village": "2025-01-16 01:00:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/soap": {
+    "criteria": {
+      "stew": "2025-01-16 02:20:05 +0000"
     },
     "done": true
   },
@@ -327,6 +342,12 @@
       "minecraft:snowy_beach": "2025-01-16 00:18:37 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-01-16 02:17:38 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
@@ -434,6 +455,12 @@
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-01-16 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "blueprinttable": "2025-01-16 02:14:57 +0000"
     },
     "done": true
   },
