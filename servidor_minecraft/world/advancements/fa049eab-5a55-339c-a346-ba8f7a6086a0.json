@@ -99,6 +99,7 @@
     "criteria": {
       "field": "2025-01-16 00:11:38 +0000",
       "auroral_garden": "2025-01-16 00:15:32 +0000",
+      "snowy_fir_clearing": "2025-01-16 00:41:44 +0000",
       "snowy_maple_woods": "2025-01-16 00:16:06 +0000"
     },
     "done": false
@@ -166,6 +167,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-01-16 00:17:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-16 00:44:31 +0000"
     },
     "done": true
   },
