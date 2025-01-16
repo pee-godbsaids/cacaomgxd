@@ -388,6 +388,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-01-16 03:11:28 +0000"
+    },
+    "done": true
+  },
   "progressivebosses:recipes/misc/corrupted_soul_sand": {
     "criteria": {
       "has_the_recipe_2": "2025-01-16 00:10:54 +0000"
