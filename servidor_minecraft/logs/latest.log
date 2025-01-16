@@ -3797,3 +3797,414 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [16Jan2025 02:49:34.662] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
 [16Jan2025 02:49:34.760] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
 [16Jan2025 02:49:38.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:10.410] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:16.259] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:21.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:21.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:22.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:22.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:22.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:24.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:24.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:27.421] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:32.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:35.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:35.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:38.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:44.360] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:48.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:52.510] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:57.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:57.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:59.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:03.374] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[16Jan2025 02:51:09.261] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:09.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:14.460] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:17.011] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:17.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:17.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:17.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:17.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:19.863] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:20.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:20.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:20.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:22.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:22.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:25.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:25.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:25.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:38.806] [Worker-Main-5/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=493, y=67, z=459}
+[16Jan2025 02:51:38.807] [Worker-Main-5/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=493, y=67, z=458}
+[16Jan2025 02:51:56.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:56.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:59.260] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:05.260] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:08.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Tools of the Trade]
+[16Jan2025 02:52:14.122] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Jan2025 02:52:35.111] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:38.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:38.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:40.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:40.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:40.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:40.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:42.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:42.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:42.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:44.460] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[16Jan2025 02:52:44.464] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 30
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: net.mehvahdjukaar.amendments.forge.AmendmentsForge@c850756 onUseBlockHP(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onUseBlockHP(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		4: ASM: class com.simibubi.create.content.equipment.wrench.WrenchEventHandler useOwnWrenchLogicForCreateBlocks(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: NORMAL
+		6: ASM: class com.lootintegrations.event.EventHandler playerClickBlockEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.github.alexthe666.citadel.server.CitadelEvents@75ab6878 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: ASM: class it.hurts.sskirillss.relics.items.relics.hands.WoolMittenItem$Events onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		9: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@1d366d40 onUseItemOnBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: class vectorwing.farmersdelight.common.item.KnifeItem$KnifeEvents onCakeInteraction(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: class vectorwing.farmersdelight.common.block.CuttingBoardBlock$ToolCarvingEvent onSneakPlaceTool(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: ASM: class net.mcreator.unusualend.procedures.WarpedSquashOnBlockRightClickedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		13: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@532b51ab onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class net.mcreator.unusualend.procedures.StipPlanksProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: ASM: class net.mcreator.unusualend.procedures.ShearChorusProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		16: ASM: class net.mcreator.unusualend.procedures.ShearChorusFlowersProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		17: ASM: class net.mcreator.unusualend.procedures.ShearChorusCaneProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		18: ASM: class net.mcreator.unusualend.procedures.PlayerRightClickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		19: ASM: class com.yellowbrossproductions.illageandspillage.events.ForgeEventBusSubscriber misconductionAttack1(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: class net.mcreator.unusualend.procedures.OnRightClickOnVoidExplosiveProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: class net.mcreator.unusualend.procedures.CrystalCatalystRightclickedOnBlockProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: class net.mcreator.unusualend.procedures.BoneMealEndstoneProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: class net.mcreator.luminousnether.procedures.WSlightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@4f5ce927 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: class net.mcreator.luminousnether.procedures.SoulCauldronOnBlockRightClickedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: class net.mcreator.luminousnether.procedures.SClightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class net.mcreator.luminousnether.procedures.RitualTableClickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		28: ASM: class net.mcreator.luminousnether.procedures.RightClickStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		29: ASM: class net.mcreator.luminousnether.procedures.RightClickRitualProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		30: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@68bb3060 onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		31: ASM: class net.mcreator.luminousnether.procedures.OrangeSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		32: ASM: class net.mcreator.luminousnether.procedures.LightWhiteFireProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		33: ASM: class net.mcreator.luminousnether.procedures.BlueSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		34: ASM: class com.tiviacz.travelersbackpack.handlers.ForgeEventHandler playerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		35: ASM: class glitchcore.forge.handlers.InteractionEventHandler onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		36: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@9e821bf
+		37: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@58293f9c
+		38: ASM: class com.gametechbc.traveloptics.effects.Casting.CastingHandler onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		39: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@62d4b079
+		40: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@43dd0783
+		41: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@b70239e
+		42: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@1a3438b3
+		43: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@5d2414f4
+		44: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@76eee1cc
+		45: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@7c88505c
+		46: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@47c20ede
+		47: ASM: class io.redspace.ironsspellbooks.loot.LootDebugEvents alertLootTable(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		48: ASM: class io.redspace.ironsspellbooks.entity.mobs.wizards.WizardAIEvents onBlockUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		49: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.edgeInteraction.EdgeInteractionHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		50: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.ValueSettingsInputHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		51: ASM: class com.simibubi.create.foundation.block.ItemUseOverrides onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		52: ASM: class com.simibubi.create.content.redstone.link.LinkHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		53: ASM: class com.simibubi.create.content.redstone.displayLink.DisplayLinkBlockItem gathererItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		54: ASM: class com.simibubi.create.content.logistics.funnel.FunnelItem funnelItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		55: ASM: class com.simibubi.create.content.kinetics.deployer.ManualApplicationRecipe manualApplicationRecipesApplyInWorld(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		56: ASM: class com.simibubi.create.content.equipment.clipboard.ClipboardValueSettingsHandler rightClickToCopy(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		57: ASM: class com.simibubi.create.content.contraptions.glue.SuperGlueItem glueItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		58: ASM: de.maxhenkel.easyvillagers.events.BlockEvents@7459e82a onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		59: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@edaa89d onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		60: ASM: class tictim.paraglider.forge.event.ParagliderEventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		61: ASM: class daripher.skilltree.skill.bonus.SkillBonusHandler applyCantUseItemBonus(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		62: LOW
+		63: ASM: net.mehvahdjukaar.amendments.forge.AmendmentsForge@c850756 onUseBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		64: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onUseBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		65: ASM: class com.simibubi.create.content.kinetics.crank.ValveHandleBlock onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		66: LOWEST
+		67: ASM: class ovh.corail.tombstone.event.EventHandler onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[16Jan2025 02:52:44.470] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@528aa066, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801) ~[forge-1.20.1-47.3.7-universal.jar%23378!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Jan2025 02:52:44.561] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:47.899] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[16Jan2025 02:52:47.900] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 30
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: net.mehvahdjukaar.amendments.forge.AmendmentsForge@c850756 onUseBlockHP(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onUseBlockHP(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		4: ASM: class com.simibubi.create.content.equipment.wrench.WrenchEventHandler useOwnWrenchLogicForCreateBlocks(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: NORMAL
+		6: ASM: class com.lootintegrations.event.EventHandler playerClickBlockEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.github.alexthe666.citadel.server.CitadelEvents@75ab6878 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: ASM: class it.hurts.sskirillss.relics.items.relics.hands.WoolMittenItem$Events onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		9: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@1d366d40 onUseItemOnBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: class vectorwing.farmersdelight.common.item.KnifeItem$KnifeEvents onCakeInteraction(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: class vectorwing.farmersdelight.common.block.CuttingBoardBlock$ToolCarvingEvent onSneakPlaceTool(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: ASM: class net.mcreator.unusualend.procedures.WarpedSquashOnBlockRightClickedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		13: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@532b51ab onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class net.mcreator.unusualend.procedures.StipPlanksProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: ASM: class net.mcreator.unusualend.procedures.ShearChorusProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		16: ASM: class net.mcreator.unusualend.procedures.ShearChorusFlowersProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		17: ASM: class net.mcreator.unusualend.procedures.ShearChorusCaneProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		18: ASM: class net.mcreator.unusualend.procedures.PlayerRightClickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		19: ASM: class com.yellowbrossproductions.illageandspillage.events.ForgeEventBusSubscriber misconductionAttack1(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: class net.mcreator.unusualend.procedures.OnRightClickOnVoidExplosiveProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: class net.mcreator.unusualend.procedures.CrystalCatalystRightclickedOnBlockProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: class net.mcreator.unusualend.procedures.BoneMealEndstoneProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: class net.mcreator.luminousnether.procedures.WSlightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@4f5ce927 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: class net.mcreator.luminousnether.procedures.SoulCauldronOnBlockRightClickedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: class net.mcreator.luminousnether.procedures.SClightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class net.mcreator.luminousnether.procedures.RitualTableClickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		28: ASM: class net.mcreator.luminousnether.procedures.RightClickStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		29: ASM: class net.mcreator.luminousnether.procedures.RightClickRitualProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		30: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@68bb3060 onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		31: ASM: class net.mcreator.luminousnether.procedures.OrangeSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		32: ASM: class net.mcreator.luminousnether.procedures.LightWhiteFireProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		33: ASM: class net.mcreator.luminousnether.procedures.BlueSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		34: ASM: class com.tiviacz.travelersbackpack.handlers.ForgeEventHandler playerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		35: ASM: class glitchcore.forge.handlers.InteractionEventHandler onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		36: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@9e821bf
+		37: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@58293f9c
+		38: ASM: class com.gametechbc.traveloptics.effects.Casting.CastingHandler onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		39: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@62d4b079
+		40: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@43dd0783
+		41: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@b70239e
+		42: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@1a3438b3
+		43: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@5d2414f4
+		44: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@76eee1cc
+		45: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@7c88505c
+		46: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@47c20ede
+		47: ASM: class io.redspace.ironsspellbooks.loot.LootDebugEvents alertLootTable(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		48: ASM: class io.redspace.ironsspellbooks.entity.mobs.wizards.WizardAIEvents onBlockUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		49: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.edgeInteraction.EdgeInteractionHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		50: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.ValueSettingsInputHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		51: ASM: class com.simibubi.create.foundation.block.ItemUseOverrides onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		52: ASM: class com.simibubi.create.content.redstone.link.LinkHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		53: ASM: class com.simibubi.create.content.redstone.displayLink.DisplayLinkBlockItem gathererItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		54: ASM: class com.simibubi.create.content.logistics.funnel.FunnelItem funnelItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		55: ASM: class com.simibubi.create.content.kinetics.deployer.ManualApplicationRecipe manualApplicationRecipesApplyInWorld(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		56: ASM: class com.simibubi.create.content.equipment.clipboard.ClipboardValueSettingsHandler rightClickToCopy(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		57: ASM: class com.simibubi.create.content.contraptions.glue.SuperGlueItem glueItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		58: ASM: de.maxhenkel.easyvillagers.events.BlockEvents@7459e82a onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		59: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@edaa89d onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		60: ASM: class tictim.paraglider.forge.event.ParagliderEventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		61: ASM: class daripher.skilltree.skill.bonus.SkillBonusHandler applyCantUseItemBonus(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		62: LOW
+		63: ASM: net.mehvahdjukaar.amendments.forge.AmendmentsForge@c850756 onUseBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		64: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onUseBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		65: ASM: class com.simibubi.create.content.kinetics.crank.ValveHandleBlock onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		66: LOWEST
+		67: ASM: class ovh.corail.tombstone.event.EventHandler onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[16Jan2025 02:52:47.901] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@4c1a06cb, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801) ~[forge-1.20.1-47.3.7-universal.jar%23378!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Jan2025 02:53:01.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Mine? Mine? Mine?]
+[16Jan2025 02:53:42.563] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:53:44.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:53:52.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65206, l='ServerLevel[world]', x=493.50, y=70.02, z=465.85] died, message: 'Villager suffocated in a wall'
+[16Jan2025 02:53:54.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:54:03.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:54:10.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Pray to the Goddess]
+[16Jan2025 02:54:21.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:54:23.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:54:41.810] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:55:12.112] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:55:14.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:titanexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:55:14.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:55:14.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:55:56.910] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:56:10.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:56:10.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:56:23.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[16Jan2025 02:56:25.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was laid to rest by Priest
+[16Jan2025 02:56:25.898] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.standard_16.01.2025-02.56.25.dat
+[16Jan2025 02:56:25.903] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[16Jan2025 02:56:29.063] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:56:29.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[16Jan2025 02:56:36.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:56:44.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Tools of the Trade]
+[16Jan2025 02:56:51.461] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:24.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:24.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:24.712] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:24.712] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:25.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:25.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/64153, l='ServerLevel[world]', x=554.50, y=63.00, z=262.70] died, message: 'Oceanographer experienced kinetic energy'
+[16Jan2025 02:57:36.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:36.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:41.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/63982, l='ServerLevel[world]', x=562.77, y=65.00, z=264.35] died, message: 'Shepherd bled to death'
+[16Jan2025 02:57:46.410] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:51.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:51.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:56.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:56.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:58:32.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/64156, l='ServerLevel[world]', x=556.36, y=63.00, z=270.70] died, message: 'Engineer was slain by quipit0s'
+[16Jan2025 02:58:32.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Neighborhood Brawl]
+[16Jan2025 02:58:32.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Bad Deal]
+[16Jan2025 02:58:36.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:58:36.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:59:46.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:59:46.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:59:47.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:59:58.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 03:00:03.510] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already

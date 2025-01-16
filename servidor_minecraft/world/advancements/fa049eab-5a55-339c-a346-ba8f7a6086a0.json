@@ -237,6 +237,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-01-16 02:56:44 +0000"
+    },
+    "done": true
+  },
   "integrated_villages:tavern_village": {
     "criteria": {
       "in_tavern_village": "2025-01-16 01:00:16 +0000"
@@ -246,6 +252,12 @@
   "supplementaries:husbandry/soap": {
     "criteria": {
       "stew": "2025-01-16 02:20:05 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-01-16 02:54:10 +0000"
     },
     "done": true
   },
@@ -357,6 +369,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-01-16 00:49:57 +0000",
+      "minecraft:snowy_taiga": "2025-01-16 02:53:22 +0000",
       "minecraft:frozen_ocean": "2025-01-16 00:19:03 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-16 02:34:01 +0000",
       "minecraft:snowy_beach": "2025-01-16 00:18:37 +0000"

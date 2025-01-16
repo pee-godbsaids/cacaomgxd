@@ -15932,3 +15932,1050 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [16Jan2025 02:49:38.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
 [16Jan2025 02:49:43.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jan2025 02:49:43.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 02:50:10.410] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:16.259] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:21.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:21.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:22.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:22.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:22.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:24.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:24.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:27.421] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:32.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:35.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:35.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:38.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:44.360] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:48.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:52.510] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:57.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:57.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:50:59.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:03.374] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[16Jan2025 02:51:09.261] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:09.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:14.460] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:17.011] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:17.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:17.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:17.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:17.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:19.863] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:20.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:20.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:20.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:21.821] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (580 | 41 | 468).
+[16Jan2025 02:51:21.821] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[16Jan2025 02:51:21.821] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 4(0) Rooms
+[16Jan2025 02:51:21.821] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[16Jan2025 02:51:21.821] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[16Jan2025 02:51:21.821] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[16Jan2025 02:51:21.822] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(1) Nodes and 6(0) Rooms
+[16Jan2025 02:51:21.822] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[16Jan2025 02:51:21.822] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 7(3) Nodes and 4(0) Rooms
+[16Jan2025 02:51:21.822] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[16Jan2025 02:51:21.822] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 5(0) Rooms
+[16Jan2025 02:51:22.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:22.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:25.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:25.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:25.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:38.806] [Worker-Main-5/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=493, y=67, z=459}
+[16Jan2025 02:51:38.807] [Worker-Main-5/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=493, y=67, z=458}
+[16Jan2025 02:51:41.700] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jan2025 02:51:41.700] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jan2025 02:51:56.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:56.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:51:58.307] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jan2025 02:51:58.307] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jan2025 02:51:59.260] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:05.260] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:08.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Tools of the Trade]
+[16Jan2025 02:52:14.122] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Jan2025 02:52:14.457] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (666 | 32 | 473)
+[16Jan2025 02:52:14.466] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (666 | 32 | 473)
+[16Jan2025 02:52:14.657] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (666 | 32 | 473)
+[16Jan2025 02:52:14.659] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (666 | 32 | 473)
+[16Jan2025 02:52:19.685] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (668 | 41 | 484)
+[16Jan2025 02:52:19.687] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (668 | 41 | 484)
+[16Jan2025 02:52:19.687] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation COUNTERCLOCKWISE_90 at (652 | 32 | 486)
+[16Jan2025 02:52:19.688] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation COUNTERCLOCKWISE_90 at (652 | 32 | 486)
+[16Jan2025 02:52:19.688] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (654 | 32 | 495)
+[16Jan2025 02:52:19.689] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (654 | 32 | 495)
+[16Jan2025 02:52:19.689] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room with rotation NONE at (663 | 32 | 492)
+[16Jan2025 02:52:19.689] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room with rotation NONE at (663 | 32 | 492)
+[16Jan2025 02:52:19.689] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 490)
+[16Jan2025 02:52:19.689] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 490)
+[16Jan2025 02:52:19.689] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (666 | 32 | 473)
+[16Jan2025 02:52:19.691] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (666 | 32 | 473)
+[16Jan2025 02:52:19.691] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (670 | 32 | 495)
+[16Jan2025 02:52:19.691] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (670 | 32 | 495)
+[16Jan2025 02:52:19.785] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (681 | 41 | 488)
+[16Jan2025 02:52:19.785] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (681 | 41 | 488)
+[16Jan2025 02:52:19.785] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (683 | 41 | 487)
+[16Jan2025 02:52:19.786] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (683 | 41 | 487)
+[16Jan2025 02:52:19.786] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (668 | 41 | 484)
+[16Jan2025 02:52:19.789] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (668 | 41 | 484)
+[16Jan2025 02:52:19.789] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 490)
+[16Jan2025 02:52:19.790] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 490)
+[16Jan2025 02:52:19.790] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (666 | 32 | 473)
+[16Jan2025 02:52:19.791] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (666 | 32 | 473)
+[16Jan2025 02:52:19.791] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (670 | 32 | 495)
+[16Jan2025 02:52:19.792] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (670 | 32 | 495)
+[16Jan2025 02:52:19.856] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (693 | 41 | 488)
+[16Jan2025 02:52:19.857] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (693 | 41 | 488)
+[16Jan2025 02:52:19.857] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (688 | 41 | 488)
+[16Jan2025 02:52:19.857] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (688 | 41 | 488)
+[16Jan2025 02:52:19.857] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (695 | 41 | 484)
+[16Jan2025 02:52:19.858] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (695 | 41 | 484)
+[16Jan2025 02:52:19.870] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (632 | 41 | 484)
+[16Jan2025 02:52:19.871] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (632 | 41 | 484)
+[16Jan2025 02:52:19.871] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (630 | 32 | 491)
+[16Jan2025 02:52:19.872] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (630 | 32 | 491)
+[16Jan2025 02:52:19.872] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation COUNTERCLOCKWISE_90 at (652 | 32 | 486)
+[16Jan2025 02:52:19.872] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation COUNTERCLOCKWISE_90 at (652 | 32 | 486)
+[16Jan2025 02:52:19.872] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (654 | 32 | 495)
+[16Jan2025 02:52:19.872] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (654 | 32 | 495)
+[16Jan2025 02:52:19.961] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (695 | 41 | 484)
+[16Jan2025 02:52:19.962] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (695 | 41 | 484)
+[16Jan2025 02:52:19.962] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (706 | 32 | 495)
+[16Jan2025 02:52:19.962] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (706 | 32 | 495)
+[16Jan2025 02:52:19.962] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (711 | 14 | 491)
+[16Jan2025 02:52:19.964] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (711 | 14 | 491)
+[16Jan2025 02:52:19.965] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (711 | 14 | 491)
+[16Jan2025 02:52:19.966] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (711 | 14 | 491)
+[16Jan2025 02:52:19.966] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (711 | 5 | 491)
+[16Jan2025 02:52:19.966] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (711 | 5 | 491)
+[16Jan2025 02:52:20.024] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (711 | 14 | 491)
+[16Jan2025 02:52:20.024] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (711 | 14 | 491)
+[16Jan2025 02:52:20.024] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (711 | 14 | 491)
+[16Jan2025 02:52:20.025] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (711 | 14 | 491)
+[16Jan2025 02:52:20.025] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (711 | 5 | 491)
+[16Jan2025 02:52:20.026] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (711 | 5 | 491)
+[16Jan2025 02:52:20.124] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (632 | 41 | 484)
+[16Jan2025 02:52:20.127] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (632 | 41 | 484)
+[16Jan2025 02:52:20.128] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (630 | 32 | 491)
+[16Jan2025 02:52:20.128] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (630 | 32 | 491)
+[16Jan2025 02:52:20.184] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (607 | 32 | 495)
+[16Jan2025 02:52:20.184] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (607 | 32 | 495)
+[16Jan2025 02:52:20.184] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (621 | 32 | 494)
+[16Jan2025 02:52:20.184] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (621 | 32 | 494)
+[16Jan2025 02:52:20.196] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (607 | 32 | 495)
+[16Jan2025 02:52:20.196] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (607 | 32 | 495)
+[16Jan2025 02:52:29.198] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (607 | 32 | 495)
+[16Jan2025 02:52:29.198] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (607 | 32 | 495)
+[16Jan2025 02:52:29.336] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (636 | 41 | 497)
+[16Jan2025 02:52:29.336] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (636 | 41 | 497)
+[16Jan2025 02:52:29.336] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 499)
+[16Jan2025 02:52:29.336] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 499)
+[16Jan2025 02:52:29.336] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (632 | 41 | 484)
+[16Jan2025 02:52:29.337] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (632 | 41 | 484)
+[16Jan2025 02:52:29.337] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 504)
+[16Jan2025 02:52:29.337] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 504)
+[16Jan2025 02:52:29.337] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (652 | 41 | 504)
+[16Jan2025 02:52:29.337] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (652 | 41 | 504)
+[16Jan2025 02:52:29.337] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (647 | 32 | 497)
+[16Jan2025 02:52:29.337] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (647 | 32 | 497)
+[16Jan2025 02:52:29.337] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (630 | 32 | 491)
+[16Jan2025 02:52:29.338] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (630 | 32 | 491)
+[16Jan2025 02:52:29.338] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling_lamp with rotation CLOCKWISE_180 at (655 | 37 | 498)
+[16Jan2025 02:52:29.338] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling_lamp with rotation CLOCKWISE_180 at (655 | 37 | 498)
+[16Jan2025 02:52:29.338] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (655 | 32 | 502)
+[16Jan2025 02:52:29.338] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (655 | 32 | 502)
+[16Jan2025 02:52:29.338] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_180 at (652 | 32 | 497)
+[16Jan2025 02:52:29.338] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_180 at (652 | 32 | 497)
+[16Jan2025 02:52:29.338] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (654 | 32 | 495)
+[16Jan2025 02:52:29.338] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (654 | 32 | 495)
+[16Jan2025 02:52:29.338] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation CLOCKWISE_180 at (654 | 32 | 497)
+[16Jan2025 02:52:29.338] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation CLOCKWISE_180 at (654 | 32 | 497)
+[16Jan2025 02:52:29.349] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (636 | 41 | 497)
+[16Jan2025 02:52:29.349] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (636 | 41 | 497)
+[16Jan2025 02:52:29.349] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 499)
+[16Jan2025 02:52:29.350] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 499)
+[16Jan2025 02:52:29.350] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (632 | 41 | 484)
+[16Jan2025 02:52:29.350] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (632 | 41 | 484)
+[16Jan2025 02:52:29.350] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 504)
+[16Jan2025 02:52:29.350] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 504)
+[16Jan2025 02:52:29.350] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (616 | 32 | 497)
+[16Jan2025 02:52:29.350] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (616 | 32 | 497)
+[16Jan2025 02:52:29.350] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (625 | 32 | 496)
+[16Jan2025 02:52:29.350] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (625 | 32 | 496)
+[16Jan2025 02:52:29.350] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (630 | 32 | 491)
+[16Jan2025 02:52:29.351] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (630 | 32 | 491)
+[16Jan2025 02:52:29.368] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (607 | 32 | 495)
+[16Jan2025 02:52:29.369] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (607 | 32 | 495)
+[16Jan2025 02:52:29.369] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_180 at (621 | 32 | 501)
+[16Jan2025 02:52:29.369] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_180 at (621 | 32 | 501)
+[16Jan2025 02:52:29.369] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (617 | 32 | 501)
+[16Jan2025 02:52:29.369] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (617 | 32 | 501)
+[16Jan2025 02:52:29.369] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (621 | 32 | 494)
+[16Jan2025 02:52:29.369] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (621 | 32 | 494)
+[16Jan2025 02:52:29.369] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (617 | 32 | 496)
+[16Jan2025 02:52:29.369] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (617 | 32 | 496)
+[16Jan2025 02:52:29.369] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (616 | 32 | 497)
+[16Jan2025 02:52:29.369] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (616 | 32 | 497)
+[16Jan2025 02:52:29.459] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (652 | 41 | 504)
+[16Jan2025 02:52:29.461] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (652 | 41 | 504)
+[16Jan2025 02:52:29.461] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (668 | 41 | 484)
+[16Jan2025 02:52:29.461] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (668 | 41 | 484)
+[16Jan2025 02:52:29.461] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 509)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 509)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 505)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 505)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling_lamp with rotation CLOCKWISE_180 at (655 | 37 | 498)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling_lamp with rotation CLOCKWISE_180 at (655 | 37 | 498)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (655 | 32 | 502)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (655 | 32 | 502)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (659 | 32 | 497)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (659 | 32 | 497)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (654 | 32 | 495)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (654 | 32 | 495)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation CLOCKWISE_180 at (654 | 32 | 497)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation CLOCKWISE_180 at (654 | 32 | 497)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (664 | 32 | 501)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (664 | 32 | 501)
+[16Jan2025 02:52:29.462] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room with rotation NONE at (663 | 32 | 492)
+[16Jan2025 02:52:29.463] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room with rotation NONE at (663 | 32 | 492)
+[16Jan2025 02:52:29.463] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (661 | 32 | 496)
+[16Jan2025 02:52:29.463] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (661 | 32 | 496)
+[16Jan2025 02:52:29.463] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (661 | 32 | 504)
+[16Jan2025 02:52:29.466] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (661 | 32 | 504)
+[16Jan2025 02:52:29.466] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (670 | 32 | 495)
+[16Jan2025 02:52:29.466] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (670 | 32 | 495)
+[16Jan2025 02:52:29.467] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 507)
+[16Jan2025 02:52:29.467] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 507)
+[16Jan2025 02:52:29.467] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 504)
+[16Jan2025 02:52:29.467] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 504)
+[16Jan2025 02:52:29.534] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (672 | 41 | 497)
+[16Jan2025 02:52:29.534] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (672 | 41 | 497)
+[16Jan2025 02:52:29.534] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (672 | 41 | 499)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (672 | 41 | 499)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (668 | 41 | 484)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (668 | 41 | 484)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 509)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 509)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 505)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 505)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (676 | 41 | 509)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (676 | 41 | 509)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (676 | 41 | 505)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (676 | 41 | 505)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (672 | 41 | 504)
+[16Jan2025 02:52:29.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (672 | 41 | 504)
+[16Jan2025 02:52:29.536] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (670 | 32 | 495)
+[16Jan2025 02:52:29.537] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (670 | 32 | 495)
+[16Jan2025 02:52:29.537] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 507)
+[16Jan2025 02:52:29.537] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 507)
+[16Jan2025 02:52:29.537] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (676 | 32 | 507)
+[16Jan2025 02:52:29.537] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (676 | 32 | 507)
+[16Jan2025 02:52:29.537] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 504)
+[16Jan2025 02:52:29.537] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 504)
+[16Jan2025 02:52:29.538] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (679 | 32 | 496)
+[16Jan2025 02:52:29.538] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (679 | 32 | 496)
+[16Jan2025 02:52:29.553] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (695 | 41 | 484)
+[16Jan2025 02:52:29.553] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (695 | 41 | 484)
+[16Jan2025 02:52:29.553] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (688 | 32 | 496)
+[16Jan2025 02:52:29.553] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (688 | 32 | 496)
+[16Jan2025 02:52:29.553] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (697 | 32 | 496)
+[16Jan2025 02:52:29.553] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (697 | 32 | 496)
+[16Jan2025 02:52:29.648] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (725 | 23 | 510)
+[16Jan2025 02:52:29.648] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (725 | 23 | 510)
+[16Jan2025 02:52:29.649] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 509)
+[16Jan2025 02:52:29.649] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 509)
+[16Jan2025 02:52:29.649] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (717 | 21 | 497)
+[16Jan2025 02:52:29.649] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (717 | 21 | 497)
+[16Jan2025 02:52:29.649] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (717 | 21 | 497)
+[16Jan2025 02:52:29.649] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (717 | 21 | 497)
+[16Jan2025 02:52:29.649] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 508)
+[16Jan2025 02:52:29.649] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 508)
+[16Jan2025 02:52:29.649] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 508)
+[16Jan2025 02:52:29.649] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 508)
+[16Jan2025 02:52:29.649] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (711 | 14 | 491)
+[16Jan2025 02:52:29.650] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (711 | 14 | 491)
+[16Jan2025 02:52:29.651] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (711 | 14 | 491)
+[16Jan2025 02:52:29.652] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (711 | 14 | 491)
+[16Jan2025 02:52:29.653] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (717 | 12 | 497)
+[16Jan2025 02:52:29.653] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (717 | 12 | 497)
+[16Jan2025 02:52:29.653] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 508)
+[16Jan2025 02:52:29.653] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 508)
+[16Jan2025 02:52:29.653] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (711 | 5 | 491)
+[16Jan2025 02:52:29.654] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (711 | 5 | 491)
+[16Jan2025 02:52:29.665] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (695 | 41 | 484)
+[16Jan2025 02:52:29.665] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (695 | 41 | 484)
+[16Jan2025 02:52:29.665] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (697 | 32 | 496)
+[16Jan2025 02:52:29.665] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (697 | 32 | 496)
+[16Jan2025 02:52:29.666] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (706 | 32 | 495)
+[16Jan2025 02:52:29.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (706 | 32 | 495)
+[16Jan2025 02:52:29.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (717 | 21 | 497)
+[16Jan2025 02:52:29.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (717 | 21 | 497)
+[16Jan2025 02:52:29.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (717 | 21 | 497)
+[16Jan2025 02:52:29.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (717 | 21 | 497)
+[16Jan2025 02:52:29.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 508)
+[16Jan2025 02:52:29.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 508)
+[16Jan2025 02:52:29.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 508)
+[16Jan2025 02:52:29.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 508)
+[16Jan2025 02:52:29.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (711 | 14 | 491)
+[16Jan2025 02:52:29.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (711 | 14 | 491)
+[16Jan2025 02:52:29.672] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (711 | 14 | 491)
+[16Jan2025 02:52:29.673] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (711 | 14 | 491)
+[16Jan2025 02:52:29.674] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (717 | 12 | 497)
+[16Jan2025 02:52:29.674] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (717 | 12 | 497)
+[16Jan2025 02:52:29.674] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 508)
+[16Jan2025 02:52:29.674] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 508)
+[16Jan2025 02:52:29.674] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (711 | 5 | 491)
+[16Jan2025 02:52:29.675] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (711 | 5 | 491)
+[16Jan2025 02:52:29.805] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 509)
+[16Jan2025 02:52:29.805] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 509)
+[16Jan2025 02:52:35.111] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:38.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:38.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:40.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:40.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:40.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:40.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:42.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:42.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:42.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:44.460] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[16Jan2025 02:52:44.464] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 30
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: net.mehvahdjukaar.amendments.forge.AmendmentsForge@c850756 onUseBlockHP(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onUseBlockHP(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		4: ASM: class com.simibubi.create.content.equipment.wrench.WrenchEventHandler useOwnWrenchLogicForCreateBlocks(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: NORMAL
+		6: ASM: class com.lootintegrations.event.EventHandler playerClickBlockEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.github.alexthe666.citadel.server.CitadelEvents@75ab6878 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: ASM: class it.hurts.sskirillss.relics.items.relics.hands.WoolMittenItem$Events onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		9: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@1d366d40 onUseItemOnBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: class vectorwing.farmersdelight.common.item.KnifeItem$KnifeEvents onCakeInteraction(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: class vectorwing.farmersdelight.common.block.CuttingBoardBlock$ToolCarvingEvent onSneakPlaceTool(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: ASM: class net.mcreator.unusualend.procedures.WarpedSquashOnBlockRightClickedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		13: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@532b51ab onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class net.mcreator.unusualend.procedures.StipPlanksProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: ASM: class net.mcreator.unusualend.procedures.ShearChorusProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		16: ASM: class net.mcreator.unusualend.procedures.ShearChorusFlowersProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		17: ASM: class net.mcreator.unusualend.procedures.ShearChorusCaneProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		18: ASM: class net.mcreator.unusualend.procedures.PlayerRightClickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		19: ASM: class com.yellowbrossproductions.illageandspillage.events.ForgeEventBusSubscriber misconductionAttack1(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: class net.mcreator.unusualend.procedures.OnRightClickOnVoidExplosiveProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: class net.mcreator.unusualend.procedures.CrystalCatalystRightclickedOnBlockProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: class net.mcreator.unusualend.procedures.BoneMealEndstoneProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: class net.mcreator.luminousnether.procedures.WSlightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@4f5ce927 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: class net.mcreator.luminousnether.procedures.SoulCauldronOnBlockRightClickedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: class net.mcreator.luminousnether.procedures.SClightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class net.mcreator.luminousnether.procedures.RitualTableClickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		28: ASM: class net.mcreator.luminousnether.procedures.RightClickStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		29: ASM: class net.mcreator.luminousnether.procedures.RightClickRitualProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		30: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@68bb3060 onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		31: ASM: class net.mcreator.luminousnether.procedures.OrangeSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		32: ASM: class net.mcreator.luminousnether.procedures.LightWhiteFireProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		33: ASM: class net.mcreator.luminousnether.procedures.BlueSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		34: ASM: class com.tiviacz.travelersbackpack.handlers.ForgeEventHandler playerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		35: ASM: class glitchcore.forge.handlers.InteractionEventHandler onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		36: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@9e821bf
+		37: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@58293f9c
+		38: ASM: class com.gametechbc.traveloptics.effects.Casting.CastingHandler onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		39: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@62d4b079
+		40: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@43dd0783
+		41: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@b70239e
+		42: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@1a3438b3
+		43: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@5d2414f4
+		44: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@76eee1cc
+		45: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@7c88505c
+		46: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@47c20ede
+		47: ASM: class io.redspace.ironsspellbooks.loot.LootDebugEvents alertLootTable(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		48: ASM: class io.redspace.ironsspellbooks.entity.mobs.wizards.WizardAIEvents onBlockUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		49: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.edgeInteraction.EdgeInteractionHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		50: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.ValueSettingsInputHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		51: ASM: class com.simibubi.create.foundation.block.ItemUseOverrides onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		52: ASM: class com.simibubi.create.content.redstone.link.LinkHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		53: ASM: class com.simibubi.create.content.redstone.displayLink.DisplayLinkBlockItem gathererItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		54: ASM: class com.simibubi.create.content.logistics.funnel.FunnelItem funnelItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		55: ASM: class com.simibubi.create.content.kinetics.deployer.ManualApplicationRecipe manualApplicationRecipesApplyInWorld(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		56: ASM: class com.simibubi.create.content.equipment.clipboard.ClipboardValueSettingsHandler rightClickToCopy(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		57: ASM: class com.simibubi.create.content.contraptions.glue.SuperGlueItem glueItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		58: ASM: de.maxhenkel.easyvillagers.events.BlockEvents@7459e82a onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		59: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@edaa89d onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		60: ASM: class tictim.paraglider.forge.event.ParagliderEventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		61: ASM: class daripher.skilltree.skill.bonus.SkillBonusHandler applyCantUseItemBonus(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		62: LOW
+		63: ASM: net.mehvahdjukaar.amendments.forge.AmendmentsForge@c850756 onUseBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		64: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onUseBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		65: ASM: class com.simibubi.create.content.kinetics.crank.ValveHandleBlock onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		66: LOWEST
+		67: ASM: class ovh.corail.tombstone.event.EventHandler onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[16Jan2025 02:52:44.470] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@528aa066, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801) ~[forge-1.20.1-47.3.7-universal.jar%23378!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Jan2025 02:52:44.561] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:52:47.899] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[16Jan2025 02:52:47.900] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 30
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: net.mehvahdjukaar.amendments.forge.AmendmentsForge@c850756 onUseBlockHP(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onUseBlockHP(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		4: ASM: class com.simibubi.create.content.equipment.wrench.WrenchEventHandler useOwnWrenchLogicForCreateBlocks(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: NORMAL
+		6: ASM: class com.lootintegrations.event.EventHandler playerClickBlockEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.github.alexthe666.citadel.server.CitadelEvents@75ab6878 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: ASM: class it.hurts.sskirillss.relics.items.relics.hands.WoolMittenItem$Events onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		9: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@1d366d40 onUseItemOnBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: class vectorwing.farmersdelight.common.item.KnifeItem$KnifeEvents onCakeInteraction(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: class vectorwing.farmersdelight.common.block.CuttingBoardBlock$ToolCarvingEvent onSneakPlaceTool(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: ASM: class net.mcreator.unusualend.procedures.WarpedSquashOnBlockRightClickedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		13: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@532b51ab onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class net.mcreator.unusualend.procedures.StipPlanksProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: ASM: class net.mcreator.unusualend.procedures.ShearChorusProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		16: ASM: class net.mcreator.unusualend.procedures.ShearChorusFlowersProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		17: ASM: class net.mcreator.unusualend.procedures.ShearChorusCaneProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		18: ASM: class net.mcreator.unusualend.procedures.PlayerRightClickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		19: ASM: class com.yellowbrossproductions.illageandspillage.events.ForgeEventBusSubscriber misconductionAttack1(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: class net.mcreator.unusualend.procedures.OnRightClickOnVoidExplosiveProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: class net.mcreator.unusualend.procedures.CrystalCatalystRightclickedOnBlockProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: class net.mcreator.unusualend.procedures.BoneMealEndstoneProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: class net.mcreator.luminousnether.procedures.WSlightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@4f5ce927 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: class net.mcreator.luminousnether.procedures.SoulCauldronOnBlockRightClickedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: class net.mcreator.luminousnether.procedures.SClightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class net.mcreator.luminousnether.procedures.RitualTableClickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		28: ASM: class net.mcreator.luminousnether.procedures.RightClickStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		29: ASM: class net.mcreator.luminousnether.procedures.RightClickRitualProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		30: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@68bb3060 onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		31: ASM: class net.mcreator.luminousnether.procedures.OrangeSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		32: ASM: class net.mcreator.luminousnether.procedures.LightWhiteFireProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		33: ASM: class net.mcreator.luminousnether.procedures.BlueSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		34: ASM: class com.tiviacz.travelersbackpack.handlers.ForgeEventHandler playerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		35: ASM: class glitchcore.forge.handlers.InteractionEventHandler onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		36: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@9e821bf
+		37: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@58293f9c
+		38: ASM: class com.gametechbc.traveloptics.effects.Casting.CastingHandler onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		39: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@62d4b079
+		40: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@43dd0783
+		41: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@b70239e
+		42: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@1a3438b3
+		43: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@5d2414f4
+		44: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@76eee1cc
+		45: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@7c88505c
+		46: net.minecraftforge.eventbus.EventBus$$Lambda$4294/0x00007a10ecb25578@47c20ede
+		47: ASM: class io.redspace.ironsspellbooks.loot.LootDebugEvents alertLootTable(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		48: ASM: class io.redspace.ironsspellbooks.entity.mobs.wizards.WizardAIEvents onBlockUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		49: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.edgeInteraction.EdgeInteractionHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		50: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.ValueSettingsInputHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		51: ASM: class com.simibubi.create.foundation.block.ItemUseOverrides onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		52: ASM: class com.simibubi.create.content.redstone.link.LinkHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		53: ASM: class com.simibubi.create.content.redstone.displayLink.DisplayLinkBlockItem gathererItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		54: ASM: class com.simibubi.create.content.logistics.funnel.FunnelItem funnelItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		55: ASM: class com.simibubi.create.content.kinetics.deployer.ManualApplicationRecipe manualApplicationRecipesApplyInWorld(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		56: ASM: class com.simibubi.create.content.equipment.clipboard.ClipboardValueSettingsHandler rightClickToCopy(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		57: ASM: class com.simibubi.create.content.contraptions.glue.SuperGlueItem glueItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		58: ASM: de.maxhenkel.easyvillagers.events.BlockEvents@7459e82a onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		59: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@edaa89d onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		60: ASM: class tictim.paraglider.forge.event.ParagliderEventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		61: ASM: class daripher.skilltree.skill.bonus.SkillBonusHandler applyCantUseItemBonus(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		62: LOW
+		63: ASM: net.mehvahdjukaar.amendments.forge.AmendmentsForge@c850756 onUseBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		64: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onUseBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		65: ASM: class com.simibubi.create.content.kinetics.crank.ValveHandleBlock onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		66: LOWEST
+		67: ASM: class ovh.corail.tombstone.event.EventHandler onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[16Jan2025 02:52:47.901] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@4c1a06cb, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic) ~[mowziesmobs-1.6.5.jar%23332!/:1.6.5]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801) ~[forge-1.20.1-47.3.7-universal.jar%23378!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Jan2025 02:53:01.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Mine? Mine? Mine?]
+[16Jan2025 02:53:42.079] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 504)
+[16Jan2025 02:53:42.079] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 504)
+[16Jan2025 02:53:42.079] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 518)
+[16Jan2025 02:53:42.079] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 518)
+[16Jan2025 02:53:42.079] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 514)
+[16Jan2025 02:53:42.080] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 514)
+[16Jan2025 02:53:42.080] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (636 | 41 | 513)
+[16Jan2025 02:53:42.080] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (636 | 41 | 513)
+[16Jan2025 02:53:42.080] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (634 | 41 | 522)
+[16Jan2025 02:53:42.082] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (634 | 41 | 522)
+[16Jan2025 02:53:42.239] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (672 | 41 | 504)
+[16Jan2025 02:53:42.240] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (672 | 41 | 504)
+[16Jan2025 02:53:42.240] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 516)
+[16Jan2025 02:53:42.240] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 516)
+[16Jan2025 02:53:42.240] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (676 | 41 | 516)
+[16Jan2025 02:53:42.240] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (676 | 41 | 516)
+[16Jan2025 02:53:42.240] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 513)
+[16Jan2025 02:53:42.240] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 513)
+[16Jan2025 02:53:42.240] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (670 | 41 | 522)
+[16Jan2025 02:53:42.241] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (670 | 41 | 522)
+[16Jan2025 02:53:42.241] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 504)
+[16Jan2025 02:53:42.241] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 504)
+[16Jan2025 02:53:42.241] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 513)
+[16Jan2025 02:53:42.241] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 513)
+[16Jan2025 02:53:42.241] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (670 | 32 | 522)
+[16Jan2025 02:53:42.242] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (670 | 32 | 522)
+[16Jan2025 02:53:42.242] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (679 | 32 | 524)
+[16Jan2025 02:53:42.242] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (679 | 32 | 524)
+[16Jan2025 02:53:42.242] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation NONE at (684 | 32 | 518)
+[16Jan2025 02:53:42.242] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation NONE at (684 | 32 | 518)
+[16Jan2025 02:53:42.253] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (652 | 41 | 504)
+[16Jan2025 02:53:42.253] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (652 | 41 | 504)
+[16Jan2025 02:53:42.253] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (653 | 41 | 513)
+[16Jan2025 02:53:42.253] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (653 | 41 | 513)
+[16Jan2025 02:53:42.253] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (652 | 41 | 522)
+[16Jan2025 02:53:42.255] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (652 | 41 | 522)
+[16Jan2025 02:53:42.255] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (661 | 41 | 523)
+[16Jan2025 02:53:42.255] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (661 | 41 | 523)
+[16Jan2025 02:53:42.255] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 516)
+[16Jan2025 02:53:42.255] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 516)
+[16Jan2025 02:53:42.255] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 513)
+[16Jan2025 02:53:42.255] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 41 | 513)
+[16Jan2025 02:53:42.255] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (670 | 41 | 522)
+[16Jan2025 02:53:42.255] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (670 | 41 | 522)
+[16Jan2025 02:53:42.255] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (661 | 32 | 504)
+[16Jan2025 02:53:42.256] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (661 | 32 | 504)
+[16Jan2025 02:53:42.256] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 504)
+[16Jan2025 02:53:42.256] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 504)
+[16Jan2025 02:53:42.256] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 513)
+[16Jan2025 02:53:42.256] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 513)
+[16Jan2025 02:53:42.257] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (670 | 32 | 522)
+[16Jan2025 02:53:42.257] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (670 | 32 | 522)
+[16Jan2025 02:53:42.273] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 504)
+[16Jan2025 02:53:42.273] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (635 | 41 | 504)
+[16Jan2025 02:53:42.273] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (640 | 41 | 518)
+[16Jan2025 02:53:42.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (640 | 41 | 518)
+[16Jan2025 02:53:42.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (640 | 41 | 514)
+[16Jan2025 02:53:42.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (640 | 41 | 514)
+[16Jan2025 02:53:42.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (636 | 41 | 513)
+[16Jan2025 02:53:42.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (636 | 41 | 513)
+[16Jan2025 02:53:42.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (634 | 41 | 522)
+[16Jan2025 02:53:42.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (634 | 41 | 522)
+[16Jan2025 02:53:42.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (648 | 41 | 523)
+[16Jan2025 02:53:42.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (648 | 41 | 523)
+[16Jan2025 02:53:42.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (644 | 41 | 523)
+[16Jan2025 02:53:42.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (644 | 41 | 523)
+[16Jan2025 02:53:42.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (643 | 41 | 524)
+[16Jan2025 02:53:42.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (643 | 41 | 524)
+[16Jan2025 02:53:42.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (652 | 41 | 504)
+[16Jan2025 02:53:42.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (652 | 41 | 504)
+[16Jan2025 02:53:42.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (653 | 41 | 513)
+[16Jan2025 02:53:42.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (653 | 41 | 513)
+[16Jan2025 02:53:42.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (652 | 41 | 522)
+[16Jan2025 02:53:42.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (652 | 41 | 522)
+[16Jan2025 02:53:42.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (640 | 5 | 519)
+[16Jan2025 02:53:42.282] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (640 | 5 | 519)
+[16Jan2025 02:53:42.361] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation NONE at (684 | 32 | 518)
+[16Jan2025 02:53:42.362] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation NONE at (684 | 32 | 518)
+[16Jan2025 02:53:42.406] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 508)
+[16Jan2025 02:53:42.407] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 508)
+[16Jan2025 02:53:42.407] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 508)
+[16Jan2025 02:53:42.407] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 508)
+[16Jan2025 02:53:42.407] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (717 | 14 | 518)
+[16Jan2025 02:53:42.407] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (717 | 14 | 518)
+[16Jan2025 02:53:42.407] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (717 | 14 | 518)
+[16Jan2025 02:53:42.407] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (717 | 14 | 518)
+[16Jan2025 02:53:42.407] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (716 | 14 | 513)
+[16Jan2025 02:53:42.407] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (716 | 14 | 513)
+[16Jan2025 02:53:42.407] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (716 | 14 | 513)
+[16Jan2025 02:53:42.408] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (716 | 14 | 513)
+[16Jan2025 02:53:42.408] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (712 | 14 | 519)
+[16Jan2025 02:53:42.408] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (712 | 14 | 519)
+[16Jan2025 02:53:42.408] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (712 | 14 | 519)
+[16Jan2025 02:53:42.409] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (712 | 14 | 519)
+[16Jan2025 02:53:42.409] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 508)
+[16Jan2025 02:53:42.409] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 508)
+[16Jan2025 02:53:42.410] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (717 | 5 | 518)
+[16Jan2025 02:53:42.410] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (717 | 5 | 518)
+[16Jan2025 02:53:42.410] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (716 | 5 | 513)
+[16Jan2025 02:53:42.410] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (716 | 5 | 513)
+[16Jan2025 02:53:42.410] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (712 | 5 | 519)
+[16Jan2025 02:53:42.420] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (712 | 5 | 519)
+[16Jan2025 02:53:42.527] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (726 | 28 | 515)
+[16Jan2025 02:53:42.527] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (726 | 28 | 515)
+[16Jan2025 02:53:42.527] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (720 | 23 | 520)
+[16Jan2025 02:53:42.527] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (720 | 23 | 520)
+[16Jan2025 02:53:42.528] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (732 | 23 | 520)
+[16Jan2025 02:53:42.528] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (732 | 23 | 520)
+[16Jan2025 02:53:42.528] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (721 | 23 | 514)
+[16Jan2025 02:53:42.528] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (721 | 23 | 514)
+[16Jan2025 02:53:42.530] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (725 | 23 | 510)
+[16Jan2025 02:53:42.530] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (725 | 23 | 510)
+[16Jan2025 02:53:42.530] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (732 | 23 | 514)
+[16Jan2025 02:53:42.530] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (732 | 23 | 514)
+[16Jan2025 02:53:42.532] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (726 | 23 | 526)
+[16Jan2025 02:53:42.532] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (726 | 23 | 526)
+[16Jan2025 02:53:42.532] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 509)
+[16Jan2025 02:53:42.532] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 509)
+[16Jan2025 02:53:42.532] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 508)
+[16Jan2025 02:53:42.532] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 508)
+[16Jan2025 02:53:42.532] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 508)
+[16Jan2025 02:53:42.533] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 508)
+[16Jan2025 02:53:42.533] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (717 | 14 | 518)
+[16Jan2025 02:53:42.533] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (717 | 14 | 518)
+[16Jan2025 02:53:42.533] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (717 | 14 | 518)
+[16Jan2025 02:53:42.533] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (717 | 14 | 518)
+[16Jan2025 02:53:42.533] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (716 | 14 | 513)
+[16Jan2025 02:53:42.533] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (716 | 14 | 513)
+[16Jan2025 02:53:42.533] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (716 | 14 | 513)
+[16Jan2025 02:53:42.533] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (716 | 14 | 513)
+[16Jan2025 02:53:42.533] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (712 | 14 | 519)
+[16Jan2025 02:53:42.534] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (712 | 14 | 519)
+[16Jan2025 02:53:42.534] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (712 | 14 | 519)
+[16Jan2025 02:53:42.534] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (712 | 14 | 519)
+[16Jan2025 02:53:42.534] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 508)
+[16Jan2025 02:53:42.535] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 508)
+[16Jan2025 02:53:42.535] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (717 | 5 | 518)
+[16Jan2025 02:53:42.535] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (717 | 5 | 518)
+[16Jan2025 02:53:42.535] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (716 | 5 | 513)
+[16Jan2025 02:53:42.535] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (716 | 5 | 513)
+[16Jan2025 02:53:42.535] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (712 | 5 | 519)
+[16Jan2025 02:53:42.535] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (712 | 5 | 519)
+[16Jan2025 02:53:42.563] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:53:42.604] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (732 | 23 | 520)
+[16Jan2025 02:53:42.606] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (732 | 23 | 520)
+[16Jan2025 02:53:42.606] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 509)
+[16Jan2025 02:53:42.606] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 509)
+[16Jan2025 02:53:43.240] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jan2025 02:53:43.240] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jan2025 02:53:44.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:53:52.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65206, l='ServerLevel[world]', x=493.50, y=70.02, z=465.85] died, message: 'Villager suffocated in a wall'
+[16Jan2025 02:53:54.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:54:03.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:54:10.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Pray to the Goddess]
+[16Jan2025 02:54:17.700] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jan2025 02:54:17.700] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jan2025 02:54:21.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:54:23.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:54:41.810] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:54:43.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 02:54:43.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 02:54:47.574] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (612 | 41 | 536)
+[16Jan2025 02:54:47.575] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (612 | 41 | 536)
+[16Jan2025 02:54:47.730] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (629 | 41 | 542)
+[16Jan2025 02:54:47.730] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (629 | 41 | 542)
+[16Jan2025 02:54:47.730] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (612 | 41 | 536)
+[16Jan2025 02:54:47.730] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (612 | 41 | 536)
+[16Jan2025 02:54:47.730] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (634 | 41 | 522)
+[16Jan2025 02:54:47.730] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (634 | 41 | 522)
+[16Jan2025 02:54:47.731] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker with rotation NONE at (634 | 41 | 540)
+[16Jan2025 02:54:47.731] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker with rotation NONE at (634 | 41 | 540)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 50 | 542)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 50 | 542)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 51 | 542)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 51 | 542)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 52 | 542)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 52 | 542)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 53 | 542)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 53 | 542)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 54 | 542)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 54 | 542)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 55 | 542)
+[16Jan2025 02:54:47.745] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 55 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 56 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 56 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 57 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 57 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 58 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 58 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 59 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 59 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 60 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 60 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 61 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 61 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 62 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 62 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 63 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 63 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 64 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 64 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 65 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 65 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 66 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 66 | 542)
+[16Jan2025 02:54:47.746] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 67 | 542)
+[16Jan2025 02:54:47.747] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 67 | 542)
+[16Jan2025 02:54:47.747] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 68 | 542)
+[16Jan2025 02:54:47.747] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 68 | 542)
+[16Jan2025 02:54:47.747] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 69 | 542)
+[16Jan2025 02:54:47.747] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 69 | 542)
+[16Jan2025 02:54:47.747] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 70 | 542)
+[16Jan2025 02:54:47.747] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 70 | 542)
+[16Jan2025 02:54:47.747] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (650 | 71 | 538)
+[16Jan2025 02:54:47.749] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (650 | 71 | 538)
+[16Jan2025 02:54:47.749] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (634 | 41 | 522)
+[16Jan2025 02:54:47.749] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (634 | 41 | 522)
+[16Jan2025 02:54:47.749] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker with rotation NONE at (634 | 41 | 540)
+[16Jan2025 02:54:47.749] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker with rotation NONE at (634 | 41 | 540)
+[16Jan2025 02:54:47.750] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (648 | 41 | 528)
+[16Jan2025 02:54:47.750] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (648 | 41 | 528)
+[16Jan2025 02:54:47.750] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (644 | 41 | 528)
+[16Jan2025 02:54:47.750] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (644 | 41 | 528)
+[16Jan2025 02:54:47.750] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (643 | 41 | 524)
+[16Jan2025 02:54:47.750] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (643 | 41 | 524)
+[16Jan2025 02:54:47.750] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/starter_room with rotation CLOCKWISE_180 at (643 | 41 | 531)
+[16Jan2025 02:54:47.751] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/starter_room with rotation CLOCKWISE_180 at (643 | 41 | 531)
+[16Jan2025 02:54:47.751] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (643 | 41 | 541)
+[16Jan2025 02:54:47.751] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (643 | 41 | 541)
+[16Jan2025 02:54:47.751] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (652 | 41 | 522)
+[16Jan2025 02:54:47.751] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (652 | 41 | 522)
+[16Jan2025 02:54:47.752] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker with rotation CLOCKWISE_90 at (652 | 41 | 531)
+[16Jan2025 02:54:47.752] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker with rotation CLOCKWISE_90 at (652 | 41 | 531)
+[16Jan2025 02:54:47.752] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (652 | 41 | 540)
+[16Jan2025 02:54:47.752] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (652 | 41 | 540)
+[16Jan2025 02:54:47.752] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (645 | 5 | 534)
+[16Jan2025 02:54:47.752] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (645 | 5 | 534)
+[16Jan2025 02:54:47.752] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (644 | 5 | 535)
+[16Jan2025 02:54:47.752] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (644 | 5 | 535)
+[16Jan2025 02:54:47.752] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (640 | 5 | 519)
+[16Jan2025 02:54:47.753] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (640 | 5 | 519)
+[16Jan2025 02:54:47.753] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (644 | 5 | 540)
+[16Jan2025 02:54:47.753] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (644 | 5 | 540)
+[16Jan2025 02:54:47.763] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 50 | 542)
+[16Jan2025 02:54:47.763] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 50 | 542)
+[16Jan2025 02:54:47.763] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 51 | 542)
+[16Jan2025 02:54:47.763] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 51 | 542)
+[16Jan2025 02:54:47.763] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 52 | 542)
+[16Jan2025 02:54:47.763] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 52 | 542)
+[16Jan2025 02:54:47.763] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 53 | 542)
+[16Jan2025 02:54:47.763] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 53 | 542)
+[16Jan2025 02:54:47.763] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 54 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 54 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 55 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 55 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 56 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 56 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 57 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 57 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 58 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 58 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 59 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 59 | 542)
+[16Jan2025 02:54:47.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 60 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 60 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 61 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 61 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 62 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 62 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 63 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 63 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 64 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 64 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 65 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 65 | 542)
+[16Jan2025 02:54:47.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 66 | 542)
+[16Jan2025 02:54:47.767] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 66 | 542)
+[16Jan2025 02:54:47.767] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 67 | 542)
+[16Jan2025 02:54:47.767] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (654 | 67 | 542)
+[16Jan2025 02:54:47.767] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 68 | 542)
+[16Jan2025 02:54:47.767] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (654 | 68 | 542)
+[16Jan2025 02:54:47.767] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 69 | 542)
+[16Jan2025 02:54:47.767] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (654 | 69 | 542)
+[16Jan2025 02:54:47.767] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 70 | 542)
+[16Jan2025 02:54:47.767] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (654 | 70 | 542)
+[16Jan2025 02:54:47.767] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (650 | 71 | 538)
+[16Jan2025 02:54:47.768] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (650 | 71 | 538)
+[16Jan2025 02:54:47.768] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (652 | 41 | 522)
+[16Jan2025 02:54:47.768] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (652 | 41 | 522)
+[16Jan2025 02:54:47.768] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker with rotation CLOCKWISE_90 at (652 | 41 | 531)
+[16Jan2025 02:54:47.769] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker with rotation CLOCKWISE_90 at (652 | 41 | 531)
+[16Jan2025 02:54:47.769] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (652 | 41 | 540)
+[16Jan2025 02:54:47.769] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (652 | 41 | 540)
+[16Jan2025 02:54:47.770] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (661 | 41 | 523)
+[16Jan2025 02:54:47.770] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (661 | 41 | 523)
+[16Jan2025 02:54:47.770] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (670 | 41 | 522)
+[16Jan2025 02:54:47.770] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (670 | 41 | 522)
+[16Jan2025 02:54:47.770] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (670 | 32 | 522)
+[16Jan2025 02:54:47.770] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (670 | 32 | 522)
+[16Jan2025 02:54:47.770] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 532)
+[16Jan2025 02:54:47.771] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 532)
+[16Jan2025 02:54:47.771] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 536)
+[16Jan2025 02:54:47.771] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 536)
+[16Jan2025 02:54:47.771] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (671 | 32 | 540)
+[16Jan2025 02:54:47.771] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (671 | 32 | 540)
+[16Jan2025 02:54:48.078] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (689 | 32 | 535)
+[16Jan2025 02:54:48.078] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (689 | 32 | 535)
+[16Jan2025 02:54:48.079] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation NONE at (684 | 32 | 518)
+[16Jan2025 02:54:48.079] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation NONE at (684 | 32 | 518)
+[16Jan2025 02:54:48.079] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (694 | 32 | 541)
+[16Jan2025 02:54:48.081] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (694 | 32 | 541)
+[16Jan2025 02:54:48.082] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (689 | 32 | 541)
+[16Jan2025 02:54:48.084] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (689 | 32 | 541)
+[16Jan2025 02:54:48.084] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (690 | 32 | 540)
+[16Jan2025 02:54:48.084] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (690 | 32 | 540)
+[16Jan2025 02:54:48.097] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (670 | 41 | 522)
+[16Jan2025 02:54:48.097] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (670 | 41 | 522)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (670 | 32 | 522)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (670 | 32 | 522)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (676 | 32 | 532)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (676 | 32 | 532)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (676 | 32 | 536)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (676 | 32 | 536)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 532)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 532)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 536)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (671 | 32 | 536)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (672 | 32 | 531)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (672 | 32 | 531)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (671 | 32 | 540)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (671 | 32 | 540)
+[16Jan2025 02:54:48.098] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (679 | 32 | 524)
+[16Jan2025 02:54:48.099] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (679 | 32 | 524)
+[16Jan2025 02:54:48.099] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation NONE at (684 | 32 | 518)
+[16Jan2025 02:54:48.099] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation NONE at (684 | 32 | 518)
+[16Jan2025 02:54:48.113] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (717 | 14 | 534)
+[16Jan2025 02:54:48.113] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (717 | 14 | 534)
+[16Jan2025 02:54:48.114] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (717 | 14 | 534)
+[16Jan2025 02:54:48.114] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (717 | 14 | 534)
+[16Jan2025 02:54:48.114] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 535)
+[16Jan2025 02:54:48.114] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 535)
+[16Jan2025 02:54:48.114] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 535)
+[16Jan2025 02:54:48.114] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 535)
+[16Jan2025 02:54:48.114] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (712 | 14 | 519)
+[16Jan2025 02:54:48.115] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (712 | 14 | 519)
+[16Jan2025 02:54:48.115] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (712 | 14 | 519)
+[16Jan2025 02:54:48.116] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (712 | 14 | 519)
+[16Jan2025 02:54:48.116] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (716 | 14 | 540)
+[16Jan2025 02:54:48.116] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (716 | 14 | 540)
+[16Jan2025 02:54:48.116] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (716 | 14 | 540)
+[16Jan2025 02:54:48.116] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (716 | 14 | 540)
+[16Jan2025 02:54:48.116] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (717 | 5 | 534)
+[16Jan2025 02:54:48.116] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (717 | 5 | 534)
+[16Jan2025 02:54:48.117] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 535)
+[16Jan2025 02:54:48.117] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 535)
+[16Jan2025 02:54:48.117] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (712 | 5 | 519)
+[16Jan2025 02:54:48.118] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (712 | 5 | 519)
+[16Jan2025 02:54:48.118] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (716 | 5 | 540)
+[16Jan2025 02:54:48.118] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (716 | 5 | 540)
+[16Jan2025 02:54:48.231] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (726 | 23 | 526)
+[16Jan2025 02:54:48.232] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (726 | 23 | 526)
+[16Jan2025 02:54:48.232] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (726 | 30 | 542)
+[16Jan2025 02:54:48.232] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (726 | 30 | 542)
+[16Jan2025 02:54:48.232] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (725 | 23 | 531)
+[16Jan2025 02:54:48.233] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (725 | 23 | 531)
+[16Jan2025 02:54:48.233] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 536)
+[16Jan2025 02:54:48.234] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 536)
+[16Jan2025 02:54:48.234] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (717 | 14 | 534)
+[16Jan2025 02:54:48.234] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (717 | 14 | 534)
+[16Jan2025 02:54:48.234] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (717 | 14 | 534)
+[16Jan2025 02:54:48.234] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (717 | 14 | 534)
+[16Jan2025 02:54:48.234] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 535)
+[16Jan2025 02:54:48.235] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (716 | 14 | 535)
+[16Jan2025 02:54:48.235] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 535)
+[16Jan2025 02:54:48.235] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (716 | 14 | 535)
+[16Jan2025 02:54:48.235] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (712 | 14 | 519)
+[16Jan2025 02:54:48.235] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (712 | 14 | 519)
+[16Jan2025 02:54:48.236] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (712 | 14 | 519)
+[16Jan2025 02:54:48.236] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (712 | 14 | 519)
+[16Jan2025 02:54:48.236] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (716 | 14 | 540)
+[16Jan2025 02:54:48.236] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (716 | 14 | 540)
+[16Jan2025 02:54:48.236] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (716 | 14 | 540)
+[16Jan2025 02:54:48.237] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (716 | 14 | 540)
+[16Jan2025 02:54:48.237] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (717 | 5 | 534)
+[16Jan2025 02:54:48.237] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (717 | 5 | 534)
+[16Jan2025 02:54:48.237] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 535)
+[16Jan2025 02:54:48.237] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (716 | 5 | 535)
+[16Jan2025 02:54:48.237] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (712 | 5 | 519)
+[16Jan2025 02:54:48.238] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (712 | 5 | 519)
+[16Jan2025 02:54:48.238] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (716 | 5 | 540)
+[16Jan2025 02:54:48.238] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (716 | 5 | 540)
+[16Jan2025 02:54:48.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 536)
+[16Jan2025 02:54:48.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (720 | 23 | 536)
+[16Jan2025 02:55:12.112] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:55:14.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:titanexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:55:14.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:55:14.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:55:56.910] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:56:10.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:56:10.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:56:23.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[16Jan2025 02:56:25.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was laid to rest by Priest
+[16Jan2025 02:56:25.898] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.standard_16.01.2025-02.56.25.dat
+[16Jan2025 02:56:25.899] [Server thread/DEBUG] [tombstone/]: A new grave of the player GabrielCacao was created at position [x:543, y:63, z:280, dim:minecraft:overworld]
+[16Jan2025 02:56:25.903] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[16Jan2025 02:56:29.063] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:56:29.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[16Jan2025 02:56:36.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:56:44.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Tools of the Trade]
+[16Jan2025 02:56:51.461] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:24.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:24.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:24.712] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:24.712] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:25.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:25.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/64153, l='ServerLevel[world]', x=554.50, y=63.00, z=262.70] died, message: 'Oceanographer experienced kinetic energy'
+[16Jan2025 02:57:36.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:36.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:41.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/63982, l='ServerLevel[world]', x=562.77, y=65.00, z=264.35] died, message: 'Shepherd bled to death'
+[16Jan2025 02:57:46.410] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:51.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:51.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:56.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:57:56.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:58:32.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/64156, l='ServerLevel[world]', x=556.36, y=63.00, z=270.70] died, message: 'Engineer was slain by quipit0s'
+[16Jan2025 02:58:32.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Neighborhood Brawl]
+[16Jan2025 02:58:32.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Bad Deal]
+[16Jan2025 02:58:36.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:58:36.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:59:43.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 02:59:43.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 02:59:46.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:59:46.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:59:47.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 02:59:58.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 03:00:03.510] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already

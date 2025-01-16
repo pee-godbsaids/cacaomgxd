@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-01-16 02:58:32 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-01-16 00:13:58 +0000"
@@ -50,6 +56,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-01-16 02:47:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 02:58:32 +0000"
     },
     "done": true
   },
@@ -183,6 +195,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-01-16 02:52:08 +0000"
+    },
+    "done": true
+  },
   "integrated_villages:tavern_village": {
     "criteria": {
       "in_tavern_village": "2025-01-16 01:00:17 +0000"
@@ -313,6 +331,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-16 02:53:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-01-16 00:18:16 +0000"
@@ -322,6 +346,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-01-16 00:38:10 +0000",
+      "minecraft:snowy_taiga": "2025-01-16 02:52:40 +0000",
       "minecraft:frozen_ocean": "2025-01-16 00:22:59 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-16 02:34:21 +0000",
       "minecraft:snowy_beach": "2025-01-16 00:18:35 +0000"
