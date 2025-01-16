@@ -11,9 +11,33 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-16 00:21:14 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-01-16 00:10:59 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-01-16 00:19:03 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-01-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "bonfires:bonfires/root": {
+    "criteria": {
+      "died": "2025-01-16 00:15:07 +0000"
     },
     "done": true
   },
@@ -23,15 +47,51 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:19:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-16 00:15:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-16 00:14:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-01-16 00:10:54 +0000"
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "grindstone": "2025-01-16 00:20:57 +0000"
+    },
+    "done": false
+  },
   "create:root": {
     "criteria": {
       "0": "2025-01-16 00:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-16 00:14:37 +0000"
     },
     "done": true
   },
@@ -47,13 +107,45 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-16 00:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-16 00:20:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "maple_woods": "2025-01-16 00:23:30 +0000",
       "field": "2025-01-16 00:11:15 +0000",
       "auroral_garden": "2025-01-16 00:11:01 +0000",
       "snowy_maple_woods": "2025-01-16 00:11:59 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-16 00:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-01-16 00:19:58 +0000",
+      "minecraft:zombie": "2025-01-16 00:22:58 +0000"
+    },
+    "done": false
+  },
+  "bonfires:bonfires/ash_pile": {
+    "criteria": {
+      "killed_something_with_fire": "2025-01-16 00:18:12 +0000"
+    },
+    "done": true
   },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
@@ -73,15 +165,64 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-01-16 00:19:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-01-16 00:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_ocean": "2025-01-16 00:22:59 +0000",
+      "minecraft:snowy_beach": "2025-01-16 00:18:35 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:15:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:16:29 +0000"
+    },
+    "done": true
+  },
   "progressivebosses:recipes/misc/corrupted_soul_sand": {
     "criteria": {
       "has_the_recipe_2": "2025-01-16 00:10:54 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-16 00:21:05 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-16 00:10:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 00:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-16 00:20:02 +0000"
     },
     "done": true
   },
@@ -103,9 +244,27 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-01-16 00:18:12 +0000"
+    },
+    "done": true
+  },
   "integrated_villages:integrated_villages_root": {
     "criteria": {
       "always": "2025-01-16 00:10:59 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "grindstone": "2025-01-16 00:20:57 +0000"
     },
     "done": true
   },

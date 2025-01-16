@@ -2303,3 +2303,159 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [16Jan2025 00:15:31.230] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [16Jan2025 00:15:32.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
 [16Jan2025 00:15:33.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Here They Come]
+[16Jan2025 00:15:44.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was slain by Frostmaw
+[16Jan2025 00:15:44.895] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[16Jan2025 00:15:54.461] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:16:02.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:16:02.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:16:09.163] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:16:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Knowledge of Death]
+[16Jan2025 00:16:45.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Chain Death]
+[16Jan2025 00:16:45.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was slain by Frostmaw
+[16Jan2025 00:16:45.886] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[16Jan2025 00:16:45.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16774ms or 335 ticks behind
+[16Jan2025 00:16:48.482] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[16Jan2025 00:16:51.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:16:51.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:12.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was slain by Frostmaw
+[16Jan2025 00:17:37.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Your First Grave]
+[16Jan2025 00:17:37.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [This is Bonfires]
+[16Jan2025 00:17:37.448] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[16Jan2025 00:17:37.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24954ms or 499 ticks behind
+[16Jan2025 00:17:37.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:38.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:43.364] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:44.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was slain by Frostmaw
+[16Jan2025 00:17:44.635] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[16Jan2025 00:17:45.963] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:48.163] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:50.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:50.063] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:50.261] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:50.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:52.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:58.312] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:58.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:17:58.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:18:08.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:18:08.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Here They Come]
+[16Jan2025 00:18:12.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Acquire Ash]
+[16Jan2025 00:18:12.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [Rude Awakening]
+[16Jan2025 00:18:15.306] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[16Jan2025 00:18:15.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> ez
+[16Jan2025 00:18:21.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/client/render/entity/player/GeckoPlayer$Perspective
+[16Jan2025 00:18:21.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/PlayerAbility$HandDisplay
+[16Jan2025 00:18:29.661] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:18:29.661] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:18:33.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:18:33.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:18:33.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:18:33.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:18:45.461] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:18:47.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Acquire Hardware]
+[16Jan2025 00:18:54.325] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[16Jan2025 00:19:01.610] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:03.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Is this... blood?]
+[16Jan2025 00:19:03.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was shot by Pillager
+[16Jan2025 00:19:03.541] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[16Jan2025 00:19:03.660] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Jan2025 00:19:03.660] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 8 is dual wielding: false
+[16Jan2025 00:19:03.660] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Jan2025 00:19:03.661] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Jan2025 00:19:03.661] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[16Jan2025 00:19:05.510] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:07.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Is this... blood?]
+[16Jan2025 00:19:07.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was slain by Hoglin
+[16Jan2025 00:19:07.050] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[16Jan2025 00:19:08.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:09.413] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:09.413] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:09.713] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:09.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:09.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:11.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:11.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:13.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:16.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:16.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:21.713] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:33.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:titanexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:33.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:titanexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:46.661] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:19:58.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Ambush]
+[16Jan2025 00:19:58.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Monster Hunter]
+[16Jan2025 00:20:01.161] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[16Jan2025 00:20:02.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:20:02.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:20:02.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Diamonds!]
+[16Jan2025 00:20:06.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Acquire Hardware]
+[16Jan2025 00:20:13.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Cover Me with Diamonds]
+[16Jan2025 00:20:23.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was shot by Skeleton
+[16Jan2025 00:20:23.585] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[16Jan2025 00:20:25.013] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:20:25.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:20:25.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:20:30.411] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:20:30.411] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:20:54.660] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:20:54.661] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:20:57.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Let's Get To Work]
+[16Jan2025 00:21:05.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Magic Writing]
+[16Jan2025 00:21:13.058] [Worker-Main-3/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/house/fisherman_lecturn which is being called from integrated_villages:cabin_village/house/cabin_village_fisherman_bottom
+[16Jan2025 00:21:14.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Suit Up]
+[16Jan2025 00:21:19.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Monster Hunter]
+[16Jan2025 00:21:19.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Acquire Ash]
+[16Jan2025 00:21:24.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Knowledge of Death]
+[16Jan2025 00:21:24.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Chain Death]
+[16Jan2025 00:21:24.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao bled to death
+[16Jan2025 00:21:24.396] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[16Jan2025 00:21:26.863] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:21:40.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Knowledge raises the soul]
+[16Jan2025 00:21:41.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made quipit0s a server operator
+[16Jan2025 00:21:47.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[16Jan2025 00:22:18.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Diamonds!]
+[16Jan2025 00:22:59.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:22:59.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:22:59.712] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:22:59.712] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:23:07.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Suit Up]
+[16Jan2025 00:23:10.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was shot by Pillager
+[16Jan2025 00:23:10.590] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[16Jan2025 00:23:12.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:23:12.814] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:23:19.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was slain by Zombie
+[16Jan2025 00:23:19.263] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[16Jan2025 00:24:19.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Cover Me with Diamonds]
+[16Jan2025 00:24:28.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was slain by Zombie
+[16Jan2025 00:24:28.887] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[16Jan2025 00:24:31.214] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:24:36.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [A Strange Grave Dust]
+[16Jan2025 00:24:37.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[16Jan2025 00:24:39.311] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:24:42.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:titanexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:25:15.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Magic Writing]
+[16Jan2025 00:25:40.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:26:01.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Bloodthirsty]
+[16Jan2025 00:26:15.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was shot by Pillager
+[16Jan2025 00:26:15.086] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[16Jan2025 00:26:17.661] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:26:19.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:26:19.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:26:35.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Bloodthirsty]
+[16Jan2025 00:26:38.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Ambush]
+[16Jan2025 00:27:24.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Isn't It Iron Pick]
+[16Jan2025 00:27:33.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:27:50.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was slain by Zombie
+[16Jan2025 00:27:50.584] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[16Jan2025 00:27:52.660] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:27:52.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:27:52.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:27:52.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:27:52.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:27:53.011] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:28:00.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was burnt to a crisp whilst fighting Zombie
+[16Jan2025 00:28:00.494] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[16Jan2025 00:28:01.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:28:02.260] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:28:02.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[16Jan2025 00:28:03.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
