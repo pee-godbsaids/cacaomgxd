@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-01-16 02:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-16 01:01:24 +0000"
@@ -275,6 +281,12 @@
   "bonfires:bonfires/ash_pile": {
     "criteria": {
       "killed_something_with_fire": "2025-01-16 00:21:19 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-01-16 02:03:47 +0000"
     },
     "done": true
   },
@@ -416,6 +428,12 @@
   "idas:winter_wagon": {
     "criteria": {
       "in_winter_wagon": "2025-01-16 01:16:14 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-01-16 02:03:47 +0000"
     },
     "done": true
   },

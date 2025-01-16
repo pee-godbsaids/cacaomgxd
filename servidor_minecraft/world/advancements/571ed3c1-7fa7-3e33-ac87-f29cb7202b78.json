@@ -117,6 +117,7 @@
     "criteria": {
       "grindstone": "2025-01-16 00:20:57 +0000",
       "smoker": "2025-01-16 01:07:10 +0000",
+      "smithingtable": "2025-01-16 02:03:21 +0000",
       "blastfurnace": "2025-01-16 00:35:43 +0000",
       "lectern": "2025-01-16 01:15:32 +0000"
     },
@@ -170,9 +171,21 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/soap": {
+    "criteria": {
+      "stew": "2025-01-16 01:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-16 01:48:04 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-01-16 01:56:21 +0000"
     },
     "done": true
   },
@@ -318,6 +331,7 @@
     "criteria": {
       "cooked_cod": "2025-01-16 00:54:16 +0000",
       "bread": "2025-01-16 01:29:50 +0000",
+      "golden_apple": "2025-01-16 02:01:28 +0000",
       "rabbit_stew": "2025-01-16 00:37:31 +0000",
       "cooked_salmon": "2025-01-16 01:04:15 +0000",
       "carrot": "2025-01-16 00:43:46 +0000"
