@@ -220,6 +220,7 @@
       "huntingpost": "2025-01-16 02:19:50 +0000",
       "blueprinttable": "2025-01-16 02:14:57 +0000",
       "smoker": "2025-01-16 02:24:03 +0000",
+      "smithingtable": "2025-01-16 02:27:54 +0000",
       "loom": "2025-01-16 02:15:50 +0000"
     },
     "done": false
@@ -263,6 +264,12 @@
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-01-16 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-16 02:34:21 +0000"
     },
     "done": true
   },
@@ -311,6 +318,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 02:37:34 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-01-16 01:00:27 +0000"
@@ -339,6 +352,7 @@
     "criteria": {
       "minecraft:frozen_river": "2025-01-16 00:49:57 +0000",
       "minecraft:frozen_ocean": "2025-01-16 00:19:03 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-16 02:34:01 +0000",
       "minecraft:snowy_beach": "2025-01-16 00:18:37 +0000"
     },
     "done": false
@@ -377,6 +391,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-01-16 00:25:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 02:37:27 +0000"
     },
     "done": true
   },

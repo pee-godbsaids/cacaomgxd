@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-16 02:31:13 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-01-16 00:13:58 +0000"
@@ -311,6 +317,7 @@
     "criteria": {
       "minecraft:frozen_river": "2025-01-16 00:38:10 +0000",
       "minecraft:frozen_ocean": "2025-01-16 00:22:59 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-16 02:34:21 +0000",
       "minecraft:snowy_beach": "2025-01-16 00:18:35 +0000"
     },
     "done": false
